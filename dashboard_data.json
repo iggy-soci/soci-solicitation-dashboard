@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30 20:30 UTC",
+  "generated_at": "2026-06-30 21:11 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -102,801 +102,803 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 0,
+      "responses_12mo": 87,
       "interested": 87
     }
   },
   "contacts": [
     {
       "visitor": "1031892",
-      "account": "4973",
+      "account": "Bruster's Real Ice Cream",
       "date": "2026-06-25",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 5,
       "sla": "green",
       "area": "Reporting Suite"
     },
     {
       "visitor": "1176040",
-      "account": "25452",
+      "account": "Subway - North America",
       "date": "2026-06-23",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 7,
       "sla": "green",
       "area": "Reporting Suite"
     },
     {
       "visitor": "293538",
-      "account": "4338",
+      "account": "Pet Supplies Plus",
       "date": "2026-06-21",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 9,
       "sla": "amber",
       "area": "Reporting Suite"
     },
     {
       "visitor": "777759",
-      "account": "6306",
+      "account": "E.C. Barton",
       "date": "2026-06-16",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 14,
       "sla": "amber",
       "area": "Reporting Suite"
     },
     {
       "visitor": "1226457",
-      "account": "6651",
+      "account": "Holiday Inn Express",
       "date": "2026-06-13",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 17,
       "sla": "amber",
       "area": "Reporting Suite"
     },
     {
       "visitor": "1228726",
-      "account": "3757",
+      "account": "Cruise Planners | CP Elite",
       "date": "2026-06-09",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 21,
       "sla": "amber",
       "area": "Reporting Suite"
     },
     {
       "visitor": "977730",
-      "account": "5749",
+      "account": "Travel Leaders Group",
       "date": "2026-06-05",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 25,
       "sla": "amber",
       "area": "Reporting Suite"
     },
     {
       "visitor": "1034185",
-      "account": "3723",
+      "account": "Avenue5 Residential",
       "date": "2026-06-04",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 26,
       "sla": "amber",
       "area": "Reporting Suite"
     },
     {
       "visitor": "1211028",
-      "account": "1453",
+      "account": "Neighborly",
       "date": "2026-06-03",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 27,
       "sla": "amber",
       "area": "Reporting Suite"
     },
     {
       "visitor": "1212480",
-      "account": "6649",
+      "account": "Holiday Inn",
       "date": "2026-05-18",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 43,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "988710",
-      "account": "3757",
+      "account": "Cruise Planners | CP Elite",
       "date": "2026-05-14",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 47,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "532133",
-      "account": "6432",
+      "account": "CONAM Management Corporation",
       "date": "2026-05-04",
-      "user_level": "User",
+      "user_level": "Administrator",
       "age_days": 57,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "433262",
-      "account": "5742",
+      "account": "Forty Winks | The Pistol",
       "date": "2026-04-20",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 71,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "590748_mobile",
-      "account": "6522_mobile",
+      "account": "The Lash Lounge",
       "date": "2026-04-16",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 75,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "202522",
-      "account": "4193",
+      "account": "Berkshire Hathaway HomeServices",
       "date": "2026-04-13",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 78,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "1197112",
-      "account": "27875",
+      "account": "Capital Square Living",
       "date": "2026-04-13",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 78,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "1131015",
-      "account": "5597",
+      "account": "Bad Ass Coffee of Hawaii",
       "date": "2026-04-11",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 80,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "138736",
-      "account": "3723",
+      "account": "Avenue5 Residential",
       "date": "2026-04-10",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 81,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "511583",
-      "account": "3804",
+      "account": "Ricky's All Day Grill",
       "date": "2026-04-08",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 83,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "987217",
-      "account": "5749",
+      "account": "Travel Leaders Group",
       "date": "2026-04-05",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 86,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "943442",
-      "account": "17724",
+      "account": "Elements Massage",
       "date": "2026-04-02",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 89,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "1167712",
-      "account": "25929",
+      "account": "Orangetheory Fitness",
       "date": "2026-03-31",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 91,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "181342",
-      "account": "4193",
+      "account": "Berkshire Hathaway HomeServices",
       "date": "2026-03-28",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 94,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "1007481",
-      "account": "6681",
+      "account": "Vetcor",
       "date": "2026-03-24",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 98,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "1165910",
-      "account": "3698",
+      "account": "TWO MEN AND A TRUCK",
       "date": "2026-03-12",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 110,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "993200",
-      "account": "3241",
+      "account": "BrightStar Care ",
       "date": "2026-03-12",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 110,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "726640",
-      "account": "5749",
+      "account": "Travel Leaders Group",
       "date": "2026-03-11",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 111,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "1168349",
-      "account": "51981",
+      "account": "Tiger-Rock MAI System",
       "date": "2026-03-09",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 113,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "394388",
-      "account": "4284",
+      "account": "29th Street Living",
       "date": "2026-02-26",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 124,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "1152292",
-      "account": "6651",
+      "account": "Holiday Inn Express",
       "date": "2026-02-25",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 125,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "855667",
-      "account": "17100",
+      "account": "MG Properties Group",
       "date": "2026-02-18",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 132,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "726565",
-      "account": "5749",
+      "account": "Travel Leaders Group",
       "date": "2026-02-18",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 132,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "253865",
-      "account": "4284",
+      "account": "29th Street Living",
       "date": "2026-02-16",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 134,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "937539",
-      "account": "5749",
+      "account": "Travel Leaders Group",
       "date": "2026-02-12",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 138,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "977729_mobile",
-      "account": "3136_mobile",
+      "account": "Anytime Fitness NA ",
       "date": "2026-02-11",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 139,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "1074527",
-      "account": "4193",
+      "account": "Berkshire Hathaway HomeServices",
       "date": "2026-02-05",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 145,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "965628",
-      "account": "5749",
+      "account": "Travel Leaders Group",
       "date": "2026-02-04",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 146,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "946248",
-      "account": "4193",
+      "account": "Berkshire Hathaway HomeServices",
       "date": "2026-02-02",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 148,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "282891",
-      "account": "3515",
+      "account": "RPM Living",
       "date": "2026-01-29",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 152,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "701489",
-      "account": "5749",
+      "account": "Travel Leaders Group",
       "date": "2026-01-20",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 161,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "784323",
-      "account": "1154",
+      "account": "Willow Bridge Property Company ",
       "date": "2026-01-12",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 169,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "1151132",
-      "account": "6651",
+      "account": "Holiday Inn Express",
       "date": "2026-01-09",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 172,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "1044819",
-      "account": "6991",
+      "account": "Discovery Marketing Group, LLC dba STAT Marketing",
       "date": "2026-01-06",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 175,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "352206",
-      "account": "3952",
+      "account": "Ford",
       "date": "2026-01-04",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 177,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "302587",
-      "account": "4708",
+      "account": "AT&T",
       "date": "2025-12-19",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 193,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "1118166",
-      "account": "7214",
+      "account": "GO Car Wash",
       "date": "2025-12-17",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 195,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "988325",
-      "account": "22221",
+      "account": "JINYA USA",
       "date": "2025-12-16",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 196,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "882458",
-      "account": "3136",
+      "account": "Anytime Fitness NA ",
       "date": "2025-12-12",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 200,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "1106688",
-      "account": "7197",
+      "account": "LivCor",
       "date": "2025-12-12",
-      "user_level": "User",
+      "user_level": "Administrator",
       "age_days": 200,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "150251",
-      "account": "3284",
+      "account": "Adara Communities ",
       "date": "2025-12-10",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 202,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "1064803",
-      "account": "3952",
+      "account": "Ford",
       "date": "2025-12-05",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 207,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "1109844",
-      "account": "25929",
+      "account": "Orangetheory Fitness",
       "date": "2025-12-05",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 207,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "993647",
-      "account": "5878",
+      "account": "Oak Hill Management",
       "date": "2025-12-03",
-      "user_level": "User",
+      "user_level": "Administrator",
       "age_days": 209,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "1066987",
-      "account": "44461",
+      "account": "The Goodman Group",
       "date": "2025-12-02",
-      "user_level": "User",
+      "user_level": "Administrator",
       "age_days": 210,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "1069264",
-      "account": "25659",
+      "account": "American Freight (MAFGA)",
       "date": "2025-11-19",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 223,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "967333",
-      "account": "6731",
+      "account": "Garner",
       "date": "2025-11-19",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 223,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "751809",
-      "account": "6681",
+      "account": "Vetcor",
       "date": "2025-11-07",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 235,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "82113",
-      "account": "1154",
+      "account": "Willow Bridge Property Company ",
       "date": "2025-10-29",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 244,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "986987",
-      "account": "3336",
+      "account": "Balfour Beatty Communities ",
       "date": "2025-10-22",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 251,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "1039308",
-      "account": "24149",
+      "account": "The Garrett Companies",
       "date": "2025-10-22",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 251,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "1056827",
-      "account": "3952",
+      "account": "Ford",
       "date": "2025-10-21",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 252,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "982226",
-      "account": "23054",
+      "account": "Elegance Senior Living",
       "date": "2025-10-17",
-      "user_level": "User",
+      "user_level": "Administrator",
       "age_days": 256,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "997798",
-      "account": "22128",
+      "account": "Scooter's Coffee, LLC",
       "date": "2025-10-14",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 259,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "1040044",
-      "account": "7190",
+      "account": "Burn Boot Camp",
       "date": "2025-10-14",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 259,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "861912",
-      "account": "5749",
+      "account": "Travel Leaders Group",
       "date": "2025-10-08",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 265,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "275555",
-      "account": "1343",
+      "account": "Highmark Residential",
       "date": "2025-10-03",
-      "user_level": "User",
+      "user_level": "Administrator",
       "age_days": 270,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "963986",
-      "account": "6725",
+      "account": "Texas Roadhouse Holdings LLC",
       "date": "2025-10-01",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 272,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "787997",
-      "account": "4193",
+      "account": "Berkshire Hathaway HomeServices",
       "date": "2025-10-01",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 272,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "995199",
-      "account": "5490",
+      "account": "Bryten Management",
       "date": "2025-09-24",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 279,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "742752",
-      "account": "5749",
+      "account": "Travel Leaders Group",
       "date": "2025-09-24",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 279,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "58052",
-      "account": "1453",
+      "account": "Neighborly",
       "date": "2025-09-23",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 280,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "983062",
-      "account": "6731",
+      "account": "Garner",
       "date": "2025-09-17",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 286,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "836484",
-      "account": "6274",
+      "account": "Port of Subs",
       "date": "2025-09-09",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 294,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "1011662",
-      "account": "3473",
+      "account": "Kumon",
       "date": "2025-09-06",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 297,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "1024968",
-      "account": "3136",
+      "account": "Anytime Fitness NA ",
       "date": "2025-08-29",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 305,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "722077",
-      "account": "6902",
+      "account": "The Learning Experience",
       "date": "2025-08-28",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 306,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "1004334",
-      "account": "6411",
+      "account": "Comparion",
       "date": "2025-08-20",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 314,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "1013988",
-      "account": "3336",
+      "account": "Balfour Beatty Communities ",
       "date": "2025-08-15",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 319,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "997727",
-      "account": "4193",
+      "account": "Berkshire Hathaway HomeServices",
       "date": "2025-08-12",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 322,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "1004451",
-      "account": "6649",
+      "account": "Holiday Inn",
       "date": "2025-08-12",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 322,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "778285",
-      "account": "7197",
+      "account": "LivCor",
       "date": "2025-07-31",
-      "user_level": "User",
+      "user_level": "Administrator",
       "age_days": 334,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "943323",
-      "account": "17710",
+      "account": "Drybar",
       "date": "2025-07-23",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 342,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "509081",
-      "account": "5995",
+      "account": "Quick Quack Car Wash",
       "date": "2025-07-23",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 342,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "712794",
-      "account": "6902",
+      "account": "The Learning Experience",
       "date": "2025-07-17",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 348,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "888897",
-      "account": "3783",
+      "account": "Wing Zone",
       "date": "2025-07-17",
-      "user_level": "User",
+      "user_level": "Unknown",
       "age_days": 348,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "878737",
-      "account": "7460",
+      "account": "Sky Zone",
       "date": "2025-07-13",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 352,
       "sla": "red",
       "area": "Reporting Suite"
     },
     {
       "visitor": "667093",
-      "account": "5626",
+      "account": "Right At Home",
       "date": "2025-07-08",
-      "user_level": "User",
+      "user_level": "Manager",
       "age_days": 357,
       "sla": "red",
       "area": "Reporting Suite"
     }
   ],
   "level_counts": {
-    "Administrator": 0,
-    "Manager": 0,
-    "User": 87
+    "Administrator": 7,
+    "Manager": 79,
+    "User": 0
   },
-  "level_counts_extra": {},
+  "level_counts_extra": {
+    "Unknown": 1
+  },
   "sla_counts": {
     "green": 2,
     "amber": 7,
@@ -906,71 +908,71 @@
   "oldest_age": 357,
   "repeat_accounts": [
     [
-      "5749",
+      "Travel Leaders Group",
       9
     ],
     [
-      "4193",
+      "Berkshire Hathaway HomeServices",
       6
     ],
     [
-      "6651",
+      "Holiday Inn Express",
       3
     ],
     [
-      "3952",
+      "Anytime Fitness NA ",
       3
     ],
     [
-      "3757",
+      "Ford",
+      3
+    ],
+    [
+      "Cruise Planners | CP Elite",
       2
     ],
     [
-      "3723",
+      "Avenue5 Residential",
       2
     ],
     [
-      "1453",
+      "Neighborly",
       2
     ],
     [
-      "6649",
+      "Holiday Inn",
       2
     ],
     [
-      "25929",
+      "Orangetheory Fitness",
       2
     ],
     [
-      "6681",
+      "Vetcor",
       2
     ],
     [
-      "4284",
+      "29th Street Living",
       2
     ],
     [
-      "1154",
+      "Willow Bridge Property Company ",
       2
     ],
     [
-      "3136",
+      "LivCor",
       2
     ],
     [
-      "7197",
+      "Garner",
       2
     ],
     [
-      "6731",
+      "Balfour Beatty Communities ",
       2
     ],
     [
-      "3336",
-      2
-    ],
-    [
-      "6902",
+      "The Learning Experience",
       2
     ]
   ],
