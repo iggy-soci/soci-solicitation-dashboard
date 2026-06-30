@@ -1,0 +1,18 @@
+{
+  "_note": "Add a solicitation survey by pasting a block below. When a new survey is deployed in Pendo, add its guide_id and the product area. interested_poll_value defaults to 1 (the Reporting Suite pattern: PositiveNegative poll where 1 = 'I'm Interested'); only set it if a guide differs. Set status to 'live' to pull it, 'planned' to show it as a placeholder card.",
+  "surveys": [
+    {
+      "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
+      "area": "Reporting Suite",
+      "status": "live",
+      "interested_poll_value": 1
+    }
+  ],
+  "planned_areas": [
+    "Listings", "Social", "Reviews (Reputation)", "Listening",
+    "Engagements (Conversations)", "Surveys", "Ads / Boost", "Rankings / SEO (Local Grid)",
+    "Pages", "Locator", "Data Management", "SOCi Score (LVI)", "Genius Social",
+    "Genius Reviews", "Genius Search", "Shield", "Voice of Customer", "Lead Generation",
+    "Check My Presence (CMP)", "Contacts / CRM", "SmartBot", "Platform", "Marketplace"
+  ]
+}
