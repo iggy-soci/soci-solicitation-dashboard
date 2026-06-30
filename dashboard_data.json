@@ -1,34 +1,117 @@
 {
-  "generated_at": "awaiting first run",
+  "generated_at": "2026-06-30 19:21 UTC",
   "areas": [
-    {"name": "Reporting Suite", "status": "live"},
-    {"name": "Listings", "status": "planned"},
-    {"name": "Social", "status": "planned"},
-    {"name": "Reviews (Reputation)", "status": "planned"},
-    {"name": "Listening", "status": "planned"},
-    {"name": "Engagements (Conversations)", "status": "planned"},
-    {"name": "Surveys", "status": "planned"},
-    {"name": "Ads / Boost", "status": "planned"},
-    {"name": "Rankings / SEO (Local Grid)", "status": "planned"},
-    {"name": "Pages", "status": "planned"},
-    {"name": "Locator", "status": "planned"},
-    {"name": "Data Management", "status": "planned"},
-    {"name": "SOCi Score (LVI)", "status": "planned"},
-    {"name": "Genius Social", "status": "planned"},
-    {"name": "Genius Reviews", "status": "planned"},
-    {"name": "Genius Search", "status": "planned"},
-    {"name": "Shield", "status": "planned"},
-    {"name": "Voice of Customer", "status": "planned"},
-    {"name": "Lead Generation", "status": "planned"},
-    {"name": "Check My Presence (CMP)", "status": "planned"},
-    {"name": "Contacts / CRM", "status": "planned"},
-    {"name": "SmartBot", "status": "planned"},
-    {"name": "Platform", "status": "planned"},
-    {"name": "Marketplace", "status": "planned"}
+    {
+      "name": "Reporting Suite",
+      "status": "live"
+    },
+    {
+      "name": "Listings",
+      "status": "planned"
+    },
+    {
+      "name": "Social",
+      "status": "planned"
+    },
+    {
+      "name": "Reviews (Reputation)",
+      "status": "planned"
+    },
+    {
+      "name": "Listening",
+      "status": "planned"
+    },
+    {
+      "name": "Engagements (Conversations)",
+      "status": "planned"
+    },
+    {
+      "name": "Surveys",
+      "status": "planned"
+    },
+    {
+      "name": "Ads / Boost",
+      "status": "planned"
+    },
+    {
+      "name": "Rankings / SEO (Local Grid)",
+      "status": "planned"
+    },
+    {
+      "name": "Pages",
+      "status": "planned"
+    },
+    {
+      "name": "Locator",
+      "status": "planned"
+    },
+    {
+      "name": "Data Management",
+      "status": "planned"
+    },
+    {
+      "name": "SOCi Score (LVI)",
+      "status": "planned"
+    },
+    {
+      "name": "Genius Social",
+      "status": "planned"
+    },
+    {
+      "name": "Genius Reviews",
+      "status": "planned"
+    },
+    {
+      "name": "Genius Search",
+      "status": "planned"
+    },
+    {
+      "name": "Shield",
+      "status": "planned"
+    },
+    {
+      "name": "Voice of Customer",
+      "status": "planned"
+    },
+    {
+      "name": "Lead Generation",
+      "status": "planned"
+    },
+    {
+      "name": "Check My Presence (CMP)",
+      "status": "planned"
+    },
+    {
+      "name": "Contacts / CRM",
+      "status": "planned"
+    },
+    {
+      "name": "SmartBot",
+      "status": "planned"
+    },
+    {
+      "name": "Platform",
+      "status": "planned"
+    },
+    {
+      "name": "Marketplace",
+      "status": "planned"
+    }
   ],
-  "per_area": {"Reporting Suite": {"guide_id": "rILFx33CEJlliM0_2euuyYzqhFY", "views_12mo": 0, "responses_12mo": 0, "interested": 0}},
+  "per_area": {
+    "Reporting Suite": {
+      "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
+      "views_12mo": 0,
+      "responses_12mo": 0,
+      "interested": 0
+    }
+  },
   "contacts": [],
-  "level_counts": {"Administrator": 0, "Manager": 0, "User": 0},
+  "level_counts": {
+    "Administrator": 0,
+    "Manager": 0,
+    "User": 0
+  },
   "level_counts_extra": {},
   "sla_counts": {},
   "total_interested": 0,
