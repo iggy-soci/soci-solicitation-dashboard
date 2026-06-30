@@ -5,14 +5,33 @@
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "area": "Reporting Suite",
       "status": "live",
-      "interested_poll_value": 1
+      "interested_poll_value": 1,
+      "poll_id": "4xsn19fzao3"
     }
   ],
   "planned_areas": [
-    "Listings", "Social", "Reviews (Reputation)", "Listening",
-    "Engagements (Conversations)", "Surveys", "Ads / Boost", "Rankings / SEO (Local Grid)",
-    "Pages", "Locator", "Data Management", "SOCi Score (LVI)", "Genius Social",
-    "Genius Reviews", "Genius Search", "Shield", "Voice of Customer", "Lead Generation",
-    "Check My Presence (CMP)", "Contacts / CRM", "SmartBot", "Platform", "Marketplace"
+    "Listings",
+    "Social",
+    "Reviews (Reputation)",
+    "Listening",
+    "Engagements (Conversations)",
+    "Surveys",
+    "Ads / Boost",
+    "Rankings / SEO (Local Grid)",
+    "Pages",
+    "Locator",
+    "Data Management",
+    "SOCi Score (LVI)",
+    "Genius Social",
+    "Genius Reviews",
+    "Genius Search",
+    "Shield",
+    "Voice of Customer",
+    "Lead Generation",
+    "Check My Presence (CMP)",
+    "Contacts / CRM",
+    "SmartBot",
+    "Platform",
+    "Marketplace"
   ]
 }
