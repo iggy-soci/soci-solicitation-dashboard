@@ -59,7 +59,7 @@ def ai_enrich(contacts):
             "https://api.anthropic.com/v1/messages",
             headers={"x-api-key": key, "anthropic-version": "2023-06-01",
                      "content-type": "application/json"},
-            json={"model": "claude-sonnet-4-6", "max_tokens": 2000,
+            json={"model": "claude-sonnet-4-6", "max_tokens": 8000,
                   "messages": [{"role": "user", "content": prompt}]},
             timeout=60,
         )

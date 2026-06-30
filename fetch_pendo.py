@@ -123,10 +123,10 @@ def fetch_visitor_roles(visitor_ids):
     """{visitorId: role} via the visitors source, filtered to our ids."""
     if not visitor_ids:
         return {}
-    ids = json.dumps(visitor_ids)  # JSON array -> valid list literal in the expression
+    quoted = ", ".join('"' + v.replace('"', '') + '"' for v in visitor_ids)
     pipeline = [
         {"source": {"visitors": None}},
-        {"filter": f"visitorId in {ids}"},
+        {"filter": f"visitorId in ({quoted})"},
         {"select": {"visitorId": "visitorId", "role": "metadata.agent.role"}},
     ]
     try:
@@ -141,10 +141,10 @@ def fetch_account_names(account_ids):
     """{accountId: name} via the accounts source."""
     if not account_ids:
         return {}
-    ids = json.dumps(account_ids)
+    quoted = ", ".join('"' + a.replace('"', '') + '"' for a in account_ids)
     pipeline = [
         {"source": {"accounts": None}},
-        {"filter": f"accountId in {ids}"},
+        {"filter": f"accountId in ({quoted})"},
         {"select": {"accountId": "accountId", "name": "metadata.agent.name"}},
     ]
     try:
@@ -164,14 +164,14 @@ def fetch_guide_metrics(guide_id, poll_id, days=365):
     resp_pipeline = [
         {"source": {"pollEvents": {"guideId": guide_id, "pollId": poll_id},
                     "timeSeries": {"period": "dayRange", "first": _ms(days), "count": days}}},
-        {"reduce": [{"count": "visitorId"}]},
+        {"reduce": [{"count": None}]},
     ]
     # views
     view_pipeline = [
         {"source": {"guideEvents": {"guideId": guide_id},
                     "timeSeries": {"period": "dayRange", "first": _ms(days), "count": days}}},
         {"filter": "type == \"guideSeen\""},
-        {"reduce": [{"count": "visitorId"}]},
+        {"reduce": [{"count": None}]},
     ]
     responses = views = 0
     try:
