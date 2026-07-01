@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01 21:08 UTC",
+  "generated_at": "2026-07-01 22:48 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -114,8 +114,7 @@
       "user_level": "Manager",
       "age_days": 6,
       "sla": "green",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Bruster's Real Ice Cream, I'd love to hear how SOCi is fitting into your day-to-day location reporting and where we can save you time."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1176040",
@@ -124,8 +123,7 @@
       "user_level": "Manager",
       "age_days": 8,
       "sla": "amber",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Subway North America, I want to make sure the reports and location workflows you rely on every day are working as hard as you are."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "293538",
@@ -134,8 +132,7 @@
       "user_level": "Manager",
       "age_days": 10,
       "sla": "amber",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Pet Supplies Plus, I'd love to learn which daily tasks or location reports are top of mind so we can make them faster and easier for you."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "777759",
@@ -144,8 +141,7 @@
       "user_level": "Manager",
       "age_days": 15,
       "sla": "amber",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at E.C. Barton, I want to connect on how the tools you use day to day are serving your locations and where we might streamline things."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1226457",
@@ -154,8 +150,7 @@
       "user_level": "Manager",
       "age_days": 18,
       "sla": "amber",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Holiday Inn Express, I'd love to hear what's working\u2014and what isn't\u2014in the location workflows and reports you manage every day."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1228726",
@@ -164,8 +159,7 @@
       "user_level": "Manager",
       "age_days": 22,
       "sla": "amber",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Cruise Planners CP Elite, I want to make sure the reports and location tools you depend on daily are truly saving you time."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "977730",
@@ -174,8 +168,7 @@
       "user_level": "Manager",
       "age_days": 26,
       "sla": "amber",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Travel Leaders Group, I'd love to understand which parts of your daily location management and reporting could be faster or more intuitive."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1034185",
@@ -184,8 +177,7 @@
       "user_level": "Manager",
       "age_days": 27,
       "sla": "amber",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Avenue5 Residential, I want to connect on how your day-to-day location workflows are going and where we can take work off your plate."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1211028",
@@ -194,8 +186,7 @@
       "user_level": "Manager",
       "age_days": 28,
       "sla": "amber",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Neighborly, I'd love to hear what's on your mind about the location reports and daily tasks you're managing across your brands."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1212480",
@@ -204,8 +195,7 @@
       "user_level": "Manager",
       "age_days": 44,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Holiday Inn, I want to make sure the reports and workflows you run every day are as efficient as possible for your locations."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "988710",
@@ -214,8 +204,7 @@
       "user_level": "Manager",
       "age_days": 48,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Cruise Planners CP Elite, I'd love to reconnect and hear what's top of mind for your daily location management and reporting needs."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "532133",
@@ -224,8 +213,7 @@
       "user_level": "Administrator",
       "age_days": 58,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As an Administrator at CONAM Management Corporation, I'd love to discuss how SOCi can drive account-wide efficiency and governance across all your communities."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "433262",
@@ -234,8 +222,7 @@
       "user_level": "Manager",
       "age_days": 72,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Forty Winks and The Pistol, I want to connect on how your daily location workflows and reports are serving your business and where we can improve them."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "590748_mobile",
@@ -244,8 +231,7 @@
       "user_level": "Manager",
       "age_days": 76,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at The Lash Lounge, I'd love to learn which location reports or daily tasks are taking up the most time so we can help streamline them."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "202522",
@@ -254,8 +240,7 @@
       "user_level": "Manager",
       "age_days": 79,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Berkshire Hathaway HomeServices, I want to hear how your current location workflows are fitting into your day and where we can make things smoother."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1197112",
@@ -264,8 +249,7 @@
       "user_level": "Manager",
       "age_days": 79,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Capital Square Living, I'd love to understand which daily reporting or location management tasks are most important to you right now."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1131015",
@@ -274,8 +258,7 @@
       "user_level": "Manager",
       "age_days": 81,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Bad Ass Coffee of Hawaii, I want to connect on how the tools you use every day are working for your locations and where we can save you time."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "138736",
@@ -284,8 +267,7 @@
       "user_level": "Manager",
       "age_days": 82,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Avenue5 Residential, I'd love to catch up on your day-to-day location workflows and hear where SOCi can take more off your plate."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "511583",
@@ -294,8 +276,7 @@
       "user_level": "Manager",
       "age_days": 84,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Ricky's All Day Grill, I want to make sure the reports and location tasks you handle daily are as efficient and useful as possible."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "987217",
@@ -304,8 +285,7 @@
       "user_level": "Manager",
       "age_days": 87,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Travel Leaders Group, I'd love to hear what's on your mind about your location management workflows and where we can help you move faster."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "943442",
@@ -314,8 +294,7 @@
       "user_level": "Manager",
       "age_days": 90,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Elements Massage, I want to understand which daily location tasks or reports are most critical for you and where we can improve your experience."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1167712",
@@ -324,8 +303,7 @@
       "user_level": "Manager",
       "age_days": 92,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Orangetheory Fitness, I'd love to connect on how your location reporting and daily workflows are going and where SOCi can save you more time."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "181342",
@@ -334,8 +312,7 @@
       "user_level": "Manager",
       "age_days": 95,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Berkshire Hathaway HomeServices, I want to make sure the location tools and reports you rely on every day are meeting your needs."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1007481",
@@ -344,8 +321,7 @@
       "user_level": "Manager",
       "age_days": 99,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Vetcor, I'd love to hear how your daily location workflows are working and where we can make them faster and more effective for your team."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1165910",
@@ -354,8 +330,7 @@
       "user_level": "Manager",
       "age_days": 111,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at TWO MEN AND A TRUCK, I want to connect on the location reports and daily tasks you're managing and find ways to make them more efficient."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "993200",
@@ -364,8 +339,7 @@
       "user_level": "Manager",
       "age_days": 111,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at BrightStar Care, I'd love to understand which location workflows and reports matter most to your day-to-day work so we can prioritize improvements."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "726640",
@@ -374,8 +348,7 @@
       "user_level": "Manager",
       "age_days": 112,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Travel Leaders Group, I want to hear what's been on your mind regarding location management and reporting, and where we can help."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1168349",
@@ -384,8 +357,7 @@
       "user_level": "Manager",
       "age_days": 114,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Tiger-Rock MAI System, I'd love to connect on how your daily location tasks and reports are working and where we can save you time."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "394388",
@@ -394,8 +366,7 @@
       "user_level": "Manager",
       "age_days": 125,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at 29th Street Living, I want to make sure the location workflows and reports you depend on each day are as smooth and time-saving as possible."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1152292",
@@ -404,8 +375,7 @@
       "user_level": "Manager",
       "age_days": 126,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Holiday Inn Express, I'd love to hear how your daily location management is going and where SOCi can better support your workflow."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "855667",
@@ -414,8 +384,7 @@
       "user_level": "Manager",
       "age_days": 133,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at MG Properties Group, I want to connect on the reports and location tasks you run day to day and find ways to make them more efficient."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "726565",
@@ -424,8 +393,7 @@
       "user_level": "Manager",
       "age_days": 133,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Travel Leaders Group, I'd love to understand which daily reporting or location management needs are most pressing for you right now."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "253865",
@@ -434,8 +402,7 @@
       "user_level": "Manager",
       "age_days": 135,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at 29th Street Living, I want to hear how your location workflows are working and where we can take some of the daily lift off your team."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "937539",
@@ -444,8 +411,7 @@
       "user_level": "Manager",
       "age_days": 139,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Travel Leaders Group, I'd love to reconnect and hear how your day-to-day location management experience has been and where we can improve it."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "977729_mobile",
@@ -454,8 +420,7 @@
       "user_level": "Manager",
       "age_days": 140,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Anytime Fitness NA, I want to make sure the location tools and reports you use every day are genuinely saving your team time."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1074527",
@@ -464,8 +429,7 @@
       "user_level": "Manager",
       "age_days": 146,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Berkshire Hathaway HomeServices, I'd love to understand which daily location tasks or reports are most important to you so we can focus our improvements there."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "965628",
@@ -474,8 +438,7 @@
       "user_level": "Manager",
       "age_days": 147,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Travel Leaders Group, I want to hear what's been top of mind for your location workflows and reporting so we can address it together."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "946248",
@@ -484,8 +447,7 @@
       "user_level": "Manager",
       "age_days": 149,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Berkshire Hathaway HomeServices, I'd love to connect on how your day-to-day experience with SOCi is going and where we can make it better."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "282891",
@@ -494,8 +456,7 @@
       "user_level": "Manager",
       "age_days": 153,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at RPM Living, I want to make sure the location reports and daily workflows you depend on are as efficient and effective as possible."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "701489",
@@ -504,8 +465,7 @@
       "user_level": "Manager",
       "age_days": 162,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Travel Leaders Group, I'd love to hear how your location management experience has evolved and where SOCi can do more for your team."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "784323",
@@ -514,8 +474,7 @@
       "user_level": "Manager",
       "age_days": 170,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Willow Bridge Property Company, I want to connect on the daily location workflows and reports that matter most to your team right now."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1151132",
@@ -524,8 +483,7 @@
       "user_level": "Manager",
       "age_days": 173,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Holiday Inn Express, I'd love to understand which location tasks and reports you're managing daily and where we can save you the most time."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1044819",
@@ -534,8 +492,7 @@
       "user_level": "Manager",
       "age_days": 176,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Discovery Marketing Group dba STAT Marketing, I want to hear how your day-to-day location management work is going and where we can improve your workflow."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "352206",
@@ -544,8 +501,7 @@
       "user_level": "Manager",
       "age_days": 178,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Ford, I'd love to connect on the location reports and daily tasks your team relies on and find ways to make them more efficient."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "302587",
@@ -554,8 +510,7 @@
       "user_level": "Manager",
       "age_days": 194,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at AT&T, I want to make sure the location workflows and reports you run every day are meeting your team's needs and saving time at scale."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1118166",
@@ -564,8 +519,7 @@
       "user_level": "Manager",
       "age_days": 196,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at GO Car Wash, I'd love to hear which daily location management tasks or reports are most important to you and where we can streamline them."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "988325",
@@ -574,8 +528,7 @@
       "user_level": "Manager",
       "age_days": 197,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at JINYA USA, I want to connect on how your day-to-day location reporting and management workflows are going and where SOCi can help."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "882458",
@@ -584,8 +537,7 @@
       "user_level": "Manager",
       "age_days": 201,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Anytime Fitness NA, I'd love to understand which location tasks and reports you rely on most and how we can make them faster for your team."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1106688",
@@ -594,8 +546,7 @@
       "user_level": "Administrator",
       "age_days": 201,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As an Administrator at LivCor, I want to discuss how SOCi can support account-wide visibility and governance across your entire portfolio."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "150251",
@@ -604,8 +555,7 @@
       "user_level": "Manager",
       "age_days": 203,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Adara Communities, I'd love to hear how your daily location workflows and reports are working and where we can take more off your plate."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1064803",
@@ -614,8 +564,7 @@
       "user_level": "Manager",
       "age_days": 208,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Ford, I want to make sure the location reports and daily workflows your team depends on are as efficient and impactful as possible."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1109844",
@@ -624,8 +573,7 @@
       "user_level": "Manager",
       "age_days": 208,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Orangetheory Fitness, I'd love to reconnect on your location management experience and hear where SOCi can do more for your day-to-day work."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "993647",
@@ -634,8 +582,7 @@
       "user_level": "Administrator",
       "age_days": 210,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As an Administrator at Oak Hill Management, I want to discuss how SOCi can strengthen account-wide reporting and governance across your communities."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1066987",
@@ -644,8 +591,7 @@
       "user_level": "Administrator",
       "age_days": 211,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As an Administrator at The Goodman Group, I'd love to explore how SOCi can deliver broader operational efficiency and oversight across your entire account."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1069264",
@@ -654,8 +600,7 @@
       "user_level": "Manager",
       "age_days": 224,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at American Freight, I want to connect on the location reports and daily tasks your team manages and find ways to make them more efficient."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "967333",
@@ -664,8 +609,7 @@
       "user_level": "Manager",
       "age_days": 224,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Garner, I'd love to hear which daily location workflows or reports are most critical for your team and where we can improve them."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "751809",
@@ -674,8 +618,7 @@
       "user_level": "Manager",
       "age_days": 236,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Vetcor, I want to make sure the location tools and reports you depend on every day are working well and saving your team time."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "82113",
@@ -684,8 +627,7 @@
       "user_level": "Manager",
       "age_days": 245,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Willow Bridge Property Company, I'd love to reconnect on your day-to-day location management needs and hear where SOCi can do better."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "986987",
@@ -694,8 +636,7 @@
       "user_level": "Manager",
       "age_days": 252,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Balfour Beatty Communities, I want to understand which location workflows and reports matter most to your daily work so we can prioritize the right improvements."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1039308",
@@ -704,8 +645,7 @@
       "user_level": "Manager",
       "age_days": 252,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at The Garrett Companies, I'd love to connect on how your day-to-day location reporting is going and where we can help your team move faster."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1056827",
@@ -714,8 +654,7 @@
       "user_level": "Manager",
       "age_days": 253,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Ford, I want to hear how your location management workflows are working and where SOCi can better serve your team's daily needs."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "982226",
@@ -724,8 +663,7 @@
       "user_level": "Administrator",
       "age_days": 257,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As an Administrator at Elegance Senior Living, I'd love to discuss how SOCi can support account-wide operational consistency and governance across your communities."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "997798",
@@ -734,8 +672,7 @@
       "user_level": "Manager",
       "age_days": 260,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Scooter's Coffee, I want to make sure the location reports and daily tasks your team relies on are as efficient and time-saving as possible."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1040044",
@@ -744,8 +681,7 @@
       "user_level": "Manager",
       "age_days": 260,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Burn Boot Camp, I'd love to connect on the daily location workflows and reports you manage and hear where we can save you more time."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "861912",
@@ -754,8 +690,7 @@
       "user_level": "Manager",
       "age_days": 266,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Travel Leaders Group, I want to hear how your day-to-day location management experience has been and where SOCi can make the biggest difference."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "275555",
@@ -764,8 +699,7 @@
       "user_level": "Administrator",
       "age_days": 271,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As an Administrator at Highmark Residential, I'd love to explore how SOCi can drive account-wide reporting consistency and governance across your full portfolio."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "963986",
@@ -774,8 +708,7 @@
       "user_level": "Manager",
       "age_days": 273,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Texas Roadhouse Holdings, I want to connect on the location reports and daily tasks your team manages and find ways to make them more effective."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "787997",
@@ -784,8 +717,7 @@
       "user_level": "Manager",
       "age_days": 273,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Berkshire Hathaway HomeServices, I'd love to hear how your daily location management experience has been and where we can make meaningful improvements."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "995199",
@@ -794,8 +726,7 @@
       "user_level": "Manager",
       "age_days": 280,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Bryten Management, I want to make sure the location workflows and reports your team uses every day are truly saving time and meeting your needs."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "742752",
@@ -804,8 +735,7 @@
       "user_level": "Manager",
       "age_days": 280,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Travel Leaders Group, I'd love to reconnect on your day-to-day location management experience and hear what's most important to address."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "58052",
@@ -814,8 +744,7 @@
       "user_level": "Manager",
       "age_days": 281,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Neighborly, I want to understand which daily location tasks and reports are top of mind for your team and where SOCi can do more."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "983062",
@@ -824,8 +753,7 @@
       "user_level": "Manager",
       "age_days": 287,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Garner, I'd love to connect on how your day-to-day location workflows are going and where we can save your team meaningful time."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "836484",
@@ -834,8 +762,7 @@
       "user_level": "Manager",
       "age_days": 295,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Port of Subs, I want to make sure the location reports and daily management tasks you rely on are working efficiently for your team."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1011662",
@@ -844,8 +771,7 @@
       "user_level": "Manager",
       "age_days": 298,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Kumon, I'd love to hear which daily location tasks or reports matter most to your work and where we can make SOCi more useful for you."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1024968",
@@ -854,8 +780,7 @@
       "user_level": "Manager",
       "age_days": 306,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Anytime Fitness NA, I want to connect on how your location management workflows are working and where we can take more daily lift off your team."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "722077",
@@ -864,8 +789,7 @@
       "user_level": "Manager",
       "age_days": 307,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at The Learning Experience, I'd love to understand which location reports and daily workflows are most important to you and how we can improve them."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1004334",
@@ -874,8 +798,7 @@
       "user_level": "Manager",
       "age_days": 315,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Comparion, I want to hear how your day-to-day location management experience is going and where SOCi can better support your workflow."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1013988",
@@ -884,8 +807,7 @@
       "user_level": "Manager",
       "age_days": 320,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Balfour Beatty Communities, I'd love to reconnect on your daily location management needs and hear where we can make the most meaningful improvements."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "997727",
@@ -894,8 +816,7 @@
       "user_level": "Manager",
       "age_days": 323,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Berkshire Hathaway HomeServices, I want to make sure the reports and location workflows you depend on every day are truly meeting your team's needs."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1004451",
@@ -904,8 +825,7 @@
       "user_level": "Manager",
       "age_days": 323,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Holiday Inn, I'd love to understand which daily location tasks and reports are most critical for you and where SOCi can save your team time."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "778285",
@@ -914,8 +834,7 @@
       "user_level": "Administrator",
       "age_days": 335,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As an Administrator at LivCor, I want to discuss how SOCi can strengthen account-wide governance, visibility, and ROI across your full portfolio."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "943323",
@@ -924,8 +843,7 @@
       "user_level": "Manager",
       "age_days": 343,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Drybar, I'd love to connect on the location reports and daily workflows your team relies on and hear where we can make them more efficient."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "509081",
@@ -934,8 +852,7 @@
       "user_level": "Manager",
       "age_days": 343,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Quick Quack Car Wash, I want to make sure the location management tasks and reports you run every day are as streamlined and time-saving as possible."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "712794",
@@ -944,8 +861,7 @@
       "user_level": "Manager",
       "age_days": 349,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at The Learning Experience, I'd love to reconnect on your daily location workflows and reporting needs and hear where SOCi can do more for your team."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "888897",
@@ -954,8 +870,7 @@
       "user_level": "Unknown",
       "age_days": 349,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Thanks so much for your interest in connecting with us\u2014I'd love to hear what's on your mind about your experience with SOCi so far."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "878737",
@@ -964,8 +879,7 @@
       "user_level": "Manager",
       "age_days": 353,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Sky Zone, I want to understand which location reports and daily management tasks matter most to your team and where we can save you time."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "667093",
@@ -974,8 +888,7 @@
       "user_level": "Manager",
       "age_days": 358,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "As a Manager at Right At Home, I'd love to hear how your day-to-day location workflows are going and where SOCi can better support your team's work."
+      "area": "Reporting Suite"
     }
   ],
   "level_counts": {
@@ -1063,11 +976,7 @@
       2
     ]
   ],
-  "themes": [
-    "The backlog is heavily Manager-weighted and spans a wide range of multi-location industries\u2014franchise, hospitality, fitness, property management, and travel\u2014suggesting that day-to-day location reporting and workflow efficiency are the most common pain points driving product conversations.",
-    "Several accounts appear multiple times with different contacts and escalating wait times (e.g., Travel Leaders Group, Berkshire Hathaway HomeServices, Holiday Inn Express, Avenue5 Residential), indicating persistent, unresolved needs that may reflect systemic product gaps rather than one-off questions.",
-    "Wait times range from 6 to 358 days, with the majority of contacts waiting over 90 days, signaling a systemic backlog that risks customer satisfaction and retention and calls for a prioritized, tiered outreach strategy based on urgency and account size."
-  ],
+  "themes": [],
   "live_count": 1,
   "planned_count": 23
 }
