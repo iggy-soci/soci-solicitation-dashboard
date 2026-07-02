@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02 08:14 UTC",
+  "generated_at": "2026-07-02 11:09 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -114,7 +114,8 @@
       "user_level": "Manager",
       "age_days": 7,
       "sla": "green",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to hear how SOCi can better support the day-to-day location management and reporting workflows you rely on at Bruster's Real Ice Cream."
     },
     {
       "visitor": "1176040",
@@ -123,7 +124,8 @@
       "user_level": "Manager",
       "age_days": 9,
       "sla": "amber",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to learn which location-level reports or daily workflows matter most to your team at Subway - North America."
     },
     {
       "visitor": "293538",
@@ -132,7 +134,8 @@
       "user_level": "Manager",
       "age_days": 11,
       "sla": "amber",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to understand which location reports or daily tasks are taking up the most of your time at Pet Supplies Plus."
     },
     {
       "visitor": "777759",
@@ -141,7 +144,8 @@
       "user_level": "Manager",
       "age_days": 16,
       "sla": "amber",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to hear which day-to-day reporting or location management workflows you'd most like to see improved at E.C. Barton."
     },
     {
       "visitor": "1226457",
@@ -150,7 +154,8 @@
       "user_level": "Manager",
       "age_days": 19,
       "sla": "amber",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to learn how we can better support the location reports and daily workflows your team depends on at Holiday Inn Express."
     },
     {
       "visitor": "1228726",
@@ -159,7 +164,8 @@
       "user_level": "Manager",
       "age_days": 23,
       "sla": "amber",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to hear which location management tasks or reports would save your team the most time at Cruise Planners | CP Elite."
     },
     {
       "visitor": "977730",
@@ -168,7 +174,8 @@
       "user_level": "Manager",
       "age_days": 27,
       "sla": "amber",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to understand which daily reporting or location workflows are most important to your team at Travel Leaders Group."
     },
     {
       "visitor": "1034185",
@@ -177,7 +184,8 @@
       "user_level": "Manager",
       "age_days": 28,
       "sla": "amber",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to hear how we can make the location-level reports and daily tasks you run at Avenue5 Residential faster and easier."
     },
     {
       "visitor": "1211028",
@@ -186,7 +194,8 @@
       "user_level": "Manager",
       "age_days": 29,
       "sla": "amber",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to learn which location management workflows or reports your team at Neighborly relies on most."
     },
     {
       "visitor": "1212480",
@@ -195,7 +204,8 @@
       "user_level": "Manager",
       "age_days": 45,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to understand which daily workflows or location reports we can improve for your team at Holiday Inn."
     },
     {
       "visitor": "988710",
@@ -204,7 +214,8 @@
       "user_level": "Manager",
       "age_days": 49,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to hear how the location management and reporting experience can better serve your team at Cruise Planners | CP Elite."
     },
     {
       "visitor": "532133",
@@ -213,7 +224,8 @@
       "user_level": "Administrator",
       "age_days": 59,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to discuss how SOCi can deliver stronger account-wide ROI and governance for CONAM Management Corporation."
     },
     {
       "visitor": "433262",
@@ -222,7 +234,8 @@
       "user_level": "Manager",
       "age_days": 73,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to learn which daily location reports or workflows your team at Forty Winks | The Pistol would most benefit from improving."
     },
     {
       "visitor": "590748_mobile",
@@ -231,7 +244,8 @@
       "user_level": "Manager",
       "age_days": 77,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to hear which location management tasks or reports are taking the most time for your team at The Lash Lounge."
     },
     {
       "visitor": "202522",
@@ -240,7 +254,8 @@
       "user_level": "Manager",
       "age_days": 80,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to understand which daily reporting or location workflows matter most to you at Berkshire Hathaway HomeServices."
     },
     {
       "visitor": "1197112",
@@ -249,7 +264,8 @@
       "user_level": "Manager",
       "age_days": 80,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to learn how we can improve the location reports and day-to-day workflows your team relies on at Capital Square Living."
     },
     {
       "visitor": "1131015",
@@ -258,7 +274,8 @@
       "user_level": "Manager",
       "age_days": 82,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to hear how we can make location management and reporting faster and more effective for your team at Bad Ass Coffee of Hawaii."
     },
     {
       "visitor": "138736",
@@ -267,7 +284,8 @@
       "user_level": "Manager",
       "age_days": 83,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to understand which location-level tasks or reports we can streamline for your team at Avenue5 Residential."
     },
     {
       "visitor": "511583",
@@ -276,7 +294,8 @@
       "user_level": "Manager",
       "age_days": 85,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to learn which daily reporting or location workflows your team at Ricky's All Day Grill would most like to see improved."
     },
     {
       "visitor": "987217",
@@ -285,7 +304,8 @@
       "user_level": "Manager",
       "age_days": 88,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to hear how we can better support the location reports and daily workflows your team depends on at Travel Leaders Group."
     },
     {
       "visitor": "943442",
@@ -294,7 +314,8 @@
       "user_level": "Manager",
       "age_days": 91,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to understand which location management tasks or reports are consuming the most time for your team at Elements Massage."
     },
     {
       "visitor": "1167712",
@@ -303,7 +324,8 @@
       "user_level": "Manager",
       "age_days": 93,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to learn how we can improve the day-to-day reporting and location workflows that matter most to your team at Orangetheory Fitness."
     },
     {
       "visitor": "181342",
@@ -312,7 +334,8 @@
       "user_level": "Manager",
       "age_days": 96,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to hear which location reports or daily workflows we can make more efficient for your team at Berkshire Hathaway HomeServices."
     },
     {
       "visitor": "1007481",
@@ -321,7 +344,8 @@
       "user_level": "Manager",
       "age_days": 100,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to understand which daily location management tasks or reports your team at Vetcor finds most time-consuming."
     },
     {
       "visitor": "1165910",
@@ -330,7 +354,8 @@
       "user_level": "Manager",
       "age_days": 112,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to learn how we can streamline the location reports and day-to-day workflows your team relies on at TWO MEN AND A TRUCK."
     },
     {
       "visitor": "993200",
@@ -339,7 +364,8 @@
       "user_level": "Manager",
       "age_days": 112,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to hear which location management workflows or reports we can improve for your team at BrightStar Care."
     },
     {
       "visitor": "726640",
@@ -348,7 +374,8 @@
       "user_level": "Manager",
       "age_days": 113,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to understand which daily reporting or location workflows your team at Travel Leaders Group would most like to see enhanced."
     },
     {
       "visitor": "1168349",
@@ -357,7 +384,8 @@
       "user_level": "Manager",
       "age_days": 115,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to learn how we can better support the location management and reporting needs of your team at Tiger-Rock MAI System."
     },
     {
       "visitor": "394388",
@@ -366,7 +394,8 @@
       "user_level": "Manager",
       "age_days": 126,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to hear which location reports or day-to-day workflows your team at 29th Street Living relies on most."
     },
     {
       "visitor": "1152292",
@@ -375,7 +404,8 @@
       "user_level": "Manager",
       "age_days": 127,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to understand how we can make location management and reporting more efficient for your team at Holiday Inn Express."
     },
     {
       "visitor": "855667",
@@ -384,7 +414,8 @@
       "user_level": "Manager",
       "age_days": 134,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to learn which daily location workflows or reports we can improve for your team at MG Properties Group."
     },
     {
       "visitor": "726565",
@@ -393,7 +424,8 @@
       "user_level": "Manager",
       "age_days": 134,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to hear how we can better support the daily reporting and location management tasks your team depends on at Travel Leaders Group."
     },
     {
       "visitor": "253865",
@@ -402,7 +434,8 @@
       "user_level": "Manager",
       "age_days": 136,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to understand which location reports or day-to-day workflows your team at 29th Street Living would most benefit from improving."
     },
     {
       "visitor": "937539",
@@ -411,7 +444,8 @@
       "user_level": "Manager",
       "age_days": 140,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to learn how we can streamline the location management and reporting workflows your team uses most at Travel Leaders Group."
     },
     {
       "visitor": "977729_mobile",
@@ -420,7 +454,8 @@
       "user_level": "Manager",
       "age_days": 141,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to hear which daily location reports or workflows your team at Anytime Fitness NA would most like to see improved."
     },
     {
       "visitor": "1074527",
@@ -429,7 +464,8 @@
       "user_level": "Manager",
       "age_days": 147,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to understand how we can make the location reports and daily tasks more efficient for your team at Berkshire Hathaway HomeServices."
     },
     {
       "visitor": "965628",
@@ -438,7 +474,8 @@
       "user_level": "Manager",
       "age_days": 148,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to learn which location management workflows or reports consume the most time for your team at Travel Leaders Group."
     },
     {
       "visitor": "946248",
@@ -447,7 +484,8 @@
       "user_level": "Manager",
       "age_days": 150,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to hear how SOCi can better support the day-to-day reporting and location workflows your team relies on at Berkshire Hathaway HomeServices."
     },
     {
       "visitor": "282891",
@@ -456,7 +494,8 @@
       "user_level": "Manager",
       "age_days": 154,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to understand which daily location reports or management tasks we can improve for your team at RPM Living."
     },
     {
       "visitor": "701489",
@@ -465,7 +504,8 @@
       "user_level": "Manager",
       "age_days": 163,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to learn how we can better support the location management and reporting workflows your team depends on at Travel Leaders Group."
     },
     {
       "visitor": "784323",
@@ -474,7 +514,8 @@
       "user_level": "Manager",
       "age_days": 171,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to hear which location reports or day-to-day workflows your team at Willow Bridge Property Company would most benefit from streamlining."
     },
     {
       "visitor": "1151132",
@@ -483,7 +524,8 @@
       "user_level": "Manager",
       "age_days": 174,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to understand how we can make location management and daily reporting more effective for your team at Holiday Inn Express."
     },
     {
       "visitor": "1044819",
@@ -492,7 +534,8 @@
       "user_level": "Manager",
       "age_days": 177,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to learn which location-level workflows or reports your team at Discovery Marketing Group, LLC dba STAT Marketing finds most time-consuming."
     },
     {
       "visitor": "352206",
@@ -501,7 +544,8 @@
       "user_level": "Manager",
       "age_days": 179,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to hear how we can better support the daily reporting and location management tasks your team at Ford depends on."
     },
     {
       "visitor": "302587",
@@ -510,7 +554,8 @@
       "user_level": "Manager",
       "age_days": 195,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to understand which location reports or day-to-day workflows we can improve most for your team at AT&T."
     },
     {
       "visitor": "1118166",
@@ -519,7 +564,8 @@
       "user_level": "Manager",
       "age_days": 197,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to learn how we can make location management and reporting faster and easier for your team at GO Car Wash."
     },
     {
       "visitor": "988325",
@@ -528,7 +574,8 @@
       "user_level": "Manager",
       "age_days": 198,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to hear which daily location workflows or reports your team at JINYA USA would most like to see enhanced."
     },
     {
       "visitor": "882458",
@@ -537,7 +584,8 @@
       "user_level": "Manager",
       "age_days": 202,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to understand how we can streamline the location reports and day-to-day management tasks your team relies on at Anytime Fitness NA."
     },
     {
       "visitor": "1106688",
@@ -546,7 +594,8 @@
       "user_level": "Administrator",
       "age_days": 202,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to discuss how SOCi can drive stronger account-wide governance and ROI for LivCor."
     },
     {
       "visitor": "150251",
@@ -555,7 +604,8 @@
       "user_level": "Manager",
       "age_days": 204,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to learn which location management workflows or reports your team at Adara Communities would most benefit from improving."
     },
     {
       "visitor": "1064803",
@@ -564,7 +614,8 @@
       "user_level": "Manager",
       "age_days": 209,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to hear how we can better support the daily location reporting and management workflows your team at Ford depends on."
     },
     {
       "visitor": "1109844",
@@ -573,7 +624,8 @@
       "user_level": "Manager",
       "age_days": 209,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to understand which location reports or day-to-day workflows we can improve most for your team at Orangetheory Fitness."
     },
     {
       "visitor": "993647",
@@ -582,7 +634,8 @@
       "user_level": "Administrator",
       "age_days": 211,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to discuss how SOCi can strengthen account-wide reporting and governance for Oak Hill Management."
     },
     {
       "visitor": "1066987",
@@ -591,7 +644,8 @@
       "user_level": "Administrator",
       "age_days": 212,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to explore how SOCi can deliver better account-wide ROI and oversight for The Goodman Group."
     },
     {
       "visitor": "1069264",
@@ -600,7 +654,8 @@
       "user_level": "Manager",
       "age_days": 225,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to learn which daily location workflows or reports your team at American Freight (MAFGA) would most like to see streamlined."
     },
     {
       "visitor": "967333",
@@ -609,7 +664,8 @@
       "user_level": "Manager",
       "age_days": 225,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to hear how we can make location management and reporting more efficient for your team at Garner."
     },
     {
       "visitor": "751809",
@@ -618,7 +674,8 @@
       "user_level": "Manager",
       "age_days": 237,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to understand which location reports or day-to-day tasks are taking up the most time for your team at Vetcor."
     },
     {
       "visitor": "82113",
@@ -627,7 +684,8 @@
       "user_level": "Manager",
       "age_days": 246,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to learn which daily location workflows or reports we can improve for your team at Willow Bridge Property Company."
     },
     {
       "visitor": "986987",
@@ -636,7 +694,8 @@
       "user_level": "Manager",
       "age_days": 253,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to hear how we can better support the location management and reporting workflows your team depends on at Balfour Beatty Communities."
     },
     {
       "visitor": "1039308",
@@ -645,7 +704,8 @@
       "user_level": "Manager",
       "age_days": 253,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to understand which location reports or day-to-day workflows your team at The Garrett Companies would most benefit from enhancing."
     },
     {
       "visitor": "1056827",
@@ -654,7 +714,8 @@
       "user_level": "Manager",
       "age_days": 254,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to learn how we can make daily location reporting and management tasks more efficient for your team at Ford."
     },
     {
       "visitor": "982226",
@@ -663,7 +724,8 @@
       "user_level": "Administrator",
       "age_days": 258,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to discuss how SOCi can support account-wide governance and resident experience goals for Elegance Senior Living."
     },
     {
       "visitor": "997798",
@@ -672,7 +734,8 @@
       "user_level": "Manager",
       "age_days": 261,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to hear which location management workflows or reports your team at Scooter's Coffee, LLC finds most time-consuming."
     },
     {
       "visitor": "1040044",
@@ -681,7 +744,8 @@
       "user_level": "Manager",
       "age_days": 261,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to understand how we can streamline the daily location reports and management tasks your team at Burn Boot Camp relies on."
     },
     {
       "visitor": "861912",
@@ -690,7 +754,8 @@
       "user_level": "Manager",
       "age_days": 267,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to learn which location workflows or reporting features would save your team the most time at Travel Leaders Group."
     },
     {
       "visitor": "275555",
@@ -699,7 +764,8 @@
       "user_level": "Administrator",
       "age_days": 272,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to discuss how SOCi can deliver stronger account-wide visibility and governance for Highmark Residential."
     },
     {
       "visitor": "963986",
@@ -708,7 +774,8 @@
       "user_level": "Manager",
       "age_days": 274,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to hear which daily location reports or management workflows your team at Texas Roadhouse Holdings LLC would most like to see improved."
     },
     {
       "visitor": "787997",
@@ -717,7 +784,8 @@
       "user_level": "Manager",
       "age_days": 274,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to understand how we can make location reporting and day-to-day workflows more effective for your team at Berkshire Hathaway HomeServices."
     },
     {
       "visitor": "995199",
@@ -726,7 +794,8 @@
       "user_level": "Manager",
       "age_days": 281,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to learn which location management tasks or reports we can improve for your team at Bryten Management."
     },
     {
       "visitor": "742752",
@@ -735,7 +804,8 @@
       "user_level": "Manager",
       "age_days": 281,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to hear how we can better support the daily reporting and location workflows your team at Travel Leaders Group depends on."
     },
     {
       "visitor": "58052",
@@ -744,7 +814,8 @@
       "user_level": "Manager",
       "age_days": 282,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to understand which location reports or day-to-day management tasks your team at Neighborly would most benefit from streamlining."
     },
     {
       "visitor": "983062",
@@ -753,7 +824,8 @@
       "user_level": "Manager",
       "age_days": 288,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to learn which daily location workflows or reporting features would save your team the most time at Garner."
     },
     {
       "visitor": "836484",
@@ -762,7 +834,8 @@
       "user_level": "Manager",
       "age_days": 296,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to hear how we can make location management and reporting more efficient for your team at Port of Subs."
     },
     {
       "visitor": "1011662",
@@ -771,7 +844,8 @@
       "user_level": "Manager",
       "age_days": 299,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to understand which location reports or daily workflows your team at Kumon finds most time-consuming."
     },
     {
       "visitor": "1024968",
@@ -780,7 +854,8 @@
       "user_level": "Manager",
       "age_days": 307,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to learn how we can better support the daily location management and reporting workflows your team at Anytime Fitness NA depends on."
     },
     {
       "visitor": "722077",
@@ -789,7 +864,8 @@
       "user_level": "Manager",
       "age_days": 308,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to hear which location reports or day-to-day workflows your team at The Learning Experience would most benefit from improving."
     },
     {
       "visitor": "1004334",
@@ -798,7 +874,8 @@
       "user_level": "Manager",
       "age_days": 316,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to understand which daily location management tasks or reports we can streamline for your team at Comparion."
     },
     {
       "visitor": "1013988",
@@ -807,7 +884,8 @@
       "user_level": "Manager",
       "age_days": 321,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to learn how we can make location reporting and daily workflows more effective for your team at Balfour Beatty Communities."
     },
     {
       "visitor": "997727",
@@ -816,7 +894,8 @@
       "user_level": "Manager",
       "age_days": 324,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to hear which location management workflows or reports your team at Berkshire Hathaway HomeServices would most like to see enhanced."
     },
     {
       "visitor": "1004451",
@@ -825,7 +904,8 @@
       "user_level": "Manager",
       "age_days": 324,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to understand which daily location reports or management tasks we can improve for your team at Holiday Inn."
     },
     {
       "visitor": "778285",
@@ -834,7 +914,8 @@
       "user_level": "Administrator",
       "age_days": 336,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to discuss how SOCi can strengthen account-wide ROI and governance for LivCor."
     },
     {
       "visitor": "943323",
@@ -843,7 +924,8 @@
       "user_level": "Manager",
       "age_days": 344,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to learn which location reports or daily management workflows your team at Drybar relies on most."
     },
     {
       "visitor": "509081",
@@ -852,7 +934,8 @@
       "user_level": "Manager",
       "age_days": 344,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to hear how we can make location management and reporting faster and easier for your team at Quick Quack Car Wash."
     },
     {
       "visitor": "712794",
@@ -861,7 +944,8 @@
       "user_level": "Manager",
       "age_days": 350,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to understand which daily location workflows or reports we can improve for your team at The Learning Experience."
     },
     {
       "visitor": "888897",
@@ -870,7 +954,8 @@
       "user_level": "Unknown",
       "age_days": 350,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to learn what prompted you to request time with us and how SOCi can best support your team at Wing Zone."
     },
     {
       "visitor": "878737",
@@ -879,7 +964,8 @@
       "user_level": "Manager",
       "age_days": 354,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to hear which location management tasks or reports your team at Sky Zone would most benefit from streamlining."
     },
     {
       "visitor": "667093",
@@ -888,7 +974,8 @@
       "user_level": "Manager",
       "age_days": 359,
       "sla": "red",
-      "area": "Reporting Suite"
+      "area": "Reporting Suite",
+      "suggested_opener": "Hi, I wanted to personally reach out because you asked to connect with our Product team, and I'd love to understand which daily location workflows or reports we can improve for your team at Right At Home."
     }
   ],
   "level_counts": {
@@ -976,7 +1063,11 @@
       2
     ]
   ],
-  "themes": [],
+  "themes": [
+    "Long wait times across a broad mix of industries signal high demand for product dialogue \u2014 more than two-thirds of contacts have been waiting over 100 days, with several exceeding 300, suggesting the current feedback loop between customers and Product needs to be faster and more structured.",
+    "Managers dominate the backlog \u2014 nearly every contact holds a Manager-level role, pointing to a consistent gap in how SOCi surfaces actionable location-level reporting and workflow improvements for mid-tier operators who run day-to-day multi-location tasks.",
+    "Several accounts appear multiple times \u2014 including Travel Leaders Group, Berkshire Hathaway HomeServices, Avenue5 Residential, Holiday Inn Express, and Anytime Fitness NA \u2014 indicating that unresolved product themes within these organizations are broad enough to affect multiple stakeholders and deserve prioritized, consolidated discovery conversations."
+  ],
   "live_count": 1,
   "planned_count": 23
 }
