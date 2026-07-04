@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03 22:34 UTC",
+  "generated_at": "2026-07-04 00:09 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -112,870 +112,870 @@
       "account": "Bruster's Real Ice Cream",
       "date": "2026-06-25",
       "user_level": "Manager",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear how the reporting and location management workflows you run day-to-day for Bruster's Real Ice Cream are going, and where we can save you time."
+      "suggested_opener": "I'd love to connect with you about how SOCi can help you manage your Bruster's locations more efficiently day to day."
     },
     {
       "visitor": "1176040",
       "account": "Subway - North America",
       "date": "2026-06-23",
       "user_level": "Manager",
-      "age_days": 10,
+      "age_days": 11,
       "sla": "amber",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn which location reports or daily workflows across your Subway North America portfolio are taking more time than they should."
+      "suggested_opener": "I wanted to reach out to see how SOCi is working for your Subway locations and where we can make your daily reporting and management smoother."
     },
     {
       "visitor": "293538",
       "account": "Pet Supplies Plus",
       "date": "2026-06-21",
       "user_level": "Manager",
-      "age_days": 12,
+      "age_days": 13,
       "sla": "amber",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear which day-to-day location management or reporting tasks across Pet Supplies Plus are creating the most friction for you."
+      "suggested_opener": "I'm eager to chat about how SOCi can save you time managing your Pet Supplies Plus locations and the reports you rely on."
     },
     {
       "visitor": "777759",
       "account": "E.C. Barton",
       "date": "2026-06-16",
       "user_level": "Manager",
-      "age_days": 17,
+      "age_days": 18,
       "sla": "amber",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn how the reports and location workflows you manage at E.C. Barton are fitting into your daily routine, and where we might be able to streamline things."
+      "suggested_opener": "I'd love to learn more about what you're seeing across your E.C. Barton locations and where SOCi can better support your day-to-day workflow."
     },
     {
       "visitor": "1226457",
       "account": "Holiday Inn Express",
       "date": "2026-06-13",
       "user_level": "Manager",
-      "age_days": 20,
+      "age_days": 21,
       "sla": "amber",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear how the location reporting and daily management workflows you handle for Holiday Inn Express properties are working for you right now."
+      "suggested_opener": "I wanted to connect and hear how SOCi is fitting into your daily management of Holiday Inn Express locations and where we can improve."
     },
     {
       "visitor": "1228726",
       "account": "Cruise Planners | CP Elite",
       "date": "2026-06-09",
       "user_level": "Manager",
-      "age_days": 24,
+      "age_days": 25,
       "sla": "amber",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn which day-to-day reporting or location management tasks are taking the most time for you at Cruise Planners."
+      "suggested_opener": "I'd love to catch up on how SOCi is working for your Cruise Planners locations and what would make your day-to-day management easier."
     },
     {
       "visitor": "977730",
       "account": "Travel Leaders Group",
       "date": "2026-06-05",
       "user_level": "Manager",
-      "age_days": 28,
+      "age_days": 29,
       "sla": "amber",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear how the location reports and daily workflows you rely on at Travel Leaders Group are serving your needs, and where we can do better."
+      "suggested_opener": "I wanted to reach out to hear how SOCi is supporting your Travel Leaders Group locations and where we can help save you more time."
     },
     {
       "visitor": "1034185",
       "account": "Avenue5 Residential",
       "date": "2026-06-04",
       "user_level": "Manager",
-      "age_days": 29,
+      "age_days": 30,
       "sla": "amber",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn which day-to-day reporting or location management tasks across your Avenue5 Residential portfolio are creating the most friction for you."
+      "suggested_opener": "I'd love to connect about how SOCi can better support the reports and location management you handle every day at Avenue5 Residential."
     },
     {
       "visitor": "1211028",
       "account": "Neighborly",
       "date": "2026-06-03",
       "user_level": "Manager",
-      "age_days": 30,
-      "sla": "amber",
+      "age_days": 31,
+      "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear how the location management and reporting workflows you handle day-to-day for Neighborly are going, and where we might save you time."
+      "suggested_opener": "I wanted to check in on how SOCi is working for your Neighborly locations and what we can do to make your daily workflow more efficient."
     },
     {
       "visitor": "1212480",
       "account": "Holiday Inn",
       "date": "2026-05-18",
       "user_level": "Manager",
-      "age_days": 46,
+      "age_days": 47,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn which daily reporting or location management workflows at Holiday Inn are taking longer than they should, and how we can help."
+      "suggested_opener": "I'd love to hear how SOCi has been fitting into your day-to-day management of Holiday Inn locations and where we can do better."
     },
     {
       "visitor": "988710",
       "account": "Cruise Planners | CP Elite",
       "date": "2026-05-14",
       "user_level": "Manager",
-      "age_days": 50,
+      "age_days": 51,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear how things have evolved since your initial request, and make sure the day-to-day reporting and location workflows at Cruise Planners are working well for you."
+      "suggested_opener": "I wanted to reach out to reconnect about how SOCi is serving your Cruise Planners locations and what improvements would make the biggest difference for you."
     },
     {
       "visitor": "532133",
       "account": "CONAM Management Corporation",
       "date": "2026-05-04",
       "user_level": "Administrator",
-      "age_days": 60,
+      "age_days": 61,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and explore how SOCi can drive stronger account-wide performance and governance outcomes for CONAM Management Corporation."
+      "suggested_opener": "I wanted to connect to discuss how SOCi can deliver measurable, account-wide value for CONAM Management Corporation and support stronger governance across your portfolio."
     },
     {
       "visitor": "433262",
       "account": "Forty Winks | The Pistol",
       "date": "2026-04-20",
       "user_level": "Manager",
-      "age_days": 74,
+      "age_days": 75,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear which day-to-day location management or reporting tasks at Forty Winks are creating the biggest time drains for you."
+      "suggested_opener": "I'd love to chat about how SOCi can streamline the day-to-day location management and reporting you do for Forty Winks | The Pistol."
     },
     {
       "visitor": "590748_mobile",
       "account": "The Lash Lounge",
       "date": "2026-04-16",
       "user_level": "Manager",
-      "age_days": 78,
+      "age_days": 79,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn how the location reports and daily workflows you manage across The Lash Lounge are fitting into your routine, and where we can improve things."
+      "suggested_opener": "I wanted to reach out to hear how SOCi is supporting your Lash Lounge locations and where we can make your daily management more efficient."
     },
     {
       "visitor": "202522",
       "account": "Berkshire Hathaway HomeServices",
       "date": "2026-04-13",
       "user_level": "Manager",
-      "age_days": 81,
+      "age_days": 82,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear how the day-to-day reporting and location management workflows at Berkshire Hathaway HomeServices are serving your needs right now."
+      "suggested_opener": "I'd love to connect about how SOCi can better support the reporting and location oversight you manage across Berkshire Hathaway HomeServices."
     },
     {
       "visitor": "1197112",
       "account": "Capital Square Living",
       "date": "2026-04-13",
       "user_level": "Manager",
-      "age_days": 81,
+      "age_days": 82,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn which location management or reporting tasks across your Capital Square Living portfolio are taking the most time each day."
+      "suggested_opener": "I wanted to check in on how SOCi is working for your Capital Square Living locations and where we can help you save time on the reports you run regularly."
     },
     {
       "visitor": "1131015",
       "account": "Bad Ass Coffee of Hawaii",
       "date": "2026-04-11",
       "user_level": "Manager",
-      "age_days": 83,
+      "age_days": 84,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear how the daily reporting and location management workflows you handle for Bad Ass Coffee of Hawaii are going, and where we can save you time."
+      "suggested_opener": "I'd love to hear what's been on your mind about SOCi and how we can make managing your Bad Ass Coffee of Hawaii locations easier."
     },
     {
       "visitor": "138736",
       "account": "Avenue5 Residential",
       "date": "2026-04-10",
       "user_level": "Manager",
-      "age_days": 84,
+      "age_days": 85,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn how things are going across your Avenue5 Residential locations and where the day-to-day workflows could be smoother for you."
+      "suggested_opener": "I wanted to reconnect to understand how SOCi is fitting into your daily Avenue5 Residential workflow and where we can make the biggest improvement."
     },
     {
       "visitor": "511583",
       "account": "Ricky's All Day Grill",
       "date": "2026-04-08",
       "user_level": "Manager",
-      "age_days": 86,
+      "age_days": 87,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear which location management or reporting tasks are creating the most friction in your day-to-day work at Ricky's All Day Grill."
+      "suggested_opener": "I'd love to catch up on how SOCi has been supporting your Ricky's All Day Grill locations and what would make your day-to-day work smoother."
     },
     {
       "visitor": "987217",
       "account": "Travel Leaders Group",
       "date": "2026-04-05",
       "user_level": "Manager",
-      "age_days": 89,
+      "age_days": 90,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear how the reporting and location workflows you rely on at Travel Leaders Group are working for you, and where we can make your day easier."
+      "suggested_opener": "I wanted to reach out to hear what's been top of mind for you at Travel Leaders Group and how SOCi can better support your location management."
     },
     {
       "visitor": "943442",
       "account": "Elements Massage",
       "date": "2026-04-02",
       "user_level": "Manager",
-      "age_days": 92,
+      "age_days": 93,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn which day-to-day location reporting or management workflows at Elements Massage are taking more time than they should."
+      "suggested_opener": "I'd love to connect about how SOCi can make managing your Elements Massage locations and running your regular reports faster and easier."
     },
     {
       "visitor": "1167712",
       "account": "Orangetheory Fitness",
       "date": "2026-03-31",
       "user_level": "Manager",
-      "age_days": 94,
+      "age_days": 95,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear how the day-to-day location management and reporting workflows across your Orangetheory Fitness portfolio are going, and where we can help."
+      "suggested_opener": "I wanted to check in on how SOCi is working for your Orangetheory Fitness locations and what would most improve your day-to-day experience."
     },
     {
       "visitor": "181342",
       "account": "Berkshire Hathaway HomeServices",
       "date": "2026-03-28",
       "user_level": "Manager",
-      "age_days": 97,
+      "age_days": 98,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn how the location reports and daily workflows you manage at Berkshire Hathaway HomeServices are serving you, and where there's room to improve."
+      "suggested_opener": "I'd love to reconnect and hear how SOCi has been serving your Berkshire Hathaway HomeServices locations and where we can better support your workflow."
     },
     {
       "visitor": "1007481",
       "account": "Vetcor",
       "date": "2026-03-24",
       "user_level": "Manager",
-      "age_days": 101,
+      "age_days": 102,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear which day-to-day reporting or location management tasks across Vetcor are creating the most friction for you right now."
+      "suggested_opener": "I wanted to reach out to understand how SOCi is supporting your Vetcor locations and where we can save you more time on reporting and management."
     },
     {
       "visitor": "1165910",
       "account": "TWO MEN AND A TRUCK",
       "date": "2026-03-12",
       "user_level": "Manager",
-      "age_days": 113,
+      "age_days": 114,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn how the location management and reporting workflows you handle daily for TWO MEN AND A TRUCK are going, and where we can save you time."
+      "suggested_opener": "I'd love to connect about how SOCi can make your day-to-day management of TWO MEN AND A TRUCK locations more efficient and less time-consuming."
     },
     {
       "visitor": "993200",
       "account": "BrightStar Care ",
       "date": "2026-03-12",
       "user_level": "Manager",
-      "age_days": 113,
+      "age_days": 114,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear which day-to-day reports or location management tasks at BrightStar Care are taking the most time, and how we can streamline them."
+      "suggested_opener": "I wanted to check in on how SOCi is working for your BrightStar Care locations and what we can do to streamline the reports and tasks you handle daily."
     },
     {
       "visitor": "726640",
       "account": "Travel Leaders Group",
       "date": "2026-03-11",
       "user_level": "Manager",
-      "age_days": 114,
+      "age_days": 115,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn how the daily location reporting and management workflows at Travel Leaders Group are working for you, and where we can do better."
+      "suggested_opener": "I'd love to hear what's been on your mind about SOCi at Travel Leaders Group and how we can better support your location management workflow."
     },
     {
       "visitor": "1168349",
       "account": "Tiger-Rock MAI System",
       "date": "2026-03-09",
       "user_level": "Manager",
-      "age_days": 116,
+      "age_days": 117,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear how the day-to-day location management and reporting workflows at Tiger-Rock MAI System are fitting into your routine right now."
+      "suggested_opener": "I wanted to reach out to learn how SOCi is fitting into your Tiger-Rock MAI System location management and where we can make daily tasks easier."
     },
     {
       "visitor": "394388",
       "account": "29th Street Living",
       "date": "2026-02-26",
       "user_level": "Manager",
-      "age_days": 127,
+      "age_days": 128,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn which location management or reporting tasks are creating the most day-to-day friction for you at 29th Street Living."
+      "suggested_opener": "I'd love to connect about how SOCi can better support your day-to-day management of 29th Street Living locations and the reports you rely on."
     },
     {
       "visitor": "1152292",
       "account": "Holiday Inn Express",
       "date": "2026-02-25",
       "user_level": "Manager",
-      "age_days": 128,
+      "age_days": 129,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear how the reporting and location workflows you manage for Holiday Inn Express have been going, and where we can make things easier for you."
+      "suggested_opener": "I wanted to check in on how SOCi has been supporting your Holiday Inn Express locations and what would make the biggest difference in your daily workflow."
     },
     {
       "visitor": "855667",
       "account": "MG Properties Group",
       "date": "2026-02-18",
       "user_level": "Manager",
-      "age_days": 135,
+      "age_days": 136,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn which day-to-day location management or reporting tasks across your MG Properties Group portfolio are taking the most time."
+      "suggested_opener": "I'd love to hear how SOCi is working across your MG Properties Group locations and where we can help you save time on reporting and management."
     },
     {
       "visitor": "726565",
       "account": "Travel Leaders Group",
       "date": "2026-02-18",
       "user_level": "Manager",
-      "age_days": 135,
+      "age_days": 136,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear how the location reports and daily workflows you rely on at Travel Leaders Group are serving your needs, and where we can improve."
+      "suggested_opener": "I wanted to reconnect to understand what's most important to you at Travel Leaders Group and how SOCi can better serve your location management needs."
     },
     {
       "visitor": "253865",
       "account": "29th Street Living",
       "date": "2026-02-16",
       "user_level": "Manager",
-      "age_days": 137,
+      "age_days": 138,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn how things are going with the day-to-day location and reporting workflows at 29th Street Living, and where we can save you time."
+      "suggested_opener": "I'd love to catch up on how SOCi is fitting into your 29th Street Living workflow and what improvements would matter most to you."
     },
     {
       "visitor": "937539",
       "account": "Travel Leaders Group",
       "date": "2026-02-12",
       "user_level": "Manager",
-      "age_days": 141,
+      "age_days": 142,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear which location management or reporting workflows at Travel Leaders Group are creating the most friction in your daily work."
+      "suggested_opener": "I wanted to reach out to hear how SOCi is supporting your Travel Leaders Group locations and where we can make your day-to-day reporting easier."
     },
     {
       "visitor": "977729_mobile",
       "account": "Anytime Fitness NA ",
       "date": "2026-02-11",
       "user_level": "Manager",
-      "age_days": 142,
+      "age_days": 143,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn how the day-to-day location reporting and management tasks across your Anytime Fitness portfolio are fitting into your routine."
+      "suggested_opener": "I'd love to connect about how SOCi can streamline the daily location management and reporting you handle across Anytime Fitness."
     },
     {
       "visitor": "1074527",
       "account": "Berkshire Hathaway HomeServices",
       "date": "2026-02-05",
       "user_level": "Manager",
-      "age_days": 148,
+      "age_days": 149,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear how the daily reporting and location management workflows at Berkshire Hathaway HomeServices are working for you, and where we can improve things."
+      "suggested_opener": "I wanted to check in on how SOCi has been working for your Berkshire Hathaway HomeServices locations and where we can better support your workflow."
     },
     {
       "visitor": "965628",
       "account": "Travel Leaders Group",
       "date": "2026-02-04",
       "user_level": "Manager",
-      "age_days": 149,
+      "age_days": 150,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn which day-to-day location management or reporting tasks at Travel Leaders Group are taking the most time and how we can help."
+      "suggested_opener": "I'd love to reconnect with you at Travel Leaders Group to hear what's been top of mind and how SOCi can better serve your daily needs."
     },
     {
       "visitor": "946248",
       "account": "Berkshire Hathaway HomeServices",
       "date": "2026-02-02",
       "user_level": "Manager",
-      "age_days": 151,
+      "age_days": 152,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear how the location reports and daily workflows you handle at Berkshire Hathaway HomeServices are going, and where there's room to save you time."
+      "suggested_opener": "I wanted to reach out to hear how SOCi is fitting into your Berkshire Hathaway HomeServices location management and where we can save you more time."
     },
     {
       "visitor": "282891",
       "account": "RPM Living",
       "date": "2026-01-29",
       "user_level": "Manager",
-      "age_days": 155,
+      "age_days": 156,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn which day-to-day reporting or location management workflows across your RPM Living portfolio could be smoother for you."
+      "suggested_opener": "I'd love to connect about how SOCi can better support the day-to-day reporting and location management you do across RPM Living."
     },
     {
       "visitor": "701489",
       "account": "Travel Leaders Group",
       "date": "2026-01-20",
       "user_level": "Manager",
-      "age_days": 164,
+      "age_days": 165,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear how the daily location management and reporting workflows at Travel Leaders Group are serving your needs right now."
+      "suggested_opener": "I wanted to check in on how SOCi is working for your Travel Leaders Group locations and what would make your daily management more efficient."
     },
     {
       "visitor": "784323",
       "account": "Willow Bridge Property Company ",
       "date": "2026-01-12",
       "user_level": "Manager",
-      "age_days": 172,
+      "age_days": 173,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn which location management or reporting tasks are creating the biggest day-to-day friction for you at Willow Bridge Property Company."
+      "suggested_opener": "I'd love to hear how SOCi has been supporting your Willow Bridge Property Company locations and where we can make your workflow smoother."
     },
     {
       "visitor": "1151132",
       "account": "Holiday Inn Express",
       "date": "2026-01-09",
       "user_level": "Manager",
-      "age_days": 175,
+      "age_days": 176,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear how the reporting and location management workflows you handle for Holiday Inn Express have been going after your long wait, and make sure we address your needs."
+      "suggested_opener": "I wanted to reconnect to understand how SOCi is fitting into your Holiday Inn Express day-to-day management and what we can improve for you."
     },
     {
       "visitor": "1044819",
       "account": "Discovery Marketing Group, LLC dba STAT Marketing",
       "date": "2026-01-06",
       "user_level": "Manager",
-      "age_days": 178,
+      "age_days": 179,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn how the day-to-day location reporting and management workflows at Discovery Marketing Group are fitting into your routine."
+      "suggested_opener": "I'd love to connect about how SOCi can better support the location management and reporting workflows you handle at Discovery Marketing Group."
     },
     {
       "visitor": "352206",
       "account": "Ford",
       "date": "2026-01-04",
       "user_level": "Manager",
-      "age_days": 180,
+      "age_days": 181,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear which daily location reporting or management workflows across your Ford locations are taking the most time and where we can help."
+      "suggested_opener": "I wanted to reach out to hear how SOCi is working across your Ford locations and where we can make your day-to-day management more efficient."
     },
     {
       "visitor": "302587",
       "account": "AT&T",
       "date": "2025-12-19",
       "user_level": "Manager",
-      "age_days": 196,
+      "age_days": 197,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn how the day-to-day location management and reporting workflows at AT&T are going, and where we can make your work easier."
+      "suggested_opener": "I'd love to connect about how SOCi can better support the reporting and location management you handle across AT&T locations."
     },
     {
       "visitor": "1118166",
       "account": "GO Car Wash",
       "date": "2025-12-17",
       "user_level": "Manager",
-      "age_days": 198,
+      "age_days": 199,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear which location management or reporting tasks at GO Car Wash are creating the most friction in your daily workflow."
+      "suggested_opener": "I wanted to check in on how SOCi has been working for your GO Car Wash locations and where we can save you more time on daily tasks."
     },
     {
       "visitor": "988325",
       "account": "JINYA USA",
       "date": "2025-12-16",
       "user_level": "Manager",
-      "age_days": 199,
+      "age_days": 200,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn how the day-to-day location reporting and management workflows at JINYA USA are working for you right now."
+      "suggested_opener": "I'd love to hear how SOCi is fitting into your day-to-day management of JINYA USA locations and what would make the biggest difference for you."
     },
     {
       "visitor": "882458",
       "account": "Anytime Fitness NA ",
       "date": "2025-12-12",
       "user_level": "Manager",
-      "age_days": 203,
+      "age_days": 204,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear how the daily location management and reporting workflows across your Anytime Fitness portfolio have been going, and where we can save you time."
+      "suggested_opener": "I wanted to reconnect to understand what's most important to you at Anytime Fitness and how SOCi can better support your daily workflow."
     },
     {
       "visitor": "1106688",
       "account": "LivCor",
       "date": "2025-12-12",
       "user_level": "Administrator",
-      "age_days": 203,
+      "age_days": 204,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and explore how SOCi can strengthen account-wide performance, reporting governance, and operational efficiency for LivCor."
+      "suggested_opener": "I wanted to connect to discuss how SOCi can drive account-wide ROI and support governance across your entire LivCor portfolio."
     },
     {
       "visitor": "150251",
       "account": "Adara Communities ",
       "date": "2025-12-10",
       "user_level": "Manager",
-      "age_days": 205,
+      "age_days": 206,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn which day-to-day location management or reporting tasks at Adara Communities are taking the most time for you."
+      "suggested_opener": "I'd love to chat about how SOCi can make managing your Adara Communities locations and the reports you run day to day faster and easier."
     },
     {
       "visitor": "1064803",
       "account": "Ford",
       "date": "2025-12-05",
       "user_level": "Manager",
-      "age_days": 210,
+      "age_days": 211,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear how the daily location reporting and management workflows across your Ford portfolio are serving your needs, and where we can do better."
+      "suggested_opener": "I wanted to reach out to hear how SOCi is supporting your Ford locations and where we can better streamline your daily management workflow."
     },
     {
       "visitor": "1109844",
       "account": "Orangetheory Fitness",
       "date": "2025-12-05",
       "user_level": "Manager",
-      "age_days": 210,
+      "age_days": 211,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn how the day-to-day location management and reporting workflows at Orangetheory Fitness have been going, and where we can make things easier for you."
+      "suggested_opener": "I'd love to connect about how SOCi is working for your Orangetheory Fitness locations and what would most improve your day-to-day experience."
     },
     {
       "visitor": "993647",
       "account": "Oak Hill Management",
       "date": "2025-12-03",
       "user_level": "Administrator",
-      "age_days": 212,
+      "age_days": 213,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and explore how SOCi can support stronger governance, visibility, and account-wide reporting outcomes for Oak Hill Management."
+      "suggested_opener": "I wanted to connect to discuss how SOCi can support stronger governance and deliver measurable account-wide results for Oak Hill Management."
     },
     {
       "visitor": "1066987",
       "account": "The Goodman Group",
       "date": "2025-12-02",
       "user_level": "Administrator",
-      "age_days": 213,
+      "age_days": 214,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and discuss how SOCi can help The Goodman Group drive better account-wide consistency, oversight, and ROI across your locations."
+      "suggested_opener": "I'd love to connect to talk about how SOCi can drive portfolio-wide efficiency and accountability across The Goodman Group's locations."
     },
     {
       "visitor": "1069264",
       "account": "American Freight (MAFGA)",
       "date": "2025-11-19",
       "user_level": "Manager",
-      "age_days": 226,
+      "age_days": 227,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear which day-to-day location management or reporting tasks at American Freight are creating the most friction for you right now."
+      "suggested_opener": "I wanted to reach out to hear how SOCi is fitting into your American Freight location management and where we can make daily reporting easier."
     },
     {
       "visitor": "967333",
       "account": "Garner",
       "date": "2025-11-19",
       "user_level": "Manager",
-      "age_days": 226,
+      "age_days": 227,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn how the daily location reporting and management workflows at Garner are fitting into your routine, and where we can help."
+      "suggested_opener": "I'd love to connect about how SOCi can better support the day-to-day location management and reporting you handle at Garner."
     },
     {
       "visitor": "751809",
       "account": "Vetcor",
       "date": "2025-11-07",
       "user_level": "Manager",
-      "age_days": 238,
+      "age_days": 239,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear how things have progressed since your initial request and make sure the day-to-day location and reporting workflows at Vetcor are working well for you."
+      "suggested_opener": "I wanted to check in on how SOCi has been working for your Vetcor locations and what improvements would make the most difference in your daily workflow."
     },
     {
       "visitor": "82113",
       "account": "Willow Bridge Property Company ",
       "date": "2025-10-29",
       "user_level": "Manager",
-      "age_days": 247,
+      "age_days": 248,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn which day-to-day location management or reporting workflows at Willow Bridge Property Company are still creating friction, and how we can resolve them."
+      "suggested_opener": "I'd love to reconnect to understand how SOCi is supporting your Willow Bridge Property Company locations and where we can save you more time."
     },
     {
       "visitor": "986987",
       "account": "Balfour Beatty Communities ",
       "date": "2025-10-22",
       "user_level": "Manager",
-      "age_days": 254,
+      "age_days": 255,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear how the daily location management and reporting workflows across your Balfour Beatty Communities portfolio are going, and where we can save you time."
+      "suggested_opener": "I wanted to reach out to hear how SOCi is fitting into your Balfour Beatty Communities workflow and where we can make daily management more efficient."
     },
     {
       "visitor": "1039308",
       "account": "The Garrett Companies",
       "date": "2025-10-22",
       "user_level": "Manager",
-      "age_days": 254,
+      "age_days": 255,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn which location management or reporting tasks at The Garrett Companies are taking the most time in your day-to-day work."
+      "suggested_opener": "I'd love to connect about how SOCi can better support the location management and reporting you handle day to day at The Garrett Companies."
     },
     {
       "visitor": "1056827",
       "account": "Ford",
       "date": "2025-10-21",
       "user_level": "Manager",
-      "age_days": 255,
+      "age_days": 256,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear how the day-to-day reporting and location management workflows across your Ford locations have been going, and where we can make things easier."
+      "suggested_opener": "I wanted to check in on how SOCi has been working across your Ford locations and what we can do to make your daily workflow smoother."
     },
     {
       "visitor": "982226",
       "account": "Elegance Senior Living",
       "date": "2025-10-17",
       "user_level": "Administrator",
-      "age_days": 259,
+      "age_days": 260,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and explore how SOCi can help Elegance Senior Living achieve stronger account-wide visibility, governance, and measurable ROI across all locations."
+      "suggested_opener": "I wanted to connect to discuss how SOCi can deliver meaningful account-wide value and support governance across Elegance Senior Living's portfolio."
     },
     {
       "visitor": "997798",
       "account": "Scooter's Coffee, LLC",
       "date": "2025-10-14",
       "user_level": "Manager",
-      "age_days": 262,
+      "age_days": 263,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn how the daily location reporting and management workflows at Scooter's Coffee are fitting into your routine right now."
+      "suggested_opener": "I'd love to hear how SOCi has been fitting into your day-to-day management of Scooter's Coffee locations and what we can improve for you."
     },
     {
       "visitor": "1040044",
       "account": "Burn Boot Camp",
       "date": "2025-10-14",
       "user_level": "Manager",
-      "age_days": 262,
+      "age_days": 263,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear which day-to-day location management or reporting tasks at Burn Boot Camp are creating the most friction for you."
+      "suggested_opener": "I wanted to reach out to understand how SOCi is supporting your Burn Boot Camp locations and where we can make your daily management easier."
     },
     {
       "visitor": "861912",
       "account": "Travel Leaders Group",
       "date": "2025-10-08",
       "user_level": "Manager",
-      "age_days": 268,
+      "age_days": 269,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear how the day-to-day location reporting and management workflows at Travel Leaders Group have been going over the past several months, and make sure we address your needs."
+      "suggested_opener": "I'd love to reconnect to hear what's been top of mind at Travel Leaders Group and how SOCi can better support your location management workflow."
     },
     {
       "visitor": "275555",
       "account": "Highmark Residential",
       "date": "2025-10-03",
       "user_level": "Administrator",
-      "age_days": 273,
+      "age_days": 274,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and explore how SOCi can drive stronger account-wide performance, reporting consistency, and governance for Highmark Residential."
+      "suggested_opener": "I wanted to connect to talk about how SOCi can strengthen account-wide performance and governance across Highmark Residential's full portfolio."
     },
     {
       "visitor": "963986",
       "account": "Texas Roadhouse Holdings LLC",
       "date": "2025-10-01",
       "user_level": "Manager",
-      "age_days": 275,
+      "age_days": 276,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn how the daily location management and reporting workflows across your Texas Roadhouse portfolio are going, and where we can save you time."
+      "suggested_opener": "I'd love to connect about how SOCi can better support the daily reporting and location management you handle across Texas Roadhouse locations."
     },
     {
       "visitor": "787997",
       "account": "Berkshire Hathaway HomeServices",
       "date": "2025-10-01",
       "user_level": "Manager",
-      "age_days": 275,
+      "age_days": 276,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear how the day-to-day reporting and location management workflows at Berkshire Hathaway HomeServices are working for you, and where there's room to improve."
+      "suggested_opener": "I wanted to reach out to hear how SOCi has been working for your Berkshire Hathaway HomeServices locations and where we can make the biggest improvement."
     },
     {
       "visitor": "995199",
       "account": "Bryten Management",
       "date": "2025-09-24",
       "user_level": "Manager",
-      "age_days": 282,
+      "age_days": 283,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn which location management or reporting tasks are creating the most day-to-day friction for you at Bryten Management."
+      "suggested_opener": "I'd love to chat about how SOCi can streamline the day-to-day location management and reporting you do at Bryten Management."
     },
     {
       "visitor": "742752",
       "account": "Travel Leaders Group",
       "date": "2025-09-24",
       "user_level": "Manager",
-      "age_days": 282,
+      "age_days": 283,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear how the daily location reporting and management workflows at Travel Leaders Group have been going, and what we can do to make your work easier."
+      "suggested_opener": "I wanted to check in on how SOCi is fitting into your Travel Leaders Group workflow and what would make your daily management more efficient."
     },
     {
       "visitor": "58052",
       "account": "Neighborly",
       "date": "2025-09-23",
       "user_level": "Manager",
-      "age_days": 283,
+      "age_days": 284,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn how the day-to-day location management and reporting workflows at Neighborly have evolved, and make sure we address what prompted your original request."
+      "suggested_opener": "I'd love to reconnect to understand how SOCi is supporting your Neighborly locations and where we can save you more time on daily tasks."
     },
     {
       "visitor": "983062",
       "account": "Garner",
       "date": "2025-09-17",
       "user_level": "Manager",
-      "age_days": 289,
+      "age_days": 290,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear how the daily location reporting and management workflows at Garner have been going, and where we can help you save time."
+      "suggested_opener": "I wanted to reach out to hear how SOCi has been working for your Garner locations and what improvements would matter most to you."
     },
     {
       "visitor": "836484",
       "account": "Port of Subs",
       "date": "2025-09-09",
       "user_level": "Manager",
-      "age_days": 297,
+      "age_days": 298,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn which day-to-day location management or reporting tasks at Port of Subs are taking the most time and how we can streamline them."
+      "suggested_opener": "I'd love to connect about how SOCi can make managing your Port of Subs locations and running your regular reports faster and easier."
     },
     {
       "visitor": "1011662",
       "account": "Kumon",
       "date": "2025-09-06",
       "user_level": "Manager",
-      "age_days": 300,
+      "age_days": 301,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear how the daily location management and reporting workflows across your Kumon locations are working for you right now."
+      "suggested_opener": "I wanted to check in on how SOCi has been supporting your Kumon locations and where we can better streamline your day-to-day management."
     },
     {
       "visitor": "1024968",
       "account": "Anytime Fitness NA ",
       "date": "2025-08-29",
       "user_level": "Manager",
-      "age_days": 308,
+      "age_days": 309,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn how the day-to-day location reporting and management workflows across your Anytime Fitness portfolio have been going over the past several months, and where we can help."
+      "suggested_opener": "I'd love to reconnect to understand how SOCi is fitting into your Anytime Fitness daily workflow and what we can do to improve your experience."
     },
     {
       "visitor": "722077",
       "account": "The Learning Experience",
       "date": "2025-08-28",
       "user_level": "Manager",
-      "age_days": 309,
+      "age_days": 310,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear which location management or reporting tasks at The Learning Experience are creating the most friction in your daily work."
+      "suggested_opener": "I wanted to reach out to hear how SOCi is working for your Learning Experience locations and where we can make your day-to-day management smoother."
     },
     {
       "visitor": "1004334",
       "account": "Comparion",
       "date": "2025-08-20",
       "user_level": "Manager",
-      "age_days": 317,
+      "age_days": 318,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn how the day-to-day location reporting and management workflows at Comparion are fitting into your routine, and where we can save you time."
+      "suggested_opener": "I'd love to connect about how SOCi can better support the location reporting and management you handle day to day at Comparion."
     },
     {
       "visitor": "1013988",
       "account": "Balfour Beatty Communities ",
       "date": "2025-08-15",
       "user_level": "Manager",
-      "age_days": 322,
+      "age_days": 323,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear how the daily location management and reporting workflows across your Balfour Beatty Communities portfolio have been going since your initial request."
+      "suggested_opener": "I wanted to check in on how SOCi has been fitting into your Balfour Beatty Communities workflow and what improvements would make the biggest difference."
     },
     {
       "visitor": "997727",
       "account": "Berkshire Hathaway HomeServices",
       "date": "2025-08-12",
       "user_level": "Manager",
-      "age_days": 325,
+      "age_days": 326,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn which day-to-day reporting or location management workflows at Berkshire Hathaway HomeServices are still creating friction, and how we can resolve them."
+      "suggested_opener": "I'd love to reconnect to hear how SOCi is supporting your Berkshire Hathaway HomeServices locations and what we can do to better serve your daily needs."
     },
     {
       "visitor": "1004451",
       "account": "Holiday Inn",
       "date": "2025-08-12",
       "user_level": "Manager",
-      "age_days": 325,
+      "age_days": 326,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear how the day-to-day location reporting and management workflows at Holiday Inn have been going over the past several months, and what we can do to help."
+      "suggested_opener": "I wanted to reach out to understand how SOCi has been working for your Holiday Inn locations and where we can help make daily management more efficient."
     },
     {
       "visitor": "778285",
       "account": "LivCor",
       "date": "2025-07-31",
       "user_level": "Administrator",
-      "age_days": 337,
+      "age_days": 338,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and explore how SOCi can continue driving account-wide efficiency, reporting governance, and measurable ROI for LivCor at scale."
+      "suggested_opener": "I wanted to connect to discuss how SOCi can support account-wide governance and drive measurable ROI across LivCor's full portfolio."
     },
     {
       "visitor": "943323",
       "account": "Drybar",
       "date": "2025-07-23",
       "user_level": "Manager",
-      "age_days": 345,
+      "age_days": 346,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn which day-to-day location management or reporting tasks at Drybar are taking the most time, and how we can make your workflow smoother."
+      "suggested_opener": "I'd love to chat about how SOCi can streamline the day-to-day location management and reporting you handle across Drybar locations."
     },
     {
       "visitor": "509081",
       "account": "Quick Quack Car Wash",
       "date": "2025-07-23",
       "user_level": "Manager",
-      "age_days": 345,
+      "age_days": 346,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear how the daily location reporting and management workflows at Quick Quack Car Wash have been going, and where we can save you time."
+      "suggested_opener": "I wanted to check in on how SOCi has been working for your Quick Quack Car Wash locations and what would make your daily workflow easier."
     },
     {
       "visitor": "712794",
       "account": "The Learning Experience",
       "date": "2025-07-17",
       "user_level": "Manager",
-      "age_days": 351,
+      "age_days": 352,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn how the day-to-day location management and reporting workflows at The Learning Experience have evolved since your initial request, and make sure we address your needs."
+      "suggested_opener": "I'd love to reconnect to hear how SOCi is supporting your Learning Experience locations and where we can make the most meaningful improvements."
     },
     {
       "visitor": "888897",
       "account": "Wing Zone",
       "date": "2025-07-17",
       "user_level": "Unknown",
-      "age_days": 351,
+      "age_days": 352,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "Thanks so much for your patience, and I'd love to connect to learn more about what prompted your request and how SOCi can best support Wing Zone."
+      "suggested_opener": "Thanks so much for your patience \u2014 I'd love to connect and learn more about how SOCi is working for Wing Zone and what's been on your mind."
     },
     {
       "visitor": "878737",
       "account": "Sky Zone",
       "date": "2025-07-13",
       "user_level": "Manager",
-      "age_days": 355,
+      "age_days": 356,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and hear how the daily location reporting and management workflows at Sky Zone have been going, and where we can make things easier for you."
+      "suggested_opener": "I wanted to reach out to hear how SOCi has been fitting into your day-to-day management of Sky Zone locations and where we can do better."
     },
     {
       "visitor": "667093",
       "account": "Right At Home",
       "date": "2025-07-08",
       "user_level": "Manager",
-      "age_days": 360,
+      "age_days": 361,
       "sla": "red",
       "area": "Reporting Suite",
-      "suggested_opener": "I'd love to connect and learn which day-to-day location management or reporting tasks at Right At Home are creating the most friction, and how we can help after your long wait."
+      "suggested_opener": "I'd love to connect about how SOCi can better support the location management and reporting you handle every day at Right At Home."
     }
   ],
   "level_counts": {
@@ -987,11 +987,11 @@
     "Unknown": 1
   },
   "sla_counts": {
-    "amber": 9,
-    "red": 78
+    "amber": 8,
+    "red": 79
   },
   "total_interested": 87,
-  "oldest_age": 360,
+  "oldest_age": 361,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
@@ -1063,9 +1063,9 @@
     ]
   ],
   "themes": [
-    "The backlog is dominated by Managers across multi-location franchise, hospitality, residential, and fitness brands who are waiting far too long for product conversations, signaling a systemic gap in how SOCi proactively engages power users who drive daily platform adoption.",
-    "Several accounts appear multiple times with different contacts and escalating wait times, suggesting unresolved pain points that are compounding across teams and creating churn and expansion risk if not addressed soon.",
-    "A small but important cluster of Administrators at property-management and senior-living accounts have been waiting the longest, and their account-wide governance and ROI concerns deserve prioritized outreach given their outsized influence on renewal and upsell decisions."
+    "Long wait times across a heavily Manager-skewed backlog signal a need to prioritize scalable, self-serve workflows and reporting tools that reduce daily friction for multi-location managers.",
+    "Several accounts appear multiple times with different contacts and growing wait times, suggesting that unresolved product pain points are spreading within the same organizations and need coordinated, account-level responses.",
+    "Diverse verticals \u2014 spanning fitness, hospitality, real estate, food service, and travel \u2014 share common requests around location-level reporting, review management, and operational efficiency, pointing to an opportunity for more configurable, role-based product experiences."
   ],
   "live_count": 1,
   "planned_count": 23
