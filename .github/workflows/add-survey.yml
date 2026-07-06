@@ -1,0 +1,88 @@
+name: add survey
+
+on:
+  workflow_dispatch:
+    inputs:
+      guide_id:
+        description: "Pendo guide ID (from the guide URL)"
+        required: true
+        type: string
+      area:
+        description: "Product area name (e.g. Reviews (Reputation))"
+        required: true
+        type: string
+      poll_id:
+        description: "Poll ID inside the guide (e.g. 4xsn19fzao3)"
+        required: true
+        type: string
+      interested_value:
+        description: "Poll answer that means Interested (default 1)"
+        required: false
+        default: "1"
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  add:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Add survey to surveys.json
+        run: |
+          python - <<'PY'
+          import json, os, sys
+
+          guide_id = """${{ inputs.guide_id }}""".strip()
+          area = """${{ inputs.area }}""".strip()
+          poll_id = """${{ inputs.poll_id }}""".strip()
+          try:
+              interested = int("""${{ inputs.interested_value }}""".strip() or "1")
+          except ValueError:
+              interested = 1
+
+          if not guide_id or not area or not poll_id:
+              print("guide_id, area, and poll_id are all required"); sys.exit(1)
+
+          cfg = json.load(open("surveys.json"))
+
+          # If the guide already exists, update it instead of duplicating
+          existing = next((s for s in cfg["surveys"] if s["guide_id"] == guide_id), None)
+          entry = {
+              "guide_id": guide_id,
+              "area": area,
+              "status": "live",
+              "interested_poll_value": interested,
+              "poll_id": poll_id,
+          }
+          if existing:
+              existing.update(entry)
+              print(f"Updated existing survey for {guide_id}")
+          else:
+              cfg["surveys"].append(entry)
+              print(f"Added survey: {area} ({guide_id})")
+
+          # Remove the area from planned placeholders if present
+          planned = cfg.get("planned_areas", [])
+          if area in planned:
+              planned.remove(area)
+              print(f"Removed '{area}' from planned areas")
+          cfg["planned_areas"] = planned
+
+          json.dump(cfg, open("surveys.json", "w"), indent=2)
+          PY
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add surveys.json
+          git commit -m "add survey: ${{ inputs.area }} (${{ inputs.guide_id }})" || echo "no changes"
+          git push
+
+      - name: Trigger data refresh
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run refresh.yml --ref main || echo "refresh trigger skipped"
