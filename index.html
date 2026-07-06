@@ -15,21 +15,21 @@
   :root, [data-theme="light"] {
     --bg:#F4F6F8; --surface:#FFFFFF; --surface-2:#F0F3F6; --surface-3:#E7ECF1;
     --ink:#0C0C0D; --ink-2:#3A4150; --muted:#6B7280; --hairline:#E2E7EC; --hairline-soft:#EEF1F4;
-    --accent:#29CC91; --accent-bg:rgba(41,204,145,.10); --on-accent:#0C0C0D;
+    --accent:#29CC91; --accent-bg:rgba(41,204,145,.10);
     --green:#15A772; --green-bg:rgba(41,204,145,.12); --amber:#C8841E; --amber-bg:rgba(232,179,65,.16);
     --red:#D8413F; --red-bg:rgba(234,91,89,.12); --shadow:0 2px 8px rgba(12,12,13,.05),0 8px 24px rgba(12,12,13,.04);
   }
   [data-theme="dark"] {
     --bg:#0C0C0D; --surface:#15161A; --surface-2:#1C1E23; --surface-3:#25282F;
     --ink:#F4F6FA; --ink-2:#B8BEC9; --muted:#7A828F; --hairline:#262A31; --hairline-soft:#1E2127;
-    --accent:#29CC91; --accent-bg:rgba(41,204,145,.14); --on-accent:#0C0C0D;
+    --accent:#29CC91; --accent-bg:rgba(41,204,145,.14);
     --green:#29CC91; --green-bg:rgba(41,204,145,.14); --amber:#E8B341; --amber-bg:rgba(232,179,65,.14);
     --red:#EA5B59; --red-bg:rgba(234,91,89,.14); --shadow:0 2px 8px rgba(0,0,0,.3),0 8px 24px rgba(0,0,0,.25);
   }
   @media (prefers-color-scheme: dark) { [data-theme="auto"] {
     --bg:#0C0C0D; --surface:#15161A; --surface-2:#1C1E23; --surface-3:#25282F;
     --ink:#F4F6FA; --ink-2:#B8BEC9; --muted:#7A828F; --hairline:#262A31; --hairline-soft:#1E2127;
-    --accent:#29CC91; --accent-bg:rgba(41,204,145,.14); --on-accent:#0C0C0D;
+    --accent:#29CC91; --accent-bg:rgba(41,204,145,.14);
     --green:#29CC91; --green-bg:rgba(41,204,145,.14); --amber:#E8B341; --amber-bg:rgba(232,179,65,.14);
     --red:#EA5B59; --red-bg:rgba(234,91,89,.14); --shadow:0 2px 8px rgba(0,0,0,.3),0 8px 24px rgba(0,0,0,.25);
   } }
@@ -136,9 +136,7 @@
   .level-tag { font-family:'JetBrains Mono',monospace; font-size:10px; font-weight:600; padding:2px 8px; border-radius:10px; white-space:nowrap; }
   .sla-pill { font-family:'JetBrains Mono',monospace; font-size:11px; font-weight:600; padding:2px 8px; border-radius:10px; }
   .sla-green{background:var(--green-bg);color:var(--green);} .sla-amber{background:var(--amber-bg);color:var(--amber);} .sla-red{background:var(--red-bg);color:var(--red);}
-  .opener { font-size:11px; color:var(--muted); font-style:italic; margin-top:3px; }
   .empty-note { padding:40px; text-align:center; color:var(--muted); font-size:13px; }
-  /* admin */
   .admin-overlay { position:fixed; inset:0; background:var(--bg); display:none; z-index:300; overflow-y:auto; }
   .admin-overlay.open { display:block; }
   .admin-inner { max-width:920px; margin:0 auto; padding:28px; }
@@ -160,23 +158,28 @@
   .prof-section .sec-sub { font-size:12.5px; color:var(--muted); margin:0 0 18px; line-height:1.5; }
   .prof-section code { font-family:'JetBrains Mono',monospace; font-size:11.5px; background:var(--surface-3); padding:1px 5px; border-radius:3px; color:var(--ink); }
   .prof-num { width:24px; height:24px; border-radius:7px; background:var(--accent-bg); color:var(--accent); font-family:'JetBrains Mono',monospace; font-size:12px; font-weight:700; display:inline-flex; align-items:center; justify-content:center; }
-  .field-row { display:flex; gap:16px; flex-wrap:wrap; align-items:flex-end; }
-  .field { display:flex; flex-direction:column; gap:6px; flex:1; min-width:200px; }
+  .field-row { display:flex; gap:16px; flex-wrap:wrap; align-items:flex-end; margin-bottom:12px; }
+  .field { display:flex; flex-direction:column; gap:6px; flex:1; min-width:180px; }
   .field label { font-family:'JetBrains Mono',monospace; font-size:10px; text-transform:uppercase; letter-spacing:.06em; color:var(--muted); display:flex; align-items:center; gap:6px; }
   .field input, .field select { padding:10px 12px; border-radius:8px; border:1px solid var(--hairline); background:var(--surface-2); color:var(--ink); font-size:13.5px; font-family:inherit; }
   .field input:focus, .field select:focus { outline:none; border-color:var(--accent); }
   .prof-btn { padding:10px 16px; border-radius:8px; border:none; background:var(--brand-green); color:#0C0C0D; font-weight:600; font-size:13px; cursor:pointer; white-space:nowrap; }
+  .prof-btn:disabled { opacity:.5; cursor:not-allowed; }
   .prof-btn.secondary { background:var(--surface-2); border:1px solid var(--hairline); color:var(--ink-2); }
   .code-block { position:relative; margin-top:6px; }
-  .code-block pre { background:var(--surface-2); border:1px solid var(--hairline); border-radius:8px; padding:16px; padding-top:40px; overflow-x:auto; font-family:'JetBrains Mono',monospace; font-size:11.5px; line-height:1.5; color:var(--ink-2); margin:0; white-space:pre; max-height:300px; }
+  .code-block pre { background:var(--surface-2); border:1px solid var(--hairline); border-radius:8px; padding:16px; padding-top:40px; overflow-x:auto; font-family:'JetBrains Mono',monospace; font-size:11.5px; line-height:1.5; color:var(--ink-2); margin:0; white-space:pre-wrap; word-break:break-all; max-height:300px; }
   .copy-btn { position:absolute; top:8px; right:8px; font-family:'JetBrains Mono',monospace; font-size:10px; padding:5px 11px; border-radius:6px; background:var(--surface-3); border:1px solid var(--hairline); color:var(--ink-2); cursor:pointer; z-index:2; }
   .copy-btn.copied { background:var(--accent-bg); border-color:var(--accent); color:var(--accent); }
   .gen-out { margin-top:14px; }
-  /* hover tooltip */
   .hint { position:relative; display:inline-flex; align-items:center; justify-content:center; width:14px; height:14px; border-radius:50%; background:var(--surface-3); color:var(--muted); font-size:9px; font-weight:700; cursor:help; font-family:'JetBrains Mono',monospace; }
   .hint:hover .hint-pop { display:block; }
-  .hint-pop { display:none; position:absolute; bottom:130%; left:50%; transform:translateX(-50%); width:240px; background:var(--brand-black); color:#fff; font-family:'Inter',sans-serif; font-weight:400; text-transform:none; letter-spacing:normal; font-size:11.5px; line-height:1.5; padding:10px 12px; border-radius:8px; box-shadow:0 8px 24px rgba(0,0,0,.3); z-index:10; }
+  .hint-pop { display:none; position:absolute; bottom:130%; left:50%; transform:translateX(-50%); width:260px; background:var(--brand-black); color:#fff; font-family:'Inter',sans-serif; font-weight:400; text-transform:none; letter-spacing:normal; font-size:11.5px; line-height:1.5; padding:10px 12px; border-radius:8px; box-shadow:0 8px 24px rgba(0,0,0,.3); z-index:10; }
   .hint-pop::after { content:''; position:absolute; top:100%; left:50%; transform:translateX(-50%); border:5px solid transparent; border-top-color:var(--brand-black); }
+  .form-status { font-size:12.5px; margin-top:12px; min-height:18px; line-height:1.5; }
+  .form-status.ok { color:var(--green); }
+  .form-status.err { color:var(--red); }
+  .remember-row { display:flex; align-items:center; gap:8px; font-size:12px; color:var(--muted); margin:2px 0 12px; }
+  .remember-row input { accent-color:var(--brand-green); }
   .drill-overlay { position:fixed; inset:0; background:rgba(12,13,14,.6); backdrop-filter:blur(4px); display:none; align-items:center; justify-content:center; z-index:200; padding:24px; }
   .drill-overlay.open { display:flex; }
   .drill { background:var(--surface); border:1px solid var(--hairline); border-radius:14px; max-width:720px; width:100%; max-height:86vh; overflow-y:auto; box-shadow:0 24px 64px rgba(0,0,0,.3); }
@@ -265,7 +268,7 @@
       <input class="login-input" type="password" id="adminPw" placeholder="Password" onkeydown="if(event.key==='Enter')tryLogin()" />
       <button class="login-btn" onclick="tryLogin()">Unlock</button>
       <div class="login-err" id="loginErr"></div>
-      <div class="login-note">Lightweight gate, not strong security. It keeps the admin panel out of casual view. The panel holds no credentials or customer-private data, only setup instructions.</div>
+      <div class="login-note">Lightweight gate, not strong security. It keeps the admin panel out of casual view. The panel holds no credentials or customer-private data, only setup tools.</div>
     </div>
   </div>
 </div>
@@ -277,17 +280,21 @@
 
     <div class="prof-section">
       <h3><span class="prof-num">1</span> Add a solicitation survey</h3>
-      <p class="sec-sub">When a new solicitation survey is deployed in Pendo, add it here. Fill the fields, generate the block, and paste it into the <code>surveys</code> array in <code>surveys.json</code> in the repo, then commit. Next refresh, its card goes live and its interested users flow into the queue.</p>
+      <p class="sec-sub">When a new solicitation survey is deployed in Pendo, add it here. Fill the fields and press <b>Add survey</b> &mdash; everything else is automatic: the survey is committed to the repo, the placeholder card goes live, and the data refreshes within a couple of minutes.</p>
       <div class="field-row">
-        <div class="field"><label>Pendo guide ID <span class="hint">?<span class="hint-pop">The guide's ID in Pendo (the long string in the guide URL, e.g. rILFx33CEJlliM0_2euuyYzqhFY). This is how the dashboard knows which survey to pull.</span></span></label><input type="text" id="svId" placeholder="rILFx..." /></div>
-        <div class="field"><label>Product area <span class="hint">?<span class="hint-pop">The product area this survey belongs to, exactly as you want it shown on its card (e.g. "Listings" or "Ads / Boost").</span></span></label><input type="text" id="svArea" placeholder="Listings" /></div>
-        <div class="field" style="flex:0 0 150px;"><label>Interested value <span class="hint">?<span class="hint-pop">Which poll answer counts as "interested". For all current solicitation surveys this is 1 (the Reporting Suite pattern). Leave as 1 unless a survey differs.</span></span></label><input type="number" id="svVal" value="1" /></div>
-        <button class="prof-btn" onclick="genSurvey()">Generate block</button>
+        <div class="field"><label>Pendo guide ID <span class="hint">?<span class="hint-pop">The guide's ID in Pendo &mdash; the long string in the guide's URL (e.g. rILFx33CEJlliM0_2euuyYzqhFY). This tells the dashboard which survey to pull.</span></span></label><input type="text" id="svId" placeholder="rILFx..." /></div>
+        <div class="field"><label>Product area <span class="hint">?<span class="hint-pop">The product area this survey belongs to, exactly as it should appear on its card. Pick a planned area from the suggestions or type a new one.</span></span></label><input type="text" id="svArea" list="plannedAreas" placeholder="Listings" /><datalist id="plannedAreas"></datalist></div>
       </div>
-      <div class="gen-out" id="svOut" style="display:none">
-        <div class="code-block"><button class="copy-btn" onclick="copyBlock('svBlock',this)">Copy</button><pre id="svBlock"></pre></div>
-        <p class="sec-sub" style="margin-top:10px">Paste this object into the <code>surveys</code> array in <code>surveys.json</code> and commit.</p>
+      <div class="field-row">
+        <div class="field"><label>Poll ID <span class="hint">?<span class="hint-pop">The poll's ID inside the guide (e.g. 4xsn19fzao3). In Pendo, open the guide and look at its poll details. Required because the integration key can't look it up automatically.</span></span></label><input type="text" id="svPoll" placeholder="4xsn19fzao3" /></div>
+        <div class="field" style="flex:0 0 150px;"><label>Interested value <span class="hint">?<span class="hint-pop">Which poll answer counts as "interested". All current solicitation surveys use 1 (the Reporting Suite pattern). Leave as 1 unless a survey differs.</span></span></label><input type="number" id="svVal" value="1" /></div>
       </div>
+      <div class="field-row">
+        <div class="field"><label>GitHub token <span class="hint">?<span class="hint-pop">A fine-grained personal access token that authorizes YOU to trigger the repo's add-survey workflow. Create once: GitHub &rarr; Settings &rarr; Developer settings &rarr; Fine-grained tokens &rarr; Generate new token &rarr; Repository access: Only select repositories &rarr; soci-solicitation-dashboard &rarr; Permissions &rarr; Actions: Read and write. Paste it here. It stays in your browser only and is sent only to api.github.com.</span></span></label><input type="password" id="ghToken" placeholder="github_pat_..." /></div>
+        <button class="prof-btn" id="svSubmit" onclick="submitSurvey()">Add survey</button>
+      </div>
+      <div class="remember-row"><input type="checkbox" id="ghRemember" /><label for="ghRemember" style="cursor:pointer">Remember token for this browser session</label> <span class="hint">?<span class="hint-pop">If checked, the token is kept in this tab's session storage and cleared when you close the tab. Leave unchecked on a shared computer.</span></span></div>
+      <div class="form-status" id="svStatus"></div>
     </div>
 
     <div class="prof-section">
@@ -329,8 +336,10 @@
 </div>
 
 <script>
-  const DATA_URL = "dashboard_data.json"; // same-folder; the Action commits this
+  const DATA_URL = "dashboard_data.json";
   const ADMIN_PW_SHA256 = "02f57263f66f397611410a418be8befb7a646e8eb74a6b37a0cc683adaa4c3f2";
+  const GH_REPO = "iggy-soci/soci-solicitation-dashboard";
+  const GH_WORKFLOW = "add-survey.yml";
   let DATA = null, adminAuthed = false, activeLevel = null, activeSla = 'all';
   const LEVELS = ["Administrator","Manager","User"];
   const LEVEL_COLOR = { "Administrator":"#213B61", "Manager":"#29CC91", "User":"#C9CED6", "Unknown":"#9AA0AB" };
@@ -340,7 +349,6 @@
     "User":"Baseline access. Frame around the one task they were doing; keep it short and concrete."
   };
 
-  // theme
   function setTheme(m){ document.documentElement.setAttribute('data-theme',m); try{localStorage.setItem('soci-theme',m);}catch(e){} document.querySelectorAll('.theme-btn').forEach(b=>b.classList.toggle('active',b.dataset.mode===m)); }
   document.querySelectorAll('.theme-btn').forEach(b=>b.addEventListener('click',()=>setTheme(b.dataset.mode)));
   (function(){ let s='auto'; try{s=localStorage.getItem('soci-theme')||'auto';}catch(e){} setTheme(s); })();
@@ -356,7 +364,7 @@
       <div class="kpi"><div class="kpi-label">Oldest unactioned</div><div class="kpi-value warn">${DATA.oldest_age}<span style="font-size:14px;color:var(--muted)">d</span></div><div class="kpi-foot">since first interest</div></div>
       <div class="kpi"><div class="kpi-label">Breached SLA</div><div class="kpi-value alert">${DATA.sla_counts.red||0}</div><div class="kpi-foot">over 30 days</div></div>
       <div class="kpi"><div class="kpi-label">Areas live</div><div class="kpi-value">${DATA.live_count}<span style="font-size:16px;color:var(--muted)">/${DATA.live_count+DATA.planned_count}</span></div><div class="kpi-foot">+${DATA.planned_count} planned</div></div>
-      <div class="kpi"><div class="kpi-label">12-mo responses</div><div class="kpi-value">${(rs.responses_12mo||0).toLocaleString()}</div><div class="kpi-foot">${(rs.views_12mo||0).toLocaleString()} views</div></div>`;
+      <div class="kpi"><div class="kpi-label">Responses pulled</div><div class="kpi-value">${(rs.responses_12mo||0).toLocaleString()}</div><div class="kpi-foot">latest refresh</div></div>`;
   }
   function renderLevels(){
     const lc=DATA.level_counts, t=DATA.total_interested||1;
@@ -405,7 +413,7 @@
       return `<div class="area-card area-planned"><div class="area-top"><span class="area-status-dot planned"></span><span class="area-status-label planned">PLANNED</span></div>
         <div class="area-name">${a.name}</div>
         <div class="area-metrics planned-metrics"><div class="am"><span class="am-val">—</span><span class="am-lbl">interested</span></div><div class="am"><span class="am-val">—</span><span class="am-lbl">responses</span></div></div>
-        <div class="area-foot">Deploy pending · add Pendo guide ID</div></div>`;
+        <div class="area-foot">Deploy pending · add via Admin</div></div>`;
     }).join('');
   }
   function renderQueue(){
@@ -417,11 +425,10 @@
     if(!DATA.contacts.length){ body.innerHTML=`<tr><td colspan="5"><div class="empty-note">No interested responses yet. The next refresh will populate this from Pendo.</div></td></tr>`; return; }
     body.innerHTML = DATA.contacts.map(c=>{
       const lvl=c.user_level||'User', color=LEVEL_COLOR[lvl]||'#C9CED6', txt=(lvl==='User')?'#0C0C0D':'#fff';
-      const opener = c.suggested_opener? `<div class="opener">${c.suggested_opener}</div>`:'';
       return `<tr class="q-row" data-sla="${c.sla}" data-level="${lvl}">
         <td class="q-date">${c.date}</td>
         <td class="q-visitor">${c.visitor}</td>
-        <td class="q-account">${c.account}${opener}</td>
+        <td class="q-account">${c.account}</td>
         <td><span class="level-tag" style="background:${color};color:${txt}">${lvl}</span></td>
         <td><span class="sla-pill sla-${c.sla}">${c.age_days}d</span></td></tr>`;
     }).join('');
@@ -435,11 +442,10 @@
     const m=DATA.per_area[area]; if(!m) return;
     document.getElementById('drillTitle').textContent=area;
     document.getElementById('drillSub').textContent=`Guide ${m.guide_id||''}`;
-    const v=m.views_12mo||0, resp=m.responses_12mo||0, intr=m.interested||0;
+    const resp=m.responses_12mo||0, intr=m.interested||0;
     document.getElementById('drillFunnel').innerHTML = `
-      <div class="funnel-step"><div class="funnel-fill" style="width:100%"></div><span class="funnel-lbl">Views</span><span class="funnel-val">${v.toLocaleString()}</span></div>
-      <div class="funnel-step"><div class="funnel-fill" style="width:${v?Math.max(resp/v*100,2):0}%"></div><span class="funnel-lbl">Responses</span><span class="funnel-val">${resp.toLocaleString()}</span></div>
-      <div class="funnel-step"><div class="funnel-fill" style="width:${v?Math.max(intr/v*100,1):0}%"></div><span class="funnel-lbl">Interested</span><span class="funnel-val">${intr.toLocaleString()}</span></div>`;
+      <div class="funnel-step"><div class="funnel-fill" style="width:100%"></div><span class="funnel-lbl">Responses pulled</span><span class="funnel-val">${resp.toLocaleString()}</span></div>
+      <div class="funnel-step"><div class="funnel-fill" style="width:${resp?Math.max(intr/resp*100,3):0}%"></div><span class="funnel-lbl">Interested</span><span class="funnel-val">${intr.toLocaleString()}</span></div>`;
     const areaContacts=DATA.contacts.filter(c=>c.area===area);
     const lc={}; LEVELS.forEach(l=>lc[l]=0); areaContacts.forEach(c=>{lc[c.user_level]=(lc[c.user_level]||0)+1;});
     const max=Math.max(...Object.values(lc),1);
@@ -449,22 +455,62 @@
   }
   function closeDrill(){ document.getElementById('drillOverlay').classList.remove('open'); }
 
-  // admin
+  // ===== ADMIN =====
   async function sha256hex(str){ if(window.crypto&&window.crypto.subtle){ const b=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(str)); return Array.from(new Uint8Array(b)).map(x=>x.toString(16).padStart(2,'0')).join(''); } return null; }
   function openAdmin(){ if(adminAuthed){ showView('adminProfile'); renderProfile(); } else { showView('adminLogin'); setTimeout(()=>{const p=document.getElementById('adminPw'); if(p)p.focus();},50); } }
   function closeAdmin(){ document.querySelectorAll('.admin-overlay').forEach(o=>o.classList.remove('open')); }
   function showView(id){ document.querySelectorAll('.admin-overlay').forEach(o=>o.classList.remove('open')); document.getElementById(id).classList.add('open'); }
   async function tryLogin(){ const err=document.getElementById('loginErr'); const h=await sha256hex(document.getElementById('adminPw').value); if(h===null){err.textContent='Login needs the hosted (https) dashboard.';return;} if(h===ADMIN_PW_SHA256){adminAuthed=true;document.getElementById('adminPw').value='';err.textContent='';showView('adminProfile');renderProfile();} else err.textContent='Incorrect password.'; }
   function renderProfile(){
+    if(!DATA) return;
     const live=DATA.areas.filter(a=>a.status==='live');
     document.getElementById('liveSurveys').innerHTML = live.length? live.map(a=>{const m=DATA.per_area[a.name]||{}; return `<div style="display:flex;justify-content:space-between;padding:9px 0;border-bottom:1px solid var(--hairline-soft);font-size:13px"><span><b>${a.name}</b> <span style="font-family:'JetBrains Mono',monospace;color:var(--muted);font-size:11px">${m.guide_id||''}</span></span><span style="font-family:'JetBrains Mono',monospace;color:var(--accent)">${m.interested||0} interested</span></div>`;}).join('') : '<p class="sec-sub">None live yet.</p>';
+    // planned-area suggestions for the form
+    const dl=document.getElementById('plannedAreas');
+    dl.innerHTML = DATA.areas.filter(a=>a.status==='planned').map(a=>`<option value="${a.name.replace(/"/g,'&quot;')}"></option>`).join('');
+    // restore remembered token
+    try { const t=sessionStorage.getItem('gh-token'); if(t){ document.getElementById('ghToken').value=t; document.getElementById('ghRemember').checked=true; } } catch(e){}
   }
-  function genSurvey(){
-    const id=document.getElementById('svId').value.trim(), area=document.getElementById('svArea').value.trim(), val=parseInt(document.getElementById('svVal').value,10)||1;
-    const obj={guide_id:id, area:area, status:"live", interested_poll_value:val};
-    document.getElementById('svBlock').textContent=JSON.stringify(obj,null,2);
-    document.getElementById('svOut').style.display='block';
+
+  // ---- In-dashboard add-survey: dispatches the add-survey.yml workflow ----
+  async function submitSurvey(){
+    const st=document.getElementById('svStatus');
+    const btn=document.getElementById('svSubmit');
+    const id=document.getElementById('svId').value.trim();
+    const area=document.getElementById('svArea').value.trim();
+    const poll=document.getElementById('svPoll').value.trim();
+    const val=(document.getElementById('svVal').value||'1').trim();
+    const token=document.getElementById('ghToken').value.trim();
+    st.className='form-status';
+    if(!id||!area||!poll){ st.className='form-status err'; st.textContent='Guide ID, product area, and poll ID are all required.'; return; }
+    if(!token){ st.className='form-status err'; st.textContent='GitHub token required — hover the ? next to the token field for the 1-minute setup.'; return; }
+    try { if(document.getElementById('ghRemember').checked) sessionStorage.setItem('gh-token',token); else sessionStorage.removeItem('gh-token'); } catch(e){}
+    btn.disabled=true; st.textContent='Submitting…';
+    try{
+      const r=await fetch(`https://api.github.com/repos/${GH_REPO}/actions/workflows/${GH_WORKFLOW}/dispatches`,{
+        method:'POST',
+        headers:{ 'Authorization':'Bearer '+token, 'Accept':'application/vnd.github+json', 'X-GitHub-Api-Version':'2022-11-28', 'Content-Type':'application/json' },
+        body: JSON.stringify({ ref:'main', inputs:{ guide_id:id, area:area, poll_id:poll, interested_value:val } })
+      });
+      if(r.status===204){
+        st.className='form-status ok';
+        st.textContent='Survey submitted. The repo is updating itself — the new card and its data appear within ~2 minutes. You can close this panel.';
+        document.getElementById('svId').value=''; document.getElementById('svArea').value=''; document.getElementById('svPoll').value='';
+      } else if(r.status===401){
+        st.className='form-status err'; st.textContent='GitHub rejected the token (401). Check it was copied fully and has Actions read/write on this repo.';
+      } else if(r.status===404){
+        st.className='form-status err'; st.textContent='Not found (404): either the token lacks access to the repo, or .github/workflows/add-survey.yml is not committed yet. Add that workflow file first.';
+      } else if(r.status===422){
+        st.className='form-status err'; st.textContent='GitHub rejected the inputs (422). Check the fields and try again.';
+      } else {
+        st.className='form-status err'; st.textContent='Unexpected response from GitHub: '+r.status;
+      }
+    } catch(e){
+      st.className='form-status err'; st.textContent='Network error reaching GitHub: '+e.message;
+    }
+    btn.disabled=false;
   }
+
   async function hashNewPw(){ const pw=document.getElementById('newPw').value; if(!pw)return; const h=await sha256hex(pw); document.getElementById('pwBlock').textContent=(h===null)?'Hashing needs the hosted (https) dashboard.':'const ADMIN_PW_SHA256 = "'+h+'";'; document.getElementById('pwOut').style.display='block'; }
   function copyBlock(id,btn){ const text=document.getElementById(id).textContent; const done=()=>{const o=btn.textContent;btn.textContent='Copied';btn.classList.add('copied');setTimeout(()=>{btn.textContent=o;btn.classList.remove('copied');},1400);}; if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(text).then(done).catch(()=>fb(text,done));} else fb(text,done); }
   function fb(text,done){ const ta=document.createElement('textarea'); ta.value=text; ta.style.position='fixed'; ta.style.opacity='0'; document.body.appendChild(ta); ta.select(); try{document.execCommand('copy');done();}catch(e){} document.body.removeChild(ta); }
