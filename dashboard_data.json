@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07 19:12 UTC",
+  "generated_at": "2026-07-07 19:37 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -35,10 +35,6 @@
     },
     {
       "name": "Listings",
-      "status": "live"
-    },
-    {
-      "name": "Engagements (Conversations)",
       "status": "live"
     },
     {
@@ -97,12 +93,6 @@
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
-      "views_12mo": 0,
-      "responses_12mo": 0,
-      "interested": 0
-    },
-    "Engagements (Conversations)": {
-      "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
       "responses_12mo": 0,
       "interested": 0
@@ -1229,6 +1219,6 @@
     ]
   ],
   "themes": [],
-  "live_count": 11,
+  "live_count": 10,
   "planned_count": 0
 }
