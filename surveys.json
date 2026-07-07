@@ -25,11 +25,16 @@
       "area": "Surveys",
       "status": "live",
       "interested_poll_value": 1
+    },
+    {
+      "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
+      "area": "Social",
+      "status": "live",
+      "interested_poll_value": 1
     }
   ],
   "planned_areas": [
     "Listings",
-    "Social",
     "Listening",
     "Engagements (Conversations)",
     "Ads / Boost",
