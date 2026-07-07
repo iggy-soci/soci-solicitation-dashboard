@@ -61,6 +61,12 @@
       "area": "Data Management",
       "status": "live",
       "interested_poll_value": 1
+    },
+    {
+      "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
+      "area": "AskGenius",
+      "status": "live",
+      "interested_poll_value": 1
     }
   ],
   "planned_areas": [
