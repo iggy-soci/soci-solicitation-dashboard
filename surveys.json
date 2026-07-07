@@ -31,6 +31,12 @@
       "area": "Social",
       "status": "live",
       "interested_poll_value": 1
+    },
+    {
+      "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
+      "area": "Genius Social",
+      "status": "live",
+      "interested_poll_value": 1
     }
   ],
   "planned_areas": [
@@ -42,7 +48,6 @@
     "Locator",
     "Data Management",
     "SOCi Score (LVI)",
-    "Genius Social",
     "Genius Reviews",
     "Genius Search",
     "Shield",
