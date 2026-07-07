@@ -55,11 +55,16 @@
       "area": "Listings",
       "status": "live",
       "interested_poll_value": 1
+    },
+    {
+      "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
+      "area": "Engagements (Conversations)",
+      "status": "live",
+      "interested_poll_value": 1
     }
   ],
   "planned_areas": [
     "Listening",
-    "Engagements (Conversations)",
     "Ads / Boost",
     "Rankings / SEO (Local Grid)",
     "Locator",
