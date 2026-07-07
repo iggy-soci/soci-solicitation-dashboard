@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07 19:05 UTC",
+  "generated_at": "2026-07-07 19:12 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -44,58 +44,6 @@
     {
       "name": "Data Management",
       "status": "live"
-    },
-    {
-      "name": "Listening",
-      "status": "planned"
-    },
-    {
-      "name": "Ads / Boost",
-      "status": "planned"
-    },
-    {
-      "name": "Rankings / SEO (Local Grid)",
-      "status": "planned"
-    },
-    {
-      "name": "Locator",
-      "status": "planned"
-    },
-    {
-      "name": "SOCi Score (LVI)",
-      "status": "planned"
-    },
-    {
-      "name": "Shield",
-      "status": "planned"
-    },
-    {
-      "name": "Voice of Customer",
-      "status": "planned"
-    },
-    {
-      "name": "Lead Generation",
-      "status": "planned"
-    },
-    {
-      "name": "Check My Presence (CMP)",
-      "status": "planned"
-    },
-    {
-      "name": "Contacts / CRM",
-      "status": "planned"
-    },
-    {
-      "name": "SmartBot",
-      "status": "planned"
-    },
-    {
-      "name": "Platform",
-      "status": "planned"
-    },
-    {
-      "name": "Marketplace",
-      "status": "planned"
     }
   ],
   "per_area": {
@@ -176,8 +124,7 @@
       "user_level": "Manager",
       "age_days": 0,
       "sla": "green",
-      "area": "Reviews (Reputation)",
-      "suggested_opener": "Hi \u2014 since you're managing locations for Sharkey's Cuts for Kids day-to-day, I'd love to hear which reports or workflows you're hoping SOCi can make faster or easier for you."
+      "area": "Reviews (Reputation)"
     },
     {
       "visitor": "750845",
@@ -188,8 +135,7 @@
       "user_level": "Manager",
       "age_days": 0,
       "sla": "green",
-      "area": "Reviews (Reputation)",
-      "suggested_opener": "Hi \u2014 as someone managing locations and day-to-day reporting for Forty Winks | The Pistol, I'd love to learn which workflows you're hoping to streamline with SOCi."
+      "area": "Reviews (Reputation)"
     },
     {
       "visitor": "433249",
@@ -200,8 +146,7 @@
       "user_level": "Manager",
       "age_days": 0,
       "sla": "green",
-      "area": "Reviews (Reputation)",
-      "suggested_opener": "Hi \u2014 as someone managing locations and day-to-day reporting for Forty Winks | The Pistol, I'd love to learn which workflows you're hoping to streamline with SOCi."
+      "area": "Reviews (Reputation)"
     },
     {
       "visitor": "1232280",
@@ -212,8 +157,7 @@
       "user_level": "Manager",
       "age_days": 0,
       "sla": "green",
-      "area": "Reviews (Reputation)",
-      "suggested_opener": "Hi \u2014 managing multiple Holiday Inn Express locations means a lot of moving parts, so I'd love to hear which reports or daily tasks you're hoping SOCi can simplify."
+      "area": "Reviews (Reputation)"
     },
     {
       "visitor": "754822",
@@ -224,8 +168,7 @@
       "user_level": "Manager",
       "age_days": 0,
       "sla": "green",
-      "area": "Reviews (Reputation)",
-      "suggested_opener": "Hi \u2014 since you're managing locations and daily operations for Nekter Juice Bar, I'd love to understand which SOCi workflows you'd like to see improved."
+      "area": "Reviews (Reputation)"
     },
     {
       "visitor": "1263516",
@@ -236,8 +179,7 @@
       "user_level": "Manager",
       "age_days": 1,
       "sla": "green",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 managing Holiday Inn Express locations day-to-day can be demanding, and I'd love to hear what's on your mind so we can make SOCi work better for you."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1031892",
@@ -248,8 +190,7 @@
       "user_level": "Manager",
       "age_days": 12,
       "sla": "amber",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 you've been patient waiting to connect, and I want to make sure we talk through exactly which location management or reporting tasks at Bruster's Real Ice Cream we can improve for you."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1176040",
@@ -260,8 +201,7 @@
       "user_level": "Manager",
       "age_days": 14,
       "sla": "amber",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience, and as someone overseeing locations across Subway - North America, I'd love to hear which daily reporting or management tasks you'd like SOCi to handle more efficiently."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "293538",
@@ -272,8 +212,7 @@
       "user_level": "Manager",
       "age_days": 16,
       "sla": "amber",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for waiting, and I'd love to hear which location management or reporting workflows across Pet Supplies Plus you're hoping SOCi can speed up for you."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "777759",
@@ -284,8 +223,7 @@
       "user_level": "Manager",
       "age_days": 21,
       "sla": "amber",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience, and I'd love to understand which day-to-day location or reporting tasks at E.C. Barton you're looking to improve with SOCi."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1226457",
@@ -296,8 +234,7 @@
       "user_level": "Manager",
       "age_days": 24,
       "sla": "amber",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I really appreciate your patience, and I'd love to hear which Holiday Inn Express location workflows or reports are top of mind for you right now."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1228726",
@@ -308,8 +245,7 @@
       "user_level": "Manager",
       "age_days": 28,
       "sla": "amber",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for waiting nearly a month, and I'd love to hear which location management or reporting tasks for Cruise Planners | CP Elite you're hoping SOCi can make easier."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "977730",
@@ -320,8 +256,7 @@
       "user_level": "Manager",
       "age_days": 32,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience, and as a manager at Travel Leaders Group I'd love to learn which daily location or reporting workflows you're hoping SOCi can streamline."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1034185",
@@ -332,8 +267,7 @@
       "user_level": "Manager",
       "age_days": 33,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I appreciate your patience, and I'd love to hear which Avenue5 Residential location reports or day-to-day tasks you're hoping SOCi can make faster."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1211028",
@@ -344,8 +278,7 @@
       "user_level": "Manager",
       "age_days": 34,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for waiting, and since you're managing locations across the Neighborly family I'd love to hear which reports or workflows you most want SOCi to improve."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1212480",
@@ -356,8 +289,7 @@
       "user_level": "Manager",
       "age_days": 50,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I sincerely appreciate your patience, and I'd love to hear which Holiday Inn location management or reporting workflows have been on your mind."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "988710",
@@ -368,8 +300,7 @@
       "user_level": "Manager",
       "age_days": 54,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I truly appreciate your patience, and I want to make sure our conversation covers whichever Cruise Planners | CP Elite workflows and reports matter most to you day-to-day."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "532133",
@@ -380,8 +311,7 @@
       "user_level": "Administrator",
       "age_days": 64,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 as an Administrator at CONAM Management Corporation, I'd love to understand how SOCi can better support your account-wide governance, visibility, and ROI across your portfolio."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "433262",
@@ -392,8 +322,7 @@
       "user_level": "Manager",
       "age_days": 78,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I'm sorry for the extended wait, and I genuinely want to hear which Forty Winks | The Pistol location management or reporting tasks you've been hoping to discuss."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "590748_mobile",
@@ -404,8 +333,7 @@
       "user_level": "Manager",
       "age_days": 82,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you so much for your patience, and I'd love to learn which daily workflows or reports for The Lash Lounge locations you're hoping SOCi can improve."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "202522",
@@ -416,8 +344,7 @@
       "user_level": "Manager",
       "age_days": 85,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I really appreciate your patience, and I'd love to hear which Berkshire Hathaway HomeServices location management or reporting tasks you're most eager to address."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1197112",
@@ -428,8 +355,7 @@
       "user_level": "Manager",
       "age_days": 85,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for waiting, and I'd love to understand which Capital Square Living location workflows or reports you're hoping SOCi can streamline for your day-to-day."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1131015",
@@ -440,8 +366,7 @@
       "user_level": "Manager",
       "age_days": 87,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I'm grateful for your patience, and I'd love to hear which day-to-day location or reporting tasks at Bad Ass Coffee of Hawaii you're hoping SOCi can make easier."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "138736",
@@ -452,8 +377,7 @@
       "user_level": "Manager",
       "age_days": 88,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your continued patience, and I'd love to learn which Avenue5 Residential location reports or workflows you most want to see improved in SOCi."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "511583",
@@ -464,8 +388,7 @@
       "user_level": "Manager",
       "age_days": 90,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I really appreciate you waiting, and I'd love to hear which location management or reporting tasks at Ricky's All Day Grill are most important for you to address."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "987217",
@@ -476,8 +399,7 @@
       "user_level": "Manager",
       "age_days": 93,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience, and as a manager at Travel Leaders Group I'd love to understand which daily location workflows or reports you're hoping SOCi can improve."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "943442",
@@ -488,8 +410,7 @@
       "user_level": "Manager",
       "age_days": 96,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I'm grateful for your patience, and I'd love to learn which Elements Massage location management or reporting tasks you've been wanting to discuss with our product team."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1167712",
@@ -500,8 +421,7 @@
       "user_level": "Manager",
       "age_days": 98,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you so much for waiting, and I'd love to hear which Orangetheory Fitness location workflows or reports you're hoping SOCi can make faster and easier."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "181342",
@@ -512,8 +432,7 @@
       "user_level": "Manager",
       "age_days": 101,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I appreciate your patience, and I'd love to understand which Berkshire Hathaway HomeServices location management or reporting tasks are highest on your list to improve."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1007481",
@@ -524,8 +443,7 @@
       "user_level": "Manager",
       "age_days": 105,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience, and I'd love to hear which day-to-day location or reporting workflows at Vetcor you're hoping SOCi can streamline."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1165910",
@@ -536,8 +454,7 @@
       "user_level": "Manager",
       "age_days": 117,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I'm grateful you've stayed engaged, and I'd love to learn which TWO MEN AND A TRUCK location management or reporting tasks you'd most like SOCi to address."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "993200",
@@ -548,8 +465,7 @@
       "user_level": "Manager",
       "age_days": 117,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience, and I'd love to hear which BrightStar Care location workflows or reports you've been hoping our product team could improve."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "726640",
@@ -560,8 +476,7 @@
       "user_level": "Manager",
       "age_days": 118,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I appreciate your continued patience, and I'd love to understand which Travel Leaders Group daily location or reporting tasks you most want to see improved in SOCi."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1168349",
@@ -572,8 +487,7 @@
       "user_level": "Manager",
       "age_days": 120,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you so much for waiting, and I'd love to hear which Tiger-Rock MAI System location management or reporting tasks you're hoping SOCi can make easier."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "394388",
@@ -584,8 +498,7 @@
       "user_level": "Manager",
       "age_days": 131,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I'm grateful for your patience, and I'd love to learn which 29th Street Living location workflows or reports you've been hoping to discuss with us."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1152292",
@@ -596,8 +509,7 @@
       "user_level": "Manager",
       "age_days": 132,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I sincerely appreciate your patience, and I'd love to hear which Holiday Inn Express location management or reporting tasks have been most on your mind."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "855667",
@@ -608,8 +520,7 @@
       "user_level": "Manager",
       "age_days": 139,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for waiting, and I'd love to understand which MG Properties Group location workflows or reporting tasks you're hoping SOCi can streamline for you day-to-day."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "726565",
@@ -620,8 +531,7 @@
       "user_level": "Manager",
       "age_days": 139,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I appreciate your continued patience, and I'd love to hear which Travel Leaders Group location management or daily reporting tasks you most want SOCi to improve."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "253865",
@@ -632,8 +542,7 @@
       "user_level": "Manager",
       "age_days": 141,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience, and I'd love to learn which 29th Street Living day-to-day workflows or reports you've been wanting to discuss with our product team."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "937539",
@@ -644,8 +553,7 @@
       "user_level": "Manager",
       "age_days": 145,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I'm grateful you've stayed with us, and I'd love to hear which Travel Leaders Group location management or reporting tasks are most important to address in SOCi."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "977729_mobile",
@@ -656,8 +564,7 @@
       "user_level": "Manager",
       "age_days": 146,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience, and I'd love to understand which Anytime Fitness NA location workflows or daily reports you're hoping SOCi can make faster."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1074527",
@@ -668,8 +575,7 @@
       "user_level": "Manager",
       "age_days": 152,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I truly appreciate your patience, and I'd love to hear which Berkshire Hathaway HomeServices location management or reporting tasks you most want to see improved."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "965628",
@@ -680,8 +586,7 @@
       "user_level": "Manager",
       "age_days": 153,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your continued patience, and I'd love to learn which Travel Leaders Group day-to-day workflows or reports have been top of mind for you."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "946248",
@@ -692,8 +597,7 @@
       "user_level": "Manager",
       "age_days": 155,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I'm grateful for your patience, and I'd love to understand which Berkshire Hathaway HomeServices location or reporting workflows you're most hoping SOCi can improve."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "282891",
@@ -704,8 +608,7 @@
       "user_level": "Manager",
       "age_days": 159,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for waiting, and I'd love to hear which RPM Living location management or daily reporting tasks you've been hoping to discuss with our product team."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "701489",
@@ -716,8 +619,7 @@
       "user_level": "Manager",
       "age_days": 168,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I sincerely appreciate your patience, and I'd love to learn which Travel Leaders Group location workflows or reports are most important to address in SOCi."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "784323",
@@ -728,8 +630,7 @@
       "user_level": "Manager",
       "age_days": 176,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience, and I'd love to understand which Willow Bridge Property Company location management or reporting tasks you're hoping SOCi can streamline."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1151132",
@@ -740,8 +641,7 @@
       "user_level": "Manager",
       "age_days": 179,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I'm truly grateful for your patience, and I'd love to hear which Holiday Inn Express location workflows or reporting tasks you've been waiting to discuss."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1044819",
@@ -752,8 +652,7 @@
       "user_level": "Manager",
       "age_days": 182,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you so much for your patience, and I'd love to learn which Discovery Marketing Group | STAT Marketing location or reporting workflows you'd most like SOCi to improve."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "352206",
@@ -764,8 +663,7 @@
       "user_level": "Manager",
       "age_days": 184,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I appreciate your patience, and as a manager at Ford I'd love to hear which location management or daily reporting tasks you're hoping SOCi can make faster and easier."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "302587",
@@ -776,8 +674,7 @@
       "user_level": "Manager",
       "age_days": 200,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience over these many months, and I'd love to understand which AT&T location workflows or reports you're hoping SOCi can better support."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1118166",
@@ -788,8 +685,7 @@
       "user_level": "Manager",
       "age_days": 202,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I'm grateful for your patience, and I'd love to hear which GO Car Wash location management or reporting tasks you've been hoping our product team could address."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "988325",
@@ -800,8 +696,7 @@
       "user_level": "Manager",
       "age_days": 203,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for waiting, and I'd love to learn which JINYA USA location workflows or daily reports you're hoping SOCi can improve for you."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "882458",
@@ -812,8 +707,7 @@
       "user_level": "Manager",
       "age_days": 207,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I appreciate your continued patience, and I'd love to understand which Anytime Fitness NA location management or reporting tasks are most important for you to address."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1106688",
@@ -824,8 +718,7 @@
       "user_level": "Administrator",
       "age_days": 207,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 as an Administrator at LivCor, I'd love to hear how SOCi can better support account-wide governance, reporting consistency, and ROI across your entire portfolio."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "150251",
@@ -836,8 +729,7 @@
       "user_level": "Manager",
       "age_days": 209,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience, and I'd love to hear which Adara Communities location management or daily reporting tasks you've been hoping to discuss with our product team."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1064803",
@@ -848,8 +740,7 @@
       "user_level": "Manager",
       "age_days": 214,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I appreciate your patience, and I'd love to understand which Ford location management or reporting workflows you're most hoping SOCi can streamline day-to-day."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1109844",
@@ -860,8 +751,7 @@
       "user_level": "Manager",
       "age_days": 214,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for waiting, and I'd love to learn which Orangetheory Fitness location workflows or reports you're most eager to see improved in SOCi."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "993647",
@@ -872,8 +762,7 @@
       "user_level": "Administrator",
       "age_days": 216,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 as an Administrator at Oak Hill Management, I'd love to understand how SOCi can better serve your account-wide oversight, governance, and return on investment."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1066987",
@@ -884,8 +773,7 @@
       "user_level": "Administrator",
       "age_days": 217,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 as an Administrator at The Goodman Group, I'd love to hear how SOCi can better support your portfolio-wide governance, reporting, and overall ROI."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1069264",
@@ -896,8 +784,7 @@
       "user_level": "Manager",
       "age_days": 230,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience, and I'd love to hear which American Freight location management or day-to-day reporting tasks you've been hoping SOCi could improve."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "967333",
@@ -908,8 +795,7 @@
       "user_level": "Manager",
       "age_days": 230,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I appreciate your patience, and I'd love to understand which Garner location workflows or reports you're hoping SOCi can make faster and easier for you."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "751809",
@@ -920,8 +806,7 @@
       "user_level": "Manager",
       "age_days": 242,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your continued patience, and I'd love to learn which Vetcor location management or reporting tasks are highest on your list to address."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "82113",
@@ -932,8 +817,7 @@
       "user_level": "Manager",
       "age_days": 251,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I'm grateful for your patience, and I'd love to hear which Willow Bridge Property Company location workflows or daily reports you've been hoping to discuss."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "986987",
@@ -944,8 +828,7 @@
       "user_level": "Manager",
       "age_days": 258,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for waiting, and I'd love to understand which Balfour Beatty Communities location management or reporting tasks you're hoping SOCi can streamline."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1039308",
@@ -956,8 +839,7 @@
       "user_level": "Manager",
       "age_days": 258,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I appreciate your patience, and I'd love to learn which The Garrett Companies location workflows or reports you most want to see improved in SOCi."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1056827",
@@ -968,8 +850,7 @@
       "user_level": "Manager",
       "age_days": 259,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience, and I'd love to hear which Ford location management or daily reporting tasks you've been waiting to discuss with our product team."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "982226",
@@ -980,8 +861,7 @@
       "user_level": "Administrator",
       "age_days": 263,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 as an Administrator at Elegance Senior Living, I'd love to understand how SOCi can better support your account-wide visibility, governance, and return on investment."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "997798",
@@ -992,8 +872,7 @@
       "user_level": "Manager",
       "age_days": 266,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I'm grateful for your patience, and I'd love to learn which Scooter's Coffee location management or reporting workflows you're hoping SOCi can make easier."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1040044",
@@ -1004,8 +883,7 @@
       "user_level": "Manager",
       "age_days": 266,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for waiting, and I'd love to hear which Burn Boot Camp location workflows or daily reports have been on your mind to discuss with our product team."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "861912",
@@ -1016,8 +894,7 @@
       "user_level": "Manager",
       "age_days": 272,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I sincerely appreciate your patience, and I'd love to understand which Travel Leaders Group location management or reporting tasks you most want SOCi to address."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "275555",
@@ -1028,8 +905,7 @@
       "user_level": "Administrator",
       "age_days": 277,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 as an Administrator at Highmark Residential, I'd love to hear how SOCi can better support portfolio-wide governance, reporting consistency, and measurable ROI."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "963986",
@@ -1040,8 +916,7 @@
       "user_level": "Manager",
       "age_days": 279,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience, and I'd love to hear which Texas Roadhouse location management or day-to-day reporting tasks you've been hoping to discuss."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "787997",
@@ -1052,8 +927,7 @@
       "user_level": "Manager",
       "age_days": 279,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I appreciate your continued patience, and I'd love to learn which Berkshire Hathaway HomeServices location workflows or reports are most important for you to address."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "995199",
@@ -1064,8 +938,7 @@
       "user_level": "Manager",
       "age_days": 286,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience, and I'd love to understand which Bryten Management location management or reporting tasks you're hoping SOCi can streamline."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "742752",
@@ -1076,8 +949,7 @@
       "user_level": "Manager",
       "age_days": 286,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I'm grateful for your patience, and I'd love to hear which Travel Leaders Group day-to-day location workflows or reports you've been waiting to discuss."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "58052",
@@ -1088,8 +960,7 @@
       "user_level": "Manager",
       "age_days": 287,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for waiting, and I'd love to learn which Neighborly location management or reporting tasks you've been hoping our product team could improve."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "983062",
@@ -1100,8 +971,7 @@
       "user_level": "Manager",
       "age_days": 293,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I appreciate your patience, and I'd love to understand which Garner location workflows or daily reports you most want to see addressed in SOCi."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "836484",
@@ -1112,8 +982,7 @@
       "user_level": "Manager",
       "age_days": 301,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience, and I'd love to hear which Port of Subs location management or reporting tasks you've been hoping to discuss with our product team."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1011662",
@@ -1124,8 +993,7 @@
       "user_level": "Manager",
       "age_days": 304,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I'm grateful for your patience, and I'd love to learn which Kumon location workflows or daily reports you're hoping SOCi can make faster and easier."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1024968",
@@ -1136,8 +1004,7 @@
       "user_level": "Manager",
       "age_days": 312,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you so much for waiting, and I'd love to understand which Anytime Fitness NA location management or reporting tasks are most important for you to address."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "722077",
@@ -1148,8 +1015,7 @@
       "user_level": "Manager",
       "age_days": 313,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I sincerely appreciate your patience, and I'd love to hear which The Learning Experience location workflows or reports you've been hoping SOCi could improve."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1004334",
@@ -1160,8 +1026,7 @@
       "user_level": "Manager",
       "age_days": 321,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience, and I'd love to learn which Comparion location management or day-to-day reporting tasks you're hoping SOCi can streamline."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1013988",
@@ -1172,8 +1037,7 @@
       "user_level": "Manager",
       "age_days": 326,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I'm grateful for your continued patience, and I'd love to understand which Balfour Beatty Communities location workflows or reports you most want to see improved."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "997727",
@@ -1184,8 +1048,7 @@
       "user_level": "Manager",
       "age_days": 329,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for waiting, and I'd love to hear which Berkshire Hathaway HomeServices location management or reporting tasks you've been hoping to discuss."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1004451",
@@ -1196,8 +1059,7 @@
       "user_level": "Manager",
       "age_days": 329,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I sincerely appreciate your patience, and I'd love to learn which Holiday Inn location workflows or daily reports you've been wanting to discuss with our product team."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "778285",
@@ -1208,8 +1070,7 @@
       "user_level": "Administrator",
       "age_days": 341,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 as an Administrator at LivCor, I'd love to hear how SOCi can better support your portfolio-wide governance, reporting transparency, and ROI measurement."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "943323",
@@ -1220,8 +1081,7 @@
       "user_level": "Manager",
       "age_days": 349,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience, and I'd love to understand which Drybar location management or reporting workflows you've been hoping to discuss with our product team."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "509081",
@@ -1232,8 +1092,7 @@
       "user_level": "Manager",
       "age_days": 349,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I appreciate your patience, and I'd love to hear which Quick Quack Car Wash location management or daily reporting tasks you're hoping SOCi can make easier."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "712794",
@@ -1244,8 +1103,7 @@
       "user_level": "Manager",
       "age_days": 355,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I'm grateful for your patience, and I'd love to learn which The Learning Experience location workflows or reports you most want to see improved in SOCi."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "888897",
@@ -1256,8 +1114,7 @@
       "user_level": "Unknown",
       "age_days": 355,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thanks so much for your interest in connecting, and I'd love to hear what's on your mind about how SOCi can better support Wing Zone."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "878737",
@@ -1268,8 +1125,7 @@
       "user_level": "Manager",
       "age_days": 359,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience, and I'd love to hear which Sky Zone location management or day-to-day reporting tasks you've been hoping to discuss with our product team."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "667093",
@@ -1280,8 +1136,7 @@
       "user_level": "Manager",
       "age_days": 364,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 I sincerely appreciate your patience, and I'd love to understand which Right At Home location workflows or reports you've been wanting to discuss with our product team."
+      "area": "Reporting Suite"
     }
   ],
   "level_counts": {
@@ -1373,11 +1228,7 @@
       2
     ]
   ],
-  "themes": [
-    "Multi-location reporting efficiency: A large share of contacts are franchise or multi-unit managers who are likely seeking faster, more consolidated ways to run location-level reports and surface performance insights without manual effort.",
-    "Long wait times signal urgent trust risk: With dozens of contacts waiting over 100 days \u2014 many over 300 \u2014 a significant theme is rebuilding credibility by acknowledging the delay and demonstrating clear responsiveness and follow-through from the product team.",
-    "Cross-vertical workflow consistency: The backlog spans highly diverse industries (hospitality, fitness, real estate, food & beverage, automotive) yet converges on common pain points around managing workflows and governance at scale, suggesting a need for flexible but standardized product capabilities that serve multi-location operators across verticals."
-  ],
+  "themes": [],
   "live_count": 11,
-  "planned_count": 13
+  "planned_count": 0
 }
