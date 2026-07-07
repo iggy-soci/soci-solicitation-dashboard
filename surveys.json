@@ -7,12 +7,17 @@
       "status": "live",
       "interested_poll_value": 1,
       "poll_id": "4xsn19fzao3"
+    },
+    {
+      "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
+      "area": "Reviews (Reputation)",
+      "status": "live",
+      "interested_poll_value": 1
     }
   ],
   "planned_areas": [
     "Listings",
     "Social",
-    "Reviews (Reputation)",
     "Listening",
     "Engagements (Conversations)",
     "Surveys",
