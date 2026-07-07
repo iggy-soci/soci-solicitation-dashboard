@@ -1,4 +1,4 @@
-name: add survey
+name: manage surveys
 
 on:
   workflow_dispatch:
@@ -21,6 +21,14 @@ on:
         required: false
         default: "1"
         type: string
+      action:
+        description: "add (create/update) or remove (delete from dashboard)"
+        required: false
+        default: "add"
+        type: choice
+        options:
+          - add
+          - remove
 
 permissions:
   contents: write
@@ -44,10 +52,23 @@ jobs:
           except ValueError:
               interested = 1
 
-          if not guide_id or not area:
-              print("guide_id and area are required"); sys.exit(1)
+          action = """${{ inputs.action }}""".strip() or "add"
+
+          if not guide_id or (action == "add" and not area):
+              print("guide_id is required (and area, when adding)"); sys.exit(1)
 
           cfg = json.load(open("surveys.json"))
+
+          if action == "remove":
+              before = len(cfg["surveys"])
+              cfg["surveys"] = [x for x in cfg["surveys"] if x["guide_id"] != guide_id]
+              removed = before - len(cfg["surveys"])
+              if removed:
+                  print(f"Removed survey {guide_id} from the dashboard")
+              else:
+                  print(f"No survey found for {guide_id}; nothing to remove")
+              json.dump(cfg, open("surveys.json", "w"), indent=2)
+              sys.exit(0)
 
           # If the guide already exists, update it instead of duplicating
           existing = next((s for s in cfg["surveys"] if s["guide_id"] == guide_id), None)
@@ -81,7 +102,7 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add surveys.json
-          git commit -m "add survey: ${{ inputs.area }} (${{ inputs.guide_id }})" || echo "no changes"
+          git commit -m "${{ inputs.action }} survey: ${{ inputs.area }} (${{ inputs.guide_id }})" || echo "no changes"
           git push
 
       - name: Trigger data refresh
