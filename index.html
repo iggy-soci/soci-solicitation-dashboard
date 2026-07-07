@@ -106,15 +106,13 @@
   .area-card { background:var(--surface); border:1px solid var(--hairline); border-radius:10px; padding:16px; text-align:left; font-family:inherit; box-shadow:var(--shadow); transition:transform .15s,border-color .15s; }
   .area-live { cursor:pointer; border-color:var(--accent); }
   .area-live:hover { transform:translateY(-2px); }
-  .area-planned { border-style:dashed; opacity:.62; }
   .area-top { display:flex; align-items:center; gap:7px; margin-bottom:12px; }
   .area-status-dot { width:7px; height:7px; border-radius:50%; }
-  .area-status-dot.live{background:var(--green);} .area-status-dot.planned{background:var(--muted);}
+  .area-status-dot.live{background:var(--green);}
   .area-status-label { font-family:'JetBrains Mono',monospace; font-size:9px; font-weight:700; letter-spacing:.1em; }
-  .area-status-label.live{color:var(--green);} .area-status-label.planned{color:var(--muted);}
+  .area-status-label.live{color:var(--green);}
   .area-name { font-size:14px; font-weight:600; margin-bottom:14px; min-height:34px; }
   .area-metrics { display:flex; gap:18px; margin-bottom:12px; }
-  .planned-metrics { opacity:.4; }
   .am { display:flex; flex-direction:column; gap:2px; }
   .am-val { font-family:'JetBrains Mono',monospace; font-size:18px; font-weight:600; }
   .am-lbl { font-family:'JetBrains Mono',monospace; font-size:9px; text-transform:uppercase; color:var(--muted); }
@@ -248,7 +246,7 @@
   <div class="section-head"><div class="section-title">Follow-up SLA health</div><div class="section-eyebrow">Time since customer raised hand</div></div>
   <div class="sla-strip" id="slaStrip"></div>
 
-  <div class="section-head"><div class="section-title" id="areaTitle">Product areas</div><div class="section-eyebrow">One solicitation survey per area</div></div>
+  <div class="section-head"><div class="section-title" id="areaTitle">Products</div><div class="section-eyebrow">One solicitation survey per product</div></div>
   <div class="grid-controls" id="gridControls"></div>
   <div class="area-grid" id="areaGrid"></div>
 
@@ -291,10 +289,10 @@
 
     <div class="prof-section">
       <h3><span class="prof-num">1</span> Add a solicitation survey</h3>
-      <p class="sec-sub">When a new solicitation survey is deployed in Pendo, add it here. Fill the fields and press <b>Add survey</b> &mdash; everything else is automatic: the survey is committed to the repo, the placeholder card goes live, and the data refreshes within a couple of minutes.</p>
+      <p class="sec-sub">When a new solicitation survey is deployed in Pendo, add it here. Fill the fields and press <b>Add survey</b> &mdash; everything else is automatic: the survey is committed to the repo, its product card appears on the dashboard, and the data refreshes within a couple of minutes.</p>
       <div class="field-row">
         <div class="field"><label>Pendo guide ID <span class="hint">?<span class="hint-pop">The guide's ID in Pendo &mdash; the long string in the guide's URL (e.g. rILFx33CEJlliM0_2euuyYzqhFY). This tells the dashboard which survey to pull.</span></span></label><input type="text" id="svId" placeholder="rILFx..." /></div>
-        <div class="field"><label>Product area <span class="hint">?<span class="hint-pop">The product area this survey belongs to, exactly as it should appear on its card. Pick a planned area from the suggestions or type a new one.</span></span></label><input type="text" id="svArea" list="plannedAreas" placeholder="Listings" /><datalist id="plannedAreas"></datalist></div>
+        <div class="field"><label>Product / feature name <span class="hint">?<span class="hint-pop">The product or feature this survey belongs to, exactly as it should appear on its dashboard card &mdash; e.g. Listings, Genius Reviews, SmartBot. Free text: any product SOCi ships can have a survey. Use the same spelling to update an existing card; a new spelling creates a new card.</span></span></label><input type="text" id="svArea" placeholder="e.g. Listings" /></div>
       </div>
       <div class="field-row">
         <div class="field" style="flex:0 0 150px;"><label>Interested value <span class="hint">?<span class="hint-pop">Which poll answer counts as "interested". All current solicitation surveys use 1 (the Reporting Suite pattern). Leave as 1 unless a survey differs.</span></span></label><input type="number" id="svVal" value="1" /></div>
@@ -371,10 +369,10 @@
     document.getElementById('goalText').innerHTML = t? `No customer who raises their hand goes un-contacted. Right now <b>${red} of ${t}</b> interested customers are past the 30-day follow-up window.` : 'No customer who raises their hand goes un-contacted.';
     const rs = DATA.per_area[Object.keys(DATA.per_area)[0]] || {};
     document.getElementById('kpiRow').innerHTML = `
-      <div class="kpi"><div class="kpi-label">Awaiting follow-up</div><div class="kpi-value alert">${t}</div><div class="kpi-foot">across ${DATA.live_count} live area(s)</div></div>
+      <div class="kpi"><div class="kpi-label">Awaiting follow-up</div><div class="kpi-value alert">${t}</div><div class="kpi-foot">across ${DATA.live_count} live product(s)</div></div>
       <div class="kpi"><div class="kpi-label">Oldest unactioned</div><div class="kpi-value warn">${DATA.oldest_age}<span style="font-size:14px;color:var(--muted)">d</span></div><div class="kpi-foot">since first interest</div></div>
       <div class="kpi"><div class="kpi-label">Breached SLA</div><div class="kpi-value alert">${DATA.sla_counts.red||0}</div><div class="kpi-foot">over 30 days</div></div>
-      <div class="kpi"><div class="kpi-label">Areas live</div><div class="kpi-value">${DATA.live_count}<span style="font-size:16px;color:var(--muted)">/${DATA.live_count+DATA.planned_count}</span></div><div class="kpi-foot">+${DATA.planned_count} planned</div></div>
+      <div class="kpi"><div class="kpi-label">Products live</div><div class="kpi-value">${DATA.live_count}</div><div class="kpi-foot">solicitation surveys running</div></div>
       <div class="kpi"><div class="kpi-label">Responses pulled</div><div class="kpi-value">${(rs.responses_12mo||0).toLocaleString()}</div><div class="kpi-foot">latest refresh</div></div>`;
   }
   function renderLevels(){
@@ -406,26 +404,17 @@
       <div class="sla-stat"><div class="sla-stat-val amber">${a}</div><div class="sla-stat-lbl">At risk</div></div>
       <div class="sla-stat"><div class="sla-stat-val red">${r}</div><div class="sla-stat-lbl">Breached</div></div>`;
   }
-  function renderAreas(filter){
-    filter=filter||'all';
-    document.getElementById('areaTitle').textContent=`Product areas · ${DATA.live_count} live, ${DATA.planned_count} planned`;
-    document.getElementById('gridControls').innerHTML = `
-      <button class="filter-chip ${filter==='all'?'active':''}" onclick="renderAreas('all')">All (${DATA.live_count+DATA.planned_count})</button>
-      <button class="filter-chip ${filter==='live'?'active':''}" onclick="renderAreas('live')">Live (${DATA.live_count})</button>
-      <button class="filter-chip ${filter==='planned'?'active':''}" onclick="renderAreas('planned')">Planned (${DATA.planned_count})</button>`;
-    document.getElementById('areaGrid').innerHTML = DATA.areas.filter(a=> filter==='all'||a.status===filter).map(a=>{
-      if(a.status==='live'){ const m=DATA.per_area[a.name]||{};
+  function renderAreas(){
+    document.getElementById('areaTitle').textContent=`Products · ${DATA.live_count} live`;
+    document.getElementById('gridControls').innerHTML = '';
+    document.getElementById('areaGrid').innerHTML = DATA.areas.filter(a=>a.status==='live').map(a=>{
+      const m=DATA.per_area[a.name]||{};
         return `<button class="area-card area-live" onclick="openDrill('${a.name.replace(/'/g,"\\'")}')">
           <div class="area-top"><span class="area-status-dot live"></span><span class="area-status-label live">LIVE</span></div>
           <div class="area-name">${a.name}</div>
           <div class="area-metrics"><div class="am"><span class="am-val">${m.interested||0}</span><span class="am-lbl">interested</span></div><div class="am"><span class="am-val">${(m.responses_12mo||0).toLocaleString()}</span><span class="am-lbl">responses</span></div></div>
           <div class="area-foot">click to drill in</div></button>`;
-      }
-      return `<div class="area-card area-planned"><div class="area-top"><span class="area-status-dot planned"></span><span class="area-status-label planned">PLANNED</span></div>
-        <div class="area-name">${a.name}</div>
-        <div class="area-metrics planned-metrics"><div class="am"><span class="am-val">—</span><span class="am-lbl">interested</span></div><div class="am"><span class="am-val">—</span><span class="am-lbl">responses</span></div></div>
-        <div class="area-foot">Deploy pending · add via Admin</div></div>`;
-    }).join('');
+    }).join('') || `<div class="empty-note" style="grid-column:1/-1">No products yet. Add the first solicitation survey via Admin.</div>`;
   }
   function renderQueue(){
     document.getElementById('queueFilters').innerHTML = `
@@ -450,7 +439,7 @@
   function setSla(m){ activeSla=m; renderQueue(); }
   function csvDownload(rows, nameHint){
     const esc=v=>{v=String(v==null?'':v); return /[",\n]/.test(v)?'"'+v.replace(/"/g,'""')+'"':v;};
-    const head=['date','name','email','visitor_id','account','area','user_level','sla_status','age_days'];
+    const head=['date','name','email','visitor_id','account','product','user_level','sla_status','age_days'];
     const csv=[head.join(',')].concat(rows.map(c=>[c.date,c.name||'',c.email||'',c.visitor,c.account,c.area||'',c.user_level,c.sla,c.age_days].map(esc).join(','))).join('\n');
     const blob=new Blob([csv],{type:'text/csv'});
     const a=document.createElement('a');
@@ -516,9 +505,6 @@
     if(!DATA) return;
     const live=DATA.areas.filter(a=>a.status==='live');
     document.getElementById('liveSurveys').innerHTML = live.length? live.map(a=>{const m=DATA.per_area[a.name]||{}; return `<div style="display:flex;justify-content:space-between;padding:9px 0;border-bottom:1px solid var(--hairline-soft);font-size:13px"><span><b>${a.name}</b> <span style="font-family:'JetBrains Mono',monospace;color:var(--muted);font-size:11px">${m.guide_id||''}</span></span><span style="font-family:'JetBrains Mono',monospace;color:var(--accent)">${m.interested||0} interested</span></div>`;}).join('') : '<p class="sec-sub">None live yet.</p>';
-    // planned-area suggestions for the form
-    const dl=document.getElementById('plannedAreas');
-    dl.innerHTML = DATA.areas.filter(a=>a.status==='planned').map(a=>`<option value="${a.name.replace(/"/g,'&quot;')}"></option>`).join('');
     // restore remembered token
     try { const t=sessionStorage.getItem('gh-token'); if(t){ document.getElementById('ghToken').value=t; document.getElementById('ghRemember').checked=true; } } catch(e){}
   }
@@ -532,7 +518,7 @@
     const val=(document.getElementById('svVal').value||'1').trim();
     const token=document.getElementById('ghToken').value.trim();
     st.className='form-status';
-    if(!id||!area){ st.className='form-status err'; st.textContent='Guide ID and product area are both required.'; return; }
+    if(!id||!area){ st.className='form-status err'; st.textContent='Guide ID and product / feature name are both required.'; return; }
     if(!token){ st.className='form-status err'; st.textContent='GitHub token required — hover the ? next to the token field for the 1-minute setup.'; return; }
     try { if(document.getElementById('ghRemember').checked) sessionStorage.setItem('gh-token',token); else sessionStorage.removeItem('gh-token'); } catch(e){}
     btn.disabled=true; st.textContent='Submitting…';
@@ -566,7 +552,7 @@
   function fb(text,done){ const ta=document.createElement('textarea'); ta.value=text; ta.style.position='fixed'; ta.style.opacity='0'; document.body.appendChild(ta); ta.select(); try{document.execCommand('copy');done();}catch(e){} document.body.removeChild(ta); }
   document.addEventListener('keydown',e=>{ if(e.key==='Escape'){closeAdmin();closeDrill();} });
 
-  function renderAll(){ if(!DATA)return; renderKpis(); renderLevels(); renderAnomaly(); renderSla(); renderAreas('all'); renderQueue(); document.getElementById('updatedTs').textContent=DATA.generated_at||'—'; document.getElementById('footMeta').textContent=`Live solicitation-survey monitor · ${DATA.live_count} live, ${DATA.planned_count} planned · data from Pendo · generated ${DATA.generated_at||''}`; }
+  function renderAll(){ if(!DATA)return; renderKpis(); renderLevels(); renderAnomaly(); renderSla(); renderAreas(); renderQueue(); document.getElementById('updatedTs').textContent=DATA.generated_at||'—'; document.getElementById('footMeta').textContent=`Live solicitation-survey monitor · ${DATA.live_count} live product(s) · data from Pendo · generated ${DATA.generated_at||''}`; }
 
   async function load(){
     try{ const r=await fetch(DATA_URL,{cache:'no-store'}); if(r.ok){ DATA=await r.json(); renderAll(); const l=document.getElementById('liveLabel'); l.textContent='Live · synced'; setTimeout(()=>l.textContent='Live',1200);} }
