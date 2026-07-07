@@ -286,8 +286,8 @@
         <div class="field"><label>Product area <span class="hint">?<span class="hint-pop">The product area this survey belongs to, exactly as it should appear on its card. Pick a planned area from the suggestions or type a new one.</span></span></label><input type="text" id="svArea" list="plannedAreas" placeholder="Listings" /><datalist id="plannedAreas"></datalist></div>
       </div>
       <div class="field-row">
-        <div class="field"><label>Poll ID <span class="hint">?<span class="hint-pop">The poll's ID inside the guide (e.g. 4xsn19fzao3). In Pendo, open the guide and look at its poll details. Required because the integration key can't look it up automatically.</span></span></label><input type="text" id="svPoll" placeholder="4xsn19fzao3" /></div>
         <div class="field" style="flex:0 0 150px;"><label>Interested value <span class="hint">?<span class="hint-pop">Which poll answer counts as "interested". All current solicitation surveys use 1 (the Reporting Suite pattern). Leave as 1 unless a survey differs.</span></span></label><input type="number" id="svVal" value="1" /></div>
+        <div class="field"><label>Poll <span class="hint">?<span class="hint-pop">Detected automatically. The system reads the guide in Pendo and finds its poll by itself &mdash; nothing to enter.</span></span></label><input type="text" value="Auto-detected from the guide" disabled style="opacity:.6" /></div>
       </div>
       <div class="field-row">
         <div class="field"><label>GitHub token <span class="hint">?<span class="hint-pop">A fine-grained personal access token that authorizes YOU to trigger the repo's add-survey workflow. Create once: GitHub &rarr; Settings &rarr; Developer settings &rarr; Fine-grained tokens &rarr; Generate new token &rarr; Repository access: Only select repositories &rarr; soci-solicitation-dashboard &rarr; Permissions &rarr; Actions: Read and write. Paste it here. It stays in your browser only and is sent only to api.github.com.</span></span></label><input type="password" id="ghToken" placeholder="github_pat_..." /></div>
@@ -478,11 +478,10 @@
     const btn=document.getElementById('svSubmit');
     const id=document.getElementById('svId').value.trim();
     const area=document.getElementById('svArea').value.trim();
-    const poll=document.getElementById('svPoll').value.trim();
     const val=(document.getElementById('svVal').value||'1').trim();
     const token=document.getElementById('ghToken').value.trim();
     st.className='form-status';
-    if(!id||!area||!poll){ st.className='form-status err'; st.textContent='Guide ID, product area, and poll ID are all required.'; return; }
+    if(!id||!area){ st.className='form-status err'; st.textContent='Guide ID and product area are both required.'; return; }
     if(!token){ st.className='form-status err'; st.textContent='GitHub token required — hover the ? next to the token field for the 1-minute setup.'; return; }
     try { if(document.getElementById('ghRemember').checked) sessionStorage.setItem('gh-token',token); else sessionStorage.removeItem('gh-token'); } catch(e){}
     btn.disabled=true; st.textContent='Submitting…';
@@ -490,12 +489,12 @@
       const r=await fetch(`https://api.github.com/repos/${GH_REPO}/actions/workflows/${GH_WORKFLOW}/dispatches`,{
         method:'POST',
         headers:{ 'Authorization':'Bearer '+token, 'Accept':'application/vnd.github+json', 'X-GitHub-Api-Version':'2022-11-28', 'Content-Type':'application/json' },
-        body: JSON.stringify({ ref:'main', inputs:{ guide_id:id, area:area, poll_id:poll, interested_value:val } })
+        body: JSON.stringify({ ref:'main', inputs:{ guide_id:id, area:area, poll_id:'', interested_value:val } })
       });
       if(r.status===204){
         st.className='form-status ok';
         st.textContent='Survey submitted. The repo is updating itself — the new card and its data appear within ~2 minutes. You can close this panel.';
-        document.getElementById('svId').value=''; document.getElementById('svArea').value=''; document.getElementById('svPoll').value='';
+        document.getElementById('svId').value=''; document.getElementById('svArea').value='';
       } else if(r.status===401){
         st.className='form-status err'; st.textContent='GitHub rejected the token (401). Check it was copied fully and has Actions read/write on this repo.';
       } else if(r.status===404){
