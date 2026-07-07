@@ -61,6 +61,12 @@
       "area": "Engagements (Conversations)",
       "status": "live",
       "interested_poll_value": 1
+    },
+    {
+      "guide_id": "YESnj4QI3Np_fsQ1W6_e_jBlJis",
+      "area": "Data Management",
+      "status": "live",
+      "interested_poll_value": 1
     }
   ],
   "planned_areas": [
@@ -68,7 +74,6 @@
     "Ads / Boost",
     "Rankings / SEO (Local Grid)",
     "Locator",
-    "Data Management",
     "SOCi Score (LVI)",
     "Shield",
     "Voice of Customer",
