@@ -95,21 +95,53 @@ def resolve_poll_id(guide_id):
         return None
 
 
-def fetch_roles_for(visitor_ids):
-    """{visitorId: role} for just these ids, via OR-chained equality in small chunks."""
+def fetch_visitor_info(visitor_ids):
+    """
+    {visitorId: {role, email, name}} for just these ids, via OR-chained equality in
+    small chunks. Tries a rich select (role + email + name candidates from both
+    agent- and auto-metadata); if Pendo rejects it, falls back to role-only so
+    levels never break because of the identity enrichment.
+    """
     out = {}
+    rich_select = {
+        "visitorId": "visitorId",
+        "role": "metadata.agent.role",
+        "email_agent": "metadata.agent.email",
+        "email_auto": "metadata.auto.email",
+        "name_agent": "metadata.agent.full_name",
+        "name_auto": "metadata.auto.name",
+    }
+    basic_select = {"visitorId": "visitorId", "role": "metadata.agent.role"}
     for chunk in _chunks(visitor_ids, CHUNK):
         expr = " || ".join(f'visitorId == "{v}"' for v in chunk)
+        rows = None
         try:
             rows = _agg([
                 {"source": {"visitors": None}},
                 {"filter": expr},
-                {"select": {"visitorId": "visitorId", "role": "metadata.agent.role"}},
+                {"select": rich_select},
             ])
-            for r in rows:
-                out[str(r.get("visitorId"))] = r.get("role")
         except Exception as e:
-            print(f"[warn] role chunk failed: {e}", file=sys.stderr)
+            print(f"[warn] rich visitor select failed ({e}); retrying role-only", file=sys.stderr)
+            try:
+                rows = _agg([
+                    {"source": {"visitors": None}},
+                    {"filter": expr},
+                    {"select": basic_select},
+                ])
+            except Exception as e2:
+                print(f"[warn] visitor chunk failed entirely: {e2}", file=sys.stderr)
+                continue
+        for r in rows or []:
+            vid = str(r.get("visitorId"))
+            email = r.get("email_agent") or r.get("email_auto") or ""
+            if not email and "@" in vid:
+                email = vid  # some subscriptions key visitors by email
+            out[vid] = {
+                "role": r.get("role"),
+                "email": email,
+                "name": r.get("name_agent") or r.get("name_auto") or "",
+            }
     return out
 
 
@@ -166,21 +198,26 @@ def fetch_interested(guide_id, poll_id, interested_value, days=365):
 
     visitor_ids = list(by_visitor.keys())
     account_ids = sorted({v["account_id"] for v in by_visitor.values() if v["account_id"]})
-    roles = fetch_roles_for(visitor_ids)
+    info = fetch_visitor_info(visitor_ids)
     names = fetch_names_for(account_ids)
+    with_role = sum(1 for v in visitor_ids if (info.get(v) or {}).get("role"))
+    with_email = sum(1 for v in visitor_ids if (info.get(v) or {}).get("email"))
     print(f"[info] {guide_id}: {len(visitor_ids)} interested visitors, "
-          f"{sum(1 for v in visitor_ids if roles.get(v))} with a role value", file=sys.stderr)
+          f"{with_role} with a role value, {with_email} with an email", file=sys.stderr)
 
     out = []
     for vid, v in by_visitor.items():
         ts = v["ts_ms"]
         dt = datetime.fromtimestamp(ts / 1000, tz=timezone.utc) if ts else now
+        vi = info.get(vid) or {}
         out.append({
             "visitor": vid,
+            "email": vi.get("email") or "",
+            "name": vi.get("name") or "",
             "account": names.get(v["account_id"], v["account_id"]),
             "date": dt.strftime("%Y-%m-%d"),
             "ts_ms": ts,
-            "user_level": normalize_level(roles.get(vid)),
+            "user_level": normalize_level(vi.get("role")),
         })
     return sorted(out, key=lambda x: x["ts_ms"], reverse=True)
 
