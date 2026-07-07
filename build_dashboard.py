@@ -114,8 +114,8 @@ def main():
         }
         areas.append({"name": area, "status": "live"})
 
-    for a in planned_areas:
-        areas.append({"name": a, "status": "planned"})
+    # planned_areas intentionally ignored: products are open-ended; a card appears when
+    # its survey goes live via the admin form. (Kept reading cfg for backwards compat.)
 
     all_contacts.sort(key=lambda c: c["date"], reverse=True)
 
@@ -142,7 +142,7 @@ def main():
         "repeat_accounts": repeat,
         "themes": themes,
         "live_count": len(live_areas),
-        "planned_count": len(planned_areas),
+        "planned_count": 0,
     }
     with open(OUT_PATH, "w") as f:
         json.dump(out, f, indent=2)
