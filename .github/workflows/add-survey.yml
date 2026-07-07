@@ -12,8 +12,9 @@ on:
         required: true
         type: string
       poll_id:
-        description: "Poll ID inside the guide (e.g. 4xsn19fzao3)"
-        required: true
+        description: "Poll ID (optional - auto-detected from the guide if left blank)"
+        required: false
+        default: ""
         type: string
       interested_value:
         description: "Poll answer that means Interested (default 1)"
@@ -43,8 +44,8 @@ jobs:
           except ValueError:
               interested = 1
 
-          if not guide_id or not area or not poll_id:
-              print("guide_id, area, and poll_id are all required"); sys.exit(1)
+          if not guide_id or not area:
+              print("guide_id and area are required"); sys.exit(1)
 
           cfg = json.load(open("surveys.json"))
 
@@ -55,8 +56,9 @@ jobs:
               "area": area,
               "status": "live",
               "interested_poll_value": interested,
-              "poll_id": poll_id,
           }
+          if poll_id:
+              entry["poll_id"] = poll_id
           if existing:
               existing.update(entry)
               print(f"Updated existing survey for {guide_id}")
