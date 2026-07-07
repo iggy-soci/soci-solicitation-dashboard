@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07 19:37 UTC",
+  "generated_at": "2026-07-07 19:41 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -39,6 +39,14 @@
     },
     {
       "name": "Data Management",
+      "status": "live"
+    },
+    {
+      "name": "AskGenius",
+      "status": "live"
+    },
+    {
+      "name": "Engagements",
       "status": "live"
     }
   ],
@@ -99,6 +107,18 @@
     },
     "Data Management": {
       "guide_id": "YESnj4QI3Np_fsQ1W6_e_jBlJis",
+      "views_12mo": 0,
+      "responses_12mo": 0,
+      "interested": 0
+    },
+    "AskGenius": {
+      "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
+      "views_12mo": 0,
+      "responses_12mo": 0,
+      "interested": 0
+    },
+    "Engagements": {
+      "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
       "responses_12mo": 0,
       "interested": 0
@@ -1219,6 +1239,6 @@
     ]
   ],
   "themes": [],
-  "live_count": 10,
+  "live_count": 12,
   "planned_count": 0
 }
