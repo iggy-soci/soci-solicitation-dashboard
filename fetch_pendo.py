@@ -64,6 +64,37 @@ def _chunks(lst, n):
         yield lst[i:i + n]
 
 
+
+def resolve_poll_id(guide_id):
+    """
+    Auto-discover the guide's poll id via the aggregation `guides` source.
+    The plain /guide/{id} REST endpoint 404s on an aggregation-scoped key, but the
+    aggregation endpoint can read the guides source, which includes each guide's polls.
+    Prefers a PositiveNegative poll; falls back to the first poll.
+    """
+    try:
+        rows = _agg([
+            {"source": {"guides": None}},
+            {"filter": f'id == "{guide_id}"'},
+            {"select": {"id": "id", "polls": "polls"}},
+        ])
+        polls = (rows[0].get("polls") if rows else None) or []
+        if not polls:
+            print(f"[warn] no polls found on guide {guide_id}", file=sys.stderr)
+            return None
+        for p in polls:
+            attrs = p.get("attributes") or {}
+            if (p.get("type") or attrs.get("type")) == "PositiveNegative":
+                print(f"[info] auto-resolved poll id {p.get('id')} (PositiveNegative) for {guide_id}", file=sys.stderr)
+                return p.get("id")
+        pid = polls[0].get("id")
+        print(f"[info] auto-resolved poll id {pid} (first poll) for {guide_id}", file=sys.stderr)
+        return pid
+    except Exception as e:
+        print(f"[warn] poll id auto-resolution failed for {guide_id}: {e}", file=sys.stderr)
+        return None
+
+
 def fetch_roles_for(visitor_ids):
     """{visitorId: role} for just these ids, via OR-chained equality in small chunks."""
     out = {}
@@ -164,9 +195,9 @@ def fetch_all(surveys):
             continue
         gid = s["guide_id"]
         iv = s.get("interested_poll_value", 1)
-        poll_id = s.get("poll_id")
+        poll_id = s.get("poll_id") or resolve_poll_id(gid)
         if not poll_id:
-            print(f"[warn] no poll_id in surveys.json for {gid}; skipping", file=sys.stderr)
+            print(f"[warn] no poll_id for {gid} (not in surveys.json and auto-resolution failed); skipping", file=sys.stderr)
             result[gid] = {"area": s["area"], "metrics": {"views_12mo": 0, "responses_12mo": 0}, "interested": []}
             continue
         interested = fetch_interested(gid, poll_id, iv)
