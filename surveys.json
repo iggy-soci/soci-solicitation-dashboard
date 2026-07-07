@@ -43,6 +43,12 @@
       "area": "Genius Search",
       "status": "live",
       "interested_poll_value": 1
+    },
+    {
+      "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
+      "area": "Genius Reviews",
+      "status": "live",
+      "interested_poll_value": 1
     }
   ],
   "planned_areas": [
@@ -54,7 +60,6 @@
     "Locator",
     "Data Management",
     "SOCi Score (LVI)",
-    "Genius Reviews",
     "Shield",
     "Voice of Customer",
     "Lead Generation",
