@@ -19,6 +19,12 @@
       "area": "Pages",
       "status": "live",
       "interested_poll_value": 1
+    },
+    {
+      "guide_id": "RLz8F0jmIzDqIwzo7WOPNNHQr4M",
+      "area": "Surveys",
+      "status": "live",
+      "interested_poll_value": 1
     }
   ],
   "planned_areas": [
@@ -26,7 +32,6 @@
     "Social",
     "Listening",
     "Engagements (Conversations)",
-    "Surveys",
     "Ads / Boost",
     "Rankings / SEO (Local Grid)",
     "Locator",
