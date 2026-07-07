@@ -198,6 +198,14 @@
   .lb-bar-track { flex:1; height:22px; background:var(--surface-3); border-radius:5px; overflow:hidden; }
   .lb-bar { height:100%; border-radius:5px; display:flex; align-items:center; padding-left:8px; font-family:'JetBrains Mono',monospace; font-size:10px; font-weight:700; color:#fff; }
   .lb-label { width:110px; font-size:12px; }
+  .lb-row.clickable { cursor:pointer; }
+  .lb-row.clickable:hover .lb-label { color:var(--accent); }
+  .lb-toggle { font-family:'JetBrains Mono',monospace; font-size:9px; color:var(--muted); width:40px; text-align:right; }
+  .lb-roster { display:none; margin:4px 0 12px 122px; border-left:2px solid var(--hairline); padding-left:12px; }
+  .roster-row { display:flex; justify-content:space-between; gap:12px; padding:6px 0; border-bottom:1px solid var(--hairline-soft); font-size:12.5px; align-items:baseline; }
+  .roster-row .r-who b { display:block; }
+  .roster-row .r-who span { font-family:'JetBrains Mono',monospace; font-size:11px; color:var(--ink-2); }
+  .roster-row .r-meta { color:var(--muted); font-family:'JetBrains Mono',monospace; font-size:10.5px; white-space:nowrap; text-align:right; }
   .repeat-list { list-style:none; padding:0; margin:0; }
   .repeat-list li { display:flex; justify-content:space-between; padding:8px 0; border-bottom:1px solid var(--hairline-soft); font-size:13px; }
   footer { margin-top:40px; padding-top:18px; border-top:1px solid var(--hairline); font-family:'JetBrains Mono',monospace; font-size:10px; color:var(--muted); text-align:center; line-height:1.7; }
@@ -326,7 +334,7 @@
 <!-- DRILL -->
 <div class="drill-overlay" id="drillOverlay" onclick="if(event.target===this)closeDrill()">
   <div class="drill">
-    <div class="drill-head"><div><div class="drill-title" id="drillTitle">—</div><div class="drill-sub" id="drillSub">—</div></div><button class="drill-close" onclick="closeDrill()">&times;</button></div>
+    <div class="drill-head"><div><div class="drill-title" id="drillTitle">—</div><div class="drill-sub" id="drillSub">—</div></div><div style="display:flex;gap:8px;align-items:center"><button class="qf" onclick="exportAreaCsv()" title="Download this area's interested contacts with levels and emails">&darr; Export CSV</button><button class="drill-close" onclick="closeDrill()">&times;</button></div></div>
     <div class="drill-body">
       <div class="drill-section-title">Conversion funnel</div>
       <div class="funnel" id="drillFunnel"></div>
@@ -343,7 +351,7 @@
   const ADMIN_PW_SHA256 = "02f57263f66f397611410a418be8befb7a646e8eb74a6b37a0cc683adaa4c3f2";
   const GH_REPO = "iggy-soci/soci-solicitation-dashboard";
   const GH_WORKFLOW = "add-survey.yml";
-  let DATA = null, adminAuthed = false, activeLevel = null, activeSla = 'all';
+  let DATA = null, adminAuthed = false, activeLevel = null, activeSla = 'all', drillArea = null;
   const LEVELS = ["Administrator","Manager","User"];
   const LEVEL_COLOR = { "Administrator":"#213B61", "Manager":"#29CC91", "User":"#C9CED6", "Unknown":"#9AA0AB" };
   const LEVEL_DESC = {
@@ -440,13 +448,7 @@
     applyQueueFilters();
   }
   function setSla(m){ activeSla=m; renderQueue(); }
-  function exportQueueCsv(){
-    if(!DATA||!DATA.contacts.length) return;
-    const rows = DATA.contacts.filter(c=>{
-      const s=activeSla==='all'||c.sla===activeSla;
-      const l=!activeLevel||(c.user_level||'User')===activeLevel;
-      return s&&l;
-    });
+  function csvDownload(rows, nameHint){
     const esc=v=>{v=String(v==null?'':v); return /[",\n]/.test(v)?'"'+v.replace(/"/g,'""')+'"':v;};
     const head=['date','name','email','visitor_id','account','area','user_level','sla_status','age_days'];
     const csv=[head.join(',')].concat(rows.map(c=>[c.date,c.name||'',c.email||'',c.visitor,c.account,c.area||'',c.user_level,c.sla,c.age_days].map(esc).join(','))).join('\n');
@@ -454,14 +456,34 @@
     const a=document.createElement('a');
     a.href=URL.createObjectURL(blob);
     const stamp=new Date().toISOString().slice(0,10);
-    a.download=`soci-interested-queue-${stamp}.csv`;
+    a.download=`soci-interested-${nameHint}-${stamp}.csv`;
     document.body.appendChild(a); a.click(); document.body.removeChild(a); URL.revokeObjectURL(a.href);
+  }
+  function exportQueueCsv(){
+    if(!DATA||!DATA.contacts.length) return;
+    const rows = DATA.contacts.filter(c=>{
+      const s=activeSla==='all'||c.sla===activeSla;
+      const l=!activeLevel||(c.user_level||'User')===activeLevel;
+      return s&&l;
+    });
+    csvDownload(rows,'queue');
+  }
+  function exportAreaCsv(){
+    if(!DATA||!drillArea) return;
+    const rows=DATA.contacts.filter(c=>c.area===drillArea);
+    csvDownload(rows, drillArea.toLowerCase().replace(/[^a-z0-9]+/g,'-'));
   }
   function filterByLevel(lvl,el){ if(activeLevel===lvl){activeLevel=null; el.classList.remove('active');} else { activeLevel=lvl; document.querySelectorAll('.level-card').forEach(c=>c.classList.toggle('active',c.dataset.level===lvl)); } applyQueueFilters(); }
   function applyQueueFilters(){ document.querySelectorAll('#queueBody .q-row').forEach(r=>{ const s=activeSla==='all'||r.dataset.sla===activeSla; const l=!activeLevel||r.dataset.level===activeLevel; r.style.display=(s&&l)?'':'none'; }); }
 
+  function toggleRoster(l){
+    const r=document.getElementById('roster-'+l), t=document.getElementById('rtoggle-'+l);
+    if(!r) return; const open=r.style.display==='block';
+    r.style.display=open?'none':'block'; if(t)t.textContent=open?'show':'hide';
+  }
   function openDrill(area){
     const m=DATA.per_area[area]; if(!m) return;
+    drillArea=area;
     document.getElementById('drillTitle').textContent=area;
     document.getElementById('drillSub').textContent=`Guide ${m.guide_id||''}`;
     const resp=m.responses_12mo||0, intr=m.interested||0;
@@ -469,9 +491,14 @@
       <div class="funnel-step"><div class="funnel-fill" style="width:100%"></div><span class="funnel-lbl">Responses pulled</span><span class="funnel-val">${resp.toLocaleString()}</span></div>
       <div class="funnel-step"><div class="funnel-fill" style="width:${resp?Math.max(intr/resp*100,3):0}%"></div><span class="funnel-lbl">Interested</span><span class="funnel-val">${intr.toLocaleString()}</span></div>`;
     const areaContacts=DATA.contacts.filter(c=>c.area===area);
-    const lc={}; LEVELS.forEach(l=>lc[l]=0); areaContacts.forEach(c=>{lc[c.user_level]=(lc[c.user_level]||0)+1;});
-    const max=Math.max(...Object.values(lc),1);
-    document.getElementById('drillLevels').innerHTML = LEVELS.map(l=>{const n=lc[l]||0; const txt=(l==='User')?'#0C0C0D':'#fff'; return `<div class="lb-row"><div class="lb-label">${l}</div><div class="lb-bar-track"><div class="lb-bar" style="width:${Math.max(n/max*100,6)}%;background:${LEVEL_COLOR[l]};color:${txt}">${n}</div></div></div>`;}).join('');
+    const byLevel={}; LEVELS.forEach(l=>byLevel[l]=[]);
+    areaContacts.forEach(c=>{ const l=LEVELS.includes(c.user_level)?c.user_level:'User'; byLevel[l].push(c); });
+    const max=Math.max(...LEVELS.map(l=>byLevel[l].length),1);
+    document.getElementById('drillLevels').innerHTML = LEVELS.map(l=>{
+      const list=byLevel[l], n=list.length, txt=(l==='User')?'#0C0C0D':'#fff';
+      const roster = n? `<div class="lb-roster" id="roster-${l}">`+list.map(c=>`<div class="roster-row"><div class="r-who"><b>${c.name||''}</b><span>${c.email||c.visitor}</span></div><div class="r-meta">${c.account}<br>${c.date}</div></div>`).join('')+`</div>` : '';
+      return `<div class="lb-row ${n?'clickable':''}" ${n?`onclick="toggleRoster('${l}')"`:''}><div class="lb-label">${l}</div><div class="lb-bar-track"><div class="lb-bar" style="width:${Math.max(n/max*100,6)}%;background:${LEVEL_COLOR[l]};color:${txt}">${n}</div></div><div class="lb-toggle" id="rtoggle-${l}">${n?'show':''}</div></div>${roster}`;
+    }).join('');
     const acctCounts={}; areaContacts.forEach(c=>{ if(c.account) acctCounts[c.account]=(acctCounts[c.account]||0)+1; });
     const repeats=Object.entries(acctCounts).filter(([a,n])=>n>1).sort((x,y)=>y[1]-x[1]);
     document.getElementById('drillRepeat').innerHTML = repeats.length? repeats.map(([a,n])=>`<li><span>${a}</span><span style="font-family:'JetBrains Mono',monospace;color:var(--accent);font-weight:600">${n}</span></li>`).join('') : '<li style="color:var(--muted)">None yet for this area</li>';
