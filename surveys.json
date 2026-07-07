@@ -49,10 +49,15 @@
       "area": "Genius Reviews",
       "status": "live",
       "interested_poll_value": 1
+    },
+    {
+      "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
+      "area": "Listings",
+      "status": "live",
+      "interested_poll_value": 1
     }
   ],
   "planned_areas": [
-    "Listings",
     "Listening",
     "Engagements (Conversations)",
     "Ads / Boost",
