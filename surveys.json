@@ -67,6 +67,12 @@
       "area": "AskGenius",
       "status": "live",
       "interested_poll_value": 1
+    },
+    {
+      "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
+      "area": "Engagements",
+      "status": "live",
+      "interested_poll_value": 1
     }
   ],
   "planned_areas": [
