@@ -13,6 +13,12 @@
       "area": "Reviews (Reputation)",
       "status": "live",
       "interested_poll_value": 1
+    },
+    {
+      "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
+      "area": "Pages",
+      "status": "live",
+      "interested_poll_value": 1
     }
   ],
   "planned_areas": [
@@ -23,7 +29,6 @@
     "Surveys",
     "Ads / Boost",
     "Rankings / SEO (Local Grid)",
-    "Pages",
     "Locator",
     "Data Management",
     "SOCi Score (LVI)",
