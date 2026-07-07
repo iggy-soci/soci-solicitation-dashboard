@@ -247,9 +247,12 @@
   <div class="queue-wrap">
     <div class="queue-head">
       <div class="queue-title">Live action queue <span class="queue-live-badge">AUTO</span></div>
-      <div class="queue-filters" id="queueFilters"></div>
+      <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap">
+        <div class="queue-filters" id="queueFilters"></div>
+        <button class="qf" onclick="exportQueueCsv()" title="Download the currently filtered queue for outreach">&darr; Export CSV</button>
+      </div>
     </div>
-    <table class="queue"><thead><tr><th>Date</th><th>Visitor</th><th>Account</th><th>User level</th><th>SLA age</th></tr></thead><tbody id="queueBody"></tbody></table>
+    <table class="queue"><thead><tr><th>Date</th><th>Contact</th><th>Account</th><th>User level</th><th>SLA age</th></tr></thead><tbody id="queueBody"></tbody></table>
   </div>
 
   <footer>
@@ -425,9 +428,11 @@
     if(!DATA.contacts.length){ body.innerHTML=`<tr><td colspan="5"><div class="empty-note">No interested responses yet. The next refresh will populate this from Pendo.</div></td></tr>`; return; }
     body.innerHTML = DATA.contacts.map(c=>{
       const lvl=c.user_level||'User', color=LEVEL_COLOR[lvl]||'#C9CED6', txt=(lvl==='User')?'#0C0C0D':'#fff';
+      const contactId = c.email || c.visitor;
+      const nameLine = c.name ? `<div style="font-weight:600;color:var(--ink)">${c.name}</div>` : '';
       return `<tr class="q-row" data-sla="${c.sla}" data-level="${lvl}">
         <td class="q-date">${c.date}</td>
-        <td class="q-visitor">${c.visitor}</td>
+        <td class="q-visitor">${nameLine}${contactId}</td>
         <td class="q-account">${c.account}</td>
         <td><span class="level-tag" style="background:${color};color:${txt}">${lvl}</span></td>
         <td><span class="sla-pill sla-${c.sla}">${c.age_days}d</span></td></tr>`;
@@ -435,6 +440,23 @@
     applyQueueFilters();
   }
   function setSla(m){ activeSla=m; renderQueue(); }
+  function exportQueueCsv(){
+    if(!DATA||!DATA.contacts.length) return;
+    const rows = DATA.contacts.filter(c=>{
+      const s=activeSla==='all'||c.sla===activeSla;
+      const l=!activeLevel||(c.user_level||'User')===activeLevel;
+      return s&&l;
+    });
+    const esc=v=>{v=String(v==null?'':v); return /[",\n]/.test(v)?'"'+v.replace(/"/g,'""')+'"':v;};
+    const head=['date','name','email','visitor_id','account','area','user_level','sla_status','age_days'];
+    const csv=[head.join(',')].concat(rows.map(c=>[c.date,c.name||'',c.email||'',c.visitor,c.account,c.area||'',c.user_level,c.sla,c.age_days].map(esc).join(','))).join('\n');
+    const blob=new Blob([csv],{type:'text/csv'});
+    const a=document.createElement('a');
+    a.href=URL.createObjectURL(blob);
+    const stamp=new Date().toISOString().slice(0,10);
+    a.download=`soci-interested-queue-${stamp}.csv`;
+    document.body.appendChild(a); a.click(); document.body.removeChild(a); URL.revokeObjectURL(a.href);
+  }
   function filterByLevel(lvl,el){ if(activeLevel===lvl){activeLevel=null; el.classList.remove('active');} else { activeLevel=lvl; document.querySelectorAll('.level-card').forEach(c=>c.classList.toggle('active',c.dataset.level===lvl)); } applyQueueFilters(); }
   function applyQueueFilters(){ document.querySelectorAll('#queueBody .q-row').forEach(r=>{ const s=activeSla==='all'||r.dataset.sla===activeSla; const l=!activeLevel||r.dataset.level===activeLevel; r.style.display=(s&&l)?'':'none'; }); }
 
@@ -450,7 +472,9 @@
     const lc={}; LEVELS.forEach(l=>lc[l]=0); areaContacts.forEach(c=>{lc[c.user_level]=(lc[c.user_level]||0)+1;});
     const max=Math.max(...Object.values(lc),1);
     document.getElementById('drillLevels').innerHTML = LEVELS.map(l=>{const n=lc[l]||0; const txt=(l==='User')?'#0C0C0D':'#fff'; return `<div class="lb-row"><div class="lb-label">${l}</div><div class="lb-bar-track"><div class="lb-bar" style="width:${Math.max(n/max*100,6)}%;background:${LEVEL_COLOR[l]};color:${txt}">${n}</div></div></div>`;}).join('');
-    document.getElementById('drillRepeat').innerHTML = (DATA.repeat_accounts||[]).length? DATA.repeat_accounts.map(([a,n])=>`<li><span>${a}</span><span style="font-family:'JetBrains Mono',monospace;color:var(--accent);font-weight:600">${n}</span></li>`).join('') : '<li style="color:var(--muted)">None yet</li>';
+    const acctCounts={}; areaContacts.forEach(c=>{ if(c.account) acctCounts[c.account]=(acctCounts[c.account]||0)+1; });
+    const repeats=Object.entries(acctCounts).filter(([a,n])=>n>1).sort((x,y)=>y[1]-x[1]);
+    document.getElementById('drillRepeat').innerHTML = repeats.length? repeats.map(([a,n])=>`<li><span>${a}</span><span style="font-family:'JetBrains Mono',monospace;color:var(--accent);font-weight:600">${n}</span></li>`).join('') : '<li style="color:var(--muted)">None yet for this area</li>';
     document.getElementById('drillOverlay').classList.add('open');
   }
   function closeDrill(){ document.getElementById('drillOverlay').classList.remove('open'); }
