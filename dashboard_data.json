@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08 06:32 UTC",
+  "generated_at": "2026-07-08 09:28 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 5,
-      "interested": 5
+      "responses_12mo": 12,
+      "interested": 12
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 0,
-      "interested": 0
+      "responses_12mo": 76,
+      "interested": 76
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 0,
-      "interested": 0
+      "responses_12mo": 2,
+      "interested": 2
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 0,
-      "interested": 0
+      "responses_12mo": 11,
+      "interested": 11
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,182 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 0,
-      "interested": 0
+      "responses_12mo": 13,
+      "interested": 13
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 0,
-      "interested": 0
+      "responses_12mo": 5,
+      "interested": 5
     }
   },
   "contacts": [
+    {
+      "visitor": "1065716",
+      "email": "centralgulfcoast@soccerstars.com",
+      "name": "",
+      "account": "Youth Athletes United",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "655087",
+      "email": "gergis@littlekickers.ca",
+      "name": "",
+      "account": "Little Kickers",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "136319",
+      "email": "saiya@saiyapatel.com",
+      "name": "",
+      "account": "SocialSaiya",
+      "date": "2026-07-08",
+      "user_level": "Administrator",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "712066",
+      "email": "jamesboyd@fortywinks.com.au",
+      "name": "",
+      "account": "Forty Winks | The Pistol",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1257459",
+      "email": "elisa.dunkle@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Basic",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "750845",
+      "email": "lam@fortywinkscanberra.com.au",
+      "name": "",
+      "account": "Forty Winks | The Pistol",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "945146",
+      "email": "srodas@millcreekplaces.com",
+      "name": "",
+      "account": "Mill Creek Residential ",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "92433",
+      "email": "liz@teriyakimadness.com",
+      "name": "",
+      "account": "Teriyaki Madness",
+      "date": "2026-07-08",
+      "user_level": "Administrator",
+      "age_days": 0,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "474822",
+      "email": "mwalker@jonesstreet.com",
+      "name": "",
+      "account": "Jones Street Residential ",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "368777",
+      "email": "aha_mgr@lakefieldvet.com",
+      "name": "",
+      "account": "Lakefield Veterinary Group",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1070383",
+      "email": "store1010@americanfreight.us",
+      "name": "",
+      "account": "American Freight NewCo",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "945019",
+      "email": "circlecrossaz@woofgangbakery.com",
+      "name": "",
+      "account": "Woof Gang Bakery & Grooming",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1176763",
+      "email": "nycxv-gm@sbcos.com",
+      "name": "",
+      "account": "voco",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1149093",
+      "email": "Coralgables.fl@sylvanlearning.com",
+      "name": "",
+      "account": "Sylvan Learning",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1045283",
+      "email": "Manager.soho@fortispm.com",
+      "name": "",
+      "account": "Fortis Property Management",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
     {
       "visitor": "825523",
       "email": "louie.cshl1@gmail.com",
@@ -134,8 +299,7 @@
       "user_level": "Manager",
       "age_days": 1,
       "sla": "green",
-      "area": "Reviews (Reputation)",
-      "suggested_opener": "Hi there \u2014 we'd love to connect and hear how SOCi is fitting into your day-to-day location management at Sharkey's Cuts for Kids."
+      "area": "Reviews (Reputation)"
     },
     {
       "visitor": "750845",
@@ -146,8 +310,7 @@
       "user_level": "Manager",
       "age_days": 1,
       "sla": "green",
-      "area": "Reviews (Reputation)",
-      "suggested_opener": "Hi \u2014 we want to make sure the reports and workflows you rely on daily at Forty Winks | The Pistol are working as hard as possible for you."
+      "area": "Reviews (Reputation)"
     },
     {
       "visitor": "433249",
@@ -158,8 +321,7 @@
       "user_level": "Manager",
       "age_days": 1,
       "sla": "green",
-      "area": "Reviews (Reputation)",
-      "suggested_opener": "Hi \u2014 we want to make sure the reports and workflows you rely on daily at Forty Winks | The Pistol are working as hard as possible for you."
+      "area": "Reviews (Reputation)"
     },
     {
       "visitor": "1232280",
@@ -170,8 +332,7 @@
       "user_level": "Manager",
       "age_days": 1,
       "sla": "green",
-      "area": "Reviews (Reputation)",
-      "suggested_opener": "Hi \u2014 we'd love to hear which location reports or workflows you're running most often at Holiday Inn Express and where we can save you time."
+      "area": "Reviews (Reputation)"
     },
     {
       "visitor": "754822",
@@ -182,8 +343,1096 @@
       "user_level": "Manager",
       "age_days": 1,
       "sla": "green",
-      "area": "Reviews (Reputation)",
-      "suggested_opener": "Hi \u2014 we'd love to connect and learn how SOCi fits into your daily location management routine at Nekter Juice Bar."
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1145827",
+      "email": "stella@signarama-pasadena.com",
+      "name": "",
+      "account": "Signarama",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1006013",
+      "email": "chris.holda@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Pro",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1221462",
+      "email": "doug.firestone@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "886848",
+      "email": "ravi.varanasi@rpmvaranasi.com",
+      "name": "",
+      "account": "Neighborly",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "778225",
+      "email": "bordentownnj@tlechildcare.com",
+      "name": "",
+      "account": "The Learning Experience",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "968389",
+      "email": "susan@scootersnsv.com",
+      "name": "",
+      "account": "Scooter's Coffee, LLC",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1218759",
+      "email": "Mhussain@lightbridgeacademy.com",
+      "name": "",
+      "account": "Lightbridge Academy",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1186962",
+      "email": "c-lipps1@forddirect.com",
+      "name": "",
+      "account": "Ford",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "659207",
+      "email": "travel@attheta.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "963219",
+      "email": "jii3039@jeremiahsice.com",
+      "name": "",
+      "account": "Jeremiah's Italian Ice",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "997908",
+      "email": "Natalie.chapman@siennaliving.ca",
+      "name": "",
+      "account": "Sienna Senior Living",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "713445",
+      "email": "store_harrisburg@texasroadhouse.com",
+      "name": "",
+      "account": "Texas Roadhouse Holdings LLC",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "452157",
+      "email": "bainbridgebayview@bainbridgere.com",
+      "name": "",
+      "account": "The Bainbridge Companies, LLC ",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1068956",
+      "email": "mschwenk@capitalsquareliving.com",
+      "name": "",
+      "account": "Capital Square Living",
+      "date": "2026-07-07",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "994433",
+      "email": "sam.sawiris@thegreatgreek.com",
+      "name": "",
+      "account": "The Great Greek Grill",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "969172",
+      "email": "4farms@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "864812",
+      "email": "Emily.Holt@janmangroup.com",
+      "name": "",
+      "account": "Nothing Bundt Cakes",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "780104",
+      "email": "jamie.webb@myjohnstonesupply.com",
+      "name": "",
+      "account": "Johnstone Supply",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "968561",
+      "email": "Isaiah.Davis@monarchinvestment.com",
+      "name": "",
+      "account": "Monarch Investment and Management Group",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1212711",
+      "email": "Info.0900@onehourair.com",
+      "name": "",
+      "account": "One Hour Heating & Air Conditioning ",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1196121",
+      "email": "DNagpal@Discoveryseniorliving.com",
+      "name": "",
+      "account": "Discovery Marketing Group, LLC dba STAT Marketing",
+      "date": "2026-07-07",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1203723",
+      "email": "MD0015@pjscoffee.com",
+      "name": "",
+      "account": "PJ's Coffee",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "886479",
+      "email": "pelicans.douglasville@gmail.com",
+      "name": "",
+      "account": "Pelican's SnoBalls",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1216906",
+      "email": "Victoria@livanolibertypark.com",
+      "name": "",
+      "account": "Gallery Residential",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "67673",
+      "email": "arborvillage.mgr@adaracommunities.com",
+      "name": "",
+      "account": "Adara Communities ",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "796732",
+      "email": "ahuebner@ntyfranchise.com",
+      "name": "",
+      "account": "Clothes Mentor",
+      "date": "2026-07-07",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "945019",
+      "email": "circlecrossaz@woofgangbakery.com",
+      "name": "",
+      "account": "Woof Gang Bakery & Grooming",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1186296",
+      "email": "hgeren@hillpointe.com",
+      "name": "",
+      "account": "Pointe Grand",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1205163",
+      "email": "kelly@mytravelawaits.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "639732",
+      "email": "studio277@paintingwithatwist.com",
+      "name": "",
+      "account": "Painting with a Twist, LLC",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "228694",
+      "email": "ancoramgr@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "712635",
+      "email": "beltline@tlechildcare.com",
+      "name": "",
+      "account": "The Learning Experience",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "840099",
+      "email": "oceancenter@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1177965",
+      "email": "cathy@landctravelagency.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1169466",
+      "email": "Adrienne.cecil@coopertrailsl.com",
+      "name": "",
+      "account": "Trilogy Health Services",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "103488",
+      "email": "vbujor@millcreekplaces.com",
+      "name": "",
+      "account": "Mill Creek Residential ",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1175632",
+      "email": "NewportHarbour@WINNCO.com",
+      "name": "",
+      "account": "WinnResidential",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1254867",
+      "email": "abenn@homewellcares.com",
+      "name": "",
+      "account": "HomeWell Care Services",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1211495",
+      "email": "bainbridgecabinbranch@bainbridgere.com",
+      "name": "",
+      "account": "The Bainbridge Companies, LLC ",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1171899",
+      "email": "mollymaidgwh@gmail.com",
+      "name": "",
+      "account": "Neighborly",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1147773",
+      "email": "kenilworthnj.sales@signarama.com",
+      "name": "",
+      "account": "Signarama",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "713451",
+      "email": "481marketing@texasroadhouse.com",
+      "name": "",
+      "account": "Texas Roadhouse Holdings LLC",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "150234",
+      "email": "arborsdublin@adaracommunities.com",
+      "name": "",
+      "account": "Adara Communities ",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "531127",
+      "email": "coyoung@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "743881",
+      "email": "info@WoodburyMewsSeniorLiving.com",
+      "name": "",
+      "account": "Discovery Marketing Group, LLC dba STAT Marketing",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1159679",
+      "email": "dsurra@homewellcares.com",
+      "name": "",
+      "account": "HomeWell Care Services",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1041392",
+      "email": "sc2626@thenavipartners.com",
+      "name": "",
+      "account": "Scooter's Coffee, LLC",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "269750",
+      "email": "hwilfley@wordenmartin.com",
+      "name": "",
+      "account": "Ford",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "701526",
+      "email": "sheri@inspiretravelgroup.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "542285",
+      "email": "jbyrnes@milkshakefactory.com",
+      "name": "",
+      "account": "Milkshake Factory",
+      "date": "2026-07-07",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "82113",
+      "email": "lasallemgr@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "991966",
+      "email": "attainabletravel@yahoo.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1179127",
+      "email": "robyn.dennis@comparioninsurance.com",
+      "name": "",
+      "account": "Comparion",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "750692",
+      "email": "stonecanyonasstmgr@raamco.com",
+      "name": "",
+      "account": "Sheng Raamco Management Inc",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "949153",
+      "email": "folsomca@stretchzone.com",
+      "name": "",
+      "account": "Stretch Zone Franchising, LLC ",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "658584",
+      "email": "easton@brooksideproperties.com",
+      "name": "",
+      "account": "Brookside Properties",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1225158",
+      "email": "andrea.randall+3078821@bhhscarolinas.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "79936",
+      "email": "FloweryBranchGA@goddardschools.com",
+      "name": "",
+      "account": "The Goddard School",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1049520",
+      "email": "ansa.steenkamp@merrymaids.pro",
+      "name": "",
+      "account": "Merry Maids",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "52559",
+      "email": "alisa.wagner@fivestarpainting.com",
+      "name": "",
+      "account": "Neighborly",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "639600",
+      "email": "sanantonio-nw@paintingwithatwist.com",
+      "name": "",
+      "account": "Painting with a Twist, LLC",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "949093",
+      "email": "leasing@grovemoundville.com",
+      "name": "",
+      "account": "LMS Investment Management",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "84954",
+      "email": "trio@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "419144",
+      "email": "Woodcreek@ChildrensLighthouse.com",
+      "name": "",
+      "account": "Children's Lighthouse Franchise Company",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "945602",
+      "email": "kmorales@dilldinkers.com",
+      "name": "",
+      "account": "Dill Dinkers",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1207841",
+      "email": "albert@semleads.net",
+      "name": "",
+      "account": "CareBuilders At Home",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1069138",
+      "email": "aleesha.burton@monarchinvestment.com",
+      "name": "",
+      "account": "Monarch Investment and Management Group",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1229256",
+      "email": "social@socialhubcompany.com",
+      "name": "",
+      "account": "Mill Creek Residential ",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1220650",
+      "email": "Cterry@hillpointe.com",
+      "name": "",
+      "account": "Pointe Grand",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "831892",
+      "email": "734marketing@texasroadhouse.com",
+      "name": "",
+      "account": "Texas Roadhouse Holdings LLC",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1199166",
+      "email": "ccardenas@legacyresidential.com",
+      "name": "",
+      "account": "Legacy Residential Group",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "874423",
+      "email": "karla.boyles@skyzone.com",
+      "name": "",
+      "account": "Sky Zone",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "964360",
+      "email": "GrandForks.ND@SylvanLearning.com",
+      "name": "",
+      "account": "Sylvan Learning",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "945019",
+      "email": "circlecrossaz@woofgangbakery.com",
+      "name": "",
+      "account": "Woof Gang Bakery & Grooming",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "379913",
+      "email": "pm.larkview@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1028473",
+      "email": "jpikor@prohosp.com",
+      "name": "",
+      "account": "Holiday Inn Express",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "97888",
+      "email": "cary@gradepowerlearning.com",
+      "name": "",
+      "account": "Oxford Learning",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "154328",
+      "email": "agreen@1800packrat.com",
+      "name": "",
+      "account": "1-800-Pack-Rat ",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1263558",
+      "email": "gerencia@grupoxama.com",
+      "name": "",
+      "account": "Holiday Inn Express",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1070383",
+      "email": "store1010@americanfreight.us",
+      "name": "",
+      "account": "American Freight NewCo",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1206172",
+      "email": "gneutgens@championsgh.com",
+      "name": "",
+      "account": "Service Champions",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "824938",
+      "email": "cottagesridgepointemgr@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1101055",
+      "email": "angelaatherton@veg.com",
+      "name": "",
+      "account": "Veterinary Emergency Group",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "289929",
+      "email": "bfootit@aveliving.com",
+      "name": "",
+      "account": "AVE Living ",
+      "date": "2026-07-07",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1256912",
+      "email": "4018951@sso.subway.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "591738",
+      "email": "Longview.TX@sylvanlearning.com",
+      "name": "",
+      "account": "Sylvan Learning",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "716944",
+      "email": "desireem@ovationco.com",
+      "name": "",
+      "account": "Ovation Property Management",
+      "date": "2026-07-07",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "962209",
+      "email": "brianb@4timeholdings.com",
+      "name": "",
+      "account": "KOA",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "935220",
+      "email": "alyssal@rentcip.com",
+      "name": "",
+      "account": "CIP Communities",
+      "date": "2026-07-07",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "147236",
+      "email": "Sheila.Smyre@becu.org",
+      "name": "",
+      "account": "Boeing Employees Credit Union",
+      "date": "2026-07-07",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "194301",
+      "email": "shelli.novotny+413923@bhhsamb.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "282969",
+      "email": "justin@rickysr.com",
+      "name": "",
+      "account": "Ricky's All Day Grill",
+      "date": "2026-07-07",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1157160",
+      "email": "jmccrory@rtgroupproperties.com",
+      "name": "",
+      "account": "MRD Apartments",
+      "date": "2026-07-07",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "796732",
+      "email": "ahuebner@ntyfranchise.com",
+      "name": "",
+      "account": "NTY Franchise Company",
+      "date": "2026-07-07",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1070383",
+      "email": "store1010@americanfreight.us",
+      "name": "",
+      "account": "American Freight NewCo",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "813956",
+      "email": "jessica.akebrand@skyzone.com",
+      "name": "",
+      "account": "Sky Zone",
+      "date": "2026-07-07",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "870341",
+      "email": "brady@zoomingroomin.com",
+      "name": "",
+      "account": "Zoomin Groomin",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1050654",
+      "email": "val@af.furniture",
+      "name": "",
+      "account": "American Freight (MAFGA)",
+      "date": "2026-07-07",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1226865",
+      "email": "mktg.nola@benjaminfranklinplumbing.com",
+      "name": "",
+      "account": "Benjamin Franklin Plumbing",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "1263516",
@@ -194,8 +1443,7 @@
       "user_level": "Manager",
       "age_days": 2,
       "sla": "green",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we noticed you've been waiting a couple of days and want to make sure we connect soon to talk through how SOCi is working across your Holiday Inn Express locations."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1031892",
@@ -206,8 +1454,7 @@
       "user_level": "Manager",
       "age_days": 13,
       "sla": "amber",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience, and we're eager to hear which day-to-day workflows or reports matter most to you at Bruster's Real Ice Cream."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1176040",
@@ -218,8 +1465,7 @@
       "user_level": "Manager",
       "age_days": 15,
       "sla": "amber",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we appreciate your patience and want to talk through how SOCi can save you more time managing your Subway locations across North America."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "293538",
@@ -230,8 +1476,7 @@
       "user_level": "Manager",
       "age_days": 17,
       "sla": "amber",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we're sorry for the wait and look forward to understanding how SOCi fits into your daily workflow managing Pet Supplies Plus locations."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "777759",
@@ -242,8 +1487,7 @@
       "user_level": "Manager",
       "age_days": 22,
       "sla": "amber",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience and we're looking forward to learning which location management tasks or reports are top of mind for you at E.C. Barton."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1226457",
@@ -254,8 +1498,7 @@
       "user_level": "Manager",
       "age_days": 25,
       "sla": "amber",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we truly appreciate your patience and want to make sure the time you spend managing Holiday Inn Express locations in SOCi is as efficient as possible."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1228726",
@@ -266,8 +1509,7 @@
       "user_level": "Manager",
       "age_days": 29,
       "sla": "amber",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for waiting and we're excited to discuss how SOCi can make managing your Cruise Planners | CP Elite locations smoother day to day."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "977730",
@@ -278,8 +1520,7 @@
       "user_level": "Manager",
       "age_days": 33,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we appreciate your patience and want to connect on how SOCi's reports and workflows are serving your Travel Leaders Group locations."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1034185",
@@ -290,8 +1531,7 @@
       "user_level": "Manager",
       "age_days": 34,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience and we're looking forward to hearing how SOCi fits your day-to-day management of Avenue5 Residential locations."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1211028",
@@ -302,8 +1542,7 @@
       "user_level": "Manager",
       "age_days": 35,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we appreciate your patience and want to make sure SOCi is helping you efficiently manage your Neighborly locations and the reports that matter most."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1212480",
@@ -314,8 +1553,7 @@
       "user_level": "Manager",
       "age_days": 51,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience and we look forward to learning where SOCi can save you the most time managing your Holiday Inn locations."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "988710",
@@ -326,8 +1564,7 @@
       "user_level": "Manager",
       "age_days": 55,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we sincerely appreciate your patience and want to hear what's working and what isn't for your Cruise Planners | CP Elite location workflows."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "532133",
@@ -338,8 +1575,7 @@
       "user_level": "Administrator",
       "age_days": 65,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 as an Administrator at CONAM Management Corporation, we want to discuss how SOCi can deliver account-wide governance and ROI across your entire portfolio."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "433262",
@@ -350,8 +1586,7 @@
       "user_level": "Manager",
       "age_days": 79,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you so much for your patience and we're eager to understand how SOCi's day-to-day tools are serving your Forty Winks | The Pistol locations."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "590748_mobile",
@@ -362,8 +1597,7 @@
       "user_level": "Manager",
       "age_days": 83,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we genuinely appreciate your patience and want to connect on how SOCi can streamline the location reports and daily tasks you manage at The Lash Lounge."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "202522",
@@ -374,8 +1608,7 @@
       "user_level": "Manager",
       "age_days": 86,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience and we'd love to talk through how SOCi's workflows and reports are supporting your Berkshire Hathaway HomeServices locations."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1197112",
@@ -386,8 +1619,7 @@
       "user_level": "Manager",
       "age_days": 86,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we appreciate your patience and look forward to learning how SOCi can better fit into your daily location management routine at Capital Square Living."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1131015",
@@ -398,8 +1630,7 @@
       "user_level": "Manager",
       "age_days": 88,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for waiting and we're excited to connect on how SOCi can make managing your Bad Ass Coffee of Hawaii locations easier every day."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "138736",
@@ -410,8 +1641,7 @@
       "user_level": "Manager",
       "age_days": 89,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we're grateful for your patience and want to understand which SOCi workflows and reports matter most to you at Avenue5 Residential."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "511583",
@@ -422,8 +1652,7 @@
       "user_level": "Manager",
       "age_days": 91,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience and we'd love to hear how SOCi is supporting your daily work managing Ricky's All Day Grill locations."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "987217",
@@ -434,8 +1663,7 @@
       "user_level": "Manager",
       "age_days": 94,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we truly appreciate your patience and look forward to discussing how SOCi can save you time managing Travel Leaders Group locations day to day."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "943442",
@@ -446,8 +1674,7 @@
       "user_level": "Manager",
       "age_days": 97,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you so much for waiting and we're eager to learn how SOCi fits into your daily location workflows at Elements Massage."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1167712",
@@ -458,8 +1685,7 @@
       "user_level": "Manager",
       "age_days": 99,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we sincerely appreciate your patience and want to connect on how SOCi's tools can better support your Orangetheory Fitness location management."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "181342",
@@ -470,8 +1696,7 @@
       "user_level": "Manager",
       "age_days": 102,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience and we'd love to discuss how SOCi's reporting and workflows are working for your Berkshire Hathaway HomeServices locations."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1007481",
@@ -482,8 +1707,7 @@
       "user_level": "Manager",
       "age_days": 106,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we appreciate your patience and look forward to learning how SOCi can save you time managing your Vetcor locations each day."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1165910",
@@ -494,8 +1718,7 @@
       "user_level": "Manager",
       "age_days": 118,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for waiting and we're excited to connect on how SOCi can make your TWO MEN AND A TRUCK location management more efficient."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "993200",
@@ -506,8 +1729,7 @@
       "user_level": "Manager",
       "age_days": 118,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we sincerely appreciate your patience and want to hear which reports and daily workflows matter most to you at BrightStar Care."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "726640",
@@ -518,8 +1740,7 @@
       "user_level": "Manager",
       "age_days": 119,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience and we'd love to talk through how SOCi's location tools can better serve your Travel Leaders Group workflow."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1168349",
@@ -530,8 +1751,7 @@
       "user_level": "Manager",
       "age_days": 121,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we appreciate your patience and look forward to understanding how SOCi fits your day-to-day management needs at Tiger-Rock MAI System."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "394388",
@@ -542,8 +1762,7 @@
       "user_level": "Manager",
       "age_days": 132,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for waiting and we want to make sure SOCi's location reports and workflows are delivering real value for you at 29th Street Living."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1152292",
@@ -554,8 +1773,7 @@
       "user_level": "Manager",
       "age_days": 133,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we sincerely appreciate your patience and are eager to discuss how SOCi can save you time managing your Holiday Inn Express locations."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "855667",
@@ -566,8 +1784,7 @@
       "user_level": "Manager",
       "age_days": 140,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience and we'd love to learn how SOCi's tools fit into your daily workflows at MG Properties Group."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "726565",
@@ -578,8 +1795,7 @@
       "user_level": "Manager",
       "age_days": 140,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we appreciate your patience and look forward to connecting on how SOCi can better support your Travel Leaders Group location management."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "253865",
@@ -590,8 +1806,7 @@
       "user_level": "Manager",
       "age_days": 142,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for waiting and we want to ensure SOCi's reporting and workflows are as useful as possible for you at 29th Street Living."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "937539",
@@ -602,8 +1817,7 @@
       "user_level": "Manager",
       "age_days": 146,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we truly appreciate your patience and want to connect on how SOCi's location tools are serving your Travel Leaders Group day to day."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "977729_mobile",
@@ -614,8 +1828,7 @@
       "user_level": "Manager",
       "age_days": 147,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience and we'd love to hear which Anytime Fitness NA location workflows or reports we can help make faster for you."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1074527",
@@ -626,8 +1839,7 @@
       "user_level": "Manager",
       "age_days": 153,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we sincerely appreciate your patience and look forward to discussing how SOCi can streamline your Berkshire Hathaway HomeServices location management."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "965628",
@@ -638,8 +1850,7 @@
       "user_level": "Manager",
       "age_days": 154,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for waiting and we're eager to learn how SOCi's reports and workflows can save you more time at Travel Leaders Group."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "946248",
@@ -650,8 +1861,7 @@
       "user_level": "Manager",
       "age_days": 156,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we appreciate your patience and want to connect on how SOCi is supporting your daily work across Berkshire Hathaway HomeServices locations."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "282891",
@@ -662,8 +1872,7 @@
       "user_level": "Manager",
       "age_days": 160,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience and we'd love to hear how SOCi's tools fit into your day-to-day management at RPM Living."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "701489",
@@ -674,8 +1883,7 @@
       "user_level": "Manager",
       "age_days": 169,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we sincerely appreciate your patience and look forward to talking through how SOCi can make managing Travel Leaders Group locations more efficient."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "784323",
@@ -686,8 +1894,7 @@
       "user_level": "Manager",
       "age_days": 177,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for waiting and we're excited to connect on how SOCi can support your daily location workflows at Willow Bridge Property Company."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1151132",
@@ -698,8 +1905,7 @@
       "user_level": "Manager",
       "age_days": 180,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we truly appreciate your patience and want to make sure SOCi's location tools are working as well as possible for you at Holiday Inn Express."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1044819",
@@ -710,8 +1916,7 @@
       "user_level": "Manager",
       "age_days": 183,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience and we'd love to learn how SOCi fits into your workflows at Discovery Marketing Group | STAT Marketing."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "352206",
@@ -722,8 +1927,7 @@
       "user_level": "Manager",
       "age_days": 185,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we appreciate your patience and look forward to discussing how SOCi's location reporting and management tools can better serve your Ford team."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "302587",
@@ -734,8 +1938,7 @@
       "user_level": "Manager",
       "age_days": 201,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience and we're eager to connect on how SOCi can save you time managing AT&T locations day to day."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1118166",
@@ -746,8 +1949,7 @@
       "user_level": "Manager",
       "age_days": 203,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we sincerely appreciate your patience and want to hear how SOCi's workflows and reports are supporting your GO Car Wash locations."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "988325",
@@ -758,8 +1960,7 @@
       "user_level": "Manager",
       "age_days": 204,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for waiting and we're excited to learn how SOCi can make your day-to-day JINYA USA location management more efficient."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "882458",
@@ -770,8 +1971,7 @@
       "user_level": "Manager",
       "age_days": 208,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we appreciate your patience and look forward to discussing how SOCi's tools can better fit your Anytime Fitness NA location workflows."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1106688",
@@ -782,8 +1982,7 @@
       "user_level": "Administrator",
       "age_days": 208,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 as an Administrator at LivCor, we want to discuss how SOCi can strengthen account-wide governance and demonstrate ROI across your full portfolio."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "150251",
@@ -794,8 +1993,7 @@
       "user_level": "Manager",
       "age_days": 210,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience and we'd love to learn how SOCi's location tools can support your daily work at Adara Communities."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1064803",
@@ -806,8 +2004,7 @@
       "user_level": "Manager",
       "age_days": 215,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we sincerely appreciate your patience and want to connect on how SOCi's reporting and workflows are serving your Ford locations."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1109844",
@@ -818,8 +2015,7 @@
       "user_level": "Manager",
       "age_days": 215,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for waiting and we're eager to discuss how SOCi can save you time managing your Orangetheory Fitness locations each day."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "993647",
@@ -830,8 +2026,7 @@
       "user_level": "Administrator",
       "age_days": 217,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 as an Administrator at Oak Hill Management, we want to explore how SOCi can drive account-wide efficiency and governance across your portfolio."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1066987",
@@ -842,8 +2037,7 @@
       "user_level": "Administrator",
       "age_days": 218,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 as an Administrator at The Goodman Group, we'd love to discuss how SOCi can deliver measurable ROI and governance across your entire account."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1069264",
@@ -854,8 +2048,7 @@
       "user_level": "Manager",
       "age_days": 231,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience and we'd love to hear how SOCi's tools are supporting your daily location management at American Freight."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "967333",
@@ -866,8 +2059,7 @@
       "user_level": "Manager",
       "age_days": 231,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we appreciate your patience and look forward to connecting on how SOCi's location workflows can better serve your Garner team."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "751809",
@@ -878,8 +2070,7 @@
       "user_level": "Manager",
       "age_days": 243,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience and we're eager to learn how SOCi's day-to-day tools can better support your Vetcor location management."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "82113",
@@ -890,8 +2081,7 @@
       "user_level": "Manager",
       "age_days": 252,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we sincerely appreciate your patience and want to connect on how SOCi's reporting and workflows are working for your Willow Bridge Property Company locations."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "986987",
@@ -902,8 +2092,7 @@
       "user_level": "Manager",
       "age_days": 259,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for waiting and we'd love to discuss how SOCi can make managing your Balfour Beatty Communities locations more efficient."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1039308",
@@ -914,8 +2103,7 @@
       "user_level": "Manager",
       "age_days": 259,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we appreciate your patience and look forward to learning how SOCi's location tools fit your daily workflow at The Garrett Companies."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1056827",
@@ -926,8 +2114,7 @@
       "user_level": "Manager",
       "age_days": 260,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience and we're excited to connect on how SOCi's reports and workflows can better serve your Ford team."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "982226",
@@ -938,8 +2125,7 @@
       "user_level": "Administrator",
       "age_days": 264,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 as an Administrator at Elegance Senior Living, we want to discuss how SOCi can provide account-wide visibility and governance across your communities."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "997798",
@@ -950,8 +2136,7 @@
       "user_level": "Manager",
       "age_days": 267,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience and we'd love to hear how SOCi's location tools are fitting into your daily work at Scooter's Coffee."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1040044",
@@ -962,8 +2147,7 @@
       "user_level": "Manager",
       "age_days": 267,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we appreciate your patience and look forward to connecting on how SOCi can streamline your day-to-day Burn Boot Camp location management."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "861912",
@@ -974,8 +2158,7 @@
       "user_level": "Manager",
       "age_days": 273,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience and we're eager to discuss how SOCi's workflows and reports can save you time at Travel Leaders Group."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "275555",
@@ -986,8 +2169,7 @@
       "user_level": "Administrator",
       "age_days": 278,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 as an Administrator at Highmark Residential, we want to connect on how SOCi can drive portfolio-wide ROI and governance for your entire account."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "963986",
@@ -998,8 +2180,7 @@
       "user_level": "Manager",
       "age_days": 280,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience and we'd love to learn how SOCi can better support your day-to-day management of Texas Roadhouse locations."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "787997",
@@ -1010,8 +2191,7 @@
       "user_level": "Manager",
       "age_days": 280,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we sincerely appreciate your patience and want to talk through how SOCi's tools are supporting your Berkshire Hathaway HomeServices locations."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "995199",
@@ -1022,8 +2202,7 @@
       "user_level": "Manager",
       "age_days": 287,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for waiting and we're excited to connect on how SOCi's location reports and workflows can better serve your Bryten Management team."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "742752",
@@ -1034,8 +2213,7 @@
       "user_level": "Manager",
       "age_days": 287,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we appreciate your patience and look forward to discussing how SOCi can make your Travel Leaders Group location management more efficient."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "58052",
@@ -1046,8 +2224,7 @@
       "user_level": "Manager",
       "age_days": 288,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience and we'd love to hear how SOCi's tools are fitting into your daily workflows at Neighborly."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "983062",
@@ -1058,8 +2235,7 @@
       "user_level": "Manager",
       "age_days": 294,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we sincerely appreciate your patience and want to connect on how SOCi can better support your day-to-day location work at Garner."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "836484",
@@ -1070,8 +2246,7 @@
       "user_level": "Manager",
       "age_days": 302,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience and we're eager to learn how SOCi's location workflows and reports can better serve your Port of Subs team."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1011662",
@@ -1082,8 +2257,7 @@
       "user_level": "Manager",
       "age_days": 305,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we appreciate your patience and look forward to discussing how SOCi fits into your daily location management at Kumon."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1024968",
@@ -1094,8 +2268,7 @@
       "user_level": "Manager",
       "age_days": 313,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience and we'd love to hear how SOCi's tools can save you more time managing your Anytime Fitness NA locations."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "722077",
@@ -1106,8 +2279,7 @@
       "user_level": "Manager",
       "age_days": 314,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we sincerely appreciate your patience and want to connect on how SOCi's workflows and reports are supporting your Learning Experience locations."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1004334",
@@ -1118,8 +2290,7 @@
       "user_level": "Manager",
       "age_days": 322,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for waiting and we're eager to learn how SOCi can better fit your day-to-day location management needs at Comparion."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1013988",
@@ -1130,8 +2301,7 @@
       "user_level": "Manager",
       "age_days": 327,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we appreciate your patience and look forward to discussing how SOCi's tools can make managing your Balfour Beatty Communities locations more efficient."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "997727",
@@ -1142,8 +2312,7 @@
       "user_level": "Manager",
       "age_days": 330,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience and we'd love to hear how SOCi's location workflows and reports are working for your Berkshire Hathaway HomeServices team."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1004451",
@@ -1154,8 +2323,7 @@
       "user_level": "Manager",
       "age_days": 330,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we sincerely appreciate your patience and want to connect on how SOCi can save you time managing your Holiday Inn locations each day."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "778285",
@@ -1166,8 +2334,7 @@
       "user_level": "Administrator",
       "age_days": 342,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 as an Administrator at LivCor, we appreciate your patience and want to ensure SOCi is delivering measurable, account-wide ROI across your full portfolio."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "943323",
@@ -1178,8 +2345,7 @@
       "user_level": "Manager",
       "age_days": 350,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience and we're excited to discuss how SOCi's location tools can better support your daily work at Drybar."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "509081",
@@ -1190,8 +2356,7 @@
       "user_level": "Manager",
       "age_days": 350,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we appreciate your patience and look forward to learning how SOCi's workflows and reports can better serve your Quick Quack Car Wash locations."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "712794",
@@ -1202,8 +2367,7 @@
       "user_level": "Manager",
       "age_days": 356,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience and we'd love to connect on how SOCi can streamline your day-to-day location management at The Learning Experience."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "888897",
@@ -1214,8 +2378,7 @@
       "user_level": "Unknown",
       "age_days": 356,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for reaching out and we'd love to learn more about what brought you to us from Wing Zone."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "878737",
@@ -1226,8 +2389,7 @@
       "user_level": "Manager",
       "age_days": 360,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 we sincerely appreciate your patience and want to discuss how SOCi's location tools can better support your daily work at Sky Zone."
+      "area": "Reporting Suite"
     },
     {
       "visitor": "667093",
@@ -1238,40 +2400,103 @@
       "user_level": "Manager",
       "age_days": 365,
       "sla": "red",
-      "area": "Reporting Suite",
-      "suggested_opener": "Hi \u2014 thank you for your patience and we're eager to connect on how SOCi can better fit your day-to-day location management needs at Right At Home."
+      "area": "Reporting Suite"
     }
   ],
   "level_counts": {
-    "Administrator": 7,
-    "Manager": 85,
+    "Administrator": 22,
+    "Manager": 184,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 6,
+    "green": 120,
     "amber": 6,
     "red": 81
   },
-  "total_interested": 93,
+  "total_interested": 207,
   "oldest_age": 365,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
-      9
+      14
     ],
     [
       "Berkshire Hathaway HomeServices",
-      6
+      8
     ],
     [
       "Holiday Inn Express",
-      5
+      7
+    ],
+    [
+      "Willow Bridge Property Company ",
+      7
     ],
     [
       "Forty Winks | The Pistol",
+      5
+    ],
+    [
+      "Neighborly",
+      5
+    ],
+    [
+      "Ford",
+      5
+    ],
+    [
+      "The Learning Experience",
+      4
+    ],
+    [
+      "Texas Roadhouse Holdings LLC",
+      4
+    ],
+    [
+      "Mill Creek Residential ",
+      3
+    ],
+    [
+      "American Freight NewCo",
+      3
+    ],
+    [
+      "Woof Gang Bakery & Grooming",
+      3
+    ],
+    [
+      "Sylvan Learning",
+      3
+    ],
+    [
+      "Cruise Planners | CP Elite",
+      3
+    ],
+    [
+      "Scooter's Coffee, LLC",
+      3
+    ],
+    [
+      "Discovery Marketing Group, LLC dba STAT Marketing",
+      3
+    ],
+    [
+      "Adara Communities ",
+      3
+    ],
+    [
+      "RPM Living",
+      3
+    ],
+    [
+      "Sky Zone",
+      3
+    ],
+    [
+      "Avenue5 Residential",
       3
     ],
     [
@@ -1279,19 +2504,47 @@
       3
     ],
     [
-      "Ford",
-      3
-    ],
-    [
-      "Cruise Planners | CP Elite",
+      "Signarama",
       2
     ],
     [
-      "Avenue5 Residential",
+      "The Bainbridge Companies, LLC ",
       2
     ],
     [
-      "Neighborly",
+      "Capital Square Living",
+      2
+    ],
+    [
+      "Monarch Investment and Management Group",
+      2
+    ],
+    [
+      "Pointe Grand",
+      2
+    ],
+    [
+      "Painting with a Twist, LLC",
+      2
+    ],
+    [
+      "HomeWell Care Services",
+      2
+    ],
+    [
+      "Comparion",
+      2
+    ],
+    [
+      "Subway - North America",
+      2
+    ],
+    [
+      "Ricky's All Day Grill",
+      2
+    ],
+    [
+      "American Freight (MAFGA)",
       2
     ],
     [
@@ -1311,10 +2564,6 @@
       2
     ],
     [
-      "Willow Bridge Property Company ",
-      2
-    ],
-    [
       "LivCor",
       2
     ],
@@ -1325,17 +2574,9 @@
     [
       "Balfour Beatty Communities ",
       2
-    ],
-    [
-      "The Learning Experience",
-      2
     ]
   ],
-  "themes": [
-    "Long wait times dominate the backlog \u2014 the majority of contacts have been waiting over 100 days, with many exceeding 200\u2013350 days, signaling an urgent need for a faster, more scalable outreach and follow-up process.",
-    "Multi-contact accounts (Travel Leaders Group, Berkshire Hathaway HomeServices, Holiday Inn Express, Forty Winks, and others) appear repeatedly, suggesting these customers have broad or unresolved needs that may benefit from a consolidated account-level conversation rather than individual touchpoints.",
-    "The backlog skews almost entirely toward Managers, pointing to frontline workflow pain \u2014 concerns are likely centered on day-to-day usability, reporting efficiency, and time savings at the location level rather than strategic or administrative issues."
-  ],
+  "themes": [],
   "live_count": 12,
   "planned_count": 0
 }
