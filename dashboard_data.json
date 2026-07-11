@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11 06:17 UTC",
+  "generated_at": "2026-07-11 08:20 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,14 +60,14 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 24,
-      "interested": 24
+      "responses_12mo": 26,
+      "interested": 26
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
       "views_12mo": 0,
-      "responses_12mo": 0,
-      "interested": 0
+      "responses_12mo": 2,
+      "interested": 2
     },
     "Surveys": {
       "guide_id": "RLz8F0jmIzDqIwzo7WOPNNHQr4M",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 115,
-      "interested": 115
+      "responses_12mo": 128,
+      "interested": 128
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 19,
-      "interested": 19
+      "responses_12mo": 25,
+      "interested": 25
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 32,
-      "interested": 32
+      "responses_12mo": 39,
+      "interested": 39
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,380 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 47,
-      "interested": 47
+      "responses_12mo": 50,
+      "interested": 50
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 20,
-      "interested": 20
+      "responses_12mo": 24,
+      "interested": 24
     }
   },
   "contacts": [
+    {
+      "visitor": "1176723",
+      "email": "dedrick.hill@twomen.com",
+      "name": "",
+      "account": "TWO MEN AND A TRUCK",
+      "date": "2026-07-11",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "162354",
+      "email": "thomas.patchin@rpmpeace.com",
+      "name": "",
+      "account": "Neighborly",
+      "date": "2026-07-11",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1032294",
+      "email": "latrice.coleman@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Pro",
+      "date": "2026-07-11",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "874477",
+      "email": "Westmont_Jump@SkyZone.com",
+      "name": "",
+      "account": "Sky Zone",
+      "date": "2026-07-11",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "823007",
+      "email": "moreforpets@zoomingroomin.com",
+      "name": "",
+      "account": "Zoomin Groomin",
+      "date": "2026-07-11",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "518549",
+      "email": "imtdaytonstation@imtresidential.com",
+      "name": "",
+      "account": "IMT Residential",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "303633",
+      "email": "rg8682@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Pages"
+    },
+    {
+      "visitor": "344575",
+      "email": "av2361@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Pages"
+    },
+    {
+      "visitor": "949887",
+      "email": "tranquilityinttravel@gmail.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "638518",
+      "email": "ashrader@arlingtonproperties.net",
+      "name": "",
+      "account": "Arlington Properties",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "48426",
+      "email": "vandrade@umich.edu",
+      "name": "",
+      "account": "Anytime Fitness NA ",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1207470",
+      "email": "Brooksidegardenssales@wedgewoodweddings.com",
+      "name": "",
+      "account": "Wedgewood Weddings & Events",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "61117",
+      "email": "coachjwalt@gmail.com",
+      "name": "",
+      "account": "Neighborly",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "504105",
+      "email": "ashley.wadiak@brightstarcare.com",
+      "name": "",
+      "account": "BrightStar Care ",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "805973",
+      "email": "infomnrh@moradaseniorliving.com",
+      "name": "",
+      "account": "Discovery Marketing Group, LLC dba STAT Marketing",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "840724",
+      "email": "angelosapts@peakliving.com",
+      "name": "",
+      "account": "Peak Living LLC",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "649000",
+      "email": "manager@risormaplegrove.com",
+      "name": "",
+      "account": "Roers Companies LLC",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "988030",
+      "email": "422marketing@texasroadhouse.com",
+      "name": "",
+      "account": "Texas Roadhouse Holdings LLC",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1036441",
+      "email": "aebbs@thetravelagentnextdoor.com",
+      "name": "",
+      "account": "Travel Leaders Group Canada",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "79968",
+      "email": "BethesdaMD@goddardschools.com",
+      "name": "",
+      "account": "The Goddard School",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "415626",
+      "email": "sharley@hoganre.com",
+      "name": "",
+      "account": "HomeSpring Residential Services",
+      "date": "2026-07-10",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "69810",
+      "email": "jodi.campbell@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1145674",
+      "email": "fabiolars@ufgcorp.com",
+      "name": "",
+      "account": "Signarama",
+      "date": "2026-07-10",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "83647",
+      "email": "dennis.livingston@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1203723",
+      "email": "MD0015@pjscoffee.com",
+      "name": "",
+      "account": "PJ's Coffee",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1215845",
+      "email": "membbguestservices@gmail.com",
+      "name": "",
+      "account": "Holiday Inn",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "890102",
+      "email": "Elizabeth.Graham@brightstarcare.com",
+      "name": "",
+      "account": "BrightStar Care ",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "302962",
+      "email": "lm546a@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "92694",
+      "email": "lwashington@millcreekplaces.com",
+      "name": "",
+      "account": "Mill Creek Residential ",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1196121",
+      "email": "DNagpal@Discoveryseniorliving.com",
+      "name": "",
+      "account": "Discovery Marketing Group, LLC dba STAT Marketing",
+      "date": "2026-07-10",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1179048",
+      "email": "vpalamos@orangetheoryfitness.ca",
+      "name": "",
+      "account": "Orangetheory Fitness Canada",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "142703",
+      "email": "mary.williams@freemanwebb.com",
+      "name": "",
+      "account": "Freeman Webb",
+      "date": "2026-07-10",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1162401",
+      "email": "wgrasty@guildmortgage.net",
+      "name": "",
+      "account": "Guild Mortgage",
+      "date": "2026-07-10",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
     {
       "visitor": "1252343",
       "email": "bownesssubway@yahoo.ca",
@@ -135,6 +498,50 @@
       "age_days": 1,
       "sla": "green",
       "area": "AskGenius"
+    },
+    {
+      "visitor": "1195910",
+      "email": "theclairenaperville@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "54853",
+      "email": "CoshoctonOH@anytimefitness.com",
+      "name": "",
+      "account": "Anytime Fitness NA ",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1243070",
+      "email": "antwain.sanders@assetliving.com",
+      "name": "",
+      "account": "Asset Living",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1185131",
+      "email": "etsarfati@aim-recycling.com",
+      "name": "",
+      "account": "AIM Recycling - Ontario",
+      "date": "2026-07-10",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "984761",
@@ -3933,35 +4340,55 @@
     }
   ],
   "level_counts": {
-    "Administrator": 55,
-    "Manager": 289,
+    "Administrator": 61,
+    "Manager": 320,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 2
   },
   "sla_counts": {
-    "green": 260,
+    "green": 297,
     "amber": 5,
     "red": 81
   },
-  "total_interested": 346,
+  "total_interested": 383,
   "oldest_age": 363,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
-      16
+      17
     ],
     [
       "Willow Bridge Property Company ",
       10
     ],
     [
+      "AT&T",
+      9
+    ],
+    [
       "Berkshire Hathaway HomeServices",
       9
     ],
     [
+      "Anytime Fitness NA ",
+      8
+    ],
+    [
       "RPM Living",
+      8
+    ],
+    [
+      "Neighborly",
+      7
+    ],
+    [
+      "Discovery Marketing Group, LLC dba STAT Marketing",
+      7
+    ],
+    [
+      "Cruise Planners | CP Elite",
       7
     ],
     [
@@ -3973,11 +4400,11 @@
       7
     ],
     [
-      "Nothing Bundt Cakes",
+      "Texas Roadhouse Holdings LLC",
       6
     ],
     [
-      "AT&T",
+      "Nothing Bundt Cakes",
       6
     ],
     [
@@ -3985,23 +4412,19 @@
       6
     ],
     [
-      "Anytime Fitness NA ",
-      6
+      "Sky Zone",
+      5
+    ],
+    [
+      "Signarama",
+      5
     ],
     [
       "Pointe Grand",
       5
     ],
     [
-      "Texas Roadhouse Holdings LLC",
-      5
-    ],
-    [
       "American Freight (MAFGA)",
-      5
-    ],
-    [
-      "Discovery Marketing Group, LLC dba STAT Marketing",
       5
     ],
     [
@@ -4013,12 +4436,16 @@
       5
     ],
     [
-      "Cruise Planners | CP Elite",
-      5
+      "Cruise Planners | CP Pro",
+      4
     ],
     [
-      "Neighborly",
-      5
+      "The Goddard School",
+      4
+    ],
+    [
+      "Mill Creek Residential ",
+      4
     ],
     [
       "Subway - North America",
@@ -4030,10 +4457,6 @@
     ],
     [
       "Veterinary Emergency Group",
-      4
-    ],
-    [
-      "Sky Zone",
       4
     ],
     [
@@ -4053,10 +4476,6 @@
       4
     ],
     [
-      "Signarama",
-      4
-    ],
-    [
       "Scooter's Coffee, LLC",
       4
     ],
@@ -4065,15 +4484,19 @@
       4
     ],
     [
+      "BrightStar Care ",
+      3
+    ],
+    [
+      "Holiday Inn",
+      3
+    ],
+    [
       "29th Street Living",
       3
     ],
     [
       "Teriyaki Madness",
-      3
-    ],
-    [
-      "Cruise Planners | CP Pro",
       3
     ],
     [
@@ -4089,20 +4512,36 @@
       3
     ],
     [
-      "The Goddard School",
-      3
-    ],
-    [
-      "Mill Creek Residential ",
-      3
-    ],
-    [
       "Orangetheory Fitness",
       3
     ],
     [
       "Avenue5 Residential",
       3
+    ],
+    [
+      "TWO MEN AND A TRUCK",
+      2
+    ],
+    [
+      "Zoomin Groomin",
+      2
+    ],
+    [
+      "Peak Living LLC",
+      2
+    ],
+    [
+      "PJ's Coffee",
+      2
+    ],
+    [
+      "Guild Mortgage",
+      2
+    ],
+    [
+      "AIM Recycling - Ontario",
+      2
     ],
     [
       "ARCpoint Labs Corporate",
@@ -4178,10 +4617,6 @@
     ],
     [
       "Ricky's All Day Grill",
-      2
-    ],
-    [
-      "Holiday Inn",
       2
     ],
     [
