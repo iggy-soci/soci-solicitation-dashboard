@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12 04:07 UTC",
+  "generated_at": "2026-07-12 07:07 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,14 +54,14 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 87,
-      "interested": 87
+      "responses_12mo": 88,
+      "interested": 88
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 26,
-      "interested": 26
+      "responses_12mo": 28,
+      "interested": 28
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 128,
-      "interested": 128
+      "responses_12mo": 131,
+      "interested": 131
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 25,
-      "interested": 25
+      "responses_12mo": 26,
+      "interested": 26
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 39,
-      "interested": 39
+      "responses_12mo": 42,
+      "interested": 42
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,8 +114,8 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 50,
-      "interested": 50
+      "responses_12mo": 51,
+      "interested": 51
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
@@ -125,6 +125,39 @@
     }
   },
   "contacts": [
+    {
+      "visitor": "1165464",
+      "email": "leisurebylisa737@gmail.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reporting Suite"
+    },
+    {
+      "visitor": "43695",
+      "email": "Spencer@scjm.solutions",
+      "name": "",
+      "account": "Sport Clips",
+      "date": "2026-07-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "684951",
+      "email": "lindseysmokoff@veg.com",
+      "name": "",
+      "account": "Veterinary Emergency Group",
+      "date": "2026-07-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
     {
       "visitor": "1176723",
       "email": "dedrick.hill@twomen.com",
@@ -137,6 +170,39 @@
       "area": "Reviews (Reputation)"
     },
     {
+      "visitor": "480684",
+      "email": "westmemorial@stretchzone.com",
+      "name": "",
+      "account": "Stretch Zone Franchising, LLC ",
+      "date": "2026-07-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "785656",
+      "email": "jimma.hernden@frenchiesnails.com",
+      "name": "",
+      "account": "Frenchies Modern Nail Care",
+      "date": "2026-07-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1195906",
+      "email": "Mileswithmandy@yahoo.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
       "visitor": "162354",
       "email": "thomas.patchin@rpmpeace.com",
       "name": "",
@@ -146,6 +212,17 @@
       "age_days": 1,
       "sla": "green",
       "area": "Social"
+    },
+    {
+      "visitor": "943712",
+      "email": "brendanstapleton@fitnesstogether.com",
+      "name": "",
+      "account": "Fitness Together",
+      "date": "2026-07-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
     },
     {
       "visitor": "1032294",
@@ -170,6 +247,39 @@
       "area": "Genius Social"
     },
     {
+      "visitor": "1045283",
+      "email": "Manager.soho@fortispm.com",
+      "name": "",
+      "account": "Fortis Property Management",
+      "date": "2026-07-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "634800",
+      "email": "jii7005@jeremiahsice.com",
+      "name": "",
+      "account": "Jeremiah's Italian Ice",
+      "date": "2026-07-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "491337",
+      "email": "dothan@metrodiner.com",
+      "name": "",
+      "account": "Metro Diner Management",
+      "date": "2026-07-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
       "visitor": "823007",
       "email": "moreforpets@zoomingroomin.com",
       "name": "",
@@ -179,6 +289,17 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1208072",
+      "email": "lori.worthington@frmwj.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-07-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
     },
     {
       "visitor": "518549",
@@ -4341,23 +4462,23 @@
   ],
   "level_counts": {
     "Administrator": 61,
-    "Manager": 320,
+    "Manager": 331,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 2
   },
   "sla_counts": {
-    "green": 297,
+    "green": 308,
     "amber": 5,
     "red": 81
   },
-  "total_interested": 383,
+  "total_interested": 394,
   "oldest_age": 364,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
-      17
+      19
     ],
     [
       "Willow Bridge Property Company ",
@@ -4412,7 +4533,15 @@
       6
     ],
     [
+      "Veterinary Emergency Group",
+      5
+    ],
+    [
       "Sky Zone",
+      5
+    ],
+    [
+      "Subway - North America",
       5
     ],
     [
@@ -4436,6 +4565,10 @@
       5
     ],
     [
+      "Stretch Zone Franchising, LLC ",
+      4
+    ],
+    [
       "Cruise Planners | CP Pro",
       4
     ],
@@ -4448,15 +4581,7 @@
       4
     ],
     [
-      "Subway - North America",
-      4
-    ],
-    [
       "Pet Supplies Plus",
-      4
-    ],
-    [
-      "Veterinary Emergency Group",
       4
     ],
     [
@@ -4504,10 +4629,6 @@
       3
     ],
     [
-      "Stretch Zone Franchising, LLC ",
-      3
-    ],
-    [
       "Comparion",
       3
     ],
@@ -4520,7 +4641,19 @@
       3
     ],
     [
+      "Sport Clips",
+      2
+    ],
+    [
       "TWO MEN AND A TRUCK",
+      2
+    ],
+    [
+      "Fortis Property Management",
+      2
+    ],
+    [
+      "Jeremiah's Italian Ice",
       2
     ],
     [
