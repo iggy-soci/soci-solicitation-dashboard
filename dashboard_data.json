@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13 04:09 UTC",
+  "generated_at": "2026-07-13 07:48 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,14 +54,14 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 88,
-      "interested": 88
+      "responses_12mo": 87,
+      "interested": 87
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 28,
-      "interested": 28
+      "responses_12mo": 31,
+      "interested": 31
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 131,
-      "interested": 131
+      "responses_12mo": 135,
+      "interested": 135
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 26,
-      "interested": 26
+      "responses_12mo": 28,
+      "interested": 28
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 42,
-      "interested": 42
+      "responses_12mo": 45,
+      "interested": 45
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -120,11 +120,154 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 24,
-      "interested": 24
+      "responses_12mo": 25,
+      "interested": 25
     }
   },
   "contacts": [
+    {
+      "visitor": "664658",
+      "email": "Brustersofodenton+415@gmail.com",
+      "name": "",
+      "account": "Bruster's Real Ice Cream",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "35658",
+      "email": "DeCastroL@hlcmail.com",
+      "name": "",
+      "account": "Huntington Learning Centers ",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1196501",
+      "email": "nonna.kofman@signarama.com",
+      "name": "",
+      "account": "Signarama",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1201670",
+      "email": "brustersoftroy+466@gmail.com",
+      "name": "",
+      "account": "Bruster's Real Ice Cream",
+      "date": "2026-07-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1263014",
+      "email": "puneetk28@hotmail.com",
+      "name": "",
+      "account": "Holiday Inn Express",
+      "date": "2026-07-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1265527",
+      "email": "c.robin.hall@gmail.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "283763",
+      "email": "psp4467@petsuppliesplus.com",
+      "name": "",
+      "account": "Pet Supplies Plus",
+      "date": "2026-07-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "745884",
+      "email": "kevin@morefundestinations.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "759360",
+      "email": "amy.karpinski@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Pro",
+      "date": "2026-07-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "667769",
+      "email": "gm@urbanairkennesaw.com",
+      "name": "",
+      "account": "Urban Air - Unleashed Brands",
+      "date": "2026-07-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "943801",
+      "email": "cmerced@radiantwaxing.com",
+      "name": "",
+      "account": "Radiant Waxing",
+      "date": "2026-07-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "664658",
+      "email": "Brustersofodenton+415@gmail.com",
+      "name": "",
+      "account": "Bruster's Real Ice Cream",
+      "date": "2026-07-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1070435",
+      "email": "nathan.hackos@milkshakefactory.com",
+      "name": "",
+      "account": "Milkshake Factory",
+      "date": "2026-07-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
     {
       "visitor": "1165464",
       "email": "leisurebylisa737@gmail.com",
@@ -4447,38 +4590,27 @@
       "age_days": 361,
       "sla": "red",
       "area": "Reporting Suite"
-    },
-    {
-      "visitor": "878737",
-      "email": "chula_vista_jump@skyzone.com",
-      "name": "",
-      "account": "Sky Zone",
-      "date": "2025-07-13",
-      "user_level": "Manager",
-      "age_days": 365,
-      "sla": "red",
-      "area": "Reporting Suite"
     }
   ],
   "level_counts": {
     "Administrator": 61,
-    "Manager": 331,
+    "Manager": 343,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 2
   },
   "sla_counts": {
-    "green": 308,
+    "green": 321,
     "amber": 5,
-    "red": 81
+    "red": 80
   },
-  "total_interested": 394,
-  "oldest_age": 365,
+  "total_interested": 406,
+  "oldest_age": 361,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
-      19
+      21
     ],
     [
       "Willow Bridge Property Company ",
@@ -4491,6 +4623,10 @@
     [
       "Berkshire Hathaway HomeServices",
       9
+    ],
+    [
+      "Holiday Inn Express",
+      8
     ],
     [
       "Anytime Fitness NA ",
@@ -4517,8 +4653,8 @@
       7
     ],
     [
-      "Holiday Inn Express",
-      7
+      "Signarama",
+      6
     ],
     [
       "Texas Roadhouse Holdings LLC",
@@ -4533,19 +4669,19 @@
       6
     ],
     [
+      "Pet Supplies Plus",
+      5
+    ],
+    [
+      "Cruise Planners | CP Pro",
+      5
+    ],
+    [
       "Veterinary Emergency Group",
       5
     ],
     [
-      "Sky Zone",
-      5
-    ],
-    [
       "Subway - North America",
-      5
-    ],
-    [
-      "Signarama",
       5
     ],
     [
@@ -4565,11 +4701,15 @@
       5
     ],
     [
+      "Bruster's Real Ice Cream",
+      4
+    ],
+    [
       "Stretch Zone Franchising, LLC ",
       4
     ],
     [
-      "Cruise Planners | CP Pro",
+      "Sky Zone",
       4
     ],
     [
@@ -4578,10 +4718,6 @@
     ],
     [
       "Mill Creek Residential ",
-      4
-    ],
-    [
-      "Pet Supplies Plus",
       4
     ],
     [
@@ -4639,6 +4775,14 @@
     [
       "Avenue5 Residential",
       3
+    ],
+    [
+      "Urban Air - Unleashed Brands",
+      2
+    ],
+    [
+      "Milkshake Factory",
+      2
     ],
     [
       "Sport Clips",
