@@ -215,7 +215,6 @@
   .email-pop-copy { font-family:'JetBrains Mono',monospace; font-size:10px; padding:4px 10px; border-radius:6px; background:var(--brand-green); color:#0C0C0D; border:none; cursor:pointer; font-weight:600; }
   .email-pop-copy.copied { background:var(--accent-bg); color:var(--accent); }
   .email-pop pre { margin:0; max-height:260px; overflow-y:auto; white-space:pre-wrap; word-break:break-word; font-family:'JetBrains Mono',monospace; font-size:10.5px; line-height:1.5; color:var(--ink-2); background:var(--surface-2); border:1px solid var(--hairline-soft); border-radius:7px; padding:10px; }
-  .email-pop-hint { font-size:10.5px; color:var(--muted); margin:8px 0 0; line-height:1.4; }
   .repeat-list { list-style:none; padding:0; margin:0; }
   .repeat-list li { display:flex; justify-content:space-between; padding:8px 0; border-bottom:1px solid var(--hairline-soft); font-size:13px; }
   footer { margin-top:40px; padding-top:18px; border-top:1px solid var(--hairline); font-family:'JetBrains Mono',monospace; font-size:10px; color:var(--muted); text-align:center; line-height:1.7; }
@@ -478,64 +477,42 @@
   function filterByLevel(lvl,el){ if(activeLevel===lvl){activeLevel=null; el.classList.remove('active');} else { activeLevel=lvl; document.querySelectorAll('.level-card').forEach(c=>c.classList.toggle('active',c.dataset.level===lvl)); } applyQueueFilters(); }
   function applyQueueFilters(){ document.querySelectorAll('#queueBody .q-row').forEach(r=>{ const s=activeSla==='all'||r.dataset.sla===activeSla; const l=!activeLevel||r.dataset.level===activeLevel; r.style.display=(s&&l)?'':'none'; }); }
 
-  // Per-level Claude prompt for the discovery interview invitation, with the person's details merged in.
-  const LEVEL_POSITIONING = {
+  // Per-level ready-to-send discovery interview invitation, personalized with the person's details.
+  const LEVEL_EMAIL = {
     "Administrator": {
-      selected: "they have account-wide visibility and responsibility across locations, teams, and user roles",
-      topic: "how organizations oversee and coordinate work across locations, teams, and user roles (governance, standards, permissions, reporting, adoption)",
-      task: "a recent time they changed permissions or account settings, set a standard across locations, evaluated adoption or performance, or communicated an account-wide change",
-      avoid: "Do not imply this is an executive roadmap review, an advisory-board session, or a commitment to make account-level changes. Do not ask for strategic feedback on the future of the platform."
+      topic: "how teams like yours keep things consistent across all your locations",
+      ask: "the last time you set a standard, changed a permission, or checked how your locations were tracking"
     },
     "Manager": {
-      selected: "they coordinate work across their assigned locations or groups and translate corporate direction into local execution",
-      topic: "how Managers coordinate work across their assigned locations or groups, monitor progress, and handle approvals or escalations",
-      task: "a recent situation where they needed several locations to complete a task, monitored performance, handled an exception or escalation, or worked around SOCi",
-      avoid: "Do not assume they control or can answer for the whole corporate account. Keep scope to their assigned locations."
+      topic: "how you keep your locations moving day to day",
+      ask: "the last time you had to get several locations on the same page or chase down an exception"
     },
     "User": {
-      selected: "they work directly with this area day to day at the location level",
-      topic: "how people who work directly in this area complete their day-to-day tasks",
-      task: "a recent time they performed this task at their location, what triggered it, what information they needed, and where they got confused or blocked",
-      avoid: "Do not assume knowledge of corporate strategy, account configuration, or other locations. Use plain language; avoid terms like governance, enterprise workflows, or account-wide configuration."
+      topic: "how the work actually gets done at your location",
+      ask: "the last time you did this and anything that slowed you down"
     }
   };
 
   function buildEmailPrompt(level, c, area){
-    const p = LEVEL_POSITIONING[level] || LEVEL_POSITIONING["User"];
-    const name = c.name || "[First name]";
-    const email = c.email || c.visitor || "[email]";
-    const account = c.account || "[account]";
-    const waited = (c.age_days!=null) ? (c.age_days + " days ago") : "recently";
+    const cfg = LEVEL_EMAIL[level] || LEVEL_EMAIL["User"];
+    const name = (c.name && c.name.trim()) ? c.name.trim().split(/\s+/)[0] : "there";
+    const account = (c.account && c.account.trim()) ? c.account.trim() : "";
+    const product = area || "SOCi";
+    const acctBit = account ? (" over at " + account) : "";
     const lines = [
-      "You are helping a SOCi product manager write a customer discovery interview invitation, following Teresa Torres's continuous discovery approach. This customer already opted in through an in-product survey, so this is not a cold email. Its job is to turn their stated interest into a scheduled conversation while setting the right expectations: a research conversation about their real recent experience, not a sales call, support session, roadmap review, or feature-validation exercise.",
+      "Subject: Your " + product + " feedback, " + name + "?",
       "",
-      "Write a warm, concise email (about 150 words) plus a shorter 3-4 sentence follow-up version for use if they do not reply in about 5 days.",
+      "Hi " + name + ",",
       "",
-      "PERSON",
-      "- Name: " + name,
-      "- Email: " + email,
-      "- Account: " + account,
-      "- User level: " + level,
-      "- Product they raised their hand about: " + (area || "[product]"),
-      "- They opted in: " + waited,
+      "Thanks for raising your hand in our survey. It means a lot that you'd share how " + product + " is working for you" + acctBit + ".",
       "",
-      "WHY THIS PERSON (do not reveal any hypothesis you are testing): " + p.selected + ".",
-      "TOPIC TO POSITION AROUND: " + p.topic + ".",
-      "ASK ABOUT A SPECIFIC PAST EXPERIENCE (story-based, not opinions or predictions): " + p.task + ".",
+      "Could I grab 30 minutes to hear about " + cfg.ask + "? No prep, no demo, no sales pitch. Just your real experience.",
       "",
-      "MUST INCLUDE",
-      "- Acknowledge they volunteered through the recent survey.",
-      "- State plainly it is a 30-minute research conversation, not a sales call or product demo, and no preparation is needed.",
-      "- Explain you will ask about a recent real example, what happened, and what made it easier or harder. Note there are no right or wrong answers.",
-      "- Offer one specific proposed time with time zone, plus a line for a scheduling link: [scheduling link].",
-      "- Mention who will attend from SOCi: [SOCi attendees], and ask permission to record for internal notes.",
-      "- Subject line.",
+      "Would [day, time, zone] work? If not, pick any slot here: [scheduling link]",
       "",
-      "AVOID: " + p.avoid,
-      "",
-      "Leave [scheduling link], [SOCi attendees], and the proposed [day, date, time, time zone] as brackets for the PM to fill. Do not invent them."
+      "Thanks again,",
+      "[Your name]"
     ];
-    // HTML-escape for safe embedding in the attribute-free <pre>
     return lines.join("\n").replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
   }
   function copyEmailPrompt(btn){
@@ -567,7 +544,7 @@
       const roster = n? `<div class="lb-roster" id="roster-${l}">`+list.map(c=>{
         const contact = c.email || c.visitor;
         const prompt = buildEmailPrompt(l, c, area);
-        const ico = `<span class="email-ico" onclick="event.stopPropagation()"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 7l9 6 9-6"/></svg><span class="email-pop" onclick="event.stopPropagation()"><span class="email-pop-head"><span class="email-pop-title">${l} outreach prompt</span><button class="email-pop-copy" onclick="copyEmailPrompt(this)">Copy</button></span><pre>${prompt}</pre><p class="email-pop-hint">Paste into Claude to draft the interview invitation. Fill any remaining brackets before sending.</p></span></span>`;
+        const ico = `<span class="email-ico" onclick="event.stopPropagation()"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 7l9 6 9-6"/></svg><span class="email-pop" onclick="event.stopPropagation()"><span class="email-pop-head"><span class="email-pop-title">${l} outreach email</span><button class="email-pop-copy" onclick="copyEmailPrompt(this)">Copy</button></span><pre>${prompt}</pre></span></span>`;
         return `<div class="roster-row"><div class="r-who">${ico}<span style="display:flex;flex-direction:column"><b>${c.name||''}</b><span>${contact}</span></span></div><div class="r-meta">${c.account}<br>${c.date}</div></div>`;
       }).join('')+`</div>` : '';
       return `<div class="lb-row ${n?'clickable':''}" ${n?`onclick="toggleRoster('${l}')"`:''}><div class="lb-label">${l}</div><div class="lb-bar-track"><div class="lb-bar" style="width:${Math.max(n/max*100,6)}%;background:${LEVEL_COLOR[l]};color:${txt}">${n}</div></div><div class="lb-toggle" id="rtoggle-${l}">${n?'show':''}</div></div>${roster}`;
