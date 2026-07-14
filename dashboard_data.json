@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14 05:53 UTC",
+  "generated_at": "2026-07-14 08:15 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 31,
-      "interested": 31
+      "responses_12mo": 33,
+      "interested": 33
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,26 +78,26 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 135,
-      "interested": 135
+      "responses_12mo": 147,
+      "interested": 147
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 28,
-      "interested": 28
+      "responses_12mo": 30,
+      "interested": 30
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
       "views_12mo": 0,
-      "responses_12mo": 0,
-      "interested": 0
+      "responses_12mo": 1,
+      "interested": 1
     },
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 45,
-      "interested": 45
+      "responses_12mo": 51,
+      "interested": 51
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,8 +114,8 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 51,
-      "interested": 51
+      "responses_12mo": 55,
+      "interested": 55
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
@@ -126,6 +126,39 @@
   },
   "contacts": [
     {
+      "visitor": "1184780",
+      "email": "rosenberg@tlechildcare.com",
+      "name": "",
+      "account": "The Learning Experience",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "963219",
+      "email": "jii3039@jeremiahsice.com",
+      "name": "",
+      "account": "Jeremiah's Italian Ice",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "101267",
+      "email": "pat.luers@brightstarcare.com",
+      "name": "",
+      "account": "BrightStar Care ",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
       "visitor": "664658",
       "email": "Brustersofodenton+415@gmail.com",
       "name": "",
@@ -135,6 +168,127 @@
       "age_days": 1,
       "sla": "green",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "528281",
+      "email": "isaiah.rojas@i9sports.com",
+      "name": "",
+      "account": "i9 Sports",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1069735",
+      "email": "manager@livemainsail.com",
+      "name": "",
+      "account": "Bryten Management",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "146240",
+      "email": "cindy.smith@racfranchising.com",
+      "name": "",
+      "account": "RimTyme",
+      "date": "2026-07-13",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1220667",
+      "email": "samantha.dickman@vetcor.com",
+      "name": "",
+      "account": "Vetcor",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "459462",
+      "email": "mainandmill@sunridgeapts.net",
+      "name": "",
+      "account": "Sunridge Management ",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1255216",
+      "email": "ATippett@millcreekplaces.com",
+      "name": "",
+      "account": "Mill Creek Residential ",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1033710",
+      "email": "vamsi.bhagavathula@kiddieacademy.net",
+      "name": "",
+      "account": "Kiddie Academy",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1247762",
+      "email": "imxsoci_catchall+45f17399_1815_493b_ba91_5d6b14ace324_3678@imatrix.com",
+      "name": "",
+      "account": "iMatrix Chiropractic ",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1171416",
+      "email": "jii4027@jeremiahsice.com",
+      "name": "",
+      "account": "Jeremiah's Italian Ice",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "81394",
+      "email": "residencesatsaltillo@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "969281",
+      "email": "nexus485@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
     },
     {
       "visitor": "35658",
@@ -148,6 +302,28 @@
       "area": "Social"
     },
     {
+      "visitor": "69735",
+      "email": "carol.tricoche@carolsescapes.com",
+      "name": "",
+      "account": "Cruise Planners | CP Pro",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "25058",
+      "email": "sberry@caseusa.com",
+      "name": "",
+      "account": "Case and Associates Properties, Inc.",
+      "date": "2026-07-13",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
       "visitor": "1196501",
       "email": "nonna.kofman@signarama.com",
       "name": "",
@@ -157,6 +333,127 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Social"
+    },
+    {
+      "visitor": "1210066",
+      "email": "Kate.q@otterlearning.com",
+      "name": "",
+      "account": "Otter Learning",
+      "date": "2026-07-13",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Search"
+    },
+    {
+      "visitor": "1179092",
+      "email": "spatry@orangetheoryfitness.ca",
+      "name": "",
+      "account": "Orangetheory Fitness Canada",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1233134",
+      "email": "sydnye@carolinasylvan.com",
+      "name": "",
+      "account": "Sylvan Learning",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "537335",
+      "email": "rae@mmconsulting.co",
+      "name": "",
+      "account": "FSC Franchise Brands",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "79936",
+      "email": "FloweryBranchGA@goddardschools.com",
+      "name": "",
+      "account": "The Goddard School",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "35118",
+      "email": "anabelcampusano2003@gmail.com",
+      "name": "",
+      "account": "Liberty Tax",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "270245",
+      "email": "tawny.wilson@worldofbeer.com",
+      "name": "",
+      "account": "WOB Bar & Kitchen ",
+      "date": "2026-07-13",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "528492",
+      "email": "kaitlin.watson@i9sports.com",
+      "name": "",
+      "account": "i9 Sports",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1210066",
+      "email": "Kate.q@otterlearning.com",
+      "name": "",
+      "account": "Otter Learning",
+      "date": "2026-07-13",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "217316",
+      "email": "oceanpines+360651@penfedrealty.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "794891",
+      "email": "kelly@spartan-investors.com",
+      "name": "",
+      "account": "FreeUP Storage",
+      "date": "2026-07-13",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
     },
     {
       "visitor": "1201670",
@@ -4593,19 +4890,19 @@
     }
   ],
   "level_counts": {
-    "Administrator": 61,
-    "Manager": 343,
+    "Administrator": 67,
+    "Manager": 364,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 2
   },
   "sla_counts": {
-    "green": 320,
+    "green": 347,
     "amber": 5,
     "red": 81
   },
-  "total_interested": 406,
+  "total_interested": 433,
   "oldest_age": 362,
   "repeat_accounts": [
     [
@@ -4614,6 +4911,10 @@
     ],
     [
       "Willow Bridge Property Company ",
+      12
+    ],
+    [
+      "Berkshire Hathaway HomeServices",
       10
     ],
     [
@@ -4621,8 +4922,8 @@
       9
     ],
     [
-      "Berkshire Hathaway HomeServices",
-      9
+      "The Learning Experience",
+      8
     ],
     [
       "Holiday Inn Express",
@@ -4649,8 +4950,8 @@
       7
     ],
     [
-      "The Learning Experience",
-      7
+      "Cruise Planners | CP Pro",
+      6
     ],
     [
       "Signarama",
@@ -4669,11 +4970,19 @@
       6
     ],
     [
-      "Pet Supplies Plus",
+      "Mill Creek Residential ",
       5
     ],
     [
-      "Cruise Planners | CP Pro",
+      "Sylvan Learning",
+      5
+    ],
+    [
+      "The Goddard School",
+      5
+    ],
+    [
+      "Pet Supplies Plus",
       5
     ],
     [
@@ -4701,6 +5010,14 @@
       5
     ],
     [
+      "Jeremiah's Italian Ice",
+      4
+    ],
+    [
+      "BrightStar Care ",
+      4
+    ],
+    [
       "Bruster's Real Ice Cream",
       4
     ],
@@ -4713,23 +5030,11 @@
       4
     ],
     [
-      "The Goddard School",
-      4
-    ],
-    [
-      "Mill Creek Residential ",
-      4
-    ],
-    [
       "HomeWell Care Services",
       4
     ],
     [
       "Capital Square Living",
-      4
-    ],
-    [
-      "Sylvan Learning",
       4
     ],
     [
@@ -4745,7 +5050,11 @@
       4
     ],
     [
-      "BrightStar Care ",
+      "RimTyme",
+      3
+    ],
+    [
+      "Vetcor",
       3
     ],
     [
@@ -4777,6 +5086,26 @@
       3
     ],
     [
+      "i9 Sports",
+      2
+    ],
+    [
+      "Bryten Management",
+      2
+    ],
+    [
+      "Sunridge Management ",
+      2
+    ],
+    [
+      "Otter Learning",
+      2
+    ],
+    [
+      "Orangetheory Fitness Canada",
+      2
+    ],
+    [
       "Urban Air - Unleashed Brands",
       2
     ],
@@ -4794,10 +5123,6 @@
     ],
     [
       "Fortis Property Management",
-      2
-    ],
-    [
-      "Jeremiah's Italian Ice",
       2
     ],
     [
@@ -4849,10 +5174,6 @@
       2
     ],
     [
-      "RimTyme",
-      2
-    ],
-    [
       "Elements Massage",
       2
     ],
@@ -4894,10 +5215,6 @@
     ],
     [
       "Ricky's All Day Grill",
-      2
-    ],
-    [
-      "Vetcor",
       2
     ],
     [
