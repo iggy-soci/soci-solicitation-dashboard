@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15 06:18 UTC",
+  "generated_at": "2026-07-15 08:55 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,14 +60,14 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 33,
-      "interested": 33
+      "responses_12mo": 37,
+      "interested": 37
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
       "views_12mo": 0,
-      "responses_12mo": 2,
-      "interested": 2
+      "responses_12mo": 4,
+      "interested": 4
     },
     "Surveys": {
       "guide_id": "RLz8F0jmIzDqIwzo7WOPNNHQr4M",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 147,
-      "interested": 147
+      "responses_12mo": 158,
+      "interested": 158
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 30,
-      "interested": 30
+      "responses_12mo": 34,
+      "interested": 34
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,14 +96,14 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 51,
-      "interested": 51
+      "responses_12mo": 61,
+      "interested": 61
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
       "views_12mo": 0,
-      "responses_12mo": 2,
-      "interested": 2
+      "responses_12mo": 3,
+      "interested": 3
     },
     "Data Management": {
       "guide_id": "YESnj4QI3Np_fsQ1W6_e_jBlJis",
@@ -114,17 +114,259 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 55,
-      "interested": 55
+      "responses_12mo": 59,
+      "interested": 59
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 25,
-      "interested": 25
+      "responses_12mo": 33,
+      "interested": 33
     }
   },
   "contacts": [
+    {
+      "visitor": "508112",
+      "email": "southdayton@zoomingroomin.com",
+      "name": "",
+      "account": "Zoomin Groomin",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1160596",
+      "email": "james.sumlar@twomen.com",
+      "name": "",
+      "account": "TWO MEN AND A TRUCK",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1270750",
+      "email": "agm@hiexchilliwack.com",
+      "name": "",
+      "account": "Holiday Inn Express",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "750845",
+      "email": "lam@fortywinkscanberra.com.au",
+      "name": "",
+      "account": "Forty Winks | The Pistol",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "440007",
+      "email": "Michele.Mitchell@employbridge.com",
+      "name": "",
+      "account": "Employbridge Holding Company",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1223603",
+      "email": "anil.madithati@urbanairgilroy.com",
+      "name": "",
+      "account": "Urban Air - Unleashed Brands",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "840099",
+      "email": "oceancenter@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "334333",
+      "email": "mz201q@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "153454",
+      "email": "saltlakekoa@gmail.com",
+      "name": "",
+      "account": "KOA",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "527614",
+      "email": "barringtonasstmgr@blockmultifamily.com",
+      "name": "",
+      "account": "Block Multifamily Group",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "330986",
+      "email": "nc6359@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Pages"
+    },
+    {
+      "visitor": "730381",
+      "email": "fr0138@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Pages"
+    },
+    {
+      "visitor": "458329",
+      "email": "loftson8th@livesq.com",
+      "name": "",
+      "account": "Student Quarters",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "152769",
+      "email": "echelon99@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1228474",
+      "email": "CitrineOn67th@ca-mgmt.com",
+      "name": "",
+      "account": "Chamberlin Associates",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "983199",
+      "email": "jhedden@vetcor.com",
+      "name": "",
+      "account": "Vetcor",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "834771",
+      "email": "anderson@cruisestore.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1219226",
+      "email": "AltairClearCreek@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1207331",
+      "email": "Viviane.C@legendmgmt.com",
+      "name": "",
+      "account": "Legend Asset Management ",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "744051",
+      "email": "kchapman@millcreekplaces.com",
+      "name": "",
+      "account": "Mill Creek Residential ",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "858829",
+      "email": "simplyelitetravel@gmail.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "765381",
+      "email": "alarson@agproco.com",
+      "name": "",
+      "account": "Ag-Pro Companies",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
     {
       "visitor": "1184780",
       "email": "rosenberg@tlechildcare.com",
@@ -135,6 +377,248 @@
       "age_days": 1,
       "sla": "green",
       "area": "Social"
+    },
+    {
+      "visitor": "1146425",
+      "email": "nicolette.jaime@livebryten.com",
+      "name": "",
+      "account": "Bryten Management",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "471549",
+      "email": "manager.atx@fortispm.com",
+      "name": "",
+      "account": "Fortis Property Management",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1024564",
+      "email": "kanetta.denk@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1053356",
+      "email": "tony.davis@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "541337",
+      "email": "upperwestside@colormemine.com",
+      "name": "",
+      "account": "Color Me Mine LLC",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "232253",
+      "email": "humpty54@humptys.com",
+      "name": "",
+      "account": "Humpty's",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "949153",
+      "email": "folsomca@stretchzone.com",
+      "name": "",
+      "account": "Stretch Zone Franchising, LLC ",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "993647",
+      "email": "erin@wrdc.net",
+      "name": "",
+      "account": "Oak Hill Management",
+      "date": "2026-07-14",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1197011",
+      "email": "tbritt@capitalsquareliving.com",
+      "name": "",
+      "account": "Capital Square Living",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "461190",
+      "email": "china@fishwindowcleaning.com",
+      "name": "",
+      "account": "Fish Window Cleaning Services, Inc.",
+      "date": "2026-07-14",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "82339",
+      "email": "zonavillagemgr@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "786847",
+      "email": "eggsupwintergarden@gmail.com",
+      "name": "",
+      "account": "Eggs Up Grill",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1267666",
+      "email": "adam.clark@cadence-education.com",
+      "name": "",
+      "account": "Cadence Education",
+      "date": "2026-07-14",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Listings"
+    },
+    {
+      "visitor": "1146484",
+      "email": "jtusing@celebree.com",
+      "name": "",
+      "account": "Celebree School",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1011636",
+      "email": "Marcus.Roberts@libertymutual.com",
+      "name": "",
+      "account": "Comparion",
+      "date": "2026-07-14",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1225156",
+      "email": "trossin@biggby.com",
+      "name": "",
+      "account": "Biggby Coffee",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "96156",
+      "email": "mary.w@floydsbarbershop.com",
+      "name": "",
+      "account": "Floyd's 99 Barbershop ",
+      "date": "2026-07-14",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1234278",
+      "email": "kathleen.edwards@closeknit.com",
+      "name": "",
+      "account": "CloseKnit",
+      "date": "2026-07-14",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "803171",
+      "email": "dcordoba@pmrcompanies.com",
+      "name": "",
+      "account": "PMR Companies",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "805973",
+      "email": "infomnrh@moradaseniorliving.com",
+      "name": "",
+      "account": "Discovery Marketing Group, LLC dba STAT Marketing",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "92266",
+      "email": "timbercreek@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "152769",
+      "email": "echelon99@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "963219",
@@ -4890,27 +5374,35 @@
     }
   ],
   "level_counts": {
-    "Administrator": 67,
-    "Manager": 364,
+    "Administrator": 73,
+    "Manager": 402,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 2
   },
   "sla_counts": {
-    "green": 236,
+    "green": 280,
     "amber": 116,
     "red": 81
   },
-  "total_interested": 433,
+  "total_interested": 477,
   "oldest_age": 363,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
-      21
+      23
     ],
     [
       "Willow Bridge Property Company ",
+      13
+    ],
+    [
+      "RPM Living",
+      12
+    ],
+    [
+      "AT&T",
       12
     ],
     [
@@ -4918,7 +5410,11 @@
       10
     ],
     [
-      "AT&T",
+      "Holiday Inn Express",
+      9
+    ],
+    [
+      "Cruise Planners | CP Elite",
       9
     ],
     [
@@ -4926,7 +5422,7 @@
       8
     ],
     [
-      "Holiday Inn Express",
+      "Discovery Marketing Group, LLC dba STAT Marketing",
       8
     ],
     [
@@ -4934,20 +5430,16 @@
       8
     ],
     [
-      "RPM Living",
-      8
-    ],
-    [
       "Neighborly",
       7
     ],
     [
-      "Discovery Marketing Group, LLC dba STAT Marketing",
-      7
+      "Forty Winks | The Pistol",
+      6
     ],
     [
-      "Cruise Planners | CP Elite",
-      7
+      "Mill Creek Residential ",
+      6
     ],
     [
       "Cruise Planners | CP Pro",
@@ -4970,7 +5462,11 @@
       6
     ],
     [
-      "Mill Creek Residential ",
+      "Stretch Zone Franchising, LLC ",
+      5
+    ],
+    [
+      "Capital Square Living",
       5
     ],
     [
@@ -5006,8 +5502,16 @@
       5
     ],
     [
-      "Forty Winks | The Pistol",
-      5
+      "Vetcor",
+      4
+    ],
+    [
+      "Avenue5 Residential",
+      4
+    ],
+    [
+      "Comparion",
+      4
     ],
     [
       "Jeremiah's Italian Ice",
@@ -5022,19 +5526,11 @@
       4
     ],
     [
-      "Stretch Zone Franchising, LLC ",
-      4
-    ],
-    [
       "Sky Zone",
       4
     ],
     [
       "HomeWell Care Services",
-      4
-    ],
-    [
-      "Capital Square Living",
       4
     ],
     [
@@ -5050,11 +5546,31 @@
       4
     ],
     [
-      "RimTyme",
+      "Zoomin Groomin",
       3
     ],
     [
-      "Vetcor",
+      "TWO MEN AND A TRUCK",
+      3
+    ],
+    [
+      "Urban Air - Unleashed Brands",
+      3
+    ],
+    [
+      "KOA",
+      3
+    ],
+    [
+      "Bryten Management",
+      3
+    ],
+    [
+      "Fortis Property Management",
+      3
+    ],
+    [
+      "RimTyme",
       3
     ],
     [
@@ -5074,23 +5590,19 @@
       3
     ],
     [
-      "Comparion",
-      3
-    ],
-    [
       "Orangetheory Fitness",
       3
     ],
     [
-      "Avenue5 Residential",
-      3
-    ],
-    [
-      "i9 Sports",
+      "Oak Hill Management",
       2
     ],
     [
-      "Bryten Management",
+      "Eggs Up Grill",
+      2
+    ],
+    [
+      "i9 Sports",
       2
     ],
     [
@@ -5106,27 +5618,11 @@
       2
     ],
     [
-      "Urban Air - Unleashed Brands",
-      2
-    ],
-    [
       "Milkshake Factory",
       2
     ],
     [
       "Sport Clips",
-      2
-    ],
-    [
-      "TWO MEN AND A TRUCK",
-      2
-    ],
-    [
-      "Fortis Property Management",
-      2
-    ],
-    [
-      "Zoomin Groomin",
       2
     ],
     [
@@ -5187,10 +5683,6 @@
     ],
     [
       "Benjamin Franklin Plumbing",
-      2
-    ],
-    [
-      "KOA",
       2
     ],
     [
