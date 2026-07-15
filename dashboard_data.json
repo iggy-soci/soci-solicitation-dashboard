@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15 14:20 UTC",
+  "generated_at": "2026-07-15 16:03 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -2947,7 +2947,7 @@
       "name": "",
       "account": "Western Union - USA",
       "date": "2026-07-08",
-      "user_level": "Administrator",
+      "user_level": "Manager",
       "age_days": 7,
       "sla": "green",
       "area": "AskGenius"
@@ -5374,8 +5374,8 @@
     }
   ],
   "level_counts": {
-    "Administrator": 73,
-    "Manager": 402,
+    "Administrator": 72,
+    "Manager": 403,
     "User": 0
   },
   "level_counts_extra": {
