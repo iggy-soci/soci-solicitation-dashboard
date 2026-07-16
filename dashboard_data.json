@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16 05:44 UTC",
+  "generated_at": "2026-07-16 08:20 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 37,
-      "interested": 37
+      "responses_12mo": 38,
+      "interested": 38
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,26 +78,26 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 158,
-      "interested": 158
+      "responses_12mo": 169,
+      "interested": 169
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 34,
-      "interested": 34
+      "responses_12mo": 38,
+      "interested": 38
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
       "views_12mo": 0,
-      "responses_12mo": 1,
-      "interested": 1
+      "responses_12mo": 2,
+      "interested": 2
     },
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 61,
-      "interested": 61
+      "responses_12mo": 63,
+      "interested": 63
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,50 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 59,
-      "interested": 59
+      "responses_12mo": 65,
+      "interested": 65
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 33,
-      "interested": 33
+      "responses_12mo": 37,
+      "interested": 37
     }
   },
   "contacts": [
+    {
+      "visitor": "510435",
+      "email": "539@beefobradys.com",
+      "name": "",
+      "account": "FSC Franchise Brands",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "541304",
+      "email": "pasadena@colormemine.com",
+      "name": "",
+      "account": "Color Me Mine LLC",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1038229",
+      "email": "david@eattacobarn.com",
+      "name": "",
+      "account": "tacobarn | Olo Sync Management",
+      "date": "2026-07-15",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
     {
       "visitor": "508112",
       "email": "southdayton@zoomingroomin.com",
@@ -137,6 +170,116 @@
       "area": "Reviews (Reputation)"
     },
     {
+      "visitor": "1214266",
+      "email": "namita.patel@signarama.com",
+      "name": "",
+      "account": "Signarama",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "712710",
+      "email": "eastrutherford@tlechildcare.com",
+      "name": "",
+      "account": "The Learning Experience",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "71994",
+      "email": "geisler@esourcecoach.com",
+      "name": "",
+      "account": "FSBI - Entrepreneur's Source ",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1074000",
+      "email": "cary.owner2@aireserv.com",
+      "name": "",
+      "account": "Neighborly",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "644021",
+      "email": "jarmstrong@tworld.com",
+      "name": "",
+      "account": "Transworld Business Advisors ",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1266676",
+      "email": "ClaudiaG.G@legendmgmt.com",
+      "name": "",
+      "account": "Legend Asset Management ",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1065194",
+      "email": "marlene@elevatedtravelerco.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1245437",
+      "email": "byron.thomas@comparioninsurance.com",
+      "name": "",
+      "account": "Comparion",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "993647",
+      "email": "erin@wrdc.net",
+      "name": "",
+      "account": "Oak Hill Management",
+      "date": "2026-07-15",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1129120",
+      "email": "tommy@svmrc.com",
+      "name": "",
+      "account": "ServiceMaster Restore",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
       "visitor": "1160596",
       "email": "james.sumlar@twomen.com",
       "name": "",
@@ -146,6 +289,72 @@
       "age_days": 1,
       "sla": "green",
       "area": "Social"
+    },
+    {
+      "visitor": "860670",
+      "email": "rrainey@carebuildersathome.com",
+      "name": "",
+      "account": "CareBuilders At Home",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "592134",
+      "email": "Erinmills.ON@sylvanlearning.com",
+      "name": "",
+      "account": "Sylvan Learning",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1205286",
+      "email": "lisa@pedegonaples.com",
+      "name": "",
+      "account": "Pedego Electric Bikes",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1232336",
+      "email": "northsantaclarita.ca@sylvanlearning.com",
+      "name": "",
+      "account": "Sylvan Learning",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1162401",
+      "email": "wgrasty@guildmortgage.net",
+      "name": "",
+      "account": "Guild Mortgage",
+      "date": "2026-07-15",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Search"
+    },
+    {
+      "visitor": "670541",
+      "email": "pm.capitolheights@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
     },
     {
       "visitor": "1270750",
@@ -170,6 +379,72 @@
       "area": "Genius Reviews"
     },
     {
+      "visitor": "639773",
+      "email": "studio369@paintingwithatwist.com",
+      "name": "",
+      "account": "Painting with a Twist, LLC",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "92039",
+      "email": "rebecca.johnson@anytimefitness.com",
+      "name": "",
+      "account": "Anytime Fitness NA ",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "160669",
+      "email": "dulcie@dramakids.com",
+      "name": "",
+      "account": "Drama Kids",
+      "date": "2026-07-15",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1117250",
+      "email": "johnathan.barron@gocarwash.com",
+      "name": "",
+      "account": "GO Car Wash",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "284209",
+      "email": "psp4502@petsuppliesplus.com",
+      "name": "",
+      "account": "Pet Supplies Plus",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "687798",
+      "email": "tcole@pacentralfcu.com",
+      "name": "",
+      "account": "Beavercreek Marketing",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
       "visitor": "440007",
       "email": "Michele.Mitchell@employbridge.com",
       "name": "",
@@ -179,6 +454,50 @@
       "age_days": 1,
       "sla": "green",
       "area": "AskGenius"
+    },
+    {
+      "visitor": "1228802",
+      "email": "jiayun.ou@liveoakwood.com",
+      "name": "",
+      "account": "Oakwood Management Company",
+      "date": "2026-07-15",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1233345",
+      "email": "fresno-clovis@nothingbundtcakes.com",
+      "name": "",
+      "account": "Nothing Bundt Cakes",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "781620",
+      "email": "thefairway@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1207798",
+      "email": "briarwoodpm@psdm.com",
+      "name": "",
+      "account": "Pacifica Residential",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "1223603",
@@ -5374,32 +5693,32 @@
     }
   ],
   "level_counts": {
-    "Administrator": 72,
-    "Manager": 403,
+    "Administrator": 77,
+    "Manager": 427,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 2
   },
   "sla_counts": {
-    "green": 179,
+    "green": 208,
     "amber": 217,
     "red": 81
   },
-  "total_interested": 477,
+  "total_interested": 506,
   "oldest_age": 364,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
-      23
+      24
+    ],
+    [
+      "RPM Living",
+      13
     ],
     [
       "Willow Bridge Property Company ",
       13
-    ],
-    [
-      "RPM Living",
-      12
     ],
     [
       "AT&T",
@@ -5410,7 +5729,15 @@
       10
     ],
     [
+      "The Learning Experience",
+      9
+    ],
+    [
       "Holiday Inn Express",
+      9
+    ],
+    [
+      "Anytime Fitness NA ",
       9
     ],
     [
@@ -5418,7 +5745,7 @@
       9
     ],
     [
-      "The Learning Experience",
+      "Neighborly",
       8
     ],
     [
@@ -5426,15 +5753,23 @@
       8
     ],
     [
-      "Anytime Fitness NA ",
-      8
+      "Signarama",
+      7
     ],
     [
-      "Neighborly",
+      "Sylvan Learning",
+      7
+    ],
+    [
+      "Nothing Bundt Cakes",
       7
     ],
     [
       "Forty Winks | The Pistol",
+      6
+    ],
+    [
+      "Pet Supplies Plus",
       6
     ],
     [
@@ -5446,20 +5781,20 @@
       6
     ],
     [
-      "Signarama",
-      6
-    ],
-    [
       "Texas Roadhouse Holdings LLC",
-      6
-    ],
-    [
-      "Nothing Bundt Cakes",
       6
     ],
     [
       "Ford",
       6
+    ],
+    [
+      "Comparion",
+      5
+    ],
+    [
+      "Avenue5 Residential",
+      5
     ],
     [
       "Stretch Zone Franchising, LLC ",
@@ -5470,15 +5805,7 @@
       5
     ],
     [
-      "Sylvan Learning",
-      5
-    ],
-    [
       "The Goddard School",
-      5
-    ],
-    [
-      "Pet Supplies Plus",
       5
     ],
     [
@@ -5503,14 +5830,6 @@
     ],
     [
       "Vetcor",
-      4
-    ],
-    [
-      "Avenue5 Residential",
-      4
-    ],
-    [
-      "Comparion",
       4
     ],
     [
@@ -5550,7 +5869,27 @@
       3
     ],
     [
+      "Oak Hill Management",
+      3
+    ],
+    [
       "TWO MEN AND A TRUCK",
+      3
+    ],
+    [
+      "Pedego Electric Bikes",
+      3
+    ],
+    [
+      "Guild Mortgage",
+      3
+    ],
+    [
+      "Painting with a Twist, LLC",
+      3
+    ],
+    [
+      "Pacifica Residential",
       3
     ],
     [
@@ -5594,7 +5933,31 @@
       3
     ],
     [
-      "Oak Hill Management",
+      "FSC Franchise Brands",
+      2
+    ],
+    [
+      "Color Me Mine LLC",
+      2
+    ],
+    [
+      "FSBI - Entrepreneur's Source ",
+      2
+    ],
+    [
+      "Legend Asset Management ",
+      2
+    ],
+    [
+      "ServiceMaster Restore",
+      2
+    ],
+    [
+      "CareBuilders At Home",
+      2
+    ],
+    [
+      "GO Car Wash",
       2
     ],
     [
@@ -5634,19 +5997,11 @@
       2
     ],
     [
-      "Guild Mortgage",
-      2
-    ],
-    [
       "AIM Recycling - Ontario",
       2
     ],
     [
       "ARCpoint Labs Corporate",
-      2
-    ],
-    [
-      "Pacifica Residential",
       2
     ],
     [
@@ -5674,10 +6029,6 @@
       2
     ],
     [
-      "Pedego Electric Bikes",
-      2
-    ],
-    [
       "Clothes Mentor",
       2
     ],
@@ -5699,10 +6050,6 @@
     ],
     [
       "Monarch Investment and Management Group",
-      2
-    ],
-    [
-      "Painting with a Twist, LLC",
       2
     ],
     [
