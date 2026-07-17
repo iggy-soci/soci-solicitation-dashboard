@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17 04:43 UTC",
+  "generated_at": "2026-07-17 07:20 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 38,
-      "interested": 38
+      "responses_12mo": 43,
+      "interested": 43
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 169,
-      "interested": 169
+      "responses_12mo": 175,
+      "interested": 175
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 38,
-      "interested": 38
+      "responses_12mo": 39,
+      "interested": 39
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 63,
-      "interested": 63
+      "responses_12mo": 73,
+      "interested": 73
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,171 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 65,
-      "interested": 65
+      "responses_12mo": 70,
+      "interested": 70
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 37,
-      "interested": 37
+      "responses_12mo": 42,
+      "interested": 42
     }
   },
   "contacts": [
+    {
+      "visitor": "1178474",
+      "email": "jii3048@jeremiahsice.com",
+      "name": "",
+      "account": "Jeremiah's Italian Ice",
+      "date": "2026-07-17",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "878837",
+      "email": "Nampa_jump@skyzone.com",
+      "name": "",
+      "account": "Sky Zone",
+      "date": "2026-07-17",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "814310",
+      "email": "edinamn@woofgangbakery.com",
+      "name": "",
+      "account": "Woof Gang Bakery & Grooming",
+      "date": "2026-07-17",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1202968",
+      "email": "jamie@novusglass.net",
+      "name": "",
+      "account": "Mondofix USA",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reporting Suite"
+    },
+    {
+      "visitor": "1045199",
+      "email": "corvieto@prgrealestate.com",
+      "name": "",
+      "account": "PRG Real Estate Management",
+      "date": "2026-07-16",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1264954",
+      "email": "sarah@heirloomhospitality.com",
+      "name": "",
+      "account": "Mad Nice Coffee | Olo Sync Management",
+      "date": "2026-07-16",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "381373",
+      "email": "legendsatchaseoaksmgr@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "728238",
+      "email": "abelanger@vetcor.com",
+      "name": "",
+      "account": "Vetcor",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "153454",
+      "email": "saltlakekoa@gmail.com",
+      "name": "",
+      "account": "KOA",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "419150",
+      "email": "AltaVista@ChildrensLighthouse.com",
+      "name": "",
+      "account": "Children's Lighthouse Franchise Company",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1027583",
+      "email": "Carolstreamil@woofgangbakery.com",
+      "name": "",
+      "account": "Woof Gang Bakery & Grooming",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "840742",
+      "email": "brookwoodapts@peakliving.com",
+      "name": "",
+      "account": "Peak Living LLC",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1061685",
+      "email": "jamie@travelseeco.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "158664",
+      "email": "kim@youreyesite.com",
+      "name": "",
+      "account": "Keplr Vision",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
     {
       "visitor": "510435",
       "email": "539@beefobradys.com",
@@ -137,6 +291,105 @@
       "area": "Social"
     },
     {
+      "visitor": "592215",
+      "email": "Kendall.FL@sylvanlearning.com",
+      "name": "",
+      "account": "Sylvan Learning",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1255177",
+      "email": "owen.salmeron@activate.games",
+      "name": "",
+      "account": "Sounds Fun Entertainment",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1070359",
+      "email": "store0198@af.furniture",
+      "name": "",
+      "account": "American Freight (MAFGA)",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1200567",
+      "email": "thejamesgreermgr@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "813956",
+      "email": "jessica.akebrand@skyzone.com",
+      "name": "",
+      "account": "Sky Zone",
+      "date": "2026-07-16",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1214165",
+      "email": "leif.stinson@quinnmgmt.com",
+      "name": "",
+      "account": "Quinn Residences",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "519598",
+      "email": "kb064v@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1100592",
+      "email": "pm.909flats@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "445705",
+      "email": "abbybuchholz@culvers.com",
+      "name": "",
+      "account": "Culvers",
+      "date": "2026-07-16",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
       "visitor": "541304",
       "email": "pasadena@colormemine.com",
       "name": "",
@@ -146,6 +399,116 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1033842",
+      "email": "samanthak@citstatebank.com",
+      "name": "",
+      "account": "Beavercreek Marketing",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "208355",
+      "email": "lisa.wright+205321@foxroach.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1189499",
+      "email": "A-BOTOS3@azureford.onmicrosoft.com",
+      "name": "",
+      "account": "Ford",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "398460",
+      "email": "cheri+3051643@hillsrealestateteam.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "43695",
+      "email": "Spencer@scjm.solutions",
+      "name": "",
+      "account": "Sport Clips",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1264717",
+      "email": "kthayes@bbcgrp.com",
+      "name": "",
+      "account": "Balfour Beatty Communities ",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1215803",
+      "email": "JOverton@millcreekplaces.com",
+      "name": "",
+      "account": "Mill Creek Residential ",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "874414",
+      "email": "drake.calvert@skyzone.com",
+      "name": "",
+      "account": "Sky Zone",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "533777",
+      "email": "maggie.hall@timberlandpartners.com",
+      "name": "",
+      "account": "Timberland Partners",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "981222",
+      "email": "storemgr640@foodgiant.com",
+      "name": "",
+      "account": "Houchens Food Group",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "1038229",
@@ -5679,54 +6042,43 @@
       "age_days": 365,
       "sla": "red",
       "area": "Reporting Suite"
-    },
-    {
-      "visitor": "888897",
-      "email": "choudhry.rizwan@hotmail.com",
-      "name": "",
-      "account": "Wing Zone",
-      "date": "2025-07-17",
-      "user_level": "Unknown",
-      "age_days": 365,
-      "sla": "red",
-      "area": "Reporting Suite"
     }
   ],
   "level_counts": {
-    "Administrator": 77,
-    "Manager": 427,
+    "Administrator": 81,
+    "Manager": 456,
     "User": 0
   },
   "level_counts_extra": {
-    "Unknown": 2
+    "Unknown": 1
   },
   "sla_counts": {
-    "green": 162,
+    "green": 195,
     "amber": 262,
-    "red": 82
+    "red": 81
   },
-  "total_interested": 506,
+  "total_interested": 538,
   "oldest_age": 365,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
-      24
+      25
+    ],
+    [
+      "Willow Bridge Property Company ",
+      15
+    ],
+    [
+      "AT&T",
+      13
     ],
     [
       "RPM Living",
       13
     ],
     [
-      "Willow Bridge Property Company ",
-      13
-    ],
-    [
-      "AT&T",
-      12
-    ],
-    [
       "Berkshire Hathaway HomeServices",
-      10
+      12
     ],
     [
       "The Learning Experience",
@@ -5745,6 +6097,10 @@
       9
     ],
     [
+      "Sylvan Learning",
+      8
+    ],
+    [
       "Neighborly",
       8
     ],
@@ -5753,11 +6109,19 @@
       8
     ],
     [
-      "Signarama",
+      "Sky Zone",
       7
     ],
     [
-      "Sylvan Learning",
+      "Ford",
+      7
+    ],
+    [
+      "Mill Creek Residential ",
+      7
+    ],
+    [
+      "Signarama",
       7
     ],
     [
@@ -5765,15 +6129,23 @@
       7
     ],
     [
+      "Woof Gang Bakery & Grooming",
+      6
+    ],
+    [
+      "American Freight (MAFGA)",
+      6
+    ],
+    [
+      "Avenue5 Residential",
+      6
+    ],
+    [
       "Forty Winks | The Pistol",
       6
     ],
     [
       "Pet Supplies Plus",
-      6
-    ],
-    [
-      "Mill Creek Residential ",
       6
     ],
     [
@@ -5785,15 +6157,15 @@
       6
     ],
     [
-      "Ford",
-      6
-    ],
-    [
-      "Comparion",
+      "Jeremiah's Italian Ice",
       5
     ],
     [
-      "Avenue5 Residential",
+      "Vetcor",
+      5
+    ],
+    [
+      "Comparion",
       5
     ],
     [
@@ -5821,19 +6193,11 @@
       5
     ],
     [
-      "American Freight (MAFGA)",
-      5
-    ],
-    [
       "Adara Communities ",
       5
     ],
     [
-      "Vetcor",
-      4
-    ],
-    [
-      "Jeremiah's Italian Ice",
+      "KOA",
       4
     ],
     [
@@ -5842,10 +6206,6 @@
     ],
     [
       "Bruster's Real Ice Cream",
-      4
-    ],
-    [
-      "Sky Zone",
       4
     ],
     [
@@ -5861,8 +6221,16 @@
       4
     ],
     [
-      "Woof Gang Bakery & Grooming",
-      4
+      "Peak Living LLC",
+      3
+    ],
+    [
+      "Sport Clips",
+      3
+    ],
+    [
+      "Balfour Beatty Communities ",
+      3
     ],
     [
       "Zoomin Groomin",
@@ -5894,10 +6262,6 @@
     ],
     [
       "Urban Air - Unleashed Brands",
-      3
-    ],
-    [
-      "KOA",
       3
     ],
     [
@@ -5933,11 +6297,23 @@
       3
     ],
     [
+      "Children's Lighthouse Franchise Company",
+      2
+    ],
+    [
       "FSC Franchise Brands",
       2
     ],
     [
       "Color Me Mine LLC",
+      2
+    ],
+    [
+      "Beavercreek Marketing",
+      2
+    ],
+    [
+      "Houchens Food Group",
       2
     ],
     [
@@ -5982,14 +6358,6 @@
     ],
     [
       "Milkshake Factory",
-      2
-    ],
-    [
-      "Sport Clips",
-      2
-    ],
-    [
-      "Peak Living LLC",
       2
     ],
     [
@@ -6062,10 +6430,6 @@
     ],
     [
       "Garner",
-      2
-    ],
-    [
-      "Balfour Beatty Communities ",
       2
     ]
   ],
