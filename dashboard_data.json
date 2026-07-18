@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18 06:29 UTC",
+  "generated_at": "2026-07-18 08:24 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,14 +54,14 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 87,
-      "interested": 87
+      "responses_12mo": 86,
+      "interested": 86
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 43,
-      "interested": 43
+      "responses_12mo": 46,
+      "interested": 46
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 175,
-      "interested": 175
+      "responses_12mo": 182,
+      "interested": 182
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 39,
-      "interested": 39
+      "responses_12mo": 41,
+      "interested": 41
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 73,
-      "interested": 73
+      "responses_12mo": 77,
+      "interested": 77
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -120,11 +120,44 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 42,
-      "interested": 42
+      "responses_12mo": 43,
+      "interested": 43
     }
   },
   "contacts": [
+    {
+      "visitor": "814310",
+      "email": "edinamn@woofgangbakery.com",
+      "name": "",
+      "account": "Woof Gang Bakery & Grooming",
+      "date": "2026-07-18",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "642332",
+      "email": "lcaneda@advanceamerica.net",
+      "name": "",
+      "account": "Advance America",
+      "date": "2026-07-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "943269",
+      "email": "billi.raker@amazinglashstudio.com",
+      "name": "",
+      "account": "Amazing Lash",
+      "date": "2026-07-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
     {
       "visitor": "1178474",
       "email": "jii3048@jeremiahsice.com",
@@ -135,6 +168,149 @@
       "age_days": 1,
       "sla": "green",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1203711",
+      "email": "vishalpatel2@marcos.com",
+      "name": "",
+      "account": "Marco's Pizza",
+      "date": "2026-07-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1145951",
+      "email": "ray@signarama-corona.com",
+      "name": "",
+      "account": "Signarama",
+      "date": "2026-07-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1245782",
+      "email": "zelema.jackson-cummings@vetcor.com",
+      "name": "",
+      "account": "Vetcor",
+      "date": "2026-07-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1205286",
+      "email": "lisa@pedegonaples.com",
+      "name": "",
+      "account": "Pedego Electric Bikes",
+      "date": "2026-07-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1168134",
+      "email": "rachel@eastorlandocoffee.com",
+      "name": "",
+      "account": "Ellianos Coffee",
+      "date": "2026-07-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "763342",
+      "email": "maplegrove@nothingbundtcakes.com",
+      "name": "",
+      "account": "Nothing Bundt Cakes",
+      "date": "2026-07-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "999102",
+      "email": "nancy@luxurytravelinc.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1064246",
+      "email": "jackie.morgan@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-07-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "945602",
+      "email": "kmorales@dilldinkers.com",
+      "name": "",
+      "account": "Dill Dinkers",
+      "date": "2026-07-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "943555",
+      "email": "erinabuckley@elementsmassage.com",
+      "name": "",
+      "account": "Elements Massage",
+      "date": "2026-07-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "993660",
+      "email": "highlandvillagetx@woofgangbakery.com",
+      "name": "",
+      "account": "Woof Gang Bakery & Grooming",
+      "date": "2026-07-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1074520",
+      "email": "cbergman@noodles.com",
+      "name": "",
+      "account": "Noodles & Company",
+      "date": "2026-07-17",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "456352",
+      "email": "beatriz.cardona@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-07-17",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
     },
     {
       "visitor": "878837",
@@ -157,6 +333,17 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Reviews"
+    },
+    {
+      "visitor": "783085",
+      "email": "EAH@lakefieldvet.com",
+      "name": "",
+      "account": "Lakefield Veterinary Group",
+      "date": "2026-07-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "1202968",
@@ -6031,49 +6218,38 @@
       "age_days": 360,
       "sla": "red",
       "area": "Reporting Suite"
-    },
-    {
-      "visitor": "712794",
-      "email": "lakeway@tlechildcare.com",
-      "name": "",
-      "account": "The Learning Experience",
-      "date": "2025-07-17",
-      "user_level": "Manager",
-      "age_days": 366,
-      "sla": "red",
-      "area": "Reporting Suite"
     }
   ],
   "level_counts": {
-    "Administrator": 81,
-    "Manager": 456,
+    "Administrator": 83,
+    "Manager": 470,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 162,
+    "green": 179,
     "amber": 295,
-    "red": 81
+    "red": 80
   },
-  "total_interested": 538,
-  "oldest_age": 366,
+  "total_interested": 554,
+  "oldest_age": 360,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
-      25
+      26
     ],
     [
       "Willow Bridge Property Company ",
       15
     ],
     [
-      "AT&T",
-      13
+      "RPM Living",
+      14
     ],
     [
-      "RPM Living",
+      "AT&T",
       13
     ],
     [
@@ -6081,8 +6257,8 @@
       12
     ],
     [
-      "The Learning Experience",
-      9
+      "Cruise Planners | CP Elite",
+      10
     ],
     [
       "Holiday Inn Express",
@@ -6093,11 +6269,23 @@
       9
     ],
     [
-      "Cruise Planners | CP Elite",
-      9
+      "Woof Gang Bakery & Grooming",
+      8
+    ],
+    [
+      "Signarama",
+      8
+    ],
+    [
+      "Nothing Bundt Cakes",
+      8
     ],
     [
       "Sylvan Learning",
+      8
+    ],
+    [
+      "The Learning Experience",
       8
     ],
     [
@@ -6121,15 +6309,7 @@
       7
     ],
     [
-      "Signarama",
-      7
-    ],
-    [
-      "Nothing Bundt Cakes",
-      7
-    ],
-    [
-      "Woof Gang Bakery & Grooming",
+      "Vetcor",
       6
     ],
     [
@@ -6158,10 +6338,6 @@
     ],
     [
       "Jeremiah's Italian Ice",
-      5
-    ],
-    [
-      "Vetcor",
       5
     ],
     [
@@ -6197,6 +6373,10 @@
       5
     ],
     [
+      "Pedego Electric Bikes",
+      4
+    ],
+    [
       "KOA",
       4
     ],
@@ -6221,6 +6401,14 @@
       4
     ],
     [
+      "Dill Dinkers",
+      3
+    ],
+    [
+      "Elements Massage",
+      3
+    ],
+    [
       "Peak Living LLC",
       3
     ],
@@ -6242,10 +6430,6 @@
     ],
     [
       "TWO MEN AND A TRUCK",
-      3
-    ],
-    [
-      "Pedego Electric Bikes",
       3
     ],
     [
@@ -6295,6 +6479,10 @@
     [
       "Orangetheory Fitness",
       3
+    ],
+    [
+      "Lakefield Veterinary Group",
+      2
     ],
     [
       "Children's Lighthouse Franchise Company",
@@ -6385,15 +6573,7 @@
       2
     ],
     [
-      "Dill Dinkers",
-      2
-    ],
-    [
       "VaVia",
-      2
-    ],
-    [
-      "Elements Massage",
       2
     ],
     [
