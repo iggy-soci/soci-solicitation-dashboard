@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19 04:50 UTC",
+  "generated_at": "2026-07-19 07:29 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 46,
-      "interested": 46
+      "responses_12mo": 47,
+      "interested": 47
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 182,
-      "interested": 182
+      "responses_12mo": 185,
+      "interested": 185
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 41,
-      "interested": 41
+      "responses_12mo": 42,
+      "interested": 42
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 77,
-      "interested": 77
+      "responses_12mo": 79,
+      "interested": 79
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -120,11 +120,33 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 43,
-      "interested": 43
+      "responses_12mo": 44,
+      "interested": 44
     }
   },
   "contacts": [
+    {
+      "visitor": "639698",
+      "email": "studio219@paintingwithatwist.com",
+      "name": "",
+      "account": "Painting with a Twist, LLC",
+      "date": "2026-07-19",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "519598",
+      "email": "kb064v@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-07-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
     {
       "visitor": "814310",
       "email": "edinamn@woofgangbakery.com",
@@ -135,6 +157,72 @@
       "age_days": 1,
       "sla": "green",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1154781",
+      "email": "pm.crestview@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-07-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1185626",
+      "email": "nicolem@cruisetraveloutlet.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "943766",
+      "email": "cshyra@radiantwaxing.com",
+      "name": "",
+      "account": "Radiant Waxing",
+      "date": "2026-07-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "946058",
+      "email": "af1150@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-07-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "408102",
+      "email": "yg367g@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-07-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "993745",
+      "email": "lindeys@leehillclips.com",
+      "name": "",
+      "account": "Sport Clips",
+      "date": "2026-07-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "642332",
@@ -6222,23 +6310,27 @@
   ],
   "level_counts": {
     "Administrator": 83,
-    "Manager": 470,
+    "Manager": 478,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 163,
+    "green": 171,
     "amber": 311,
     "red": 80
   },
-  "total_interested": 554,
+  "total_interested": 562,
   "oldest_age": 361,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
-      26
+      27
+    ],
+    [
+      "AT&T",
+      16
     ],
     [
       "Willow Bridge Property Company ",
@@ -6247,10 +6339,6 @@
     [
       "RPM Living",
       14
-    ],
-    [
-      "AT&T",
-      13
     ],
     [
       "Berkshire Hathaway HomeServices",
@@ -6297,6 +6385,10 @@
       8
     ],
     [
+      "Avenue5 Residential",
+      7
+    ],
+    [
       "Sky Zone",
       7
     ],
@@ -6314,10 +6406,6 @@
     ],
     [
       "American Freight (MAFGA)",
-      6
-    ],
-    [
-      "Avenue5 Residential",
       6
     ],
     [
@@ -6373,6 +6461,14 @@
       5
     ],
     [
+      "Painting with a Twist, LLC",
+      4
+    ],
+    [
+      "Sport Clips",
+      4
+    ],
+    [
       "Pedego Electric Bikes",
       4
     ],
@@ -6413,10 +6509,6 @@
       3
     ],
     [
-      "Sport Clips",
-      3
-    ],
-    [
       "Balfour Beatty Communities ",
       3
     ],
@@ -6434,10 +6526,6 @@
     ],
     [
       "Guild Mortgage",
-      3
-    ],
-    [
-      "Painting with a Twist, LLC",
       3
     ],
     [
@@ -6479,6 +6567,10 @@
     [
       "Orangetheory Fitness",
       3
+    ],
+    [
+      "Radiant Waxing",
+      2
     ],
     [
       "Lakefield Veterinary Group",
