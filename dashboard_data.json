@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19 07:29 UTC",
+  "generated_at": "2026-07-19 09:29 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 79,
-      "interested": 79
+      "responses_12mo": 80,
+      "interested": 80
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -135,6 +135,17 @@
       "age_days": 0,
       "sla": "green",
       "area": "Social"
+    },
+    {
+      "visitor": "1172059",
+      "email": "ndruidhillsmanager@degreewellness.com",
+      "name": "",
+      "account": "Degree Wellness",
+      "date": "2026-07-19",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Reviews"
     },
     {
       "visitor": "519598",
@@ -6310,18 +6321,18 @@
   ],
   "level_counts": {
     "Administrator": 83,
-    "Manager": 478,
+    "Manager": 479,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 171,
+    "green": 172,
     "amber": 311,
     "red": 80
   },
-  "total_interested": 562,
+  "total_interested": 563,
   "oldest_age": 361,
   "repeat_accounts": [
     [
