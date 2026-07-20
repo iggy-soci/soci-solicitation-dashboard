@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20 05:07 UTC",
+  "generated_at": "2026-07-20 08:25 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -66,8 +66,8 @@
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
       "views_12mo": 0,
-      "responses_12mo": 4,
-      "interested": 4
+      "responses_12mo": 5,
+      "interested": 5
     },
     "Surveys": {
       "guide_id": "RLz8F0jmIzDqIwzo7WOPNNHQr4M",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 185,
-      "interested": 185
+      "responses_12mo": 190,
+      "interested": 190
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 42,
-      "interested": 42
+      "responses_12mo": 43,
+      "interested": 43
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -126,6 +126,72 @@
   },
   "contacts": [
     {
+      "visitor": "1205262",
+      "email": "cheryl@pedegoyorbalinda.com",
+      "name": "",
+      "account": "Pedego Electric Bikes",
+      "date": "2026-07-20",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Pages"
+    },
+    {
+      "visitor": "744264",
+      "email": "jyl@aavacay.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-20",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "943766",
+      "email": "cshyra@radiantwaxing.com",
+      "name": "",
+      "account": "Radiant Waxing",
+      "date": "2026-07-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "273193",
+      "email": "psp4057@petsuppliesplus.com",
+      "name": "",
+      "account": "Pet Supplies Plus",
+      "date": "2026-07-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1071075",
+      "email": "brijeshpatel@marcospizza.net",
+      "name": "",
+      "account": "Marco's Pizza",
+      "date": "2026-07-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1050654",
+      "email": "val@af.furniture",
+      "name": "",
+      "account": "American Freight (MAFGA)",
+      "date": "2026-07-19",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
       "visitor": "639698",
       "email": "studio219@paintingwithatwist.com",
       "name": "",
@@ -135,6 +201,17 @@
       "age_days": 1,
       "sla": "green",
       "area": "Social"
+    },
+    {
+      "visitor": "1204449",
+      "email": "krista.seigler@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Pro",
+      "date": "2026-07-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
     },
     {
       "visitor": "1172059",
@@ -6320,24 +6397,24 @@
     }
   ],
   "level_counts": {
-    "Administrator": 83,
-    "Manager": 479,
+    "Administrator": 84,
+    "Manager": 485,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 162,
+    "green": 169,
     "amber": 321,
     "red": 80
   },
-  "total_interested": 563,
+  "total_interested": 570,
   "oldest_age": 362,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
-      27
+      28
     ],
     [
       "AT&T",
@@ -6396,6 +6473,18 @@
       8
     ],
     [
+      "Pet Supplies Plus",
+      7
+    ],
+    [
+      "American Freight (MAFGA)",
+      7
+    ],
+    [
+      "Cruise Planners | CP Pro",
+      7
+    ],
+    [
       "Avenue5 Residential",
       7
     ],
@@ -6416,24 +6505,16 @@
       6
     ],
     [
-      "American Freight (MAFGA)",
-      6
-    ],
-    [
       "Forty Winks | The Pistol",
-      6
-    ],
-    [
-      "Pet Supplies Plus",
-      6
-    ],
-    [
-      "Cruise Planners | CP Pro",
       6
     ],
     [
       "Texas Roadhouse Holdings LLC",
       6
+    ],
+    [
+      "Pedego Electric Bikes",
+      5
     ],
     [
       "Jeremiah's Italian Ice",
@@ -6480,10 +6561,6 @@
       4
     ],
     [
-      "Pedego Electric Bikes",
-      4
-    ],
-    [
       "KOA",
       4
     ],
@@ -6506,6 +6583,10 @@
     [
       "Scooter's Coffee, LLC",
       4
+    ],
+    [
+      "Radiant Waxing",
+      3
     ],
     [
       "Dill Dinkers",
@@ -6580,7 +6661,7 @@
       3
     ],
     [
-      "Radiant Waxing",
+      "Marco's Pizza",
       2
     ],
     [
