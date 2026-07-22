@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22 05:56 UTC",
+  "generated_at": "2026-07-22 08:39 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 53,
-      "interested": 53
+      "responses_12mo": 58,
+      "interested": 58
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 200,
-      "interested": 200
+      "responses_12mo": 201,
+      "interested": 201
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 45,
-      "interested": 45
+      "responses_12mo": 49,
+      "interested": 49
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,14 +96,14 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 86,
-      "interested": 86
+      "responses_12mo": 96,
+      "interested": 96
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
       "views_12mo": 0,
-      "responses_12mo": 4,
-      "interested": 4
+      "responses_12mo": 5,
+      "interested": 5
     },
     "Data Management": {
       "guide_id": "YESnj4QI3Np_fsQ1W6_e_jBlJis",
@@ -114,17 +114,94 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 72,
-      "interested": 72
+      "responses_12mo": 77,
+      "interested": 77
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 51,
-      "interested": 51
+      "responses_12mo": 52,
+      "interested": 52
     }
   },
   "contacts": [
+    {
+      "visitor": "443649",
+      "email": "TidesOnParkLane@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-07-22",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "869504",
+      "email": "MollyGrobe@veg.com",
+      "name": "",
+      "account": "Veterinary Emergency Group",
+      "date": "2026-07-22",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "419474",
+      "email": "sanantonio2@anylabtestnow.com",
+      "name": "",
+      "account": "Any Lab Test Now",
+      "date": "2026-07-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "539216",
+      "email": "artisan@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-07-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "282678",
+      "email": "stonehillatpiperscreekmgr@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-07-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "632960",
+      "email": "KSALOMON@ARLINGTONPROPERTIES.NET",
+      "name": "",
+      "account": "Arlington Properties",
+      "date": "2026-07-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1197069",
+      "email": "ssharpe@capitalsquareliving.com",
+      "name": "",
+      "account": "Capital Square Living",
+      "date": "2026-07-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
     {
       "visitor": "1179092",
       "email": "spatry@orangetheoryfitness.ca",
@@ -135,6 +212,226 @@
       "age_days": 1,
       "sla": "green",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "639592",
+      "email": "lexington@paintingwithatwist.com",
+      "name": "",
+      "account": "Painting with a Twist, LLC",
+      "date": "2026-07-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "145036",
+      "email": "midland-lec@primroseretirement.com",
+      "name": "",
+      "account": "Primrose Retirement Communities",
+      "date": "2026-07-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1265960",
+      "email": "dbowen03@gmail.com",
+      "name": "",
+      "account": "KidsUnited USA",
+      "date": "2026-07-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1174903",
+      "email": "BAHAA@SARND.COM",
+      "name": "",
+      "account": "Signarama",
+      "date": "2026-07-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "769386",
+      "email": "jim.kruger@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Pro",
+      "date": "2026-07-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "909934",
+      "email": "Jovanny.Pinto@anytimefitness.com",
+      "name": "",
+      "account": "Anytime Fitness NA ",
+      "date": "2026-07-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1106459",
+      "email": "studiomanager0654@orangetheoryfitness.com",
+      "name": "",
+      "account": "Orangetheory Fitness",
+      "date": "2026-07-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "419474",
+      "email": "sanantonio2@anylabtestnow.com",
+      "name": "",
+      "account": "Any Lab Test Now",
+      "date": "2026-07-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "754463",
+      "email": "gsloan@vetcor.com",
+      "name": "",
+      "account": "Vetcor",
+      "date": "2026-07-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "943532",
+      "email": "briargatemgr@elementsmassage.com",
+      "name": "",
+      "account": "Elements Massage",
+      "date": "2026-07-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "818787",
+      "email": "BrustersOakbrookTerrace+433@gmail.com",
+      "name": "",
+      "account": "Bruster's Real Ice Cream",
+      "date": "2026-07-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1063997",
+      "email": "cindymattingly10@gmail.com",
+      "name": "",
+      "account": "Woof Gang Bakery & Grooming",
+      "date": "2026-07-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1030991",
+      "email": "hssouthbradenton@healthsourcechiro.com",
+      "name": "",
+      "account": "HealthSource Chiropractic",
+      "date": "2026-07-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1274306",
+      "email": "Benjamin.Lee@westernunion.com",
+      "name": "",
+      "account": "Western Union - USA",
+      "date": "2026-07-21",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Listings"
+    },
+    {
+      "visitor": "1254169",
+      "email": "subwayoxford@yahoo.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-07-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1256953",
+      "email": "3801319@sso.subway.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-07-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1255628",
+      "email": "ddesandis@orangetheoryfitness.com",
+      "name": "",
+      "account": "Orangetheory Fitness",
+      "date": "2026-07-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "754495",
+      "email": "amit.seth@firehousesubs.com",
+      "name": "",
+      "account": "Firehouse Subs",
+      "date": "2026-07-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "698037",
+      "email": "eric.flores@texasroadhouse.com",
+      "name": "",
+      "account": "Texas Roadhouse Holdings LLC",
+      "date": "2026-07-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "232412",
+      "email": "psp4198@petsuppliesplus.com",
+      "name": "",
+      "account": "Pet Supplies Plus",
+      "date": "2026-07-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "1197011",
@@ -6771,19 +7068,19 @@
     }
   ],
   "level_counts": {
-    "Administrator": 86,
-    "Manager": 517,
+    "Administrator": 87,
+    "Manager": 543,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 136,
+    "green": 163,
     "amber": 387,
     "red": 81
   },
-  "total_interested": 604,
+  "total_interested": 631,
   "oldest_age": 364,
   "repeat_accounts": [
     [
@@ -6791,12 +7088,12 @@
       28
     ],
     [
-      "RPM Living",
-      16
+      "Willow Bridge Property Company ",
+      18
     ],
     [
-      "Willow Bridge Property Company ",
-      16
+      "RPM Living",
+      17
     ],
     [
       "AT&T",
@@ -6808,6 +7105,10 @@
     ],
     [
       "Signarama",
+      12
+    ],
+    [
+      "Anytime Fitness NA ",
       11
     ],
     [
@@ -6815,28 +7116,24 @@
       11
     ],
     [
-      "Anytime Fitness NA ",
+      "Pet Supplies Plus",
       10
+    ],
+    [
+      "Cruise Planners | CP Pro",
+      9
+    ],
+    [
+      "Woof Gang Bakery & Grooming",
+      9
     ],
     [
       "Sylvan Learning",
       9
     ],
     [
-      "Pet Supplies Plus",
-      9
-    ],
-    [
       "Holiday Inn Express",
       9
-    ],
-    [
-      "Cruise Planners | CP Pro",
-      8
-    ],
-    [
-      "Woof Gang Bakery & Grooming",
-      8
     ],
     [
       "Nothing Bundt Cakes",
@@ -6853,6 +7150,22 @@
     [
       "Discovery Marketing Group, LLC dba STAT Marketing",
       8
+    ],
+    [
+      "Capital Square Living",
+      7
+    ],
+    [
+      "Vetcor",
+      7
+    ],
+    [
+      "Subway - North America",
+      7
+    ],
+    [
+      "Texas Roadhouse Holdings LLC",
+      7
     ],
     [
       "American Freight (MAFGA)",
@@ -6875,7 +7188,11 @@
       7
     ],
     [
-      "Capital Square Living",
+      "Veterinary Emergency Group",
+      6
+    ],
+    [
+      "Orangetheory Fitness",
       6
     ],
     [
@@ -6883,16 +7200,16 @@
       6
     ],
     [
-      "Vetcor",
-      6
-    ],
-    [
       "Forty Winks | The Pistol",
       6
     ],
     [
-      "Texas Roadhouse Holdings LLC",
-      6
+      "Painting with a Twist, LLC",
+      5
+    ],
+    [
+      "Bruster's Real Ice Cream",
+      5
     ],
     [
       "Pedego Electric Bikes",
@@ -6915,31 +7232,19 @@
       5
     ],
     [
-      "Veterinary Emergency Group",
-      5
-    ],
-    [
-      "Subway - North America",
-      5
-    ],
-    [
       "Adara Communities ",
       5
+    ],
+    [
+      "Elements Massage",
+      4
     ],
     [
       "Fortis Property Management",
       4
     ],
     [
-      "Orangetheory Fitness",
-      4
-    ],
-    [
       "Bryten Management",
-      4
-    ],
-    [
-      "Painting with a Twist, LLC",
       4
     ],
     [
@@ -6952,10 +7257,6 @@
     ],
     [
       "BrightStar Care ",
-      4
-    ],
-    [
-      "Bruster's Real Ice Cream",
       4
     ],
     [
@@ -6988,10 +7289,6 @@
     ],
     [
       "Dill Dinkers",
-      3
-    ],
-    [
-      "Elements Massage",
       3
     ],
     [
@@ -7045,6 +7342,26 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "Any Lab Test Now",
+      2
+    ],
+    [
+      "Arlington Properties",
+      2
+    ],
+    [
+      "KidsUnited USA",
+      2
+    ],
+    [
+      "Western Union - USA",
+      2
+    ],
+    [
+      "Firehouse Subs",
+      2
     ],
     [
       "MG Properties Group",
