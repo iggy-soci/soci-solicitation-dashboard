@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24 04:21 UTC",
+  "generated_at": "2026-07-24 07:09 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,8 +54,8 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 87,
-      "interested": 87
+      "responses_12mo": 85,
+      "interested": 85
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
@@ -72,32 +72,32 @@
     "Surveys": {
       "guide_id": "RLz8F0jmIzDqIwzo7WOPNNHQr4M",
       "views_12mo": 0,
-      "responses_12mo": 0,
-      "interested": 0
+      "responses_12mo": 1,
+      "interested": 1
     },
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 207,
-      "interested": 207
+      "responses_12mo": 214,
+      "interested": 214
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 52,
-      "interested": 52
+      "responses_12mo": 54,
+      "interested": 54
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
       "views_12mo": 0,
-      "responses_12mo": 2,
-      "interested": 2
+      "responses_12mo": 3,
+      "interested": 3
     },
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 102,
-      "interested": 102
+      "responses_12mo": 106,
+      "interested": 106
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,127 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 81,
-      "interested": 81
+      "responses_12mo": 84,
+      "interested": 84
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 56,
-      "interested": 56
+      "responses_12mo": 60,
+      "interested": 60
     }
   },
   "contacts": [
+    {
+      "visitor": "588391",
+      "email": "andrea@exquisitevacation.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-24",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1256147",
+      "email": "lynnet@everymiletravel.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-24",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "687611",
+      "email": "sarahp@ovationco.com",
+      "name": "",
+      "account": "Ovation Property Management",
+      "date": "2026-07-24",
+      "user_level": "Administrator",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Search"
+    },
+    {
+      "visitor": "1269840",
+      "email": "3425210@sso.subway.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-07-24",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1227540",
+      "email": "corpit@pvolve.com",
+      "name": "",
+      "account": "Pvolve",
+      "date": "2026-07-23",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Surveys"
+    },
+    {
+      "visitor": "283598",
+      "email": "rcsupport@aquatotsca.com",
+      "name": "",
+      "account": "Aqua-Tots Swim Schools ",
+      "date": "2026-07-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "372223",
+      "email": "IntegraSunriseParc@BellpartnersInc.com",
+      "name": "",
+      "account": "Bell Partners",
+      "date": "2026-07-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "713496",
+      "email": "store_lexington@texasroadhouse.com",
+      "name": "",
+      "account": "Texas Roadhouse Holdings LLC",
+      "date": "2026-07-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "372180",
+      "email": "Boardwalk@BellPartnersInc.com",
+      "name": "",
+      "account": "Bell Partners",
+      "date": "2026-07-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1073563",
+      "email": "imxsoci_catchall+a80f44c8_d5bc_48a7_8673_157c1ab60dc5_3384@imatrix.com",
+      "name": "",
+      "account": "TherapySites ",
+      "date": "2026-07-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
     {
       "visitor": "759361",
       "email": "bluestartravel@aol.com",
@@ -135,6 +245,138 @@
       "age_days": 1,
       "sla": "green",
       "area": "Social"
+    },
+    {
+      "visitor": "735810",
+      "email": "deborah.pollard@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-07-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1275189",
+      "email": "ashleighm@weidner.com",
+      "name": "",
+      "account": "Weidner",
+      "date": "2026-07-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "982893",
+      "email": "mahapatros@hlcmail.com",
+      "name": "",
+      "account": "Huntington Learning Centers ",
+      "date": "2026-07-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "797194",
+      "email": "mcooke@vetcor.com",
+      "name": "",
+      "account": "Vetcor",
+      "date": "2026-07-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "750689",
+      "email": "springwoodbriarmgr@raamco.com",
+      "name": "",
+      "account": "Sheng Raamco Management Inc",
+      "date": "2026-07-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "166619",
+      "email": "waterstone@adaracommunities.com",
+      "name": "",
+      "account": "Adara Communities ",
+      "date": "2026-07-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "709273",
+      "email": "kzentz@numarkcu.org",
+      "name": "",
+      "account": "NuMark Credit Union",
+      "date": "2026-07-23",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "632958",
+      "email": "SADON@ARLINGTONPROPERTIES.NET",
+      "name": "",
+      "account": "Arlington Properties",
+      "date": "2026-07-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "763336",
+      "email": "beaumont.roth@nothingbundtcakes.com",
+      "name": "",
+      "account": "Nothing Bundt Cakes",
+      "date": "2026-07-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "886321",
+      "email": "rob@mustardseedtravels.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1276675",
+      "email": "cmaetenerife@gmail.com",
+      "name": "",
+      "account": "Neighborly",
+      "date": "2026-07-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1179092",
+      "email": "spatry@orangetheoryfitness.ca",
+      "name": "",
+      "account": "Orangetheory Fitness Canada",
+      "date": "2026-07-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "1276180",
@@ -7362,49 +7604,27 @@
       "age_days": 358,
       "sla": "red",
       "area": "Reporting Suite"
-    },
-    {
-      "visitor": "943323",
-      "email": "bonnie.horton@drybarshops.com",
-      "name": "",
-      "account": "Drybar",
-      "date": "2025-07-23",
-      "user_level": "Manager",
-      "age_days": 366,
-      "sla": "red",
-      "area": "Reporting Suite"
-    },
-    {
-      "visitor": "509081",
-      "email": "qq5311@dontdrivedirty.com",
-      "name": "",
-      "account": "Quick Quack Car Wash",
-      "date": "2025-07-23",
-      "user_level": "Manager",
-      "age_days": 366,
-      "sla": "red",
-      "area": "Reporting Suite"
     }
   ],
   "level_counts": {
-    "Administrator": 90,
-    "Manager": 569,
+    "Administrator": 93,
+    "Manager": 586,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 126,
+    "green": 148,
     "amber": 452,
-    "red": 82
+    "red": 80
   },
-  "total_interested": 660,
-  "oldest_age": 366,
+  "total_interested": 680,
+  "oldest_age": 358,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
-      29
+      32
     ],
     [
       "Willow Bridge Property Company ",
@@ -7419,12 +7639,12 @@
       16
     ],
     [
-      "Berkshire Hathaway HomeServices",
+      "Cruise Planners | CP Elite",
       13
     ],
     [
-      "Cruise Planners | CP Elite",
-      12
+      "Berkshire Hathaway HomeServices",
+      13
     ],
     [
       "Signarama",
@@ -7435,6 +7655,10 @@
       11
     ],
     [
+      "Nothing Bundt Cakes",
+      10
+    ],
+    [
       "Cruise Planners | CP Pro",
       10
     ],
@@ -7443,7 +7667,11 @@
       10
     ],
     [
-      "Nothing Bundt Cakes",
+      "Vetcor",
+      9
+    ],
+    [
+      "Neighborly",
       9
     ],
     [
@@ -7459,7 +7687,11 @@
       9
     ],
     [
-      "Vetcor",
+      "Subway - North America",
+      8
+    ],
+    [
+      "Texas Roadhouse Holdings LLC",
       8
     ],
     [
@@ -7479,23 +7711,11 @@
       8
     ],
     [
-      "Neighborly",
-      8
-    ],
-    [
       "Discovery Marketing Group, LLC dba STAT Marketing",
       8
     ],
     [
       "Capital Square Living",
-      7
-    ],
-    [
-      "Subway - North America",
-      7
-    ],
-    [
-      "Texas Roadhouse Holdings LLC",
       7
     ],
     [
@@ -7505,6 +7725,10 @@
     [
       "Avenue5 Residential",
       7
+    ],
+    [
+      "Adara Communities ",
+      6
     ],
     [
       "Veterinary Emergency Group",
@@ -7551,8 +7775,8 @@
       5
     ],
     [
-      "Adara Communities ",
-      5
+      "Orangetheory Fitness Canada",
+      4
     ],
     [
       "Teriyaki Madness",
@@ -7603,6 +7827,14 @@
       4
     ],
     [
+      "Sheng Raamco Management Inc",
+      3
+    ],
+    [
+      "Arlington Properties",
+      3
+    ],
+    [
       "Lightbridge Academy",
       3
     ],
@@ -7612,10 +7844,6 @@
     ],
     [
       "Travel Leaders Group Canada",
-      3
-    ],
-    [
-      "Orangetheory Fitness Canada",
       3
     ],
     [
@@ -7675,6 +7903,26 @@
       3
     ],
     [
+      "Ovation Property Management",
+      2
+    ],
+    [
+      "Aqua-Tots Swim Schools ",
+      2
+    ],
+    [
+      "Bell Partners",
+      2
+    ],
+    [
+      "Weidner",
+      2
+    ],
+    [
+      "Huntington Learning Centers ",
+      2
+    ],
+    [
       "E.C. Barton",
       2
     ],
@@ -7699,19 +7947,11 @@
       2
     ],
     [
-      "Sheng Raamco Management Inc",
-      2
-    ],
-    [
       "Village Green Companies",
       2
     ],
     [
       "Kiddie Academy",
-      2
-    ],
-    [
-      "Arlington Properties",
       2
     ],
     [
