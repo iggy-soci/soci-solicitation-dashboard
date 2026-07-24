@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23 23:00 UTC",
+  "generated_at": "2026-07-24 00:56 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -132,7 +132,7 @@
       "account": "Travel Leaders Group",
       "date": "2026-07-23",
       "user_level": "Manager",
-      "age_days": 0,
+      "age_days": 1,
       "sla": "green",
       "area": "Social"
     },
@@ -143,7 +143,7 @@
       "account": "KPOT Korean BBQ & Hot Pot",
       "date": "2026-07-23",
       "user_level": "Administrator",
-      "age_days": 0,
+      "age_days": 1,
       "sla": "green",
       "area": "Engagements"
     },
@@ -154,7 +154,7 @@
       "account": "Nothing Bundt Cakes",
       "date": "2026-07-22",
       "user_level": "Manager",
-      "age_days": 1,
+      "age_days": 2,
       "sla": "green",
       "area": "Reporting Suite"
     },
@@ -165,7 +165,7 @@
       "account": "Teriyaki Madness",
       "date": "2026-07-22",
       "user_level": "Manager",
-      "age_days": 1,
+      "age_days": 2,
       "sla": "green",
       "area": "Reviews (Reputation)"
     },
@@ -176,7 +176,7 @@
       "account": "Vetcor",
       "date": "2026-07-22",
       "user_level": "Manager",
-      "age_days": 1,
+      "age_days": 2,
       "sla": "green",
       "area": "Reviews (Reputation)"
     },
@@ -187,7 +187,7 @@
       "account": "Lightbridge Academy",
       "date": "2026-07-22",
       "user_level": "Manager",
-      "age_days": 1,
+      "age_days": 2,
       "sla": "green",
       "area": "Reviews (Reputation)"
     },
@@ -198,7 +198,7 @@
       "account": "E.C. Barton",
       "date": "2026-07-22",
       "user_level": "Manager",
-      "age_days": 1,
+      "age_days": 2,
       "sla": "green",
       "area": "Reviews (Reputation)"
     },
@@ -209,7 +209,7 @@
       "account": "Pacifica Residential",
       "date": "2026-07-22",
       "user_level": "Manager",
-      "age_days": 1,
+      "age_days": 2,
       "sla": "green",
       "area": "Social"
     },
@@ -220,7 +220,7 @@
       "account": "Decorating Den Interiors",
       "date": "2026-07-22",
       "user_level": "Manager",
-      "age_days": 1,
+      "age_days": 2,
       "sla": "green",
       "area": "Social"
     },
@@ -231,7 +231,7 @@
       "account": "Highmark Residential",
       "date": "2026-07-22",
       "user_level": "Manager",
-      "age_days": 1,
+      "age_days": 2,
       "sla": "green",
       "area": "Social"
     },
@@ -242,7 +242,7 @@
       "account": "FSC Franchise Brands",
       "date": "2026-07-22",
       "user_level": "Manager",
-      "age_days": 1,
+      "age_days": 2,
       "sla": "green",
       "area": "Social"
     },
@@ -253,7 +253,7 @@
       "account": "Mill Creek Residential ",
       "date": "2026-07-22",
       "user_level": "Manager",
-      "age_days": 1,
+      "age_days": 2,
       "sla": "green",
       "area": "Social"
     },
@@ -264,7 +264,7 @@
       "account": "Decorating Den Interiors",
       "date": "2026-07-22",
       "user_level": "Manager",
-      "age_days": 1,
+      "age_days": 2,
       "sla": "green",
       "area": "Genius Social"
     },
@@ -275,7 +275,7 @@
       "account": "Quinn Residences",
       "date": "2026-07-22",
       "user_level": "Manager",
-      "age_days": 1,
+      "age_days": 2,
       "sla": "green",
       "area": "Genius Social"
     },
@@ -286,7 +286,7 @@
       "account": "Cruise Planners | CP Pro",
       "date": "2026-07-22",
       "user_level": "Manager",
-      "age_days": 1,
+      "age_days": 2,
       "sla": "green",
       "area": "Genius Social"
     },
@@ -297,7 +297,7 @@
       "account": "Precision Tune Auto Care",
       "date": "2026-07-22",
       "user_level": "Manager",
-      "age_days": 1,
+      "age_days": 2,
       "sla": "green",
       "area": "Genius Reviews"
     },
@@ -308,7 +308,7 @@
       "account": "Sky Zone",
       "date": "2026-07-22",
       "user_level": "Manager",
-      "age_days": 1,
+      "age_days": 2,
       "sla": "green",
       "area": "Genius Reviews"
     },
@@ -319,7 +319,7 @@
       "account": "Oxford Learning",
       "date": "2026-07-22",
       "user_level": "Manager",
-      "age_days": 1,
+      "age_days": 2,
       "sla": "green",
       "area": "Genius Reviews"
     },
@@ -330,7 +330,7 @@
       "account": "Cruise Planners | CP Elite",
       "date": "2026-07-22",
       "user_level": "Manager",
-      "age_days": 1,
+      "age_days": 2,
       "sla": "green",
       "area": "Genius Reviews"
     },
@@ -341,7 +341,7 @@
       "account": "HealthSource Chiropractic",
       "date": "2026-07-22",
       "user_level": "Manager",
-      "age_days": 1,
+      "age_days": 2,
       "sla": "green",
       "area": "Genius Reviews"
     },
@@ -352,7 +352,7 @@
       "account": "Sheng Raamco Management Inc",
       "date": "2026-07-22",
       "user_level": "Manager",
-      "age_days": 1,
+      "age_days": 2,
       "sla": "green",
       "area": "Genius Reviews"
     },
@@ -363,7 +363,7 @@
       "account": "RPM Living",
       "date": "2026-07-22",
       "user_level": "Manager",
-      "age_days": 1,
+      "age_days": 2,
       "sla": "green",
       "area": "Genius Reviews"
     },
@@ -374,7 +374,7 @@
       "account": "Veterinary Emergency Group",
       "date": "2026-07-22",
       "user_level": "Manager",
-      "age_days": 1,
+      "age_days": 2,
       "sla": "green",
       "area": "Genius Reviews"
     },
@@ -385,7 +385,7 @@
       "account": "Advenir Azora Living",
       "date": "2026-07-22",
       "user_level": "Administrator",
-      "age_days": 1,
+      "age_days": 2,
       "sla": "green",
       "area": "Listings"
     },
@@ -396,7 +396,7 @@
       "account": "Ford",
       "date": "2026-07-22",
       "user_level": "Manager",
-      "age_days": 1,
+      "age_days": 2,
       "sla": "green",
       "area": "AskGenius"
     },
@@ -407,7 +407,7 @@
       "account": "Any Lab Test Now",
       "date": "2026-07-22",
       "user_level": "Manager",
-      "age_days": 1,
+      "age_days": 2,
       "sla": "green",
       "area": "AskGenius"
     },
@@ -418,7 +418,7 @@
       "account": "New Horizon Academy",
       "date": "2026-07-22",
       "user_level": "Administrator",
-      "age_days": 1,
+      "age_days": 2,
       "sla": "green",
       "area": "AskGenius"
     },
@@ -429,7 +429,7 @@
       "account": "Village Green Companies",
       "date": "2026-07-22",
       "user_level": "Manager",
-      "age_days": 1,
+      "age_days": 2,
       "sla": "green",
       "area": "AskGenius"
     },
@@ -440,7 +440,7 @@
       "account": "Kiddie Academy",
       "date": "2026-07-22",
       "user_level": "Manager",
-      "age_days": 1,
+      "age_days": 2,
       "sla": "green",
       "area": "Engagements"
     },
@@ -451,7 +451,7 @@
       "account": "Weidner",
       "date": "2026-07-22",
       "user_level": "Manager",
-      "age_days": 1,
+      "age_days": 2,
       "sla": "green",
       "area": "Engagements"
     },
@@ -462,7 +462,7 @@
       "account": "Travel Leaders Group Canada",
       "date": "2026-07-22",
       "user_level": "Manager",
-      "age_days": 1,
+      "age_days": 2,
       "sla": "green",
       "area": "Engagements"
     },
@@ -473,7 +473,7 @@
       "account": "Any Lab Test Now",
       "date": "2026-07-21",
       "user_level": "Manager",
-      "age_days": 2,
+      "age_days": 3,
       "sla": "green",
       "area": "Reviews (Reputation)"
     },
@@ -484,7 +484,7 @@
       "account": "Willow Bridge Property Company ",
       "date": "2026-07-21",
       "user_level": "Manager",
-      "age_days": 2,
+      "age_days": 3,
       "sla": "green",
       "area": "Reviews (Reputation)"
     },
@@ -495,7 +495,7 @@
       "account": "Willow Bridge Property Company ",
       "date": "2026-07-21",
       "user_level": "Manager",
-      "age_days": 2,
+      "age_days": 3,
       "sla": "green",
       "area": "Reviews (Reputation)"
     },
@@ -506,7 +506,7 @@
       "account": "Arlington Properties",
       "date": "2026-07-21",
       "user_level": "Manager",
-      "age_days": 2,
+      "age_days": 3,
       "sla": "green",
       "area": "Reviews (Reputation)"
     },
@@ -517,7 +517,7 @@
       "account": "Capital Square Living",
       "date": "2026-07-21",
       "user_level": "Manager",
-      "age_days": 2,
+      "age_days": 3,
       "sla": "green",
       "area": "Reviews (Reputation)"
     },
@@ -528,7 +528,7 @@
       "account": "Orangetheory Fitness Canada",
       "date": "2026-07-21",
       "user_level": "Manager",
-      "age_days": 2,
+      "age_days": 3,
       "sla": "green",
       "area": "Reviews (Reputation)"
     },
@@ -539,7 +539,7 @@
       "account": "Painting with a Twist, LLC",
       "date": "2026-07-21",
       "user_level": "Manager",
-      "age_days": 2,
+      "age_days": 3,
       "sla": "green",
       "area": "Social"
     },
@@ -550,7 +550,7 @@
       "account": "Primrose Retirement Communities",
       "date": "2026-07-21",
       "user_level": "Manager",
-      "age_days": 2,
+      "age_days": 3,
       "sla": "green",
       "area": "Genius Social"
     },
@@ -561,7 +561,7 @@
       "account": "KidsUnited USA",
       "date": "2026-07-21",
       "user_level": "Manager",
-      "age_days": 2,
+      "age_days": 3,
       "sla": "green",
       "area": "Genius Social"
     },
@@ -572,7 +572,7 @@
       "account": "Signarama",
       "date": "2026-07-21",
       "user_level": "Manager",
-      "age_days": 2,
+      "age_days": 3,
       "sla": "green",
       "area": "Genius Social"
     },
@@ -583,7 +583,7 @@
       "account": "Cruise Planners | CP Pro",
       "date": "2026-07-21",
       "user_level": "Manager",
-      "age_days": 2,
+      "age_days": 3,
       "sla": "green",
       "area": "Genius Social"
     },
@@ -594,7 +594,7 @@
       "account": "Anytime Fitness NA ",
       "date": "2026-07-21",
       "user_level": "Manager",
-      "age_days": 2,
+      "age_days": 3,
       "sla": "green",
       "area": "Genius Reviews"
     },
@@ -605,7 +605,7 @@
       "account": "Orangetheory Fitness",
       "date": "2026-07-21",
       "user_level": "Manager",
-      "age_days": 2,
+      "age_days": 3,
       "sla": "green",
       "area": "Genius Reviews"
     },
@@ -616,7 +616,7 @@
       "account": "Any Lab Test Now",
       "date": "2026-07-21",
       "user_level": "Manager",
-      "age_days": 2,
+      "age_days": 3,
       "sla": "green",
       "area": "Genius Reviews"
     },
@@ -627,7 +627,7 @@
       "account": "Vetcor",
       "date": "2026-07-21",
       "user_level": "Manager",
-      "age_days": 2,
+      "age_days": 3,
       "sla": "green",
       "area": "Genius Reviews"
     },
@@ -638,7 +638,7 @@
       "account": "Elements Massage",
       "date": "2026-07-21",
       "user_level": "Manager",
-      "age_days": 2,
+      "age_days": 3,
       "sla": "green",
       "area": "Genius Reviews"
     },
@@ -649,7 +649,7 @@
       "account": "Bruster's Real Ice Cream",
       "date": "2026-07-21",
       "user_level": "Manager",
-      "age_days": 2,
+      "age_days": 3,
       "sla": "green",
       "area": "Genius Reviews"
     },
@@ -660,7 +660,7 @@
       "account": "Woof Gang Bakery & Grooming",
       "date": "2026-07-21",
       "user_level": "Manager",
-      "age_days": 2,
+      "age_days": 3,
       "sla": "green",
       "area": "Genius Reviews"
     },
@@ -671,7 +671,7 @@
       "account": "HealthSource Chiropractic",
       "date": "2026-07-21",
       "user_level": "Manager",
-      "age_days": 2,
+      "age_days": 3,
       "sla": "green",
       "area": "Genius Reviews"
     },
@@ -682,7 +682,7 @@
       "account": "Western Union - USA",
       "date": "2026-07-21",
       "user_level": "Administrator",
-      "age_days": 2,
+      "age_days": 3,
       "sla": "green",
       "area": "Listings"
     },
@@ -693,7 +693,7 @@
       "account": "Subway - North America",
       "date": "2026-07-21",
       "user_level": "Manager",
-      "age_days": 2,
+      "age_days": 3,
       "sla": "green",
       "area": "AskGenius"
     },
@@ -704,7 +704,7 @@
       "account": "Subway - North America",
       "date": "2026-07-21",
       "user_level": "Manager",
-      "age_days": 2,
+      "age_days": 3,
       "sla": "green",
       "area": "AskGenius"
     },
@@ -715,7 +715,7 @@
       "account": "Orangetheory Fitness",
       "date": "2026-07-21",
       "user_level": "Manager",
-      "age_days": 2,
+      "age_days": 3,
       "sla": "green",
       "area": "AskGenius"
     },
@@ -726,7 +726,7 @@
       "account": "Firehouse Subs",
       "date": "2026-07-21",
       "user_level": "Manager",
-      "age_days": 2,
+      "age_days": 3,
       "sla": "green",
       "area": "AskGenius"
     },
@@ -737,7 +737,7 @@
       "account": "Texas Roadhouse Holdings LLC",
       "date": "2026-07-21",
       "user_level": "Manager",
-      "age_days": 2,
+      "age_days": 3,
       "sla": "green",
       "area": "AskGenius"
     },
@@ -748,7 +748,7 @@
       "account": "Pet Supplies Plus",
       "date": "2026-07-21",
       "user_level": "Manager",
-      "age_days": 2,
+      "age_days": 3,
       "sla": "green",
       "area": "Engagements"
     },
@@ -759,7 +759,7 @@
       "account": "Capital Square Living",
       "date": "2026-07-20",
       "user_level": "Manager",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "Reviews (Reputation)"
     },
@@ -770,7 +770,7 @@
       "account": "MG Properties Group",
       "date": "2026-07-20",
       "user_level": "Manager",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "Reviews (Reputation)"
     },
@@ -781,7 +781,7 @@
       "account": "Jersey Mike's Subs",
       "date": "2026-07-20",
       "user_level": "Manager",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "Reviews (Reputation)"
     },
@@ -792,7 +792,7 @@
       "account": "WinnResidential",
       "date": "2026-07-20",
       "user_level": "Administrator",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "Reviews (Reputation)"
     },
@@ -803,7 +803,7 @@
       "account": "Eggs Up Grill",
       "date": "2026-07-20",
       "user_level": "Manager",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "Reviews (Reputation)"
     },
@@ -814,7 +814,7 @@
       "account": "Pedego Electric Bikes",
       "date": "2026-07-20",
       "user_level": "Manager",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "Pages"
     },
@@ -825,7 +825,7 @@
       "account": "FSC Franchise Brands",
       "date": "2026-07-20",
       "user_level": "Manager",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "Social"
     },
@@ -836,7 +836,7 @@
       "account": "Cruise Planners | CP Pro",
       "date": "2026-07-20",
       "user_level": "Manager",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "Social"
     },
@@ -847,7 +847,7 @@
       "account": "Griswold",
       "date": "2026-07-20",
       "user_level": "Manager",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "Social"
     },
@@ -858,7 +858,7 @@
       "account": "Travel Leaders Group Canada",
       "date": "2026-07-20",
       "user_level": "Manager",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "Social"
     },
@@ -869,7 +869,7 @@
       "account": "RPM Living",
       "date": "2026-07-20",
       "user_level": "Manager",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "Social"
     },
@@ -880,7 +880,7 @@
       "account": "Signarama",
       "date": "2026-07-20",
       "user_level": "Manager",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "Social"
     },
@@ -891,7 +891,7 @@
       "account": "Berkshire Hathaway HomeServices",
       "date": "2026-07-20",
       "user_level": "Manager",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "Social"
     },
@@ -902,7 +902,7 @@
       "account": "Village Green Companies",
       "date": "2026-07-20",
       "user_level": "Manager",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "Social"
     },
@@ -913,7 +913,7 @@
       "account": "Fortis Property Management",
       "date": "2026-07-20",
       "user_level": "Manager",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "Social"
     },
@@ -924,7 +924,7 @@
       "account": "Cruise Planners | CP Elite",
       "date": "2026-07-20",
       "user_level": "Manager",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "Social"
     },
@@ -935,7 +935,7 @@
       "account": "Travel Leaders Group",
       "date": "2026-07-20",
       "user_level": "Manager",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "Social"
     },
@@ -946,7 +946,7 @@
       "account": "Signarama",
       "date": "2026-07-20",
       "user_level": "Manager",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "Genius Social"
     },
@@ -957,7 +957,7 @@
       "account": "Lynd",
       "date": "2026-07-20",
       "user_level": "Manager",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "Genius Social"
     },
@@ -968,7 +968,7 @@
       "account": "Sylvan Learning",
       "date": "2026-07-20",
       "user_level": "Manager",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "Genius Reviews"
     },
@@ -979,7 +979,7 @@
       "account": "Anytime Fitness NA ",
       "date": "2026-07-20",
       "user_level": "Manager",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "Genius Reviews"
     },
@@ -990,7 +990,7 @@
       "account": "Chamberlin Associates",
       "date": "2026-07-20",
       "user_level": "Manager",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "Genius Reviews"
     },
@@ -1001,7 +1001,7 @@
       "account": "Willow Bridge Property Company ",
       "date": "2026-07-20",
       "user_level": "Manager",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "Genius Reviews"
     },
@@ -1012,7 +1012,7 @@
       "account": "Lynd",
       "date": "2026-07-20",
       "user_level": "Manager",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "Genius Reviews"
     },
@@ -1023,7 +1023,7 @@
       "account": "Pet Supplies Plus",
       "date": "2026-07-20",
       "user_level": "Manager",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "Genius Reviews"
     },
@@ -1034,7 +1034,7 @@
       "account": "Advance America",
       "date": "2026-07-20",
       "user_level": "Administrator",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "Listings"
     },
@@ -1045,7 +1045,7 @@
       "account": "Orangetheory Fitness",
       "date": "2026-07-20",
       "user_level": "Manager",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "AskGenius"
     },
@@ -1056,7 +1056,7 @@
       "account": "Pet Supplies Plus",
       "date": "2026-07-20",
       "user_level": "Manager",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "AskGenius"
     },
@@ -1067,7 +1067,7 @@
       "account": "The Dog Stop",
       "date": "2026-07-20",
       "user_level": "Manager",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "Engagements"
     },
@@ -1078,7 +1078,7 @@
       "account": "RPM Living",
       "date": "2026-07-20",
       "user_level": "Manager",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "Engagements"
     },
@@ -1089,7 +1089,7 @@
       "account": "Pointe Grand",
       "date": "2026-07-20",
       "user_level": "Manager",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "Engagements"
     },
@@ -1100,7 +1100,7 @@
       "account": "Signarama",
       "date": "2026-07-20",
       "user_level": "Manager",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "Engagements"
     },
@@ -1111,7 +1111,7 @@
       "account": "Bryten Management",
       "date": "2026-07-20",
       "user_level": "Manager",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "Engagements"
     },
@@ -1122,7 +1122,7 @@
       "account": "Embrey Management Service",
       "date": "2026-07-20",
       "user_level": "Manager",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "Engagements"
     },
@@ -1133,7 +1133,7 @@
       "account": "Trilogy Health Services",
       "date": "2026-07-20",
       "user_level": "Manager",
-      "age_days": 3,
+      "age_days": 4,
       "sla": "green",
       "area": "Engagements"
     },
@@ -1144,7 +1144,7 @@
       "account": "Radiant Waxing",
       "date": "2026-07-19",
       "user_level": "Manager",
-      "age_days": 4,
+      "age_days": 5,
       "sla": "green",
       "area": "Social"
     },
@@ -1155,7 +1155,7 @@
       "account": "Pet Supplies Plus",
       "date": "2026-07-19",
       "user_level": "Manager",
-      "age_days": 4,
+      "age_days": 5,
       "sla": "green",
       "area": "Social"
     },
@@ -1166,7 +1166,7 @@
       "account": "Marco's Pizza",
       "date": "2026-07-19",
       "user_level": "Manager",
-      "age_days": 4,
+      "age_days": 5,
       "sla": "green",
       "area": "Social"
     },
@@ -1177,7 +1177,7 @@
       "account": "American Freight (MAFGA)",
       "date": "2026-07-19",
       "user_level": "Administrator",
-      "age_days": 4,
+      "age_days": 5,
       "sla": "green",
       "area": "Social"
     },
@@ -1188,7 +1188,7 @@
       "account": "Painting with a Twist, LLC",
       "date": "2026-07-19",
       "user_level": "Manager",
-      "age_days": 4,
+      "age_days": 5,
       "sla": "green",
       "area": "Social"
     },
@@ -1199,7 +1199,7 @@
       "account": "Cruise Planners | CP Pro",
       "date": "2026-07-19",
       "user_level": "Manager",
-      "age_days": 4,
+      "age_days": 5,
       "sla": "green",
       "area": "Genius Social"
     },
@@ -1210,7 +1210,7 @@
       "account": "Degree Wellness",
       "date": "2026-07-19",
       "user_level": "Manager",
-      "age_days": 4,
+      "age_days": 5,
       "sla": "green",
       "area": "Genius Reviews"
     },
@@ -1221,7 +1221,7 @@
       "account": "AT&T",
       "date": "2026-07-18",
       "user_level": "Manager",
-      "age_days": 5,
+      "age_days": 6,
       "sla": "green",
       "area": "Reviews (Reputation)"
     },
@@ -1232,7 +1232,7 @@
       "account": "Woof Gang Bakery & Grooming",
       "date": "2026-07-18",
       "user_level": "Manager",
-      "age_days": 5,
+      "age_days": 6,
       "sla": "green",
       "area": "Reviews (Reputation)"
     },
@@ -1243,7 +1243,7 @@
       "account": "Avenue5 Residential",
       "date": "2026-07-18",
       "user_level": "Manager",
-      "age_days": 5,
+      "age_days": 6,
       "sla": "green",
       "area": "Social"
     },
@@ -1254,7 +1254,7 @@
       "account": "Travel Leaders Group",
       "date": "2026-07-18",
       "user_level": "Manager",
-      "age_days": 5,
+      "age_days": 6,
       "sla": "green",
       "area": "Social"
     },
@@ -1265,7 +1265,7 @@
       "account": "Radiant Waxing",
       "date": "2026-07-18",
       "user_level": "Manager",
-      "age_days": 5,
+      "age_days": 6,
       "sla": "green",
       "area": "Genius Social"
     },
@@ -1276,7 +1276,7 @@
       "account": "AT&T",
       "date": "2026-07-18",
       "user_level": "Manager",
-      "age_days": 5,
+      "age_days": 6,
       "sla": "green",
       "area": "Genius Reviews"
     },
@@ -1287,7 +1287,7 @@
       "account": "AT&T",
       "date": "2026-07-18",
       "user_level": "Manager",
-      "age_days": 5,
+      "age_days": 6,
       "sla": "green",
       "area": "Genius Reviews"
     },
@@ -1298,7 +1298,7 @@
       "account": "Sport Clips",
       "date": "2026-07-18",
       "user_level": "Manager",
-      "age_days": 5,
+      "age_days": 6,
       "sla": "green",
       "area": "Engagements"
     },
@@ -1309,7 +1309,7 @@
       "account": "Advance America",
       "date": "2026-07-17",
       "user_level": "Manager",
-      "age_days": 6,
+      "age_days": 7,
       "sla": "green",
       "area": "Reviews (Reputation)"
     },
@@ -1320,7 +1320,7 @@
       "account": "Amazing Lash",
       "date": "2026-07-17",
       "user_level": "Manager",
-      "age_days": 6,
+      "age_days": 7,
       "sla": "green",
       "area": "Reviews (Reputation)"
     },
@@ -1331,7 +1331,7 @@
       "account": "Jeremiah's Italian Ice",
       "date": "2026-07-17",
       "user_level": "Manager",
-      "age_days": 6,
+      "age_days": 7,
       "sla": "green",
       "area": "Reviews (Reputation)"
     },
@@ -1342,7 +1342,7 @@
       "account": "Marco's Pizza",
       "date": "2026-07-17",
       "user_level": "Manager",
-      "age_days": 6,
+      "age_days": 7,
       "sla": "green",
       "area": "Social"
     },
@@ -1353,7 +1353,7 @@
       "account": "Signarama",
       "date": "2026-07-17",
       "user_level": "Manager",
-      "age_days": 6,
+      "age_days": 7,
       "sla": "green",
       "area": "Social"
     },
@@ -1364,7 +1364,7 @@
       "account": "Vetcor",
       "date": "2026-07-17",
       "user_level": "Manager",
-      "age_days": 6,
+      "age_days": 7,
       "sla": "green",
       "area": "Social"
     },
@@ -1375,7 +1375,7 @@
       "account": "Pedego Electric Bikes",
       "date": "2026-07-17",
       "user_level": "Manager",
-      "age_days": 6,
+      "age_days": 7,
       "sla": "green",
       "area": "Social"
     },
@@ -1386,7 +1386,7 @@
       "account": "Ellianos Coffee",
       "date": "2026-07-17",
       "user_level": "Manager",
-      "age_days": 6,
+      "age_days": 7,
       "sla": "green",
       "area": "Social"
     },
@@ -1397,7 +1397,7 @@
       "account": "Nothing Bundt Cakes",
       "date": "2026-07-17",
       "user_level": "Manager",
-      "age_days": 6,
+      "age_days": 7,
       "sla": "green",
       "area": "Social"
     },
@@ -1408,7 +1408,7 @@
       "account": "Travel Leaders Group",
       "date": "2026-07-17",
       "user_level": "Manager",
-      "age_days": 6,
+      "age_days": 7,
       "sla": "green",
       "area": "Social"
     },
@@ -1419,7 +1419,7 @@
       "account": "Cruise Planners | CP Elite",
       "date": "2026-07-17",
       "user_level": "Manager",
-      "age_days": 6,
+      "age_days": 7,
       "sla": "green",
       "area": "Genius Social"
     },
@@ -1430,7 +1430,7 @@
       "account": "Dill Dinkers",
       "date": "2026-07-17",
       "user_level": "Manager",
-      "age_days": 6,
+      "age_days": 7,
       "sla": "green",
       "area": "Genius Social"
     },
@@ -1441,7 +1441,7 @@
       "account": "Elements Massage",
       "date": "2026-07-17",
       "user_level": "Manager",
-      "age_days": 6,
+      "age_days": 7,
       "sla": "green",
       "area": "Genius Reviews"
     },
@@ -1452,7 +1452,7 @@
       "account": "Woof Gang Bakery & Grooming",
       "date": "2026-07-17",
       "user_level": "Manager",
-      "age_days": 6,
+      "age_days": 7,
       "sla": "green",
       "area": "Genius Reviews"
     },
@@ -1463,7 +1463,7 @@
       "account": "Noodles & Company",
       "date": "2026-07-17",
       "user_level": "Administrator",
-      "age_days": 6,
+      "age_days": 7,
       "sla": "green",
       "area": "Genius Reviews"
     },
@@ -1474,7 +1474,7 @@
       "account": "RPM Living",
       "date": "2026-07-17",
       "user_level": "Administrator",
-      "age_days": 6,
+      "age_days": 7,
       "sla": "green",
       "area": "Genius Reviews"
     },
@@ -1485,7 +1485,7 @@
       "account": "Sky Zone",
       "date": "2026-07-17",
       "user_level": "Manager",
-      "age_days": 6,
+      "age_days": 7,
       "sla": "green",
       "area": "Genius Reviews"
     },
@@ -1496,7 +1496,7 @@
       "account": "Woof Gang Bakery & Grooming",
       "date": "2026-07-17",
       "user_level": "Manager",
-      "age_days": 6,
+      "age_days": 7,
       "sla": "green",
       "area": "Genius Reviews"
     },
@@ -1507,7 +1507,7 @@
       "account": "Lakefield Veterinary Group",
       "date": "2026-07-17",
       "user_level": "Manager",
-      "age_days": 6,
+      "age_days": 7,
       "sla": "green",
       "area": "Engagements"
     },
@@ -1518,8 +1518,8 @@
       "account": "Mondofix USA",
       "date": "2026-07-16",
       "user_level": "Manager",
-      "age_days": 7,
-      "sla": "green",
+      "age_days": 8,
+      "sla": "amber",
       "area": "Reporting Suite"
     },
     {
@@ -1529,8 +1529,8 @@
       "account": "PRG Real Estate Management",
       "date": "2026-07-16",
       "user_level": "Administrator",
-      "age_days": 7,
-      "sla": "green",
+      "age_days": 8,
+      "sla": "amber",
       "area": "Reviews (Reputation)"
     },
     {
@@ -1540,8 +1540,8 @@
       "account": "Mad Nice Coffee | Olo Sync Management",
       "date": "2026-07-16",
       "user_level": "Administrator",
-      "age_days": 7,
-      "sla": "green",
+      "age_days": 8,
+      "sla": "amber",
       "area": "Reviews (Reputation)"
     },
     {
@@ -1551,8 +1551,8 @@
       "account": "Willow Bridge Property Company ",
       "date": "2026-07-16",
       "user_level": "Manager",
-      "age_days": 7,
-      "sla": "green",
+      "age_days": 8,
+      "sla": "amber",
       "area": "Reviews (Reputation)"
     },
     {
@@ -1562,8 +1562,8 @@
       "account": "Vetcor",
       "date": "2026-07-16",
       "user_level": "Manager",
-      "age_days": 7,
-      "sla": "green",
+      "age_days": 8,
+      "sla": "amber",
       "area": "Reviews (Reputation)"
     },
     {
@@ -1573,8 +1573,8 @@
       "account": "KOA",
       "date": "2026-07-16",
       "user_level": "Manager",
-      "age_days": 7,
-      "sla": "green",
+      "age_days": 8,
+      "sla": "amber",
       "area": "Social"
     },
     {
@@ -1584,8 +1584,8 @@
       "account": "Children's Lighthouse Franchise Company",
       "date": "2026-07-16",
       "user_level": "Manager",
-      "age_days": 7,
-      "sla": "green",
+      "age_days": 8,
+      "sla": "amber",
       "area": "Social"
     },
     {
@@ -1595,8 +1595,8 @@
       "account": "Woof Gang Bakery & Grooming",
       "date": "2026-07-16",
       "user_level": "Manager",
-      "age_days": 7,
-      "sla": "green",
+      "age_days": 8,
+      "sla": "amber",
       "area": "Social"
     },
     {
@@ -1606,8 +1606,8 @@
       "account": "Peak Living LLC",
       "date": "2026-07-16",
       "user_level": "Manager",
-      "age_days": 7,
-      "sla": "green",
+      "age_days": 8,
+      "sla": "amber",
       "area": "Social"
     },
     {
@@ -1617,8 +1617,8 @@
       "account": "Travel Leaders Group",
       "date": "2026-07-16",
       "user_level": "Manager",
-      "age_days": 7,
-      "sla": "green",
+      "age_days": 8,
+      "sla": "amber",
       "area": "Social"
     },
     {
@@ -1628,8 +1628,8 @@
       "account": "Keplr Vision",
       "date": "2026-07-16",
       "user_level": "Manager",
-      "age_days": 7,
-      "sla": "green",
+      "age_days": 8,
+      "sla": "amber",
       "area": "Social"
     },
     {
@@ -1639,8 +1639,8 @@
       "account": "FSC Franchise Brands",
       "date": "2026-07-16",
       "user_level": "Manager",
-      "age_days": 7,
-      "sla": "green",
+      "age_days": 8,
+      "sla": "amber",
       "area": "Social"
     },
     {
@@ -1650,8 +1650,8 @@
       "account": "Sylvan Learning",
       "date": "2026-07-16",
       "user_level": "Manager",
-      "age_days": 7,
-      "sla": "green",
+      "age_days": 8,
+      "sla": "amber",
       "area": "Genius Social"
     },
     {
@@ -1661,8 +1661,8 @@
       "account": "Sounds Fun Entertainment",
       "date": "2026-07-16",
       "user_level": "Manager",
-      "age_days": 7,
-      "sla": "green",
+      "age_days": 8,
+      "sla": "amber",
       "area": "Genius Reviews"
     },
     {
@@ -1672,8 +1672,8 @@
       "account": "American Freight (MAFGA)",
       "date": "2026-07-16",
       "user_level": "Manager",
-      "age_days": 7,
-      "sla": "green",
+      "age_days": 8,
+      "sla": "amber",
       "area": "Genius Reviews"
     },
     {
@@ -1683,8 +1683,8 @@
       "account": "Willow Bridge Property Company ",
       "date": "2026-07-16",
       "user_level": "Manager",
-      "age_days": 7,
-      "sla": "green",
+      "age_days": 8,
+      "sla": "amber",
       "area": "Genius Reviews"
     },
     {
@@ -1694,8 +1694,8 @@
       "account": "Sky Zone",
       "date": "2026-07-16",
       "user_level": "Administrator",
-      "age_days": 7,
-      "sla": "green",
+      "age_days": 8,
+      "sla": "amber",
       "area": "Genius Reviews"
     },
     {
@@ -1705,8 +1705,8 @@
       "account": "Quinn Residences",
       "date": "2026-07-16",
       "user_level": "Manager",
-      "age_days": 7,
-      "sla": "green",
+      "age_days": 8,
+      "sla": "amber",
       "area": "Genius Reviews"
     },
     {
@@ -1716,8 +1716,8 @@
       "account": "AT&T",
       "date": "2026-07-16",
       "user_level": "Manager",
-      "age_days": 7,
-      "sla": "green",
+      "age_days": 8,
+      "sla": "amber",
       "area": "Genius Reviews"
     },
     {
@@ -1727,8 +1727,8 @@
       "account": "Avenue5 Residential",
       "date": "2026-07-16",
       "user_level": "Manager",
-      "age_days": 7,
-      "sla": "green",
+      "age_days": 8,
+      "sla": "amber",
       "area": "Genius Reviews"
     },
     {
@@ -1738,8 +1738,8 @@
       "account": "Culvers",
       "date": "2026-07-16",
       "user_level": "Administrator",
-      "age_days": 7,
-      "sla": "green",
+      "age_days": 8,
+      "sla": "amber",
       "area": "Genius Reviews"
     },
     {
@@ -1749,8 +1749,8 @@
       "account": "Color Me Mine LLC",
       "date": "2026-07-16",
       "user_level": "Manager",
-      "age_days": 7,
-      "sla": "green",
+      "age_days": 8,
+      "sla": "amber",
       "area": "Genius Reviews"
     },
     {
@@ -1760,8 +1760,8 @@
       "account": "Beavercreek Marketing",
       "date": "2026-07-16",
       "user_level": "Manager",
-      "age_days": 7,
-      "sla": "green",
+      "age_days": 8,
+      "sla": "amber",
       "area": "AskGenius"
     },
     {
@@ -1771,8 +1771,8 @@
       "account": "Berkshire Hathaway HomeServices",
       "date": "2026-07-16",
       "user_level": "Manager",
-      "age_days": 7,
-      "sla": "green",
+      "age_days": 8,
+      "sla": "amber",
       "area": "AskGenius"
     },
     {
@@ -1782,8 +1782,8 @@
       "account": "Ford",
       "date": "2026-07-16",
       "user_level": "Manager",
-      "age_days": 7,
-      "sla": "green",
+      "age_days": 8,
+      "sla": "amber",
       "area": "AskGenius"
     },
     {
@@ -1793,8 +1793,8 @@
       "account": "Berkshire Hathaway HomeServices",
       "date": "2026-07-16",
       "user_level": "Manager",
-      "age_days": 7,
-      "sla": "green",
+      "age_days": 8,
+      "sla": "amber",
       "area": "AskGenius"
     },
     {
@@ -1804,8 +1804,8 @@
       "account": "Sport Clips",
       "date": "2026-07-16",
       "user_level": "Manager",
-      "age_days": 7,
-      "sla": "green",
+      "age_days": 8,
+      "sla": "amber",
       "area": "AskGenius"
     },
     {
@@ -1815,8 +1815,8 @@
       "account": "Balfour Beatty Communities ",
       "date": "2026-07-16",
       "user_level": "Manager",
-      "age_days": 7,
-      "sla": "green",
+      "age_days": 8,
+      "sla": "amber",
       "area": "Engagements"
     },
     {
@@ -1826,8 +1826,8 @@
       "account": "Mill Creek Residential ",
       "date": "2026-07-16",
       "user_level": "Manager",
-      "age_days": 7,
-      "sla": "green",
+      "age_days": 8,
+      "sla": "amber",
       "area": "Engagements"
     },
     {
@@ -1837,8 +1837,8 @@
       "account": "Sky Zone",
       "date": "2026-07-16",
       "user_level": "Manager",
-      "age_days": 7,
-      "sla": "green",
+      "age_days": 8,
+      "sla": "amber",
       "area": "Engagements"
     },
     {
@@ -1848,8 +1848,8 @@
       "account": "Timberland Partners",
       "date": "2026-07-16",
       "user_level": "Manager",
-      "age_days": 7,
-      "sla": "green",
+      "age_days": 8,
+      "sla": "amber",
       "area": "Engagements"
     },
     {
@@ -1859,8 +1859,8 @@
       "account": "Houchens Food Group",
       "date": "2026-07-16",
       "user_level": "Manager",
-      "age_days": 7,
-      "sla": "green",
+      "age_days": 8,
+      "sla": "amber",
       "area": "Engagements"
     },
     {
@@ -1870,7 +1870,7 @@
       "account": "tacobarn | Olo Sync Management",
       "date": "2026-07-15",
       "user_level": "Administrator",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -1881,7 +1881,7 @@
       "account": "Zoomin Groomin",
       "date": "2026-07-15",
       "user_level": "Manager",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -1892,7 +1892,7 @@
       "account": "Signarama",
       "date": "2026-07-15",
       "user_level": "Manager",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "Social"
     },
@@ -1903,7 +1903,7 @@
       "account": "The Learning Experience",
       "date": "2026-07-15",
       "user_level": "Manager",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "Social"
     },
@@ -1914,7 +1914,7 @@
       "account": "FSBI - Entrepreneur's Source ",
       "date": "2026-07-15",
       "user_level": "Manager",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "Social"
     },
@@ -1925,7 +1925,7 @@
       "account": "Neighborly",
       "date": "2026-07-15",
       "user_level": "Manager",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "Social"
     },
@@ -1936,7 +1936,7 @@
       "account": "Transworld Business Advisors ",
       "date": "2026-07-15",
       "user_level": "Manager",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "Social"
     },
@@ -1947,7 +1947,7 @@
       "account": "Legend Asset Management ",
       "date": "2026-07-15",
       "user_level": "Manager",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "Social"
     },
@@ -1958,7 +1958,7 @@
       "account": "Travel Leaders Group",
       "date": "2026-07-15",
       "user_level": "Manager",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "Social"
     },
@@ -1969,7 +1969,7 @@
       "account": "Comparion",
       "date": "2026-07-15",
       "user_level": "Manager",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "Social"
     },
@@ -1980,7 +1980,7 @@
       "account": "Oak Hill Management",
       "date": "2026-07-15",
       "user_level": "Administrator",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "Social"
     },
@@ -1991,7 +1991,7 @@
       "account": "ServiceMaster Restore",
       "date": "2026-07-15",
       "user_level": "Manager",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "Social"
     },
@@ -2002,7 +2002,7 @@
       "account": "TWO MEN AND A TRUCK",
       "date": "2026-07-15",
       "user_level": "Manager",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "Social"
     },
@@ -2013,7 +2013,7 @@
       "account": "CareBuilders At Home",
       "date": "2026-07-15",
       "user_level": "Manager",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -2024,7 +2024,7 @@
       "account": "Sylvan Learning",
       "date": "2026-07-15",
       "user_level": "Manager",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -2035,7 +2035,7 @@
       "account": "Pedego Electric Bikes",
       "date": "2026-07-15",
       "user_level": "Manager",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -2046,7 +2046,7 @@
       "account": "Sylvan Learning",
       "date": "2026-07-15",
       "user_level": "Manager",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -2057,7 +2057,7 @@
       "account": "Guild Mortgage",
       "date": "2026-07-15",
       "user_level": "Administrator",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "Genius Search"
     },
@@ -2068,7 +2068,7 @@
       "account": "Avenue5 Residential",
       "date": "2026-07-15",
       "user_level": "Manager",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -2079,7 +2079,7 @@
       "account": "Holiday Inn Express",
       "date": "2026-07-15",
       "user_level": "Manager",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -2090,7 +2090,7 @@
       "account": "Forty Winks | The Pistol",
       "date": "2026-07-15",
       "user_level": "Manager",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -2101,7 +2101,7 @@
       "account": "Painting with a Twist, LLC",
       "date": "2026-07-15",
       "user_level": "Manager",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -2112,7 +2112,7 @@
       "account": "Anytime Fitness NA ",
       "date": "2026-07-15",
       "user_level": "Manager",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -2123,7 +2123,7 @@
       "account": "Drama Kids",
       "date": "2026-07-15",
       "user_level": "Administrator",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -2134,7 +2134,7 @@
       "account": "GO Car Wash",
       "date": "2026-07-15",
       "user_level": "Manager",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -2145,7 +2145,7 @@
       "account": "Pet Supplies Plus",
       "date": "2026-07-15",
       "user_level": "Manager",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -2156,7 +2156,7 @@
       "account": "Beavercreek Marketing",
       "date": "2026-07-15",
       "user_level": "Manager",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -2167,7 +2167,7 @@
       "account": "Employbridge Holding Company",
       "date": "2026-07-15",
       "user_level": "Manager",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -2178,7 +2178,7 @@
       "account": "Oakwood Management Company",
       "date": "2026-07-15",
       "user_level": "Administrator",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -2189,7 +2189,7 @@
       "account": "Nothing Bundt Cakes",
       "date": "2026-07-15",
       "user_level": "Manager",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -2200,7 +2200,7 @@
       "account": "RPM Living",
       "date": "2026-07-15",
       "user_level": "Manager",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -2211,7 +2211,7 @@
       "account": "Pacifica Residential",
       "date": "2026-07-15",
       "user_level": "Manager",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -2222,7 +2222,7 @@
       "account": "Urban Air - Unleashed Brands",
       "date": "2026-07-15",
       "user_level": "Manager",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -2233,7 +2233,7 @@
       "account": "RPM Living",
       "date": "2026-07-15",
       "user_level": "Manager",
-      "age_days": 8,
+      "age_days": 9,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -2244,7 +2244,7 @@
       "account": "AT&T",
       "date": "2026-07-14",
       "user_level": "Manager",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -2255,7 +2255,7 @@
       "account": "KOA",
       "date": "2026-07-14",
       "user_level": "Manager",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -2266,7 +2266,7 @@
       "account": "Block Multifamily Group",
       "date": "2026-07-14",
       "user_level": "Manager",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -2277,7 +2277,7 @@
       "account": "AT&T",
       "date": "2026-07-14",
       "user_level": "Manager",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Pages"
     },
@@ -2288,7 +2288,7 @@
       "account": "AT&T",
       "date": "2026-07-14",
       "user_level": "Manager",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Pages"
     },
@@ -2299,7 +2299,7 @@
       "account": "Student Quarters",
       "date": "2026-07-14",
       "user_level": "Manager",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Social"
     },
@@ -2310,7 +2310,7 @@
       "account": "RPM Living",
       "date": "2026-07-14",
       "user_level": "Manager",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Social"
     },
@@ -2321,7 +2321,7 @@
       "account": "Chamberlin Associates",
       "date": "2026-07-14",
       "user_level": "Manager",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Social"
     },
@@ -2332,7 +2332,7 @@
       "account": "Vetcor",
       "date": "2026-07-14",
       "user_level": "Manager",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Social"
     },
@@ -2343,7 +2343,7 @@
       "account": "Travel Leaders Group",
       "date": "2026-07-14",
       "user_level": "Manager",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Social"
     },
@@ -2354,7 +2354,7 @@
       "account": "Avenue5 Residential",
       "date": "2026-07-14",
       "user_level": "Manager",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Social"
     },
@@ -2365,7 +2365,7 @@
       "account": "Legend Asset Management ",
       "date": "2026-07-14",
       "user_level": "Manager",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Social"
     },
@@ -2376,7 +2376,7 @@
       "account": "Mill Creek Residential ",
       "date": "2026-07-14",
       "user_level": "Manager",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Social"
     },
@@ -2387,7 +2387,7 @@
       "account": "Travel Leaders Group",
       "date": "2026-07-14",
       "user_level": "Manager",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Social"
     },
@@ -2398,7 +2398,7 @@
       "account": "Ag-Pro Companies",
       "date": "2026-07-14",
       "user_level": "Manager",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Social"
     },
@@ -2409,7 +2409,7 @@
       "account": "The Learning Experience",
       "date": "2026-07-14",
       "user_level": "Manager",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Social"
     },
@@ -2420,7 +2420,7 @@
       "account": "Bryten Management",
       "date": "2026-07-14",
       "user_level": "Manager",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -2431,7 +2431,7 @@
       "account": "Fortis Property Management",
       "date": "2026-07-14",
       "user_level": "Manager",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -2442,7 +2442,7 @@
       "account": "Cruise Planners | CP Elite",
       "date": "2026-07-14",
       "user_level": "Manager",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -2453,7 +2453,7 @@
       "account": "Cruise Planners | CP Elite",
       "date": "2026-07-14",
       "user_level": "Manager",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -2464,7 +2464,7 @@
       "account": "Color Me Mine LLC",
       "date": "2026-07-14",
       "user_level": "Manager",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -2475,7 +2475,7 @@
       "account": "Humpty's",
       "date": "2026-07-14",
       "user_level": "Manager",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -2486,7 +2486,7 @@
       "account": "Stretch Zone Franchising, LLC ",
       "date": "2026-07-14",
       "user_level": "Manager",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -2497,7 +2497,7 @@
       "account": "Oak Hill Management",
       "date": "2026-07-14",
       "user_level": "Administrator",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -2508,7 +2508,7 @@
       "account": "Capital Square Living",
       "date": "2026-07-14",
       "user_level": "Manager",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -2519,7 +2519,7 @@
       "account": "Fish Window Cleaning Services, Inc.",
       "date": "2026-07-14",
       "user_level": "Administrator",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -2530,7 +2530,7 @@
       "account": "Willow Bridge Property Company ",
       "date": "2026-07-14",
       "user_level": "Manager",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -2541,7 +2541,7 @@
       "account": "Eggs Up Grill",
       "date": "2026-07-14",
       "user_level": "Manager",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -2552,7 +2552,7 @@
       "account": "Cadence Education",
       "date": "2026-07-14",
       "user_level": "Administrator",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Listings"
     },
@@ -2563,7 +2563,7 @@
       "account": "Celebree School",
       "date": "2026-07-14",
       "user_level": "Manager",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -2574,7 +2574,7 @@
       "account": "Comparion",
       "date": "2026-07-14",
       "user_level": "Administrator",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -2585,7 +2585,7 @@
       "account": "Biggby Coffee",
       "date": "2026-07-14",
       "user_level": "Manager",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -2596,7 +2596,7 @@
       "account": "Floyd's 99 Barbershop ",
       "date": "2026-07-14",
       "user_level": "Administrator",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -2607,7 +2607,7 @@
       "account": "CloseKnit",
       "date": "2026-07-14",
       "user_level": "Administrator",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -2618,7 +2618,7 @@
       "account": "PMR Companies",
       "date": "2026-07-14",
       "user_level": "Manager",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -2629,7 +2629,7 @@
       "account": "Discovery Marketing Group, LLC dba STAT Marketing",
       "date": "2026-07-14",
       "user_level": "Manager",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -2640,7 +2640,7 @@
       "account": "RPM Living",
       "date": "2026-07-14",
       "user_level": "Manager",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -2651,7 +2651,7 @@
       "account": "RPM Living",
       "date": "2026-07-14",
       "user_level": "Manager",
-      "age_days": 9,
+      "age_days": 10,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -2662,7 +2662,7 @@
       "account": "Jeremiah's Italian Ice",
       "date": "2026-07-13",
       "user_level": "Manager",
-      "age_days": 10,
+      "age_days": 11,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -2673,7 +2673,7 @@
       "account": "BrightStar Care ",
       "date": "2026-07-13",
       "user_level": "Manager",
-      "age_days": 10,
+      "age_days": 11,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -2684,7 +2684,7 @@
       "account": "Bruster's Real Ice Cream",
       "date": "2026-07-13",
       "user_level": "Manager",
-      "age_days": 10,
+      "age_days": 11,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -2695,7 +2695,7 @@
       "account": "i9 Sports",
       "date": "2026-07-13",
       "user_level": "Manager",
-      "age_days": 10,
+      "age_days": 11,
       "sla": "amber",
       "area": "Social"
     },
@@ -2706,7 +2706,7 @@
       "account": "Bryten Management",
       "date": "2026-07-13",
       "user_level": "Manager",
-      "age_days": 10,
+      "age_days": 11,
       "sla": "amber",
       "area": "Social"
     },
@@ -2717,7 +2717,7 @@
       "account": "RimTyme",
       "date": "2026-07-13",
       "user_level": "Administrator",
-      "age_days": 10,
+      "age_days": 11,
       "sla": "amber",
       "area": "Social"
     },
@@ -2728,7 +2728,7 @@
       "account": "Vetcor",
       "date": "2026-07-13",
       "user_level": "Manager",
-      "age_days": 10,
+      "age_days": 11,
       "sla": "amber",
       "area": "Social"
     },
@@ -2739,7 +2739,7 @@
       "account": "Sunridge Management ",
       "date": "2026-07-13",
       "user_level": "Manager",
-      "age_days": 10,
+      "age_days": 11,
       "sla": "amber",
       "area": "Social"
     },
@@ -2750,7 +2750,7 @@
       "account": "Mill Creek Residential ",
       "date": "2026-07-13",
       "user_level": "Manager",
-      "age_days": 10,
+      "age_days": 11,
       "sla": "amber",
       "area": "Social"
     },
@@ -2761,7 +2761,7 @@
       "account": "Kiddie Academy",
       "date": "2026-07-13",
       "user_level": "Manager",
-      "age_days": 10,
+      "age_days": 11,
       "sla": "amber",
       "area": "Social"
     },
@@ -2772,7 +2772,7 @@
       "account": "iMatrix Chiropractic ",
       "date": "2026-07-13",
       "user_level": "Manager",
-      "age_days": 10,
+      "age_days": 11,
       "sla": "amber",
       "area": "Social"
     },
@@ -2783,7 +2783,7 @@
       "account": "Jeremiah's Italian Ice",
       "date": "2026-07-13",
       "user_level": "Manager",
-      "age_days": 10,
+      "age_days": 11,
       "sla": "amber",
       "area": "Social"
     },
@@ -2794,7 +2794,7 @@
       "account": "Willow Bridge Property Company ",
       "date": "2026-07-13",
       "user_level": "Manager",
-      "age_days": 10,
+      "age_days": 11,
       "sla": "amber",
       "area": "Social"
     },
@@ -2805,7 +2805,7 @@
       "account": "Willow Bridge Property Company ",
       "date": "2026-07-13",
       "user_level": "Manager",
-      "age_days": 10,
+      "age_days": 11,
       "sla": "amber",
       "area": "Social"
     },
@@ -2816,7 +2816,7 @@
       "account": "Huntington Learning Centers ",
       "date": "2026-07-13",
       "user_level": "Manager",
-      "age_days": 10,
+      "age_days": 11,
       "sla": "amber",
       "area": "Social"
     },
@@ -2827,7 +2827,7 @@
       "account": "Cruise Planners | CP Pro",
       "date": "2026-07-13",
       "user_level": "Manager",
-      "age_days": 10,
+      "age_days": 11,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -2838,7 +2838,7 @@
       "account": "Case and Associates Properties, Inc.",
       "date": "2026-07-13",
       "user_level": "Administrator",
-      "age_days": 10,
+      "age_days": 11,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -2849,7 +2849,7 @@
       "account": "Signarama",
       "date": "2026-07-13",
       "user_level": "Manager",
-      "age_days": 10,
+      "age_days": 11,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -2860,7 +2860,7 @@
       "account": "Otter Learning",
       "date": "2026-07-13",
       "user_level": "Administrator",
-      "age_days": 10,
+      "age_days": 11,
       "sla": "amber",
       "area": "Genius Search"
     },
@@ -2871,7 +2871,7 @@
       "account": "Orangetheory Fitness Canada",
       "date": "2026-07-13",
       "user_level": "Manager",
-      "age_days": 10,
+      "age_days": 11,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -2882,7 +2882,7 @@
       "account": "Sylvan Learning",
       "date": "2026-07-13",
       "user_level": "Manager",
-      "age_days": 10,
+      "age_days": 11,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -2893,7 +2893,7 @@
       "account": "FSC Franchise Brands",
       "date": "2026-07-13",
       "user_level": "Manager",
-      "age_days": 10,
+      "age_days": 11,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -2904,7 +2904,7 @@
       "account": "The Goddard School",
       "date": "2026-07-13",
       "user_level": "Manager",
-      "age_days": 10,
+      "age_days": 11,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -2915,7 +2915,7 @@
       "account": "Liberty Tax",
       "date": "2026-07-13",
       "user_level": "Manager",
-      "age_days": 10,
+      "age_days": 11,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -2926,7 +2926,7 @@
       "account": "WOB Bar & Kitchen ",
       "date": "2026-07-13",
       "user_level": "Administrator",
-      "age_days": 10,
+      "age_days": 11,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -2937,7 +2937,7 @@
       "account": "i9 Sports",
       "date": "2026-07-13",
       "user_level": "Manager",
-      "age_days": 10,
+      "age_days": 11,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -2948,7 +2948,7 @@
       "account": "Otter Learning",
       "date": "2026-07-13",
       "user_level": "Administrator",
-      "age_days": 10,
+      "age_days": 11,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -2959,7 +2959,7 @@
       "account": "Berkshire Hathaway HomeServices",
       "date": "2026-07-13",
       "user_level": "Manager",
-      "age_days": 10,
+      "age_days": 11,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -2970,7 +2970,7 @@
       "account": "FreeUP Storage",
       "date": "2026-07-13",
       "user_level": "Administrator",
-      "age_days": 10,
+      "age_days": 11,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -2981,7 +2981,7 @@
       "account": "Bruster's Real Ice Cream",
       "date": "2026-07-12",
       "user_level": "Manager",
-      "age_days": 11,
+      "age_days": 12,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -2992,7 +2992,7 @@
       "account": "Holiday Inn Express",
       "date": "2026-07-12",
       "user_level": "Manager",
-      "age_days": 11,
+      "age_days": 12,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -3003,7 +3003,7 @@
       "account": "Travel Leaders Group",
       "date": "2026-07-12",
       "user_level": "Manager",
-      "age_days": 11,
+      "age_days": 12,
       "sla": "amber",
       "area": "Social"
     },
@@ -3014,7 +3014,7 @@
       "account": "Pet Supplies Plus",
       "date": "2026-07-12",
       "user_level": "Manager",
-      "age_days": 11,
+      "age_days": 12,
       "sla": "amber",
       "area": "Social"
     },
@@ -3025,7 +3025,7 @@
       "account": "Travel Leaders Group",
       "date": "2026-07-12",
       "user_level": "Manager",
-      "age_days": 11,
+      "age_days": 12,
       "sla": "amber",
       "area": "Social"
     },
@@ -3036,7 +3036,7 @@
       "account": "Cruise Planners | CP Pro",
       "date": "2026-07-12",
       "user_level": "Manager",
-      "age_days": 11,
+      "age_days": 12,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -3047,7 +3047,7 @@
       "account": "Urban Air - Unleashed Brands",
       "date": "2026-07-12",
       "user_level": "Manager",
-      "age_days": 11,
+      "age_days": 12,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -3058,7 +3058,7 @@
       "account": "Radiant Waxing",
       "date": "2026-07-12",
       "user_level": "Manager",
-      "age_days": 11,
+      "age_days": 12,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -3069,7 +3069,7 @@
       "account": "Bruster's Real Ice Cream",
       "date": "2026-07-12",
       "user_level": "Manager",
-      "age_days": 11,
+      "age_days": 12,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -3080,7 +3080,7 @@
       "account": "Milkshake Factory",
       "date": "2026-07-12",
       "user_level": "Manager",
-      "age_days": 11,
+      "age_days": 12,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -3091,7 +3091,7 @@
       "account": "Travel Leaders Group",
       "date": "2026-07-11",
       "user_level": "Manager",
-      "age_days": 12,
+      "age_days": 13,
       "sla": "amber",
       "area": "Reporting Suite"
     },
@@ -3102,7 +3102,7 @@
       "account": "Sport Clips",
       "date": "2026-07-11",
       "user_level": "Manager",
-      "age_days": 12,
+      "age_days": 13,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -3113,7 +3113,7 @@
       "account": "Veterinary Emergency Group",
       "date": "2026-07-11",
       "user_level": "Manager",
-      "age_days": 12,
+      "age_days": 13,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -3124,7 +3124,7 @@
       "account": "TWO MEN AND A TRUCK",
       "date": "2026-07-11",
       "user_level": "Manager",
-      "age_days": 12,
+      "age_days": 13,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -3135,7 +3135,7 @@
       "account": "Stretch Zone Franchising, LLC ",
       "date": "2026-07-11",
       "user_level": "Manager",
-      "age_days": 12,
+      "age_days": 13,
       "sla": "amber",
       "area": "Social"
     },
@@ -3146,7 +3146,7 @@
       "account": "Frenchies Modern Nail Care",
       "date": "2026-07-11",
       "user_level": "Manager",
-      "age_days": 12,
+      "age_days": 13,
       "sla": "amber",
       "area": "Social"
     },
@@ -3157,7 +3157,7 @@
       "account": "Travel Leaders Group",
       "date": "2026-07-11",
       "user_level": "Manager",
-      "age_days": 12,
+      "age_days": 13,
       "sla": "amber",
       "area": "Social"
     },
@@ -3168,7 +3168,7 @@
       "account": "Neighborly",
       "date": "2026-07-11",
       "user_level": "Manager",
-      "age_days": 12,
+      "age_days": 13,
       "sla": "amber",
       "area": "Social"
     },
@@ -3179,7 +3179,7 @@
       "account": "Fitness Together",
       "date": "2026-07-11",
       "user_level": "Manager",
-      "age_days": 12,
+      "age_days": 13,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -3190,7 +3190,7 @@
       "account": "Cruise Planners | CP Pro",
       "date": "2026-07-11",
       "user_level": "Manager",
-      "age_days": 12,
+      "age_days": 13,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -3201,7 +3201,7 @@
       "account": "Sky Zone",
       "date": "2026-07-11",
       "user_level": "Manager",
-      "age_days": 12,
+      "age_days": 13,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -3212,7 +3212,7 @@
       "account": "Fortis Property Management",
       "date": "2026-07-11",
       "user_level": "Manager",
-      "age_days": 12,
+      "age_days": 13,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -3223,7 +3223,7 @@
       "account": "Jeremiah's Italian Ice",
       "date": "2026-07-11",
       "user_level": "Manager",
-      "age_days": 12,
+      "age_days": 13,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -3234,7 +3234,7 @@
       "account": "Metro Diner Management",
       "date": "2026-07-11",
       "user_level": "Manager",
-      "age_days": 12,
+      "age_days": 13,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -3245,7 +3245,7 @@
       "account": "Zoomin Groomin",
       "date": "2026-07-11",
       "user_level": "Manager",
-      "age_days": 12,
+      "age_days": 13,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -3256,7 +3256,7 @@
       "account": "Subway - North America",
       "date": "2026-07-11",
       "user_level": "Manager",
-      "age_days": 12,
+      "age_days": 13,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -3267,7 +3267,7 @@
       "account": "IMT Residential",
       "date": "2026-07-10",
       "user_level": "Manager",
-      "age_days": 13,
+      "age_days": 14,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -3278,7 +3278,7 @@
       "account": "AT&T",
       "date": "2026-07-10",
       "user_level": "Manager",
-      "age_days": 13,
+      "age_days": 14,
       "sla": "amber",
       "area": "Pages"
     },
@@ -3289,7 +3289,7 @@
       "account": "AT&T",
       "date": "2026-07-10",
       "user_level": "Manager",
-      "age_days": 13,
+      "age_days": 14,
       "sla": "amber",
       "area": "Pages"
     },
@@ -3300,7 +3300,7 @@
       "account": "Travel Leaders Group",
       "date": "2026-07-10",
       "user_level": "Manager",
-      "age_days": 13,
+      "age_days": 14,
       "sla": "amber",
       "area": "Social"
     },
@@ -3311,7 +3311,7 @@
       "account": "Arlington Properties",
       "date": "2026-07-10",
       "user_level": "Manager",
-      "age_days": 13,
+      "age_days": 14,
       "sla": "amber",
       "area": "Social"
     },
@@ -3322,7 +3322,7 @@
       "account": "Anytime Fitness NA ",
       "date": "2026-07-10",
       "user_level": "Manager",
-      "age_days": 13,
+      "age_days": 14,
       "sla": "amber",
       "area": "Social"
     },
@@ -3333,7 +3333,7 @@
       "account": "Wedgewood Weddings & Events",
       "date": "2026-07-10",
       "user_level": "Manager",
-      "age_days": 13,
+      "age_days": 14,
       "sla": "amber",
       "area": "Social"
     },
@@ -3344,7 +3344,7 @@
       "account": "Neighborly",
       "date": "2026-07-10",
       "user_level": "Manager",
-      "age_days": 13,
+      "age_days": 14,
       "sla": "amber",
       "area": "Social"
     },
@@ -3355,7 +3355,7 @@
       "account": "BrightStar Care ",
       "date": "2026-07-10",
       "user_level": "Manager",
-      "age_days": 13,
+      "age_days": 14,
       "sla": "amber",
       "area": "Social"
     },
@@ -3366,7 +3366,7 @@
       "account": "Discovery Marketing Group, LLC dba STAT Marketing",
       "date": "2026-07-10",
       "user_level": "Manager",
-      "age_days": 13,
+      "age_days": 14,
       "sla": "amber",
       "area": "Social"
     },
@@ -3377,7 +3377,7 @@
       "account": "Peak Living LLC",
       "date": "2026-07-10",
       "user_level": "Manager",
-      "age_days": 13,
+      "age_days": 14,
       "sla": "amber",
       "area": "Social"
     },
@@ -3388,7 +3388,7 @@
       "account": "Roers Companies LLC",
       "date": "2026-07-10",
       "user_level": "Manager",
-      "age_days": 13,
+      "age_days": 14,
       "sla": "amber",
       "area": "Social"
     },
@@ -3399,7 +3399,7 @@
       "account": "Texas Roadhouse Holdings LLC",
       "date": "2026-07-10",
       "user_level": "Manager",
-      "age_days": 13,
+      "age_days": 14,
       "sla": "amber",
       "area": "Social"
     },
@@ -3410,7 +3410,7 @@
       "account": "Travel Leaders Group Canada",
       "date": "2026-07-10",
       "user_level": "Manager",
-      "age_days": 13,
+      "age_days": 14,
       "sla": "amber",
       "area": "Social"
     },
@@ -3421,7 +3421,7 @@
       "account": "The Goddard School",
       "date": "2026-07-10",
       "user_level": "Manager",
-      "age_days": 13,
+      "age_days": 14,
       "sla": "amber",
       "area": "Social"
     },
@@ -3432,7 +3432,7 @@
       "account": "HomeSpring Residential Services",
       "date": "2026-07-10",
       "user_level": "Administrator",
-      "age_days": 13,
+      "age_days": 14,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -3443,7 +3443,7 @@
       "account": "Cruise Planners | CP Elite",
       "date": "2026-07-10",
       "user_level": "Manager",
-      "age_days": 13,
+      "age_days": 14,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -3454,7 +3454,7 @@
       "account": "Signarama",
       "date": "2026-07-10",
       "user_level": "Administrator",
-      "age_days": 13,
+      "age_days": 14,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -3465,7 +3465,7 @@
       "account": "Cruise Planners | CP Elite",
       "date": "2026-07-10",
       "user_level": "Manager",
-      "age_days": 13,
+      "age_days": 14,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -3476,7 +3476,7 @@
       "account": "PJ's Coffee",
       "date": "2026-07-10",
       "user_level": "Manager",
-      "age_days": 13,
+      "age_days": 14,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -3487,7 +3487,7 @@
       "account": "Holiday Inn",
       "date": "2026-07-10",
       "user_level": "Manager",
-      "age_days": 13,
+      "age_days": 14,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -3498,7 +3498,7 @@
       "account": "BrightStar Care ",
       "date": "2026-07-10",
       "user_level": "Manager",
-      "age_days": 13,
+      "age_days": 14,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -3509,7 +3509,7 @@
       "account": "AT&T",
       "date": "2026-07-10",
       "user_level": "Manager",
-      "age_days": 13,
+      "age_days": 14,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -3520,7 +3520,7 @@
       "account": "Mill Creek Residential ",
       "date": "2026-07-10",
       "user_level": "Manager",
-      "age_days": 13,
+      "age_days": 14,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -3531,7 +3531,7 @@
       "account": "Discovery Marketing Group, LLC dba STAT Marketing",
       "date": "2026-07-10",
       "user_level": "Administrator",
-      "age_days": 13,
+      "age_days": 14,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -3542,7 +3542,7 @@
       "account": "Orangetheory Fitness Canada",
       "date": "2026-07-10",
       "user_level": "Manager",
-      "age_days": 13,
+      "age_days": 14,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -3553,7 +3553,7 @@
       "account": "Freeman Webb",
       "date": "2026-07-10",
       "user_level": "Administrator",
-      "age_days": 13,
+      "age_days": 14,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -3564,7 +3564,7 @@
       "account": "Guild Mortgage",
       "date": "2026-07-10",
       "user_level": "Administrator",
-      "age_days": 13,
+      "age_days": 14,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -3575,7 +3575,7 @@
       "account": "Subway - North America",
       "date": "2026-07-10",
       "user_level": "Manager",
-      "age_days": 13,
+      "age_days": 14,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -3586,7 +3586,7 @@
       "account": "RPM Living",
       "date": "2026-07-10",
       "user_level": "Manager",
-      "age_days": 13,
+      "age_days": 14,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -3597,7 +3597,7 @@
       "account": "Anytime Fitness NA ",
       "date": "2026-07-10",
       "user_level": "Manager",
-      "age_days": 13,
+      "age_days": 14,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -3608,7 +3608,7 @@
       "account": "Asset Living",
       "date": "2026-07-10",
       "user_level": "Manager",
-      "age_days": 13,
+      "age_days": 14,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -3619,7 +3619,7 @@
       "account": "AIM Recycling - Ontario",
       "date": "2026-07-10",
       "user_level": "Administrator",
-      "age_days": 13,
+      "age_days": 14,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -3630,7 +3630,7 @@
       "account": "ARCpoint Labs Corporate",
       "date": "2026-07-09",
       "user_level": "Manager",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -3641,7 +3641,7 @@
       "account": "Pacifica Residential",
       "date": "2026-07-09",
       "user_level": "Manager",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -3652,7 +3652,7 @@
       "account": "Pointe Grand",
       "date": "2026-07-09",
       "user_level": "Manager",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -3663,7 +3663,7 @@
       "account": "JINYA USA",
       "date": "2026-07-09",
       "user_level": "Manager",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -3674,7 +3674,7 @@
       "account": "Pet Supplies Plus",
       "date": "2026-07-09",
       "user_level": "Manager",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -3685,7 +3685,7 @@
       "account": "29th Street Living",
       "date": "2026-07-09",
       "user_level": "Manager",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -3696,7 +3696,7 @@
       "account": "Saladworks",
       "date": "2026-07-09",
       "user_level": "Administrator",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -3707,7 +3707,7 @@
       "account": "Teriyaki Madness",
       "date": "2026-07-09",
       "user_level": "Manager",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -3718,7 +3718,7 @@
       "account": "Travel Leaders Group",
       "date": "2026-07-09",
       "user_level": "Manager",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "Social"
     },
@@ -3729,7 +3729,7 @@
       "account": "Luma Residential",
       "date": "2026-07-09",
       "user_level": "Manager",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "Social"
     },
@@ -3740,7 +3740,7 @@
       "account": "Guardian Real Estate Services LLC",
       "date": "2026-07-09",
       "user_level": "Manager",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "Social"
     },
@@ -3751,7 +3751,7 @@
       "account": "Nothing Bundt Cakes",
       "date": "2026-07-09",
       "user_level": "Manager",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -3762,7 +3762,7 @@
       "account": "REMM Group",
       "date": "2026-07-09",
       "user_level": "Administrator",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -3773,7 +3773,7 @@
       "account": "Cruise Planners | CP Pro",
       "date": "2026-07-09",
       "user_level": "Manager",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -3784,7 +3784,7 @@
       "account": "Nothing Bundt Cakes",
       "date": "2026-07-09",
       "user_level": "Manager",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -3795,7 +3795,7 @@
       "account": "Veterinary Emergency Group",
       "date": "2026-07-09",
       "user_level": "Manager",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -3806,7 +3806,7 @@
       "account": "AT&T",
       "date": "2026-07-09",
       "user_level": "Manager",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -3817,7 +3817,7 @@
       "account": "Candlewood Suites",
       "date": "2026-07-09",
       "user_level": "Manager",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -3828,7 +3828,7 @@
       "account": "Dill Dinkers",
       "date": "2026-07-09",
       "user_level": "Manager",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -3839,7 +3839,7 @@
       "account": "AT&T",
       "date": "2026-07-09",
       "user_level": "Manager",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -3850,7 +3850,7 @@
       "account": "TRP Co. - Cookies Retail",
       "date": "2026-07-09",
       "user_level": "Administrator",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -3861,7 +3861,7 @@
       "account": "ARCpoint Labs Corporate",
       "date": "2026-07-09",
       "user_level": "Manager",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -3872,7 +3872,7 @@
       "account": "Candlewood Suites",
       "date": "2026-07-09",
       "user_level": "Manager",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -3883,7 +3883,7 @@
       "account": "VaVia",
       "date": "2026-07-09",
       "user_level": "Administrator",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -3894,7 +3894,7 @@
       "account": "Sport Clips",
       "date": "2026-07-09",
       "user_level": "Manager",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -3905,7 +3905,7 @@
       "account": "Diesel Barbershop ",
       "date": "2026-07-09",
       "user_level": "Manager",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -3916,7 +3916,7 @@
       "account": "Guild Mortgage",
       "date": "2026-07-09",
       "user_level": "Administrator",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "Listings"
     },
@@ -3927,7 +3927,7 @@
       "account": "Berkshire Hathaway HomeServices",
       "date": "2026-07-09",
       "user_level": "Manager",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -3938,7 +3938,7 @@
       "account": "Sky Zone",
       "date": "2026-07-09",
       "user_level": "Administrator",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -3949,7 +3949,7 @@
       "account": "HNN Communities",
       "date": "2026-07-09",
       "user_level": "Administrator",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -3960,7 +3960,7 @@
       "account": "RimTyme",
       "date": "2026-07-09",
       "user_level": "Administrator",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -3971,7 +3971,7 @@
       "account": "Peak Living LLC",
       "date": "2026-07-09",
       "user_level": "Administrator",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -3982,7 +3982,7 @@
       "account": "MOOYAH Franchising LLC",
       "date": "2026-07-09",
       "user_level": "Administrator",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -3993,7 +3993,7 @@
       "account": "Houchens Food Group",
       "date": "2026-07-09",
       "user_level": "Administrator",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -4004,7 +4004,7 @@
       "account": "Texas Roadhouse Holdings LLC",
       "date": "2026-07-09",
       "user_level": "Manager",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -4015,7 +4015,7 @@
       "account": "American Freight (MAFGA)",
       "date": "2026-07-09",
       "user_level": "Administrator",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -4026,7 +4026,7 @@
       "account": "Ford",
       "date": "2026-07-09",
       "user_level": "Manager",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -4037,7 +4037,7 @@
       "account": "AT&T",
       "date": "2026-07-09",
       "user_level": "Unknown",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -4048,7 +4048,7 @@
       "account": "RPM Living",
       "date": "2026-07-09",
       "user_level": "Administrator",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -4059,7 +4059,7 @@
       "account": "Pet Supplies Plus",
       "date": "2026-07-09",
       "user_level": "Manager",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -4070,7 +4070,7 @@
       "account": "Sunridge Management ",
       "date": "2026-07-09",
       "user_level": "Manager",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -4081,7 +4081,7 @@
       "account": "CIP Communities",
       "date": "2026-07-09",
       "user_level": "Administrator",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -4092,7 +4092,7 @@
       "account": "Stretch Zone Franchising, LLC ",
       "date": "2026-07-09",
       "user_level": "Manager",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -4103,7 +4103,7 @@
       "account": "HomeWell Care Services",
       "date": "2026-07-09",
       "user_level": "Manager",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -4114,7 +4114,7 @@
       "account": "Nothing Bundt Cakes",
       "date": "2026-07-09",
       "user_level": "Manager",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -4125,7 +4125,7 @@
       "account": "Cruise Planners | CP Pro",
       "date": "2026-07-09",
       "user_level": "Manager",
-      "age_days": 14,
+      "age_days": 15,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -4136,7 +4136,7 @@
       "account": "Vidalta Residential",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -4147,7 +4147,7 @@
       "account": "AT&T",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -4158,7 +4158,7 @@
       "account": "Eggs Up Grill",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -4169,7 +4169,7 @@
       "account": "Westwood Residential Company ",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -4180,7 +4180,7 @@
       "account": "RPM Living",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4191,7 +4191,7 @@
       "account": "The Learning Experience",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4202,7 +4202,7 @@
       "account": "Nothing Bundt Cakes",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4213,7 +4213,7 @@
       "account": "Discovery Marketing Group, LLC dba STAT Marketing",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4224,7 +4224,7 @@
       "account": "Adara Communities ",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4235,7 +4235,7 @@
       "account": "Willow Bridge Property Company ",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4246,7 +4246,7 @@
       "account": "Comparion",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4257,7 +4257,7 @@
       "account": "The Goddard School",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4268,7 +4268,7 @@
       "account": "Discovery Marketing Group, LLC dba STAT Marketing",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4279,7 +4279,7 @@
       "account": "Adara Communities ",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4290,7 +4290,7 @@
       "account": "FSBI - Entrepreneur's Source ",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4301,7 +4301,7 @@
       "account": "Elements Massage",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4312,7 +4312,7 @@
       "account": "Capital Square Living",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4323,7 +4323,7 @@
       "account": "Crowne Partners",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4334,7 +4334,7 @@
       "account": "ServiceMaster Restore",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4345,7 +4345,7 @@
       "account": "Teriyaki Madness",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4356,7 +4356,7 @@
       "account": "RPM Living",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4367,7 +4367,7 @@
       "account": "The Dolben Company ",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4378,7 +4378,7 @@
       "account": "The Learning Experience",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4389,7 +4389,7 @@
       "account": "RimTyme",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4400,7 +4400,7 @@
       "account": "Luma Residential",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4411,7 +4411,7 @@
       "account": "Brain Balance Centers ",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4422,7 +4422,7 @@
       "account": "Willow Bridge Property Company ",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4433,7 +4433,7 @@
       "account": "The Goddard School",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4444,7 +4444,7 @@
       "account": "Rent-A-Center",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4455,7 +4455,7 @@
       "account": "Fairfield Residential",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4466,7 +4466,7 @@
       "account": "HomeWell Care Services",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4477,7 +4477,7 @@
       "account": "Sylvan Learning",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4488,7 +4488,7 @@
       "account": "Eucalyptus Real Estate",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4499,7 +4499,7 @@
       "account": "Ginkgo Residential ",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4510,7 +4510,7 @@
       "account": "Willow Bridge Property Company ",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4521,7 +4521,7 @@
       "account": "Oasis Senior Advisors ",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4532,7 +4532,7 @@
       "account": "Wag N Wash",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4543,7 +4543,7 @@
       "account": "Travel Leaders Group",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4554,7 +4554,7 @@
       "account": "BERNINA",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4565,7 +4565,7 @@
       "account": "The Learning Experience",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4576,7 +4576,7 @@
       "account": "Youth Athletes United",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4587,7 +4587,7 @@
       "account": "Little Kickers",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4598,7 +4598,7 @@
       "account": "SocialSaiya",
       "date": "2026-07-08",
       "user_level": "Administrator",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4609,7 +4609,7 @@
       "account": "Forty Winks | The Pistol",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4620,7 +4620,7 @@
       "account": "Cruise Planners | CP Basic",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4631,7 +4631,7 @@
       "account": "Forty Winks | The Pistol",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Social"
     },
@@ -4642,7 +4642,7 @@
       "account": "American Freight NewCo",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -4653,7 +4653,7 @@
       "account": "Cruise Planners | CP Elite",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -4664,7 +4664,7 @@
       "account": "Pedego Electric Bikes",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -4675,7 +4675,7 @@
       "account": "American Freight (MAFGA)",
       "date": "2026-07-08",
       "user_level": "Administrator",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -4686,7 +4686,7 @@
       "account": "Axia Residential",
       "date": "2026-07-08",
       "user_level": "Administrator",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -4697,7 +4697,7 @@
       "account": "American Freight (MAFGA)",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -4708,7 +4708,7 @@
       "account": "Clothes Mentor",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -4719,7 +4719,7 @@
       "account": "Signarama",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -4730,7 +4730,7 @@
       "account": "Nothing Bundt Cakes",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -4741,7 +4741,7 @@
       "account": "Benjamin Franklin Plumbing",
       "date": "2026-07-08",
       "user_level": "Administrator",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -4752,7 +4752,7 @@
       "account": "Cruise Planners | CP Elite",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -4763,7 +4763,7 @@
       "account": "CIP Communities",
       "date": "2026-07-08",
       "user_level": "Administrator",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -4774,7 +4774,7 @@
       "account": "Signarama",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -4785,7 +4785,7 @@
       "account": "Anytime Fitness NA ",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -4796,7 +4796,7 @@
       "account": "AT&T",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -4807,7 +4807,7 @@
       "account": "Pointe Grand",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -4818,7 +4818,7 @@
       "account": "KOA",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -4829,7 +4829,7 @@
       "account": "Jersey Mike's Subs",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -4840,7 +4840,7 @@
       "account": "Urban Air - Unleashed Brands",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -4851,7 +4851,7 @@
       "account": "Veterinary Emergency Group",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -4862,7 +4862,7 @@
       "account": "Pacifica Residential",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -4873,7 +4873,7 @@
       "account": "Anytime Fitness NA ",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -4884,7 +4884,7 @@
       "account": "Pointe Grand",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -4895,7 +4895,7 @@
       "account": "Mill Creek Residential ",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -4906,7 +4906,7 @@
       "account": "Novellus Digital Marketing",
       "date": "2026-07-08",
       "user_level": "Administrator",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Listings"
     },
@@ -4917,7 +4917,7 @@
       "account": "Aqua-Tots Swim Schools ",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -4928,7 +4928,7 @@
       "account": "Healthy Connections",
       "date": "2026-07-08",
       "user_level": "Administrator",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -4939,7 +4939,7 @@
       "account": "Merrill Gardens",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -4950,7 +4950,7 @@
       "account": "Subway - North America",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -4961,7 +4961,7 @@
       "account": "Capital Square Living",
       "date": "2026-07-08",
       "user_level": "Administrator",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -4972,7 +4972,7 @@
       "account": "Scooter's Coffee, LLC",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -4983,7 +4983,7 @@
       "account": "Western Union - USA",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -4994,7 +4994,7 @@
       "account": "Orangetheory Fitness",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -5005,7 +5005,7 @@
       "account": "Anchor Pacifica",
       "date": "2026-07-08",
       "user_level": "Administrator",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -5016,7 +5016,7 @@
       "account": "ADMIN",
       "date": "2026-07-08",
       "user_level": "Administrator",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -5027,7 +5027,7 @@
       "account": "Legacy Residential Group",
       "date": "2026-07-08",
       "user_level": "Administrator",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -5038,7 +5038,7 @@
       "account": "Mondofix Canada",
       "date": "2026-07-08",
       "user_level": "Administrator",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -5049,7 +5049,7 @@
       "account": "Veterinary Emergency Group",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -5060,7 +5060,7 @@
       "account": "Ivy Rehab Network",
       "date": "2026-07-08",
       "user_level": "Administrator",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -5071,7 +5071,7 @@
       "account": "VaVia",
       "date": "2026-07-08",
       "user_level": "Administrator",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -5082,7 +5082,7 @@
       "account": "US Mattamy Homes Corporation",
       "date": "2026-07-08",
       "user_level": "Administrator",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -5093,7 +5093,7 @@
       "account": "LKQ Corporation",
       "date": "2026-07-08",
       "user_level": "Administrator",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -5104,7 +5104,7 @@
       "account": "SpartanNash",
       "date": "2026-07-08",
       "user_level": "Administrator",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -5115,7 +5115,7 @@
       "account": "AIM Recycling - Ontario",
       "date": "2026-07-08",
       "user_level": "Administrator",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -5126,7 +5126,7 @@
       "account": "KidsUnited USA",
       "date": "2026-07-08",
       "user_level": "Administrator",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -5137,7 +5137,7 @@
       "account": "Teriyaki Madness",
       "date": "2026-07-08",
       "user_level": "Administrator",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -5148,7 +5148,7 @@
       "account": "Woof Gang Bakery & Grooming",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -5159,7 +5159,7 @@
       "account": "Firehouse Subs",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -5170,7 +5170,7 @@
       "account": "Lightbridge Academy",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -5181,7 +5181,7 @@
       "account": "RPM Living",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -5192,7 +5192,7 @@
       "account": "Stretch Zone Franchising, LLC ",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -5203,7 +5203,7 @@
       "account": "Pedego Electric Bikes",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -5214,7 +5214,7 @@
       "account": "Pet Supplies Plus",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -5225,7 +5225,7 @@
       "account": "Anytime Fitness NA ",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -5236,7 +5236,7 @@
       "account": "Sunroad Enterprises",
       "date": "2026-07-08",
       "user_level": "Manager",
-      "age_days": 15,
+      "age_days": 16,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -5247,7 +5247,7 @@
       "account": "Jones Street Residential ",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -5258,7 +5258,7 @@
       "account": "Lakefield Veterinary Group",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -5269,7 +5269,7 @@
       "account": "American Freight NewCo",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -5280,7 +5280,7 @@
       "account": "Woof Gang Bakery & Grooming",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -5291,7 +5291,7 @@
       "account": "voco",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -5302,7 +5302,7 @@
       "account": "Sylvan Learning",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -5313,7 +5313,7 @@
       "account": "Fortis Property Management",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -5324,7 +5324,7 @@
       "account": "Sharkey's Cuts for Kids",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -5335,7 +5335,7 @@
       "account": "Forty Winks | The Pistol",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -5346,7 +5346,7 @@
       "account": "Forty Winks | The Pistol",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -5357,7 +5357,7 @@
       "account": "Holiday Inn Express",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -5368,7 +5368,7 @@
       "account": "Nekter Juice Bar ",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Reviews (Reputation)"
     },
@@ -5379,7 +5379,7 @@
       "account": "Signarama",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5390,7 +5390,7 @@
       "account": "Cruise Planners | CP Pro",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5401,7 +5401,7 @@
       "account": "Cruise Planners | CP Elite",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5412,7 +5412,7 @@
       "account": "Neighborly",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5423,7 +5423,7 @@
       "account": "The Learning Experience",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5434,7 +5434,7 @@
       "account": "Scooter's Coffee, LLC",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5445,7 +5445,7 @@
       "account": "Lightbridge Academy",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5456,7 +5456,7 @@
       "account": "Ford",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5467,7 +5467,7 @@
       "account": "Travel Leaders Group",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5478,7 +5478,7 @@
       "account": "Jeremiah's Italian Ice",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5489,7 +5489,7 @@
       "account": "Sienna Senior Living",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5500,7 +5500,7 @@
       "account": "Texas Roadhouse Holdings LLC",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5511,7 +5511,7 @@
       "account": "The Bainbridge Companies, LLC ",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5522,7 +5522,7 @@
       "account": "Capital Square Living",
       "date": "2026-07-07",
       "user_level": "Administrator",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5533,7 +5533,7 @@
       "account": "The Great Greek Grill",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5544,7 +5544,7 @@
       "account": "Willow Bridge Property Company ",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5555,7 +5555,7 @@
       "account": "Nothing Bundt Cakes",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5566,7 +5566,7 @@
       "account": "Johnstone Supply",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5577,7 +5577,7 @@
       "account": "Monarch Investment and Management Group",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5588,7 +5588,7 @@
       "account": "One Hour Heating & Air Conditioning ",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5599,7 +5599,7 @@
       "account": "Discovery Marketing Group, LLC dba STAT Marketing",
       "date": "2026-07-07",
       "user_level": "Administrator",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5610,7 +5610,7 @@
       "account": "PJ's Coffee",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5621,7 +5621,7 @@
       "account": "Pelican's SnoBalls",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5632,7 +5632,7 @@
       "account": "Gallery Residential",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5643,7 +5643,7 @@
       "account": "Adara Communities ",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5654,7 +5654,7 @@
       "account": "Clothes Mentor",
       "date": "2026-07-07",
       "user_level": "Administrator",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5665,7 +5665,7 @@
       "account": "Woof Gang Bakery & Grooming",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5676,7 +5676,7 @@
       "account": "Pointe Grand",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5687,7 +5687,7 @@
       "account": "Travel Leaders Group",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5698,7 +5698,7 @@
       "account": "Painting with a Twist, LLC",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5709,7 +5709,7 @@
       "account": "Willow Bridge Property Company ",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5720,7 +5720,7 @@
       "account": "The Learning Experience",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5731,7 +5731,7 @@
       "account": "RPM Living",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5742,7 +5742,7 @@
       "account": "Travel Leaders Group",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5753,7 +5753,7 @@
       "account": "Trilogy Health Services",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5764,7 +5764,7 @@
       "account": "Mill Creek Residential ",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5775,7 +5775,7 @@
       "account": "WinnResidential",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5786,7 +5786,7 @@
       "account": "HomeWell Care Services",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5797,7 +5797,7 @@
       "account": "The Bainbridge Companies, LLC ",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5808,7 +5808,7 @@
       "account": "Neighborly",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5819,7 +5819,7 @@
       "account": "Signarama",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5830,7 +5830,7 @@
       "account": "Texas Roadhouse Holdings LLC",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5841,7 +5841,7 @@
       "account": "Adara Communities ",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5852,7 +5852,7 @@
       "account": "Willow Bridge Property Company ",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5863,7 +5863,7 @@
       "account": "Discovery Marketing Group, LLC dba STAT Marketing",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5874,7 +5874,7 @@
       "account": "HomeWell Care Services",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5885,7 +5885,7 @@
       "account": "Scooter's Coffee, LLC",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5896,7 +5896,7 @@
       "account": "Ford",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5907,7 +5907,7 @@
       "account": "Travel Leaders Group",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5918,7 +5918,7 @@
       "account": "Milkshake Factory",
       "date": "2026-07-07",
       "user_level": "Administrator",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5929,7 +5929,7 @@
       "account": "Willow Bridge Property Company ",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5940,7 +5940,7 @@
       "account": "Travel Leaders Group",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5951,7 +5951,7 @@
       "account": "Comparion",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5962,7 +5962,7 @@
       "account": "Sheng Raamco Management Inc",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5973,7 +5973,7 @@
       "account": "Stretch Zone Franchising, LLC ",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5984,7 +5984,7 @@
       "account": "Brookside Properties",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -5995,7 +5995,7 @@
       "account": "Berkshire Hathaway HomeServices",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -6006,7 +6006,7 @@
       "account": "The Goddard School",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -6017,7 +6017,7 @@
       "account": "Merry Maids",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -6028,7 +6028,7 @@
       "account": "Neighborly",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -6039,7 +6039,7 @@
       "account": "Painting with a Twist, LLC",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -6050,7 +6050,7 @@
       "account": "LMS Investment Management",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -6061,7 +6061,7 @@
       "account": "RPM Living",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -6072,7 +6072,7 @@
       "account": "Children's Lighthouse Franchise Company",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -6083,7 +6083,7 @@
       "account": "Dill Dinkers",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -6094,7 +6094,7 @@
       "account": "CareBuilders At Home",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -6105,7 +6105,7 @@
       "account": "Monarch Investment and Management Group",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -6116,7 +6116,7 @@
       "account": "Mill Creek Residential ",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -6127,7 +6127,7 @@
       "account": "Pointe Grand",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -6138,7 +6138,7 @@
       "account": "Texas Roadhouse Holdings LLC",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Social"
     },
@@ -6149,7 +6149,7 @@
       "account": "Legacy Residential Group",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -6160,7 +6160,7 @@
       "account": "Sky Zone",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Genius Social"
     },
@@ -6171,7 +6171,7 @@
       "account": "Sylvan Learning",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -6182,7 +6182,7 @@
       "account": "Woof Gang Bakery & Grooming",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -6193,7 +6193,7 @@
       "account": "Avenue5 Residential",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -6204,7 +6204,7 @@
       "account": "Holiday Inn Express",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -6215,7 +6215,7 @@
       "account": "Oxford Learning",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -6226,7 +6226,7 @@
       "account": "1-800-Pack-Rat ",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -6237,7 +6237,7 @@
       "account": "Holiday Inn Express",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -6248,7 +6248,7 @@
       "account": "American Freight NewCo",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -6259,7 +6259,7 @@
       "account": "Service Champions",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -6270,7 +6270,7 @@
       "account": "Willow Bridge Property Company ",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Genius Reviews"
     },
@@ -6281,7 +6281,7 @@
       "account": "Veterinary Emergency Group",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -6292,7 +6292,7 @@
       "account": "AVE Living ",
       "date": "2026-07-07",
       "user_level": "Administrator",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -6303,7 +6303,7 @@
       "account": "Subway - North America",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -6314,7 +6314,7 @@
       "account": "Sylvan Learning",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -6325,7 +6325,7 @@
       "account": "Ovation Property Management",
       "date": "2026-07-07",
       "user_level": "Administrator",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -6336,7 +6336,7 @@
       "account": "KOA",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -6347,7 +6347,7 @@
       "account": "CIP Communities",
       "date": "2026-07-07",
       "user_level": "Administrator",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -6358,7 +6358,7 @@
       "account": "Boeing Employees Credit Union",
       "date": "2026-07-07",
       "user_level": "Administrator",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -6369,7 +6369,7 @@
       "account": "Berkshire Hathaway HomeServices",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -6380,7 +6380,7 @@
       "account": "Ricky's All Day Grill",
       "date": "2026-07-07",
       "user_level": "Administrator",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -6391,7 +6391,7 @@
       "account": "MRD Apartments",
       "date": "2026-07-07",
       "user_level": "Administrator",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -6402,7 +6402,7 @@
       "account": "NTY Franchise Company",
       "date": "2026-07-07",
       "user_level": "Administrator",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "AskGenius"
     },
@@ -6413,7 +6413,7 @@
       "account": "American Freight NewCo",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -6424,7 +6424,7 @@
       "account": "Sky Zone",
       "date": "2026-07-07",
       "user_level": "Administrator",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -6435,7 +6435,7 @@
       "account": "Zoomin Groomin",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -6446,7 +6446,7 @@
       "account": "American Freight (MAFGA)",
       "date": "2026-07-07",
       "user_level": "Administrator",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -6457,7 +6457,7 @@
       "account": "Benjamin Franklin Plumbing",
       "date": "2026-07-07",
       "user_level": "Manager",
-      "age_days": 16,
+      "age_days": 17,
       "sla": "amber",
       "area": "Engagements"
     },
@@ -6468,7 +6468,7 @@
       "account": "Holiday Inn Express",
       "date": "2026-07-06",
       "user_level": "Manager",
-      "age_days": 17,
+      "age_days": 18,
       "sla": "amber",
       "area": "Reporting Suite"
     },
@@ -6479,7 +6479,7 @@
       "account": "Bruster's Real Ice Cream",
       "date": "2026-06-25",
       "user_level": "Manager",
-      "age_days": 28,
+      "age_days": 29,
       "sla": "amber",
       "area": "Reporting Suite"
     },
@@ -6490,8 +6490,8 @@
       "account": "Subway - North America",
       "date": "2026-06-23",
       "user_level": "Manager",
-      "age_days": 30,
-      "sla": "amber",
+      "age_days": 31,
+      "sla": "red",
       "area": "Reporting Suite"
     },
     {
@@ -6501,7 +6501,7 @@
       "account": "Pet Supplies Plus",
       "date": "2026-06-21",
       "user_level": "Manager",
-      "age_days": 32,
+      "age_days": 33,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6512,7 +6512,7 @@
       "account": "E.C. Barton",
       "date": "2026-06-16",
       "user_level": "Manager",
-      "age_days": 37,
+      "age_days": 38,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6523,7 +6523,7 @@
       "account": "Holiday Inn Express",
       "date": "2026-06-13",
       "user_level": "Manager",
-      "age_days": 40,
+      "age_days": 41,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6534,7 +6534,7 @@
       "account": "Cruise Planners | CP Elite",
       "date": "2026-06-09",
       "user_level": "Manager",
-      "age_days": 44,
+      "age_days": 45,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6545,7 +6545,7 @@
       "account": "Travel Leaders Group",
       "date": "2026-06-05",
       "user_level": "Manager",
-      "age_days": 48,
+      "age_days": 49,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6556,7 +6556,7 @@
       "account": "Avenue5 Residential",
       "date": "2026-06-04",
       "user_level": "Manager",
-      "age_days": 49,
+      "age_days": 50,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6567,7 +6567,7 @@
       "account": "Neighborly",
       "date": "2026-06-03",
       "user_level": "Manager",
-      "age_days": 50,
+      "age_days": 51,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6578,7 +6578,7 @@
       "account": "Holiday Inn",
       "date": "2026-05-18",
       "user_level": "Manager",
-      "age_days": 66,
+      "age_days": 67,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6589,7 +6589,7 @@
       "account": "Cruise Planners | CP Elite",
       "date": "2026-05-14",
       "user_level": "Manager",
-      "age_days": 70,
+      "age_days": 71,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6600,7 +6600,7 @@
       "account": "CONAM Management Corporation",
       "date": "2026-05-04",
       "user_level": "Administrator",
-      "age_days": 80,
+      "age_days": 81,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6611,7 +6611,7 @@
       "account": "Forty Winks | The Pistol",
       "date": "2026-04-20",
       "user_level": "Manager",
-      "age_days": 94,
+      "age_days": 95,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6622,7 +6622,7 @@
       "account": "The Lash Lounge",
       "date": "2026-04-16",
       "user_level": "Manager",
-      "age_days": 98,
+      "age_days": 99,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6633,7 +6633,7 @@
       "account": "Berkshire Hathaway HomeServices",
       "date": "2026-04-13",
       "user_level": "Manager",
-      "age_days": 101,
+      "age_days": 102,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6644,7 +6644,7 @@
       "account": "Capital Square Living",
       "date": "2026-04-13",
       "user_level": "Manager",
-      "age_days": 101,
+      "age_days": 102,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6655,7 +6655,7 @@
       "account": "Bad Ass Coffee of Hawaii",
       "date": "2026-04-11",
       "user_level": "Manager",
-      "age_days": 103,
+      "age_days": 104,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6666,7 +6666,7 @@
       "account": "Avenue5 Residential",
       "date": "2026-04-10",
       "user_level": "Manager",
-      "age_days": 104,
+      "age_days": 105,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6677,7 +6677,7 @@
       "account": "Ricky's All Day Grill",
       "date": "2026-04-08",
       "user_level": "Manager",
-      "age_days": 106,
+      "age_days": 107,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6688,7 +6688,7 @@
       "account": "Travel Leaders Group",
       "date": "2026-04-05",
       "user_level": "Manager",
-      "age_days": 109,
+      "age_days": 110,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6699,7 +6699,7 @@
       "account": "Elements Massage",
       "date": "2026-04-02",
       "user_level": "Manager",
-      "age_days": 112,
+      "age_days": 113,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6710,7 +6710,7 @@
       "account": "Orangetheory Fitness",
       "date": "2026-03-31",
       "user_level": "Manager",
-      "age_days": 114,
+      "age_days": 115,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6721,7 +6721,7 @@
       "account": "Berkshire Hathaway HomeServices",
       "date": "2026-03-28",
       "user_level": "Manager",
-      "age_days": 117,
+      "age_days": 118,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6732,7 +6732,7 @@
       "account": "Vetcor",
       "date": "2026-03-24",
       "user_level": "Manager",
-      "age_days": 121,
+      "age_days": 122,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6743,7 +6743,7 @@
       "account": "TWO MEN AND A TRUCK",
       "date": "2026-03-12",
       "user_level": "Manager",
-      "age_days": 133,
+      "age_days": 134,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6754,7 +6754,7 @@
       "account": "BrightStar Care ",
       "date": "2026-03-12",
       "user_level": "Manager",
-      "age_days": 133,
+      "age_days": 134,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6765,7 +6765,7 @@
       "account": "Travel Leaders Group",
       "date": "2026-03-11",
       "user_level": "Manager",
-      "age_days": 134,
+      "age_days": 135,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6776,7 +6776,7 @@
       "account": "Tiger-Rock MAI System",
       "date": "2026-03-09",
       "user_level": "Manager",
-      "age_days": 136,
+      "age_days": 137,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6787,7 +6787,7 @@
       "account": "29th Street Living",
       "date": "2026-02-26",
       "user_level": "Manager",
-      "age_days": 147,
+      "age_days": 148,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6798,7 +6798,7 @@
       "account": "Holiday Inn Express",
       "date": "2026-02-25",
       "user_level": "Manager",
-      "age_days": 148,
+      "age_days": 149,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6809,7 +6809,7 @@
       "account": "MG Properties Group",
       "date": "2026-02-18",
       "user_level": "Manager",
-      "age_days": 155,
+      "age_days": 156,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6820,7 +6820,7 @@
       "account": "Travel Leaders Group",
       "date": "2026-02-18",
       "user_level": "Manager",
-      "age_days": 155,
+      "age_days": 156,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6831,7 +6831,7 @@
       "account": "29th Street Living",
       "date": "2026-02-16",
       "user_level": "Manager",
-      "age_days": 157,
+      "age_days": 158,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6842,7 +6842,7 @@
       "account": "Travel Leaders Group",
       "date": "2026-02-12",
       "user_level": "Manager",
-      "age_days": 161,
+      "age_days": 162,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6853,7 +6853,7 @@
       "account": "Anytime Fitness NA ",
       "date": "2026-02-11",
       "user_level": "Manager",
-      "age_days": 162,
+      "age_days": 163,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6864,7 +6864,7 @@
       "account": "Berkshire Hathaway HomeServices",
       "date": "2026-02-05",
       "user_level": "Manager",
-      "age_days": 168,
+      "age_days": 169,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6875,7 +6875,7 @@
       "account": "Travel Leaders Group",
       "date": "2026-02-04",
       "user_level": "Manager",
-      "age_days": 169,
+      "age_days": 170,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6886,7 +6886,7 @@
       "account": "Berkshire Hathaway HomeServices",
       "date": "2026-02-02",
       "user_level": "Manager",
-      "age_days": 171,
+      "age_days": 172,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6897,7 +6897,7 @@
       "account": "RPM Living",
       "date": "2026-01-29",
       "user_level": "Manager",
-      "age_days": 175,
+      "age_days": 176,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6908,7 +6908,7 @@
       "account": "Travel Leaders Group",
       "date": "2026-01-20",
       "user_level": "Manager",
-      "age_days": 184,
+      "age_days": 185,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6919,7 +6919,7 @@
       "account": "Willow Bridge Property Company ",
       "date": "2026-01-12",
       "user_level": "Manager",
-      "age_days": 192,
+      "age_days": 193,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6930,7 +6930,7 @@
       "account": "Holiday Inn Express",
       "date": "2026-01-09",
       "user_level": "Manager",
-      "age_days": 195,
+      "age_days": 196,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6941,7 +6941,7 @@
       "account": "Discovery Marketing Group, LLC dba STAT Marketing",
       "date": "2026-01-06",
       "user_level": "Manager",
-      "age_days": 198,
+      "age_days": 199,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6952,7 +6952,7 @@
       "account": "Ford",
       "date": "2026-01-04",
       "user_level": "Manager",
-      "age_days": 200,
+      "age_days": 201,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6963,7 +6963,7 @@
       "account": "AT&T",
       "date": "2025-12-19",
       "user_level": "Manager",
-      "age_days": 216,
+      "age_days": 217,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6974,7 +6974,7 @@
       "account": "GO Car Wash",
       "date": "2025-12-17",
       "user_level": "Manager",
-      "age_days": 218,
+      "age_days": 219,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6985,7 +6985,7 @@
       "account": "JINYA USA",
       "date": "2025-12-16",
       "user_level": "Manager",
-      "age_days": 219,
+      "age_days": 220,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -6996,7 +6996,7 @@
       "account": "Anytime Fitness NA ",
       "date": "2025-12-12",
       "user_level": "Manager",
-      "age_days": 223,
+      "age_days": 224,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7007,7 +7007,7 @@
       "account": "LivCor",
       "date": "2025-12-12",
       "user_level": "Administrator",
-      "age_days": 223,
+      "age_days": 224,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7018,7 +7018,7 @@
       "account": "Adara Communities ",
       "date": "2025-12-10",
       "user_level": "Manager",
-      "age_days": 225,
+      "age_days": 226,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7029,7 +7029,7 @@
       "account": "Ford",
       "date": "2025-12-05",
       "user_level": "Manager",
-      "age_days": 230,
+      "age_days": 231,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7040,7 +7040,7 @@
       "account": "Orangetheory Fitness",
       "date": "2025-12-05",
       "user_level": "Manager",
-      "age_days": 230,
+      "age_days": 231,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7051,7 +7051,7 @@
       "account": "Oak Hill Management",
       "date": "2025-12-03",
       "user_level": "Administrator",
-      "age_days": 232,
+      "age_days": 233,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7062,7 +7062,7 @@
       "account": "The Goodman Group",
       "date": "2025-12-02",
       "user_level": "Administrator",
-      "age_days": 233,
+      "age_days": 234,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7073,7 +7073,7 @@
       "account": "American Freight (MAFGA)",
       "date": "2025-11-19",
       "user_level": "Manager",
-      "age_days": 246,
+      "age_days": 247,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7084,7 +7084,7 @@
       "account": "Garner",
       "date": "2025-11-19",
       "user_level": "Manager",
-      "age_days": 246,
+      "age_days": 247,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7095,7 +7095,7 @@
       "account": "Vetcor",
       "date": "2025-11-07",
       "user_level": "Manager",
-      "age_days": 258,
+      "age_days": 259,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7106,7 +7106,7 @@
       "account": "Willow Bridge Property Company ",
       "date": "2025-10-29",
       "user_level": "Manager",
-      "age_days": 267,
+      "age_days": 268,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7117,7 +7117,7 @@
       "account": "Balfour Beatty Communities ",
       "date": "2025-10-22",
       "user_level": "Manager",
-      "age_days": 274,
+      "age_days": 275,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7128,7 +7128,7 @@
       "account": "The Garrett Companies",
       "date": "2025-10-22",
       "user_level": "Manager",
-      "age_days": 274,
+      "age_days": 275,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7139,7 +7139,7 @@
       "account": "Ford",
       "date": "2025-10-21",
       "user_level": "Manager",
-      "age_days": 275,
+      "age_days": 276,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7150,7 +7150,7 @@
       "account": "Elegance Senior Living",
       "date": "2025-10-17",
       "user_level": "Administrator",
-      "age_days": 279,
+      "age_days": 280,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7161,7 +7161,7 @@
       "account": "Scooter's Coffee, LLC",
       "date": "2025-10-14",
       "user_level": "Manager",
-      "age_days": 282,
+      "age_days": 283,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7172,7 +7172,7 @@
       "account": "Burn Boot Camp",
       "date": "2025-10-14",
       "user_level": "Manager",
-      "age_days": 282,
+      "age_days": 283,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7183,7 +7183,7 @@
       "account": "Travel Leaders Group",
       "date": "2025-10-08",
       "user_level": "Manager",
-      "age_days": 288,
+      "age_days": 289,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7194,7 +7194,7 @@
       "account": "Highmark Residential",
       "date": "2025-10-03",
       "user_level": "Administrator",
-      "age_days": 293,
+      "age_days": 294,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7205,7 +7205,7 @@
       "account": "Texas Roadhouse Holdings LLC",
       "date": "2025-10-01",
       "user_level": "Manager",
-      "age_days": 295,
+      "age_days": 296,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7216,7 +7216,7 @@
       "account": "Berkshire Hathaway HomeServices",
       "date": "2025-10-01",
       "user_level": "Manager",
-      "age_days": 295,
+      "age_days": 296,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7227,7 +7227,7 @@
       "account": "Bryten Management",
       "date": "2025-09-24",
       "user_level": "Manager",
-      "age_days": 302,
+      "age_days": 303,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7238,7 +7238,7 @@
       "account": "Travel Leaders Group",
       "date": "2025-09-24",
       "user_level": "Manager",
-      "age_days": 302,
+      "age_days": 303,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7249,7 +7249,7 @@
       "account": "Neighborly",
       "date": "2025-09-23",
       "user_level": "Manager",
-      "age_days": 303,
+      "age_days": 304,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7260,7 +7260,7 @@
       "account": "Garner",
       "date": "2025-09-17",
       "user_level": "Manager",
-      "age_days": 309,
+      "age_days": 310,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7271,7 +7271,7 @@
       "account": "Port of Subs",
       "date": "2025-09-09",
       "user_level": "Manager",
-      "age_days": 317,
+      "age_days": 318,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7282,7 +7282,7 @@
       "account": "Kumon",
       "date": "2025-09-06",
       "user_level": "Manager",
-      "age_days": 320,
+      "age_days": 321,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7293,7 +7293,7 @@
       "account": "Anytime Fitness NA ",
       "date": "2025-08-29",
       "user_level": "Manager",
-      "age_days": 328,
+      "age_days": 329,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7304,7 +7304,7 @@
       "account": "The Learning Experience",
       "date": "2025-08-28",
       "user_level": "Manager",
-      "age_days": 329,
+      "age_days": 330,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7315,7 +7315,7 @@
       "account": "Comparion",
       "date": "2025-08-20",
       "user_level": "Manager",
-      "age_days": 337,
+      "age_days": 338,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7326,7 +7326,7 @@
       "account": "Balfour Beatty Communities ",
       "date": "2025-08-15",
       "user_level": "Manager",
-      "age_days": 342,
+      "age_days": 343,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7337,7 +7337,7 @@
       "account": "Berkshire Hathaway HomeServices",
       "date": "2025-08-12",
       "user_level": "Manager",
-      "age_days": 345,
+      "age_days": 346,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7348,7 +7348,7 @@
       "account": "Holiday Inn",
       "date": "2025-08-12",
       "user_level": "Manager",
-      "age_days": 345,
+      "age_days": 346,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7359,7 +7359,7 @@
       "account": "LivCor",
       "date": "2025-07-31",
       "user_level": "Administrator",
-      "age_days": 357,
+      "age_days": 358,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7370,7 +7370,7 @@
       "account": "Drybar",
       "date": "2025-07-23",
       "user_level": "Manager",
-      "age_days": 365,
+      "age_days": 366,
       "sla": "red",
       "area": "Reporting Suite"
     },
@@ -7381,7 +7381,7 @@
       "account": "Quick Quack Car Wash",
       "date": "2025-07-23",
       "user_level": "Manager",
-      "age_days": 365,
+      "age_days": 366,
       "sla": "red",
       "area": "Reporting Suite"
     }
@@ -7395,12 +7395,12 @@
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 158,
-    "amber": 421,
-    "red": 81
+    "green": 126,
+    "amber": 452,
+    "red": 82
   },
   "total_interested": 660,
-  "oldest_age": 365,
+  "oldest_age": 366,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
