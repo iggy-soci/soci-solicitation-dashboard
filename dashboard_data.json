@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25 05:48 UTC",
+  "generated_at": "2026-07-25 08:12 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,14 +60,14 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 62,
-      "interested": 62
+      "responses_12mo": 64,
+      "interested": 64
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
       "views_12mo": 0,
-      "responses_12mo": 5,
-      "interested": 5
+      "responses_12mo": 6,
+      "interested": 6
     },
     "Surveys": {
       "guide_id": "RLz8F0jmIzDqIwzo7WOPNNHQr4M",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 214,
-      "interested": 214
+      "responses_12mo": 217,
+      "interested": 217
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 54,
-      "interested": 54
+      "responses_12mo": 56,
+      "interested": 56
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,14 +96,14 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 106,
-      "interested": 106
+      "responses_12mo": 109,
+      "interested": 109
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
       "views_12mo": 0,
-      "responses_12mo": 6,
-      "interested": 6
+      "responses_12mo": 7,
+      "interested": 7
     },
     "Data Management": {
       "guide_id": "YESnj4QI3Np_fsQ1W6_e_jBlJis",
@@ -114,17 +114,116 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 84,
-      "interested": 84
+      "responses_12mo": 87,
+      "interested": 87
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 60,
-      "interested": 60
+      "responses_12mo": 61,
+      "interested": 61
     }
   },
   "contacts": [
+    {
+      "visitor": "1277444",
+      "email": "nora.martin@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Pro",
+      "date": "2026-07-25",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "407486",
+      "email": "info@snapologyglenallen.com",
+      "name": "",
+      "account": "Snapology",
+      "date": "2026-07-25",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1176119",
+      "email": "wmoe@grewalfoods.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-07-25",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1252842",
+      "email": "bon.appetit.subs@gmail.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-07-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "223693_mobile",
+      "email": "cinnaholicoberlin@gmail.com",
+      "name": "",
+      "account": "Cinnaholic ",
+      "date": "2026-07-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "297045",
+      "email": "jb849u@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-07-24",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Pages"
+    },
+    {
+      "visitor": "1033196",
+      "email": "Crupp.snap@gmail.com",
+      "name": "",
+      "account": "The Little Gym",
+      "date": "2026-07-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "980657",
+      "email": "amiller@wovet.com",
+      "name": "",
+      "account": "Veterinary Practice Partners",
+      "date": "2026-07-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1169977",
+      "email": "Bryan.Hermann@brightstarcare.com",
+      "name": "",
+      "account": "BrightStar Care ",
+      "date": "2026-07-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
     {
       "visitor": "588391",
       "email": "andrea@exquisitevacation.com",
@@ -148,6 +247,17 @@
       "area": "Social"
     },
     {
+      "visitor": "1277577",
+      "email": "julievoyer@everlinecoatings.com",
+      "name": "",
+      "account": "EverLine",
+      "date": "2026-07-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
       "visitor": "687611",
       "email": "sarahp@ovationco.com",
       "name": "",
@@ -159,6 +269,61 @@
       "area": "Genius Search"
     },
     {
+      "visitor": "141691",
+      "email": "highland@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-07-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "991067",
+      "email": "cpetty@bahamabucks.com",
+      "name": "",
+      "account": "Bahama Buck's",
+      "date": "2026-07-24",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "75267",
+      "email": "lvleisides@bbcgrp.com",
+      "name": "",
+      "account": "Balfour Beatty Communities ",
+      "date": "2026-07-24",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Listings"
+    },
+    {
+      "visitor": "950442",
+      "email": "Summer.minjarez@skyzone.com",
+      "name": "",
+      "account": "Sky Zone",
+      "date": "2026-07-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "302159",
+      "email": "cc122y@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-07-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
       "visitor": "1269840",
       "email": "3425210@sso.subway.com",
       "name": "",
@@ -168,6 +333,17 @@
       "age_days": 1,
       "sla": "green",
       "area": "AskGenius"
+    },
+    {
+      "visitor": "1264958",
+      "email": "rramirez@anterra.com",
+      "name": "",
+      "account": "Anterra",
+      "date": "2026-07-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "1227540",
@@ -7607,19 +7783,19 @@
     }
   ],
   "level_counts": {
-    "Administrator": 93,
-    "Manager": 586,
+    "Administrator": 96,
+    "Manager": 599,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 129,
+    "green": 145,
     "amber": 471,
     "red": 80
   },
-  "total_interested": 680,
+  "total_interested": 696,
   "oldest_age": 359,
   "repeat_accounts": [
     [
@@ -7628,15 +7804,15 @@
     ],
     [
       "Willow Bridge Property Company ",
+      19
+    ],
+    [
+      "AT&T",
       18
     ],
     [
       "RPM Living",
       17
-    ],
-    [
-      "AT&T",
-      16
     ],
     [
       "Cruise Planners | CP Elite",
@@ -7651,20 +7827,28 @@
       12
     ],
     [
+      "Cruise Planners | CP Pro",
+      11
+    ],
+    [
       "Anytime Fitness NA ",
       11
+    ],
+    [
+      "Subway - North America",
+      10
     ],
     [
       "Nothing Bundt Cakes",
       10
     ],
     [
-      "Cruise Planners | CP Pro",
+      "Pet Supplies Plus",
       10
     ],
     [
-      "Pet Supplies Plus",
-      10
+      "Sky Zone",
+      9
     ],
     [
       "Vetcor",
@@ -7687,19 +7871,11 @@
       9
     ],
     [
-      "Subway - North America",
-      8
-    ],
-    [
       "Texas Roadhouse Holdings LLC",
       8
     ],
     [
       "Mill Creek Residential ",
-      8
-    ],
-    [
-      "Sky Zone",
       8
     ],
     [
@@ -7747,6 +7923,10 @@
       6
     ],
     [
+      "BrightStar Care ",
+      5
+    ],
+    [
       "Painting with a Twist, LLC",
       5
     ],
@@ -7773,6 +7953,10 @@
     [
       "The Goddard School",
       5
+    ],
+    [
+      "Balfour Beatty Communities ",
+      4
     ],
     [
       "Orangetheory Fitness Canada",
@@ -7808,10 +7992,6 @@
     ],
     [
       "KOA",
-      4
-    ],
-    [
-      "BrightStar Care ",
       4
     ],
     [
@@ -7860,10 +8040,6 @@
     ],
     [
       "Peak Living LLC",
-      3
-    ],
-    [
-      "Balfour Beatty Communities ",
       3
     ],
     [
