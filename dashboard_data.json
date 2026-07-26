@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26 11:22 UTC",
+  "generated_at": "2026-07-26 12:39 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -66,8 +66,8 @@
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
       "views_12mo": 0,
-      "responses_12mo": 0,
-      "interested": 0
+      "responses_12mo": 6,
+      "interested": 6
     },
     "Surveys": {
       "guide_id": "RLz8F0jmIzDqIwzo7WOPNNHQr4M",
@@ -204,7 +204,7 @@
     },
     {
       "visitor": "950442",
-      "email": "",
+      "email": "Summer.minjarez@skyzone.com",
       "name": "",
       "account": "Sky Zone",
       "date": "2026-07-25",
@@ -215,7 +215,7 @@
     },
     {
       "visitor": "1196505",
-      "email": "",
+      "email": "iwilson@willowbridgepc.com",
       "name": "",
       "account": "Willow Bridge Property Company ",
       "date": "2026-07-25",
@@ -269,8 +269,19 @@
       "area": "Reviews (Reputation)"
     },
     {
+      "visitor": "297045",
+      "email": "jb849u@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-07-24",
+      "user_level": "Administrator",
+      "age_days": 2,
+      "sla": "green",
+      "area": "Pages"
+    },
+    {
       "visitor": "1033196",
-      "email": "",
+      "email": "Crupp.snap@gmail.com",
       "name": "",
       "account": "The Little Gym",
       "date": "2026-07-24",
@@ -281,7 +292,7 @@
     },
     {
       "visitor": "980657",
-      "email": "",
+      "email": "amiller@wovet.com",
       "name": "",
       "account": "Veterinary Practice Partners",
       "date": "2026-07-24",
@@ -292,7 +303,7 @@
     },
     {
       "visitor": "1169977",
-      "email": "",
+      "email": "Bryan.Hermann@brightstarcare.com",
       "name": "",
       "account": "BrightStar Care ",
       "date": "2026-07-24",
@@ -490,7 +501,7 @@
     },
     {
       "visitor": "759361",
-      "email": "",
+      "email": "bluestartravel@aol.com",
       "name": "",
       "account": "Travel Leaders Group",
       "date": "2026-07-23",
@@ -523,7 +534,7 @@
     },
     {
       "visitor": "982893",
-      "email": "",
+      "email": "mahapatros@hlcmail.com",
       "name": "",
       "account": "Huntington Learning Centers ",
       "date": "2026-07-23",
@@ -534,7 +545,7 @@
     },
     {
       "visitor": "797194",
-      "email": "",
+      "email": "mcooke@vetcor.com",
       "name": "",
       "account": "Vetcor",
       "date": "2026-07-23",
@@ -545,7 +556,7 @@
     },
     {
       "visitor": "750689",
-      "email": "",
+      "email": "springwoodbriarmgr@raamco.com",
       "name": "",
       "account": "Sheng Raamco Management Inc",
       "date": "2026-07-23",
@@ -556,7 +567,7 @@
     },
     {
       "visitor": "166619",
-      "email": "",
+      "email": "waterstone@adaracommunities.com",
       "name": "",
       "account": "Adara Communities ",
       "date": "2026-07-23",
@@ -699,7 +710,7 @@
     },
     {
       "visitor": "1133107",
-      "email": "",
+      "email": "dolcemgr@psdm.com",
       "name": "",
       "account": "Pacifica Residential",
       "date": "2026-07-22",
@@ -710,7 +721,7 @@
     },
     {
       "visitor": "461314",
-      "email": "",
+      "email": "dlrich@decoratingden.com",
       "name": "",
       "account": "Decorating Den Interiors",
       "date": "2026-07-22",
@@ -721,7 +732,7 @@
     },
     {
       "visitor": "1067019",
-      "email": "",
+      "email": "TheInfieldLofts@HighmarkRes.com",
       "name": "",
       "account": "Highmark Residential",
       "date": "2026-07-22",
@@ -732,7 +743,7 @@
     },
     {
       "visitor": "1069199",
-      "email": "",
+      "email": "646@beefobradys.com",
       "name": "",
       "account": "FSC Franchise Brands",
       "date": "2026-07-22",
@@ -743,7 +754,7 @@
     },
     {
       "visitor": "998658",
-      "email": "",
+      "email": "jspigner@millcreekplaces.com",
       "name": "",
       "account": "Mill Creek Residential ",
       "date": "2026-07-22",
@@ -853,7 +864,7 @@
     },
     {
       "visitor": "443649",
-      "email": "",
+      "email": "TidesOnParkLane@rpmliving.com",
       "name": "",
       "account": "RPM Living",
       "date": "2026-07-22",
@@ -864,7 +875,7 @@
     },
     {
       "visitor": "869504",
-      "email": "",
+      "email": "MollyGrobe@veg.com",
       "name": "",
       "account": "Veterinary Emergency Group",
       "date": "2026-07-22",
@@ -1084,7 +1095,7 @@
     },
     {
       "visitor": "909934",
-      "email": "",
+      "email": "Jovanny.Pinto@anytimefitness.com",
       "name": "",
       "account": "Anytime Fitness NA ",
       "date": "2026-07-21",
@@ -1095,7 +1106,7 @@
     },
     {
       "visitor": "1106459",
-      "email": "",
+      "email": "studiomanager0654@orangetheoryfitness.com",
       "name": "",
       "account": "Orangetheory Fitness",
       "date": "2026-07-21",
@@ -1106,7 +1117,7 @@
     },
     {
       "visitor": "419474",
-      "email": "",
+      "email": "sanantonio2@anylabtestnow.com",
       "name": "",
       "account": "Any Lab Test Now",
       "date": "2026-07-21",
@@ -1117,7 +1128,7 @@
     },
     {
       "visitor": "754463",
-      "email": "",
+      "email": "gsloan@vetcor.com",
       "name": "",
       "account": "Vetcor",
       "date": "2026-07-21",
@@ -1128,7 +1139,7 @@
     },
     {
       "visitor": "943532",
-      "email": "",
+      "email": "briargatemgr@elementsmassage.com",
       "name": "",
       "account": "Elements Massage",
       "date": "2026-07-21",
@@ -1139,7 +1150,7 @@
     },
     {
       "visitor": "818787",
-      "email": "",
+      "email": "BrustersOakbrookTerrace+433@gmail.com",
       "name": "",
       "account": "Bruster's Real Ice Cream",
       "date": "2026-07-21",
@@ -1150,7 +1161,7 @@
     },
     {
       "visitor": "1063997",
-      "email": "",
+      "email": "cindymattingly10@gmail.com",
       "name": "",
       "account": "Woof Gang Bakery & Grooming",
       "date": "2026-07-21",
@@ -1161,7 +1172,7 @@
     },
     {
       "visitor": "1030991",
-      "email": "",
+      "email": "hssouthbradenton@healthsourcechiro.com",
       "name": "",
       "account": "HealthSource Chiropractic",
       "date": "2026-07-21",
@@ -1303,6 +1314,17 @@
       "area": "Reviews (Reputation)"
     },
     {
+      "visitor": "1205262",
+      "email": "cheryl@pedegoyorbalinda.com",
+      "name": "",
+      "account": "Pedego Electric Bikes",
+      "date": "2026-07-20",
+      "user_level": "Manager",
+      "age_days": 6,
+      "sla": "green",
+      "area": "Pages"
+    },
+    {
       "visitor": "510381",
       "email": "173@thebrasstap.com",
       "name": "",
@@ -1414,7 +1436,7 @@
     },
     {
       "visitor": "744264",
-      "email": "",
+      "email": "jyl@aavacay.com",
       "name": "",
       "account": "Travel Leaders Group",
       "date": "2026-07-20",
@@ -1623,7 +1645,7 @@
     },
     {
       "visitor": "943766",
-      "email": "",
+      "email": "cshyra@radiantwaxing.com",
       "name": "",
       "account": "Radiant Waxing",
       "date": "2026-07-19",
@@ -1634,7 +1656,7 @@
     },
     {
       "visitor": "273193",
-      "email": "",
+      "email": "psp4057@petsuppliesplus.com",
       "name": "",
       "account": "Pet Supplies Plus",
       "date": "2026-07-19",
@@ -1645,7 +1667,7 @@
     },
     {
       "visitor": "1071075",
-      "email": "",
+      "email": "brijeshpatel@marcospizza.net",
       "name": "",
       "account": "Marco's Pizza",
       "date": "2026-07-19",
@@ -1656,7 +1678,7 @@
     },
     {
       "visitor": "1050654",
-      "email": "",
+      "email": "val@af.furniture",
       "name": "",
       "account": "American Freight (MAFGA)",
       "date": "2026-07-19",
@@ -1689,7 +1711,7 @@
     },
     {
       "visitor": "1172059",
-      "email": "",
+      "email": "ndruidhillsmanager@degreewellness.com",
       "name": "",
       "account": "Degree Wellness",
       "date": "2026-07-19",
@@ -1755,7 +1777,7 @@
     },
     {
       "visitor": "946058",
-      "email": "",
+      "email": "af1150@att.com",
       "name": "",
       "account": "AT&T",
       "date": "2026-07-18",
@@ -1766,7 +1788,7 @@
     },
     {
       "visitor": "408102",
-      "email": "",
+      "email": "yg367g@att.com",
       "name": "",
       "account": "AT&T",
       "date": "2026-07-18",
@@ -1821,7 +1843,7 @@
     },
     {
       "visitor": "1203711",
-      "email": "",
+      "email": "vishalpatel2@marcos.com",
       "name": "",
       "account": "Marco's Pizza",
       "date": "2026-07-17",
@@ -1832,7 +1854,7 @@
     },
     {
       "visitor": "1145951",
-      "email": "",
+      "email": "ray@signarama-corona.com",
       "name": "",
       "account": "Signarama",
       "date": "2026-07-17",
@@ -1843,7 +1865,7 @@
     },
     {
       "visitor": "1245782",
-      "email": "",
+      "email": "zelema.jackson-cummings@vetcor.com",
       "name": "",
       "account": "Vetcor",
       "date": "2026-07-17",
@@ -1854,7 +1876,7 @@
     },
     {
       "visitor": "1205286",
-      "email": "",
+      "email": "lisa@pedegonaples.com",
       "name": "",
       "account": "Pedego Electric Bikes",
       "date": "2026-07-17",
@@ -1865,7 +1887,7 @@
     },
     {
       "visitor": "1168134",
-      "email": "",
+      "email": "rachel@eastorlandocoffee.com",
       "name": "",
       "account": "Ellianos Coffee",
       "date": "2026-07-17",
@@ -1876,7 +1898,7 @@
     },
     {
       "visitor": "763342",
-      "email": "",
+      "email": "maplegrove@nothingbundtcakes.com",
       "name": "",
       "account": "Nothing Bundt Cakes",
       "date": "2026-07-17",
@@ -1887,7 +1909,7 @@
     },
     {
       "visitor": "999102",
-      "email": "",
+      "email": "nancy@luxurytravelinc.com",
       "name": "",
       "account": "Travel Leaders Group",
       "date": "2026-07-17",
@@ -1964,7 +1986,7 @@
     },
     {
       "visitor": "878837",
-      "email": "",
+      "email": "Nampa_jump@skyzone.com",
       "name": "",
       "account": "Sky Zone",
       "date": "2026-07-17",
@@ -1975,7 +1997,7 @@
     },
     {
       "visitor": "814310",
-      "email": "",
+      "email": "edinamn@woofgangbakery.com",
       "name": "",
       "account": "Woof Gang Bakery & Grooming",
       "date": "2026-07-17",
@@ -1999,7 +2021,7 @@
       "visitor": "1202968",
       "email": "jamie@novusglass.net",
       "name": "",
-      "account": "3668",
+      "account": "Mondofix USA",
       "date": "2026-07-16",
       "user_level": "Manager",
       "age_days": 10,
@@ -2140,7 +2162,7 @@
     },
     {
       "visitor": "1255177",
-      "email": "",
+      "email": "owen.salmeron@activate.games",
       "name": "",
       "account": "Sounds Fun Entertainment",
       "date": "2026-07-16",
@@ -2151,7 +2173,7 @@
     },
     {
       "visitor": "1070359",
-      "email": "",
+      "email": "store0198@af.furniture",
       "name": "",
       "account": "American Freight (MAFGA)",
       "date": "2026-07-16",
@@ -2162,7 +2184,7 @@
     },
     {
       "visitor": "1200567",
-      "email": "",
+      "email": "thejamesgreermgr@willowbridgepc.com",
       "name": "",
       "account": "Willow Bridge Property Company ",
       "date": "2026-07-16",
@@ -2173,7 +2195,7 @@
     },
     {
       "visitor": "813956",
-      "email": "",
+      "email": "jessica.akebrand@skyzone.com",
       "name": "",
       "account": "Sky Zone",
       "date": "2026-07-16",
@@ -2184,7 +2206,7 @@
     },
     {
       "visitor": "1214165",
-      "email": "",
+      "email": "leif.stinson@quinnmgmt.com",
       "name": "",
       "account": "Quinn Residences",
       "date": "2026-07-16",
@@ -2195,7 +2217,7 @@
     },
     {
       "visitor": "519598",
-      "email": "",
+      "email": "kb064v@att.com",
       "name": "",
       "account": "AT&T",
       "date": "2026-07-16",
@@ -2206,7 +2228,7 @@
     },
     {
       "visitor": "1100592",
-      "email": "",
+      "email": "pm.909flats@avenue5apt.com",
       "name": "",
       "account": "Avenue5 Residential",
       "date": "2026-07-16",
@@ -2217,7 +2239,7 @@
     },
     {
       "visitor": "445705",
-      "email": "",
+      "email": "abbybuchholz@culvers.com",
       "name": "",
       "account": "Culvers",
       "date": "2026-07-16",
@@ -2481,7 +2503,7 @@
     },
     {
       "visitor": "1160596",
-      "email": "",
+      "email": "james.sumlar@twomen.com",
       "name": "",
       "account": "TWO MEN AND A TRUCK",
       "date": "2026-07-15",
@@ -2755,8 +2777,30 @@
       "area": "Reviews (Reputation)"
     },
     {
+      "visitor": "330986",
+      "email": "nc6359@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 12,
+      "sla": "amber",
+      "area": "Pages"
+    },
+    {
+      "visitor": "730381",
+      "email": "fr0138@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 12,
+      "sla": "amber",
+      "area": "Pages"
+    },
+    {
       "visitor": "458329",
-      "email": "",
+      "email": "loftson8th@livesq.com",
       "name": "",
       "account": "Student Quarters",
       "date": "2026-07-14",
@@ -2767,7 +2811,7 @@
     },
     {
       "visitor": "152769",
-      "email": "",
+      "email": "echelon99@rpmliving.com",
       "name": "",
       "account": "RPM Living",
       "date": "2026-07-14",
@@ -2778,7 +2822,7 @@
     },
     {
       "visitor": "1228474",
-      "email": "",
+      "email": "CitrineOn67th@ca-mgmt.com",
       "name": "",
       "account": "Chamberlin Associates",
       "date": "2026-07-14",
@@ -2789,7 +2833,7 @@
     },
     {
       "visitor": "983199",
-      "email": "",
+      "email": "jhedden@vetcor.com",
       "name": "",
       "account": "Vetcor",
       "date": "2026-07-14",
@@ -2800,7 +2844,7 @@
     },
     {
       "visitor": "834771",
-      "email": "",
+      "email": "anderson@cruisestore.com",
       "name": "",
       "account": "Travel Leaders Group",
       "date": "2026-07-14",
@@ -2811,7 +2855,7 @@
     },
     {
       "visitor": "1219226",
-      "email": "",
+      "email": "AltairClearCreek@avenue5apt.com",
       "name": "",
       "account": "Avenue5 Residential",
       "date": "2026-07-14",
@@ -2822,7 +2866,7 @@
     },
     {
       "visitor": "1207331",
-      "email": "",
+      "email": "Viviane.C@legendmgmt.com",
       "name": "",
       "account": "Legend Asset Management ",
       "date": "2026-07-14",
@@ -2833,7 +2877,7 @@
     },
     {
       "visitor": "744051",
-      "email": "",
+      "email": "kchapman@millcreekplaces.com",
       "name": "",
       "account": "Mill Creek Residential ",
       "date": "2026-07-14",
@@ -2844,7 +2888,7 @@
     },
     {
       "visitor": "858829",
-      "email": "",
+      "email": "simplyelitetravel@gmail.com",
       "name": "",
       "account": "Travel Leaders Group",
       "date": "2026-07-14",
@@ -2855,7 +2899,7 @@
     },
     {
       "visitor": "765381",
-      "email": "",
+      "email": "alarson@agproco.com",
       "name": "",
       "account": "Ag-Pro Companies",
       "date": "2026-07-14",
@@ -3328,7 +3372,7 @@
     },
     {
       "visitor": "1179092",
-      "email": "",
+      "email": "spatry@orangetheoryfitness.ca",
       "name": "",
       "account": "Orangetheory Fitness Canada",
       "date": "2026-07-13",
@@ -3339,7 +3383,7 @@
     },
     {
       "visitor": "1233134",
-      "email": "",
+      "email": "sydnye@carolinasylvan.com",
       "name": "",
       "account": "Sylvan Learning",
       "date": "2026-07-13",
@@ -3383,7 +3427,7 @@
     },
     {
       "visitor": "270245",
-      "email": "",
+      "email": "tawny.wilson@worldofbeer.com",
       "name": "",
       "account": "WOB Bar & Kitchen ",
       "date": "2026-07-13",
@@ -3460,7 +3504,7 @@
     },
     {
       "visitor": "1265527",
-      "email": "",
+      "email": "c.robin.hall@gmail.com",
       "name": "",
       "account": "Travel Leaders Group",
       "date": "2026-07-12",
@@ -3471,7 +3515,7 @@
     },
     {
       "visitor": "283763",
-      "email": "",
+      "email": "psp4467@petsuppliesplus.com",
       "name": "",
       "account": "Pet Supplies Plus",
       "date": "2026-07-12",
@@ -3504,7 +3548,7 @@
     },
     {
       "visitor": "667769",
-      "email": "",
+      "email": "gm@urbanairkennesaw.com",
       "name": "",
       "account": "Urban Air - Unleashed Brands",
       "date": "2026-07-12",
@@ -3515,7 +3559,7 @@
     },
     {
       "visitor": "943801",
-      "email": "",
+      "email": "cmerced@radiantwaxing.com",
       "name": "",
       "account": "Radiant Waxing",
       "date": "2026-07-12",
@@ -3526,7 +3570,7 @@
     },
     {
       "visitor": "664658",
-      "email": "",
+      "email": "Brustersofodenton+415@gmail.com",
       "name": "",
       "account": "Bruster's Real Ice Cream",
       "date": "2026-07-12",
@@ -3550,7 +3594,7 @@
       "visitor": "1165464",
       "email": "leisurebylisa737@gmail.com",
       "name": "",
-      "account": "5749",
+      "account": "Travel Leaders Group",
       "date": "2026-07-11",
       "user_level": "Manager",
       "age_days": 15,
@@ -3592,7 +3636,7 @@
     },
     {
       "visitor": "480684",
-      "email": "",
+      "email": "westmemorial@stretchzone.com",
       "name": "",
       "account": "Stretch Zone Franchising, LLC ",
       "date": "2026-07-11",
@@ -3603,7 +3647,7 @@
     },
     {
       "visitor": "785656",
-      "email": "",
+      "email": "jimma.hernden@frenchiesnails.com",
       "name": "",
       "account": "Frenchies Modern Nail Care",
       "date": "2026-07-11",
@@ -3614,7 +3658,7 @@
     },
     {
       "visitor": "1195906",
-      "email": "",
+      "email": "Mileswithmandy@yahoo.com",
       "name": "",
       "account": "Travel Leaders Group",
       "date": "2026-07-11",
@@ -3732,6 +3776,28 @@
       "age_days": 16,
       "sla": "amber",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "303633",
+      "email": "rg8682@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 16,
+      "sla": "amber",
+      "area": "Pages"
+    },
+    {
+      "visitor": "344575",
+      "email": "av2361@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 16,
+      "sla": "amber",
+      "area": "Pages"
     },
     {
       "visitor": "949887",
@@ -4153,7 +4219,7 @@
     },
     {
       "visitor": "1230808",
-      "email": "",
+      "email": "sarah@kraftytravel.com",
       "name": "",
       "account": "Travel Leaders Group",
       "date": "2026-07-09",
@@ -4164,7 +4230,7 @@
     },
     {
       "visitor": "283876",
-      "email": "",
+      "email": "mason@lumapm.com",
       "name": "",
       "account": "Luma Residential",
       "date": "2026-07-09",
@@ -4175,7 +4241,7 @@
     },
     {
       "visitor": "143162",
-      "email": "",
+      "email": "WindsorSquare@gres.com",
       "name": "",
       "account": "Guardian Real Estate Services LLC",
       "date": "2026-07-09",
@@ -4241,7 +4307,7 @@
     },
     {
       "visitor": "326369",
-      "email": "",
+      "email": "ds0175@att.com",
       "name": "",
       "account": "AT&T",
       "date": "2026-07-09",
@@ -4252,7 +4318,7 @@
     },
     {
       "visitor": "1228526",
-      "email": "",
+      "email": "cwsgm@jmsfamilylp.com",
       "name": "",
       "account": "Candlewood Suites",
       "date": "2026-07-09",
@@ -4274,7 +4340,7 @@
     },
     {
       "visitor": "301720",
-      "email": "",
+      "email": "jl069r@att.com",
       "name": "",
       "account": "AT&T",
       "date": "2026-07-09",
@@ -4307,7 +4373,7 @@
     },
     {
       "visitor": "1232280",
-      "email": "",
+      "email": "rod@pridehospitality.com",
       "name": "",
       "account": "Candlewood Suites",
       "date": "2026-07-09",
@@ -4329,7 +4395,7 @@
     },
     {
       "visitor": "43695",
-      "email": "",
+      "email": "Spencer@scjm.solutions",
       "name": "",
       "account": "Sport Clips",
       "date": "2026-07-09",
@@ -6916,7 +6982,7 @@
       "visitor": "1031892",
       "email": "augustabrusters53+53@gmail.com",
       "name": "",
-      "account": "4973",
+      "account": "Bruster's Real Ice Cream",
       "date": "2026-06-25",
       "user_level": "Manager",
       "age_days": 31,
@@ -6927,7 +6993,7 @@
       "visitor": "1176040",
       "email": "smadams@subwayak.com",
       "name": "",
-      "account": "25452",
+      "account": "Subway - North America",
       "date": "2026-06-23",
       "user_level": "Manager",
       "age_days": 33,
@@ -6938,7 +7004,7 @@
       "visitor": "293538",
       "email": "psp4105@petsuppliesplus.com",
       "name": "",
-      "account": "4338",
+      "account": "Pet Supplies Plus",
       "date": "2026-06-21",
       "user_level": "Manager",
       "age_days": 35,
@@ -6949,7 +7015,7 @@
       "visitor": "777759",
       "email": "northportal@homeoutlet.com",
       "name": "",
-      "account": "6306",
+      "account": "E.C. Barton",
       "date": "2026-06-16",
       "user_level": "Manager",
       "age_days": 40,
@@ -6971,7 +7037,7 @@
       "visitor": "1228726",
       "email": "j_cyganek@msn.com",
       "name": "",
-      "account": "3757",
+      "account": "Cruise Planners | CP Elite",
       "date": "2026-06-09",
       "user_level": "Manager",
       "age_days": 47,
@@ -6982,7 +7048,7 @@
       "visitor": "977730",
       "email": "Crissy@escapesforeveryone.com",
       "name": "",
-      "account": "5749",
+      "account": "Travel Leaders Group",
       "date": "2026-06-05",
       "user_level": "Manager",
       "age_days": 51,
@@ -6993,7 +7059,7 @@
       "visitor": "1034185",
       "email": "julia@aukum.com",
       "name": "",
-      "account": "3723",
+      "account": "Avenue5 Residential",
       "date": "2026-06-04",
       "user_level": "Manager",
       "age_days": 52,
@@ -7004,7 +7070,7 @@
       "visitor": "1211028",
       "email": "marketingdirector@mrrootercolorado.com",
       "name": "",
-      "account": "1453",
+      "account": "Neighborly",
       "date": "2026-06-03",
       "user_level": "Manager",
       "age_days": 53,
@@ -7026,7 +7092,7 @@
       "visitor": "988710",
       "email": "royce.staley@cruiseplanners.com",
       "name": "",
-      "account": "3757",
+      "account": "Cruise Planners | CP Elite",
       "date": "2026-05-14",
       "user_level": "Manager",
       "age_days": 73,
@@ -7048,7 +7114,7 @@
       "visitor": "433262",
       "email": "brucesimpson@sandman.net.au",
       "name": "",
-      "account": "5742",
+      "account": "Forty Winks | The Pistol",
       "date": "2026-04-20",
       "user_level": "Manager",
       "age_days": 97,
@@ -7070,7 +7136,7 @@
       "visitor": "202522",
       "email": "barbreif+342539@bhhscc.com",
       "name": "",
-      "account": "4193",
+      "account": "Berkshire Hathaway HomeServices",
       "date": "2026-04-13",
       "user_level": "Manager",
       "age_days": 104,
@@ -7081,7 +7147,7 @@
       "visitor": "1197112",
       "email": "armond.kinsey@capitalsquareliving.com",
       "name": "",
-      "account": "27875",
+      "account": "Capital Square Living",
       "date": "2026-04-13",
       "user_level": "Manager",
       "age_days": 104,
@@ -7092,7 +7158,7 @@
       "visitor": "1131015",
       "email": "rsolanki@makersllc.org",
       "name": "",
-      "account": "5597",
+      "account": "Bad Ass Coffee of Hawaii",
       "date": "2026-04-11",
       "user_level": "Manager",
       "age_days": 106,
@@ -7103,7 +7169,7 @@
       "visitor": "138736",
       "email": "pm.aurathirty2@avenue5apt.com",
       "name": "",
-      "account": "3723",
+      "account": "Avenue5 Residential",
       "date": "2026-04-10",
       "user_level": "Manager",
       "age_days": 107,
@@ -7114,7 +7180,7 @@
       "visitor": "511583",
       "email": "whitecourt@rickysr.com",
       "name": "",
-      "account": "3804",
+      "account": "Ricky's All Day Grill",
       "date": "2026-04-08",
       "user_level": "Manager",
       "age_days": 109,
@@ -7125,7 +7191,7 @@
       "visitor": "987217",
       "email": "discountvacationplanner@gmail.com",
       "name": "",
-      "account": "5749",
+      "account": "Travel Leaders Group",
       "date": "2026-04-05",
       "user_level": "Manager",
       "age_days": 112,
@@ -7136,7 +7202,7 @@
       "visitor": "943442",
       "email": "katemills@elementsmassage.com",
       "name": "",
-      "account": "17724",
+      "account": "Elements Massage",
       "date": "2026-04-02",
       "user_level": "Manager",
       "age_days": 115,
@@ -7147,7 +7213,7 @@
       "visitor": "1167712",
       "email": "jcamarena@theorangezone.com",
       "name": "",
-      "account": "25929",
+      "account": "Orangetheory Fitness",
       "date": "2026-03-31",
       "user_level": "Manager",
       "age_days": 117,
@@ -7158,7 +7224,7 @@
       "visitor": "181342",
       "email": "claudiacambero+1065552@gmail.com",
       "name": "",
-      "account": "4193",
+      "account": "Berkshire Hathaway HomeServices",
       "date": "2026-03-28",
       "user_level": "Manager",
       "age_days": 120,
@@ -7180,7 +7246,7 @@
       "visitor": "1165910",
       "email": "yaqoub.burney@twomen.ca",
       "name": "",
-      "account": "3698",
+      "account": "TWO MEN AND A TRUCK",
       "date": "2026-03-12",
       "user_level": "Manager",
       "age_days": 136,
@@ -7191,7 +7257,7 @@
       "visitor": "993200",
       "email": "Marcella.King@brightstarcare.com",
       "name": "",
-      "account": "3241",
+      "account": "BrightStar Care ",
       "date": "2026-03-12",
       "user_level": "Manager",
       "age_days": 136,
@@ -7202,7 +7268,7 @@
       "visitor": "726640",
       "email": "carolyn@elitetravelinc.com",
       "name": "",
-      "account": "5749",
+      "account": "Travel Leaders Group",
       "date": "2026-03-11",
       "user_level": "Manager",
       "age_days": 137,
@@ -7213,7 +7279,7 @@
       "visitor": "1168349",
       "email": "Trmaijcc@gmail.com",
       "name": "",
-      "account": "51981",
+      "account": "Tiger-Rock MAI System",
       "date": "2026-03-09",
       "user_level": "Manager",
       "age_days": 139,
@@ -7224,7 +7290,7 @@
       "visitor": "394388",
       "email": "dwell@havenresidential.com",
       "name": "",
-      "account": "4284",
+      "account": "29th Street Living",
       "date": "2026-02-26",
       "user_level": "Manager",
       "age_days": 150,
@@ -7246,7 +7312,7 @@
       "visitor": "855667",
       "email": "mgr.thebower@mgproperties.com",
       "name": "",
-      "account": "17100",
+      "account": "MG Properties Group",
       "date": "2026-02-18",
       "user_level": "Manager",
       "age_days": 158,
@@ -7257,7 +7323,7 @@
       "visitor": "726565",
       "email": "ymeador@ydiv.com",
       "name": "",
-      "account": "5749",
+      "account": "Travel Leaders Group",
       "date": "2026-02-18",
       "user_level": "Manager",
       "age_days": 158,
@@ -7268,7 +7334,7 @@
       "visitor": "253865",
       "email": "preservewinchester@havenresidential.com",
       "name": "",
-      "account": "4284",
+      "account": "29th Street Living",
       "date": "2026-02-16",
       "user_level": "Manager",
       "age_days": 160,
@@ -7279,7 +7345,7 @@
       "visitor": "937539",
       "email": "bookings@youchoosetravels.com",
       "name": "",
-      "account": "5749",
+      "account": "Travel Leaders Group",
       "date": "2026-02-12",
       "user_level": "Manager",
       "age_days": 164,
@@ -7290,7 +7356,7 @@
       "visitor": "977729_mobile",
       "email": "waterloo@anytimefitness.com",
       "name": "",
-      "account": "3136_mobile",
+      "account": "Anytime Fitness NA ",
       "date": "2026-02-11",
       "user_level": "Manager",
       "age_days": 165,
@@ -7301,7 +7367,7 @@
       "visitor": "1074527",
       "email": "jimleaverton01+3075516@gmail.com",
       "name": "",
-      "account": "4193",
+      "account": "Berkshire Hathaway HomeServices",
       "date": "2026-02-05",
       "user_level": "Manager",
       "age_days": 171,
@@ -7312,7 +7378,7 @@
       "visitor": "965628",
       "email": "Josephine@dimaggiotravels.com",
       "name": "",
-      "account": "5749",
+      "account": "Travel Leaders Group",
       "date": "2026-02-04",
       "user_level": "Manager",
       "age_days": 172,
@@ -7323,7 +7389,7 @@
       "visitor": "946248",
       "email": "ohelsing+3070980@bhhsflpg.com",
       "name": "",
-      "account": "4193",
+      "account": "Berkshire Hathaway HomeServices",
       "date": "2026-02-02",
       "user_level": "Manager",
       "age_days": 174,
@@ -7334,7 +7400,7 @@
       "visitor": "282891",
       "email": "thecarlton@rpmliving.com",
       "name": "",
-      "account": "3515",
+      "account": "RPM Living",
       "date": "2026-01-29",
       "user_level": "Manager",
       "age_days": 178,
@@ -7345,7 +7411,7 @@
       "visitor": "701489",
       "email": "mindy@straightawaytravel.com",
       "name": "",
-      "account": "5749",
+      "account": "Travel Leaders Group",
       "date": "2026-01-20",
       "user_level": "Manager",
       "age_days": 187,
@@ -7356,7 +7422,7 @@
       "visitor": "784323",
       "email": "shermanparkmgr@willowbridgepc.com",
       "name": "",
-      "account": "1154",
+      "account": "Willow Bridge Property Company ",
       "date": "2026-01-12",
       "user_level": "Manager",
       "age_days": 195,
@@ -7389,7 +7455,7 @@
       "visitor": "352206",
       "email": "charliemorris@terrymorris.com",
       "name": "",
-      "account": "3952",
+      "account": "Ford",
       "date": "2026-01-04",
       "user_level": "Manager",
       "age_days": 203,
@@ -7400,7 +7466,7 @@
       "visitor": "302587",
       "email": "DK9840@att.com",
       "name": "",
-      "account": "4708",
+      "account": "AT&T",
       "date": "2025-12-19",
       "user_level": "Manager",
       "age_days": 219,
@@ -7422,7 +7488,7 @@
       "visitor": "988325",
       "email": "jrb.solika@gmail.com",
       "name": "",
-      "account": "22221",
+      "account": "JINYA USA",
       "date": "2025-12-16",
       "user_level": "Manager",
       "age_days": 222,
@@ -7433,7 +7499,7 @@
       "visitor": "882458",
       "email": "PanamaCityFL@anytimefitness.com",
       "name": "",
-      "account": "3136",
+      "account": "Anytime Fitness NA ",
       "date": "2025-12-12",
       "user_level": "Manager",
       "age_days": 226,
@@ -7455,7 +7521,7 @@
       "visitor": "150251",
       "email": "foxwood@adaracommunities.com",
       "name": "",
-      "account": "3284",
+      "account": "Adara Communities ",
       "date": "2025-12-10",
       "user_level": "Manager",
       "age_days": 228,
@@ -7466,7 +7532,7 @@
       "visitor": "1064803",
       "email": "bjohnson@stuartpowell.com",
       "name": "",
-      "account": "3952",
+      "account": "Ford",
       "date": "2025-12-05",
       "user_level": "Manager",
       "age_days": 233,
@@ -7477,7 +7543,7 @@
       "visitor": "1109844",
       "email": "sstetson@orangetheoryfitness.com",
       "name": "",
-      "account": "25929",
+      "account": "Orangetheory Fitness",
       "date": "2025-12-05",
       "user_level": "Manager",
       "age_days": 233,
@@ -7488,7 +7554,7 @@
       "visitor": "993647",
       "email": "erin@wrdc.net",
       "name": "",
-      "account": "5878",
+      "account": "Oak Hill Management",
       "date": "2025-12-03",
       "user_level": "Administrator",
       "age_days": 235,
@@ -7499,7 +7565,7 @@
       "visitor": "1066987",
       "email": "abeardsley@nrchealth.com",
       "name": "",
-      "account": "44461",
+      "account": "The Goodman Group",
       "date": "2025-12-02",
       "user_level": "Administrator",
       "age_days": 236,
@@ -7510,7 +7576,7 @@
       "visitor": "1069264",
       "email": "Store0082@af.furniture",
       "name": "",
-      "account": "25659",
+      "account": "American Freight (MAFGA)",
       "date": "2025-11-19",
       "user_level": "Manager",
       "age_days": 249,
@@ -7543,7 +7609,7 @@
       "visitor": "82113",
       "email": "lasallemgr@willowbridgepc.com",
       "name": "",
-      "account": "1154",
+      "account": "Willow Bridge Property Company ",
       "date": "2025-10-29",
       "user_level": "Manager",
       "age_days": 270,
@@ -7554,7 +7620,7 @@
       "visitor": "986987",
       "email": "klockett@bbcgrp.com",
       "name": "",
-      "account": "3336",
+      "account": "Balfour Beatty Communities ",
       "date": "2025-10-22",
       "user_level": "Manager",
       "age_days": 277,
@@ -7565,7 +7631,7 @@
       "visitor": "1039308",
       "email": "jleek@liveatthelennox.com",
       "name": "",
-      "account": "24149",
+      "account": "The Garrett Companies",
       "date": "2025-10-22",
       "user_level": "Manager",
       "age_days": 277,
@@ -7576,7 +7642,7 @@
       "visitor": "1056827",
       "email": "regina@sakelaris.com",
       "name": "",
-      "account": "3952",
+      "account": "Ford",
       "date": "2025-10-21",
       "user_level": "Manager",
       "age_days": 278,
@@ -7587,7 +7653,7 @@
       "visitor": "982226",
       "email": "ali@aviam-design.com",
       "name": "",
-      "account": "23054",
+      "account": "Elegance Senior Living",
       "date": "2025-10-17",
       "user_level": "Administrator",
       "age_days": 282,
@@ -7598,7 +7664,7 @@
       "visitor": "997798",
       "email": "sanketpansara@gmail.com",
       "name": "",
-      "account": "22128",
+      "account": "Scooter's Coffee, LLC",
       "date": "2025-10-14",
       "user_level": "Manager",
       "age_days": 285,
@@ -7620,7 +7686,7 @@
       "visitor": "861912",
       "email": "joe@JMCGetaways.com",
       "name": "",
-      "account": "5749",
+      "account": "Travel Leaders Group",
       "date": "2025-10-08",
       "user_level": "Manager",
       "age_days": 291,
@@ -7631,7 +7697,7 @@
       "visitor": "275555",
       "email": "lgummelt@highmarkres.com",
       "name": "",
-      "account": "1343",
+      "account": "Highmark Residential",
       "date": "2025-10-03",
       "user_level": "Administrator",
       "age_days": 296,
@@ -7653,7 +7719,7 @@
       "visitor": "787997",
       "email": "realtoraruljoseph+3067300@gmail.com",
       "name": "",
-      "account": "4193",
+      "account": "Berkshire Hathaway HomeServices",
       "date": "2025-10-01",
       "user_level": "Manager",
       "age_days": 298,
@@ -7664,7 +7730,7 @@
       "visitor": "995199",
       "email": "shorebird.manager@livebryten.com",
       "name": "",
-      "account": "5490",
+      "account": "Bryten Management",
       "date": "2025-09-24",
       "user_level": "Manager",
       "age_days": 305,
@@ -7675,7 +7741,7 @@
       "visitor": "742752",
       "email": "Alice.Hensley@apassion2travel.com",
       "name": "",
-      "account": "5749",
+      "account": "Travel Leaders Group",
       "date": "2025-09-24",
       "user_level": "Manager",
       "age_days": 305,
@@ -7686,7 +7752,7 @@
       "visitor": "58052",
       "email": "deborah.poole@mrrootervb.com",
       "name": "",
-      "account": "1453",
+      "account": "Neighborly",
       "date": "2025-09-23",
       "user_level": "Manager",
       "age_days": 306,
@@ -7708,7 +7774,7 @@
       "visitor": "836484",
       "email": "rthompson@portofsubs.com",
       "name": "",
-      "account": "6274",
+      "account": "Port of Subs",
       "date": "2025-09-09",
       "user_level": "Manager",
       "age_days": 320,
@@ -7719,7 +7785,7 @@
       "visitor": "1011662",
       "email": "sgunaprakash@ikumon.com",
       "name": "",
-      "account": "3473",
+      "account": "Kumon",
       "date": "2025-09-06",
       "user_level": "Manager",
       "age_days": 323,
@@ -7730,7 +7796,7 @@
       "visitor": "1024968",
       "email": "michigan3@anytimefitness.com",
       "name": "",
-      "account": "3136",
+      "account": "Anytime Fitness NA ",
       "date": "2025-08-29",
       "user_level": "Manager",
       "age_days": 331,
@@ -7763,7 +7829,7 @@
       "visitor": "1013988",
       "email": "hsisson@bbcgrp.com",
       "name": "",
-      "account": "3336",
+      "account": "Balfour Beatty Communities ",
       "date": "2025-08-15",
       "user_level": "Manager",
       "age_days": 345,
@@ -7774,7 +7840,7 @@
       "visitor": "997727",
       "email": "josephine.cicolini+3073079@penfedrealty.com",
       "name": "",
-      "account": "4193",
+      "account": "Berkshire Hathaway HomeServices",
       "date": "2025-08-12",
       "user_level": "Manager",
       "age_days": 348,
@@ -7805,47 +7871,55 @@
     }
   ],
   "level_counts": {
-    "Administrator": 95,
-    "Manager": 602,
+    "Administrator": 96,
+    "Manager": 607,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 143,
-    "amber": 474,
+    "green": 145,
+    "amber": 478,
     "red": 81
   },
-  "total_interested": 698,
+  "total_interested": 704,
   "oldest_age": 360,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
-      22
+      32
     ],
     [
       "Willow Bridge Property Company ",
+      20
+    ],
+    [
+      "AT&T",
       18
     ],
     [
       "RPM Living",
-      16
+      17
     ],
     [
       "Signarama",
       13
     ],
     [
-      "AT&T",
-      12
+      "Cruise Planners | CP Elite",
+      13
+    ],
+    [
+      "Berkshire Hathaway HomeServices",
+      13
     ],
     [
       "Cruise Planners | CP Pro",
       11
     ],
     [
-      "Cruise Planners | CP Elite",
+      "Anytime Fitness NA ",
       11
     ],
     [
@@ -7853,27 +7927,27 @@
       10
     ],
     [
+      "Subway - North America",
+      10
+    ],
+    [
       "Nothing Bundt Cakes",
       10
     ],
     [
-      "5749",
+      "Pet Supplies Plus",
       10
-    ],
-    [
-      "Subway - North America",
-      9
     ],
     [
       "Vetcor",
       9
     ],
     [
-      "Woof Gang Bakery & Grooming",
+      "Neighborly",
       9
     ],
     [
-      "Pet Supplies Plus",
+      "Woof Gang Bakery & Grooming",
       9
     ],
     [
@@ -7893,7 +7967,7 @@
       8
     ],
     [
-      "Anytime Fitness NA ",
+      "Ford",
       8
     ],
     [
@@ -7905,19 +7979,31 @@
       8
     ],
     [
-      "Neighborly",
+      "Capital Square Living",
       7
     ],
     [
-      "Berkshire Hathaway HomeServices",
+      "American Freight (MAFGA)",
       7
+    ],
+    [
+      "Avenue5 Residential",
+      7
+    ],
+    [
+      "Bruster's Real Ice Cream",
+      6
+    ],
+    [
+      "Adara Communities ",
+      6
     ],
     [
       "Veterinary Emergency Group",
       6
     ],
     [
-      "Capital Square Living",
+      "Orangetheory Fitness",
       6
     ],
     [
@@ -7925,23 +8011,11 @@
       6
     ],
     [
-      "American Freight (MAFGA)",
+      "Forty Winks | The Pistol",
       6
     ],
     [
-      "4193",
-      6
-    ],
-    [
-      "Bruster's Real Ice Cream",
-      5
-    ],
-    [
-      "Adara Communities ",
-      5
-    ],
-    [
-      "Ford",
+      "BrightStar Care ",
       5
     ],
     [
@@ -7949,7 +8023,7 @@
       5
     ],
     [
-      "Avenue5 Residential",
+      "Pedego Electric Bikes",
       5
     ],
     [
@@ -7961,10 +8035,6 @@
       5
     ],
     [
-      "Forty Winks | The Pistol",
-      5
-    ],
-    [
       "Stretch Zone Franchising, LLC ",
       5
     ],
@@ -7973,7 +8043,7 @@
       5
     ],
     [
-      "BrightStar Care ",
+      "Balfour Beatty Communities ",
       4
     ],
     [
@@ -7993,7 +8063,7 @@
       4
     ],
     [
-      "Orangetheory Fitness",
+      "Elements Massage",
       4
     ],
     [
@@ -8001,11 +8071,11 @@
       4
     ],
     [
-      "Sport Clips",
+      "Bryten Management",
       4
     ],
     [
-      "Pedego Electric Bikes",
+      "Sport Clips",
       4
     ],
     [
@@ -8018,6 +8088,10 @@
     ],
     [
       "American Freight NewCo",
+      4
+    ],
+    [
+      "Scooter's Coffee, LLC",
       4
     ],
     [
@@ -8045,15 +8119,7 @@
       3
     ],
     [
-      "Elements Massage",
-      3
-    ],
-    [
       "Eggs Up Grill",
-      3
-    ],
-    [
-      "Bryten Management",
       3
     ],
     [
@@ -8073,6 +8139,14 @@
       3
     ],
     [
+      "Oak Hill Management",
+      3
+    ],
+    [
+      "TWO MEN AND A TRUCK",
+      3
+    ],
+    [
       "Guild Mortgage",
       3
     ],
@@ -8089,15 +8163,11 @@
       3
     ],
     [
+      "29th Street Living",
+      3
+    ],
+    [
       "CIP Communities",
-      3
-    ],
-    [
-      "Scooter's Coffee, LLC",
-      3
-    ],
-    [
-      "3952",
       3
     ],
     [
@@ -8106,10 +8176,6 @@
     ],
     [
       "Ovation Property Management",
-      2
-    ],
-    [
-      "Balfour Beatty Communities ",
       2
     ],
     [
@@ -8126,6 +8192,14 @@
     ],
     [
       "Huntington Learning Centers ",
+      2
+    ],
+    [
+      "E.C. Barton",
+      2
+    ],
+    [
+      "Highmark Residential",
       2
     ],
     [
@@ -8158,6 +8232,10 @@
     ],
     [
       "Firehouse Subs",
+      2
+    ],
+    [
+      "MG Properties Group",
       2
     ],
     [
@@ -8217,15 +8295,7 @@
       2
     ],
     [
-      "Oak Hill Management",
-      2
-    ],
-    [
       "ServiceMaster Restore",
-      2
-    ],
-    [
-      "TWO MEN AND A TRUCK",
       2
     ],
     [
@@ -8265,6 +8335,10 @@
       2
     ],
     [
+      "JINYA USA",
+      2
+    ],
+    [
       "Luma Residential",
       2
     ],
@@ -8297,31 +8371,7 @@
       2
     ],
     [
-      "3757",
-      2
-    ],
-    [
-      "3723",
-      2
-    ],
-    [
-      "1453",
-      2
-    ],
-    [
-      "25929",
-      2
-    ],
-    [
-      "4284",
-      2
-    ],
-    [
-      "1154",
-      2
-    ],
-    [
-      "3136",
+      "Ricky's All Day Grill",
       2
     ],
     [
@@ -8330,10 +8380,6 @@
     ],
     [
       "Garner",
-      2
-    ],
-    [
-      "3336",
       2
     ]
   ],
