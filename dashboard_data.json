@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26 04:07 UTC",
+  "generated_at": "2026-07-26 07:11 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 64,
-      "interested": 64
+      "responses_12mo": 65,
+      "interested": 65
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 217,
-      "interested": 217
+      "responses_12mo": 218,
+      "interested": 218
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 56,
-      "interested": 56
+      "responses_12mo": 60,
+      "interested": 60
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 109,
-      "interested": 109
+      "responses_12mo": 111,
+      "interested": 111
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -126,6 +126,72 @@
   },
   "contacts": [
     {
+      "visitor": "1207573",
+      "email": "brusters395+395@gmail.com",
+      "name": "",
+      "account": "Bruster's Real Ice Cream",
+      "date": "2026-07-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "461294",
+      "email": "cosmopolitan@decoratingden.com",
+      "name": "",
+      "account": "Decorating Den Interiors",
+      "date": "2026-07-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "973140",
+      "email": "swilson@samtheconcreteman.com",
+      "name": "",
+      "account": "Sam The Concrete Man",
+      "date": "2026-07-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1277675",
+      "email": "makayla@everlinecoatings.com",
+      "name": "",
+      "account": "EverLine",
+      "date": "2026-07-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1145870",
+      "email": "dawn@signaramacolorado.com",
+      "name": "",
+      "account": "Signarama",
+      "date": "2026-07-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "859504",
+      "email": "Eliza.Lee@kiscosl.com",
+      "name": "",
+      "account": "Kisco Senior Living",
+      "date": "2026-07-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
       "visitor": "1277444",
       "email": "nora.martin@cruiseplanners.com",
       "name": "",
@@ -135,6 +201,28 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Social"
+    },
+    {
+      "visitor": "950442",
+      "email": "Summer.minjarez@skyzone.com",
+      "name": "",
+      "account": "Sky Zone",
+      "date": "2026-07-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1196505",
+      "email": "iwilson@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-07-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
     },
     {
       "visitor": "407486",
@@ -7784,18 +7872,18 @@
   ],
   "level_counts": {
     "Administrator": 96,
-    "Manager": 599,
+    "Manager": 607,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 137,
+    "green": 145,
     "amber": 478,
     "red": 81
   },
-  "total_interested": 696,
+  "total_interested": 704,
   "oldest_age": 360,
   "repeat_accounts": [
     [
@@ -7804,7 +7892,7 @@
     ],
     [
       "Willow Bridge Property Company ",
-      19
+      20
     ],
     [
       "AT&T",
@@ -7815,6 +7903,10 @@
       17
     ],
     [
+      "Signarama",
+      13
+    ],
+    [
       "Cruise Planners | CP Elite",
       13
     ],
@@ -7823,16 +7915,16 @@
       13
     ],
     [
-      "Signarama",
-      12
-    ],
-    [
       "Cruise Planners | CP Pro",
       11
     ],
     [
       "Anytime Fitness NA ",
       11
+    ],
+    [
+      "Sky Zone",
+      10
     ],
     [
       "Subway - North America",
@@ -7845,10 +7937,6 @@
     [
       "Pet Supplies Plus",
       10
-    ],
-    [
-      "Sky Zone",
-      9
     ],
     [
       "Vetcor",
@@ -7903,6 +7991,10 @@
       7
     ],
     [
+      "Bruster's Real Ice Cream",
+      6
+    ],
+    [
       "Adara Communities ",
       6
     ],
@@ -7928,10 +8020,6 @@
     ],
     [
       "Painting with a Twist, LLC",
-      5
-    ],
-    [
-      "Bruster's Real Ice Cream",
       5
     ],
     [
@@ -8007,6 +8095,10 @@
       4
     ],
     [
+      "Decorating Den Interiors",
+      3
+    ],
+    [
       "Sheng Raamco Management Inc",
       3
     ],
@@ -8079,6 +8171,10 @@
       3
     ],
     [
+      "EverLine",
+      2
+    ],
+    [
       "Ovation Property Management",
       2
     ],
@@ -8100,10 +8196,6 @@
     ],
     [
       "E.C. Barton",
-      2
-    ],
-    [
-      "Decorating Den Interiors",
       2
     ],
     [
