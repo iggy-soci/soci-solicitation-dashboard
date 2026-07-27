@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27 05:25 UTC",
+  "generated_at": "2026-07-27 08:55 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -78,8 +78,8 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 218,
-      "interested": 218
+      "responses_12mo": 220,
+      "interested": 220
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 111,
-      "interested": 111
+      "responses_12mo": 115,
+      "interested": 115
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,8 +114,8 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 87,
-      "interested": 87
+      "responses_12mo": 89,
+      "interested": 89
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
@@ -125,6 +125,94 @@
     }
   },
   "contacts": [
+    {
+      "visitor": "1276914",
+      "email": "amg@interconti-tokyo.com",
+      "name": "",
+      "account": "InterContinental",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1264924",
+      "email": "3046226@sso.subway.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1231720",
+      "email": "whitecourt@fatburgercanada.com",
+      "name": "",
+      "account": "Fatburger Canada",
+      "date": "2026-07-27",
+      "user_level": "Administrator",
+      "age_days": 0,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "943596",
+      "email": "karenhoward@elementsmassage.com",
+      "name": "",
+      "account": "Elements Massage",
+      "date": "2026-07-26",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1044819",
+      "email": "info@DiscoveryVillageDesPlaines.com",
+      "name": "",
+      "account": "Discovery Marketing Group, LLC dba STAT Marketing",
+      "date": "2026-07-26",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "863917",
+      "email": "greenpoint@tlechildcare.com",
+      "name": "",
+      "account": "The Learning Experience",
+      "date": "2026-07-26",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1205284",
+      "email": "lsnyder@pedegoomaha.com",
+      "name": "",
+      "account": "Pedego Electric Bikes",
+      "date": "2026-07-26",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "316724",
+      "email": "sp9963@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-07-26",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
     {
       "visitor": "1207573",
       "email": "brusters395+395@gmail.com",
@@ -7871,19 +7959,19 @@
     }
   ],
   "level_counts": {
-    "Administrator": 96,
-    "Manager": 607,
+    "Administrator": 97,
+    "Manager": 614,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 138,
+    "green": 146,
     "amber": 485,
     "red": 81
   },
-  "total_interested": 704,
+  "total_interested": 712,
   "oldest_age": 361,
   "repeat_accounts": [
     [
@@ -7896,7 +7984,7 @@
     ],
     [
       "AT&T",
-      18
+      19
     ],
     [
       "RPM Living",
@@ -7915,6 +8003,10 @@
       13
     ],
     [
+      "Subway - North America",
+      11
+    ],
+    [
       "Cruise Planners | CP Pro",
       11
     ],
@@ -7927,16 +8019,20 @@
       10
     ],
     [
-      "Subway - North America",
-      10
-    ],
-    [
       "Nothing Bundt Cakes",
       10
     ],
     [
       "Pet Supplies Plus",
       10
+    ],
+    [
+      "Discovery Marketing Group, LLC dba STAT Marketing",
+      9
+    ],
+    [
+      "The Learning Experience",
+      9
     ],
     [
       "Vetcor",
@@ -7971,14 +8067,6 @@
       8
     ],
     [
-      "The Learning Experience",
-      8
-    ],
-    [
-      "Discovery Marketing Group, LLC dba STAT Marketing",
-      8
-    ],
-    [
       "Capital Square Living",
       7
     ],
@@ -7989,6 +8077,10 @@
     [
       "Avenue5 Residential",
       7
+    ],
+    [
+      "Pedego Electric Bikes",
+      6
     ],
     [
       "Bruster's Real Ice Cream",
@@ -8015,15 +8107,15 @@
       6
     ],
     [
+      "Elements Massage",
+      5
+    ],
+    [
       "BrightStar Care ",
       5
     ],
     [
       "Painting with a Twist, LLC",
-      5
-    ],
-    [
-      "Pedego Electric Bikes",
       5
     ],
     [
@@ -8060,10 +8152,6 @@
     ],
     [
       "FSC Franchise Brands",
-      4
-    ],
-    [
-      "Elements Massage",
       4
     ],
     [
