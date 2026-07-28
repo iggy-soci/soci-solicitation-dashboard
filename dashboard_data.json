@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28 04:16 UTC",
+  "generated_at": "2026-07-28 07:16 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,14 +54,14 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 85,
-      "interested": 85
+      "responses_12mo": 86,
+      "interested": 86
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 65,
-      "interested": 65
+      "responses_12mo": 70,
+      "interested": 70
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,26 +78,26 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 220,
-      "interested": 220
+      "responses_12mo": 228,
+      "interested": 228
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 60,
-      "interested": 60
+      "responses_12mo": 61,
+      "interested": 61
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
       "views_12mo": 0,
-      "responses_12mo": 3,
-      "interested": 3
+      "responses_12mo": 4,
+      "interested": 4
     },
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 115,
-      "interested": 115
+      "responses_12mo": 120,
+      "interested": 120
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -108,23 +108,265 @@
     "Data Management": {
       "guide_id": "YESnj4QI3Np_fsQ1W6_e_jBlJis",
       "views_12mo": 0,
-      "responses_12mo": 0,
-      "interested": 0
+      "responses_12mo": 1,
+      "interested": 1
     },
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 89,
-      "interested": 89
+      "responses_12mo": 95,
+      "interested": 95
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 61,
-      "interested": 61
+      "responses_12mo": 63,
+      "interested": 63
     }
   },
   "contacts": [
+    {
+      "visitor": "276935",
+      "email": "COUNTONTAMI+tami.varricchio@GMAIL.COM",
+      "name": "",
+      "account": "Liberty Tax",
+      "date": "2026-07-28",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "166204",
+      "email": "sophia@bareskinz.biz",
+      "name": "",
+      "account": "Bare Skin Studios",
+      "date": "2026-07-28",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1179092",
+      "email": "spatry@orangetheoryfitness.ca",
+      "name": "",
+      "account": "Orangetheory Fitness Canada",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reporting Suite"
+    },
+    {
+      "visitor": "878837",
+      "email": "Nampa_jump@skyzone.com",
+      "name": "",
+      "account": "Sky Zone",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "278481",
+      "email": "lbiesen@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "891266",
+      "email": "roy.rai@closetfactory.com",
+      "name": "",
+      "account": "Closet Factory",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "712042",
+      "email": "harmony@lasvegasliving.com",
+      "name": "",
+      "account": "Ovation Property Management",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "301631",
+      "email": "rg424r@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "989619",
+      "email": "janeyy@weidner.com",
+      "name": "",
+      "account": "Weidner",
+      "date": "2026-07-27",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "461439",
+      "email": "dkludy@decoratingden.com",
+      "name": "",
+      "account": "Decorating Den Interiors",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1187450",
+      "email": "81marketing@texasroadhouse.com",
+      "name": "",
+      "account": "Texas Roadhouse Holdings LLC",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "713311",
+      "email": "whiteplains@tlechildcare.com",
+      "name": "",
+      "account": "The Learning Experience",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1183132",
+      "email": "swheeler@allegroliving.com",
+      "name": "",
+      "account": "Allegro Senior Living",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "819723",
+      "email": "RanchoSantaMargarita@pinotspalette.com",
+      "name": "",
+      "account": "Pinots",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "461398",
+      "email": "laresafahey@decoratingden.com",
+      "name": "",
+      "account": "Decorating Den Interiors",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "675940",
+      "email": "doscwsmyrna@gmail.com",
+      "name": "",
+      "account": "Candlewood Suites",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1216543",
+      "email": "wesgrasty@gmail.com",
+      "name": "",
+      "account": "Guild Mortgage",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Search"
+    },
+    {
+      "visitor": "1128097",
+      "email": "appianterrace@winnco.com",
+      "name": "",
+      "account": "WinnResidential",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "321740",
+      "email": "mx621m@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "293003",
+      "email": "marianahmena+marianna.heredia@gmail.com",
+      "name": "",
+      "account": "Liberty Tax",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "860907",
+      "email": "mschmidt@vetcor.com",
+      "name": "",
+      "account": "Vetcor",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "491345",
+      "email": "huntsville@metrodiner.com",
+      "name": "",
+      "account": "Metro Diner Management",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
     {
       "visitor": "1276914",
       "email": "amg@interconti-tokyo.com",
@@ -135,6 +377,72 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1162401",
+      "email": "wgrasty@guildmortgage.net",
+      "name": "",
+      "account": "Guild Mortgage",
+      "date": "2026-07-27",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Data Management"
+    },
+    {
+      "visitor": "768670",
+      "email": "Shawn.Groen@chsinc.com",
+      "name": "",
+      "account": "Cenex",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "666196",
+      "email": "brusters3d+405@yahoo.com",
+      "name": "",
+      "account": "Bruster's Real Ice Cream",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "510350",
+      "email": "athurman@raintreepartners.com",
+      "name": "",
+      "account": "Raintree Partners",
+      "date": "2026-07-27",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "592215",
+      "email": "Kendall.FL@sylvanlearning.com",
+      "name": "",
+      "account": "Sylvan Learning",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "943306",
+      "email": "susanne.ingram@amazinglashstudio.com",
+      "name": "",
+      "account": "Amazing Lash",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
     },
     {
       "visitor": "1264924",
@@ -157,6 +465,28 @@
       "age_days": 1,
       "sla": "green",
       "area": "AskGenius"
+    },
+    {
+      "visitor": "460810",
+      "email": "hspearland@healthsourcechiro.com",
+      "name": "",
+      "account": "HealthSource Chiropractic",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "698609",
+      "email": "SeekonkMA@anytimefitness.com",
+      "name": "",
+      "account": "Anytime Fitness NA ",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "943596",
@@ -7959,19 +8289,19 @@
     }
   ],
   "level_counts": {
-    "Administrator": 97,
-    "Manager": 614,
+    "Administrator": 100,
+    "Manager": 641,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 111,
+    "green": 141,
     "amber": 520,
     "red": 81
   },
-  "total_interested": 712,
+  "total_interested": 742,
   "oldest_age": 362,
   "repeat_accounts": [
     [
@@ -7980,11 +8310,11 @@
     ],
     [
       "Willow Bridge Property Company ",
-      20
+      21
     ],
     [
       "AT&T",
-      19
+      21
     ],
     [
       "RPM Living",
@@ -8003,6 +8333,14 @@
       13
     ],
     [
+      "Anytime Fitness NA ",
+      12
+    ],
+    [
+      "Sky Zone",
+      11
+    ],
+    [
       "Subway - North America",
       11
     ],
@@ -8011,11 +8349,15 @@
       11
     ],
     [
-      "Anytime Fitness NA ",
-      11
+      "The Learning Experience",
+      10
     ],
     [
-      "Sky Zone",
+      "Vetcor",
+      10
+    ],
+    [
+      "Sylvan Learning",
       10
     ],
     [
@@ -8027,15 +8369,11 @@
       10
     ],
     [
+      "Texas Roadhouse Holdings LLC",
+      9
+    ],
+    [
       "Discovery Marketing Group, LLC dba STAT Marketing",
-      9
-    ],
-    [
-      "The Learning Experience",
-      9
-    ],
-    [
-      "Vetcor",
       9
     ],
     [
@@ -8047,16 +8385,8 @@
       9
     ],
     [
-      "Sylvan Learning",
-      9
-    ],
-    [
       "Holiday Inn Express",
       9
-    ],
-    [
-      "Texas Roadhouse Holdings LLC",
-      8
     ],
     [
       "Mill Creek Residential ",
@@ -8065,6 +8395,10 @@
     [
       "Ford",
       8
+    ],
+    [
+      "Bruster's Real Ice Cream",
+      7
     ],
     [
       "Capital Square Living",
@@ -8080,10 +8414,6 @@
     ],
     [
       "Pedego Electric Bikes",
-      6
-    ],
-    [
-      "Bruster's Real Ice Cream",
       6
     ],
     [
@@ -8105,6 +8435,18 @@
     [
       "Forty Winks | The Pistol",
       6
+    ],
+    [
+      "Orangetheory Fitness Canada",
+      5
+    ],
+    [
+      "Decorating Den Interiors",
+      5
+    ],
+    [
+      "Guild Mortgage",
+      5
     ],
     [
       "Elements Massage",
@@ -8136,10 +8478,6 @@
     ],
     [
       "Balfour Beatty Communities ",
-      4
-    ],
-    [
-      "Orangetheory Fitness Canada",
       4
     ],
     [
@@ -8183,7 +8521,27 @@
       4
     ],
     [
-      "Decorating Den Interiors",
+      "Liberty Tax",
+      3
+    ],
+    [
+      "Ovation Property Management",
+      3
+    ],
+    [
+      "Weidner",
+      3
+    ],
+    [
+      "Candlewood Suites",
+      3
+    ],
+    [
+      "WinnResidential",
+      3
+    ],
+    [
+      "HealthSource Chiropractic",
       3
     ],
     [
@@ -8235,10 +8593,6 @@
       3
     ],
     [
-      "Guild Mortgage",
-      3
-    ],
-    [
       "Urban Air - Unleashed Brands",
       3
     ],
@@ -8259,11 +8613,15 @@
       3
     ],
     [
-      "EverLine",
+      "Metro Diner Management",
       2
     ],
     [
-      "Ovation Property Management",
+      "Amazing Lash",
+      2
+    ],
+    [
+      "EverLine",
       2
     ],
     [
@@ -8272,10 +8630,6 @@
     ],
     [
       "Bell Partners",
-      2
-    ],
-    [
-      "Weidner",
       2
     ],
     [
@@ -8296,10 +8650,6 @@
     ],
     [
       "Oxford Learning",
-      2
-    ],
-    [
-      "HealthSource Chiropractic",
       2
     ],
     [
@@ -8328,10 +8678,6 @@
     ],
     [
       "Jersey Mike's Subs",
-      2
-    ],
-    [
-      "WinnResidential",
       2
     ],
     [
@@ -8428,10 +8774,6 @@
     ],
     [
       "Luma Residential",
-      2
-    ],
-    [
-      "Candlewood Suites",
       2
     ],
     [
