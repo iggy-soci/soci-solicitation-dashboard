@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29 15:10 UTC",
+  "generated_at": "2026-07-29 16:50 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -780,7 +780,7 @@
       "name": "",
       "account": "Pedego Electric Bikes",
       "date": "2026-07-26",
-      "user_level": "Manager",
+      "user_level": "Unknown",
       "age_days": 3,
       "sla": "green",
       "area": "Genius Reviews"
@@ -8543,11 +8543,11 @@
   ],
   "level_counts": {
     "Administrator": 101,
-    "Manager": 663,
+    "Manager": 662,
     "User": 0
   },
   "level_counts_extra": {
-    "Unknown": 1
+    "Unknown": 2
   },
   "sla_counts": {
     "green": 138,
