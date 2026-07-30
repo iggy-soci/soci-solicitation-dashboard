@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30 05:45 UTC",
+  "generated_at": "2026-07-30 08:33 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 74,
-      "interested": 74
+      "responses_12mo": 77,
+      "interested": 77
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 234,
-      "interested": 234
+      "responses_12mo": 246,
+      "interested": 246
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 62,
-      "interested": 62
+      "responses_12mo": 66,
+      "interested": 66
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 122,
-      "interested": 122
+      "responses_12mo": 124,
+      "interested": 124
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,314 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 97,
-      "interested": 97
+      "responses_12mo": 103,
+      "interested": 103
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 71,
-      "interested": 71
+      "responses_12mo": 74,
+      "interested": 74
     }
   },
   "contacts": [
+    {
+      "visitor": "1163494",
+      "email": "kinline@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-07-30",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1128760",
+      "email": "katiefranks+3075956@tprsold.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-07-30",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "878828",
+      "email": "birmingham_jump@skyzone.com",
+      "name": "",
+      "account": "Sky Zone",
+      "date": "2026-07-30",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "949153",
+      "email": "folsomca@stretchzone.com",
+      "name": "",
+      "account": "Stretch Zone Franchising, LLC ",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1212522",
+      "email": "ali.koljenovic@aimbridge.com",
+      "name": "",
+      "account": "voco",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "713577",
+      "email": "139marketing@texasroadhouse.com",
+      "name": "",
+      "account": "Texas Roadhouse Holdings LLC",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "633218",
+      "email": "silva.m+3061151@ewm.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "984256",
+      "email": "agent@cillatravel.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "963793",
+      "email": "296marketing@texasroadhouse.com",
+      "name": "",
+      "account": "Texas Roadhouse Holdings LLC",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "35209",
+      "email": "Corsa@dolben.com",
+      "name": "",
+      "account": "The Dolben Company ",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1275189",
+      "email": "ashleighm@weidner.com",
+      "name": "",
+      "account": "Weidner",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "707408",
+      "email": "nancy.johnson@svmjanitorialsolutions.com",
+      "name": "",
+      "account": "ServiceMaster Clean",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1064246",
+      "email": "jackie.morgan@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "450159",
+      "email": "vueparkwest@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1208090",
+      "email": "bedfordhillsmgr@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1069493",
+      "email": "imtgulfstream@imtresidential.com",
+      "name": "",
+      "account": "IMT Residential",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "992120",
+      "email": "carlos.nieves@skyzone.com",
+      "name": "",
+      "account": "Sky Zone",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "300061",
+      "email": "mary.moore@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1044494",
+      "email": "cmiller@lynd.com",
+      "name": "",
+      "account": "Lynd",
+      "date": "2026-07-29",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1163165",
+      "email": "kafischer@orangetheoryfitness.com",
+      "name": "",
+      "account": "Orangetheory Fitness",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "861172",
+      "email": "parkslopeny@woofgangbakery.com",
+      "name": "",
+      "account": "Woof Gang Bakery & Grooming",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "840155",
+      "email": "kimneel059+kim.neel@gmail.com",
+      "name": "",
+      "account": "Liberty Tax",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "296500",
+      "email": "ajedres85+alberto.tapia01@gmail.com",
+      "name": "",
+      "account": "Liberty Tax",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1221981",
+      "email": "lyla.edwards@hteao.com",
+      "name": "",
+      "account": "HTeaO",
+      "date": "2026-07-29",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1261735",
+      "email": "138595@sso.subway.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "864812",
+      "email": "Emily.Holt@janmangroup.com",
+      "name": "",
+      "account": "Nothing Bundt Cakes",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1274144",
+      "email": "1702501@sso.subway.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
     {
       "visitor": "712066",
       "email": "jamesboyd@fortywinks.com.au",
@@ -135,6 +432,39 @@
       "age_days": 1,
       "sla": "green",
       "area": "AskGenius"
+    },
+    {
+      "visitor": "1002949",
+      "email": "jkatzsoci@dilldinkers.com",
+      "name": "",
+      "account": "Dill Dinkers",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1211110",
+      "email": "tx.fl.lmc@aqua-tots.com",
+      "name": "",
+      "account": "Aqua-Tots Swim Schools ",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "825152",
+      "email": "shane.rutledge@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "419519",
@@ -8542,28 +8872,28 @@
     }
   ],
   "level_counts": {
-    "Administrator": 102,
-    "Manager": 662,
+    "Administrator": 104,
+    "Manager": 690,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 109,
+    "green": 139,
     "amber": 575,
     "red": 81
   },
-  "total_interested": 765,
+  "total_interested": 795,
   "oldest_age": 364,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
-      32
+      33
     ],
     [
       "Willow Bridge Property Company ",
-      26
+      28
     ],
     [
       "AT&T",
@@ -8574,6 +8904,22 @@
       17
     ],
     [
+      "Cruise Planners | CP Elite",
+      16
+    ],
+    [
+      "Berkshire Hathaway HomeServices",
+      15
+    ],
+    [
+      "Sky Zone",
+      13
+    ],
+    [
+      "Subway - North America",
+      13
+    ],
+    [
       "Anytime Fitness NA ",
       13
     ],
@@ -8582,16 +8928,16 @@
       13
     ],
     [
-      "Cruise Planners | CP Elite",
-      13
-    ],
-    [
-      "Berkshire Hathaway HomeServices",
-      13
-    ],
-    [
       "Cruise Planners | CP Pro",
       12
+    ],
+    [
+      "Texas Roadhouse Holdings LLC",
+      11
+    ],
+    [
+      "Nothing Bundt Cakes",
+      11
     ],
     [
       "Sylvan Learning",
@@ -8602,12 +8948,8 @@
       11
     ],
     [
-      "Sky Zone",
-      11
-    ],
-    [
-      "Subway - North America",
-      11
+      "Woof Gang Bakery & Grooming",
+      10
     ],
     [
       "Neighborly",
@@ -8618,23 +8960,15 @@
       10
     ],
     [
-      "Nothing Bundt Cakes",
-      10
-    ],
-    [
       "Pet Supplies Plus",
       10
     ],
     [
-      "Texas Roadhouse Holdings LLC",
+      "Avenue5 Residential",
       9
     ],
     [
       "Discovery Marketing Group, LLC dba STAT Marketing",
-      9
-    ],
-    [
-      "Woof Gang Bakery & Grooming",
       9
     ],
     [
@@ -8646,16 +8980,16 @@
       8
     ],
     [
-      "Avenue5 Residential",
-      8
-    ],
-    [
       "Mill Creek Residential ",
       8
     ],
     [
       "Ford",
       8
+    ],
+    [
+      "Orangetheory Fitness",
+      7
     ],
     [
       "Forty Winks | The Pistol",
@@ -8674,15 +9008,19 @@
       7
     ],
     [
+      "Stretch Zone Franchising, LLC ",
+      6
+    ],
+    [
+      "Liberty Tax",
+      6
+    ],
+    [
       "Pedego Electric Bikes",
       6
     ],
     [
       "Veterinary Emergency Group",
-      6
-    ],
-    [
-      "Orangetheory Fitness",
       6
     ],
     [
@@ -8722,19 +9060,19 @@
       5
     ],
     [
-      "Stretch Zone Franchising, LLC ",
-      5
-    ],
-    [
       "The Goddard School",
       5
     ],
     [
-      "Any Lab Test Now",
+      "Weidner",
       4
     ],
     [
-      "Liberty Tax",
+      "Dill Dinkers",
+      4
+    ],
+    [
+      "Any Lab Test Now",
       4
     ],
     [
@@ -8782,6 +9120,14 @@
       4
     ],
     [
+      "Lynd",
+      3
+    ],
+    [
+      "Aqua-Tots Swim Schools ",
+      3
+    ],
+    [
       "Jersey Mike's Subs",
       3
     ],
@@ -8795,10 +9141,6 @@
     ],
     [
       "Ovation Property Management",
-      3
-    ],
-    [
-      "Weidner",
       3
     ],
     [
@@ -8838,10 +9180,6 @@
       3
     ],
     [
-      "Dill Dinkers",
-      3
-    ],
-    [
       "Peak Living LLC",
       3
     ],
@@ -8878,6 +9216,18 @@
       3
     ],
     [
+      "voco",
+      2
+    ],
+    [
+      "The Dolben Company ",
+      2
+    ],
+    [
+      "IMT Residential",
+      2
+    ],
+    [
       "Celebree School",
       2
     ],
@@ -8891,10 +9241,6 @@
     ],
     [
       "EverLine",
-      2
-    ],
-    [
-      "Aqua-Tots Swim Schools ",
       2
     ],
     [
@@ -8943,10 +9289,6 @@
     ],
     [
       "MG Properties Group",
-      2
-    ],
-    [
-      "Lynd",
       2
     ],
     [
