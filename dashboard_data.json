@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31 04:01 UTC",
+  "generated_at": "2026-07-31 07:23 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 77,
-      "interested": 77
+      "responses_12mo": 81,
+      "interested": 81
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 246,
-      "interested": 246
+      "responses_12mo": 253,
+      "interested": 253
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 66,
-      "interested": 66
+      "responses_12mo": 68,
+      "interested": 68
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 124,
-      "interested": 124
+      "responses_12mo": 129,
+      "interested": 129
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,61 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 103,
-      "interested": 103
+      "responses_12mo": 104,
+      "interested": 104
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 74,
-      "interested": 74
+      "responses_12mo": 75,
+      "interested": 75
     }
   },
   "contacts": [
+    {
+      "visitor": "409728",
+      "email": "rt925n@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-07-30",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "723294",
+      "email": "188@thebrasstap.com",
+      "name": "",
+      "account": "FSC Franchise Brands",
+      "date": "2026-07-30",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "813956",
+      "email": "jessica.akebrand@skyzone.com",
+      "name": "",
+      "account": "Sky Zone",
+      "date": "2026-07-30",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "994141",
+      "email": "bedminsternj@stretchzone.com",
+      "name": "",
+      "account": "Stretch Zone Franchising, LLC ",
+      "date": "2026-07-30",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
     {
       "visitor": "1163494",
       "email": "kinline@avenue5apt.com",
@@ -135,6 +179,83 @@
       "age_days": 1,
       "sla": "green",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1278451",
+      "email": "arnolddeutschl52@aol.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-30",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "991079",
+      "email": "hereigotravelcompany@gmail.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-30",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1219262",
+      "email": "elizabethurbaniak@bleedblue.net",
+      "name": "",
+      "account": "Culvers",
+      "date": "2026-07-30",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1264958",
+      "email": "rramirez@anterra.com",
+      "name": "",
+      "account": "Anterra",
+      "date": "2026-07-30",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "591958",
+      "email": "RockHill.SC@sylvanlearning.com",
+      "name": "",
+      "account": "Sylvan Learning",
+      "date": "2026-07-30",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1215466",
+      "email": "jamila.hilliard@monarchinvestment.com",
+      "name": "",
+      "account": "Monarch Investment and Management Group",
+      "date": "2026-07-30",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1020784",
+      "email": "b.bogan@keytotheworldtravel.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-30",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
     },
     {
       "visitor": "1128760",
@@ -148,6 +269,28 @@
       "area": "Social"
     },
     {
+      "visitor": "1228187",
+      "email": "west.manison@gb85.com",
+      "name": "",
+      "account": "Griffis Blessing",
+      "date": "2026-07-30",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "943724",
+      "email": "ftbelmont@fitnesstogether.com",
+      "name": "",
+      "account": "Fitness Together",
+      "date": "2026-07-30",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
       "visitor": "878828",
       "email": "birmingham_jump@skyzone.com",
       "name": "",
@@ -157,6 +300,83 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Social"
+    },
+    {
+      "visitor": "1053485",
+      "email": "lamesha.wilson+lamesha.wilson@gmail.com",
+      "name": "",
+      "account": "Liberty Tax",
+      "date": "2026-07-30",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1275189",
+      "email": "ashleighm@weidner.com",
+      "name": "",
+      "account": "Weidner",
+      "date": "2026-07-30",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "911984",
+      "email": "svanegas@nxtmgt.com",
+      "name": "",
+      "account": "Nxt Property Management",
+      "date": "2026-07-30",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1250974",
+      "email": "cmakrigiannis@cogeco.net",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-07-30",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1074132",
+      "email": "mit@corehgp.com",
+      "name": "",
+      "account": "Old Chicago",
+      "date": "2026-07-30",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1267994",
+      "email": "andy.peat@soccer5usa.com",
+      "name": "",
+      "account": "Soccer 5",
+      "date": "2026-07-30",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "993143",
+      "email": "tammy@vacationsyorkton.ca",
+      "name": "",
+      "account": "Travel Leaders Group Canada",
+      "date": "2026-07-30",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "949153",
@@ -8872,24 +9092,24 @@
     }
   ],
   "level_counts": {
-    "Administrator": 103,
-    "Manager": 691,
+    "Administrator": 105,
+    "Manager": 709,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 119,
+    "green": 139,
     "amber": 595,
     "red": 81
   },
-  "total_interested": 795,
+  "total_interested": 815,
   "oldest_age": 365,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
-      33
+      36
     ],
     [
       "Willow Bridge Property Company ",
@@ -8897,7 +9117,7 @@
     ],
     [
       "AT&T",
-      21
+      22
     ],
     [
       "RPM Living",
@@ -8913,11 +9133,11 @@
     ],
     [
       "Sky Zone",
-      13
+      14
     ],
     [
       "Subway - North America",
-      13
+      14
     ],
     [
       "Anytime Fitness NA ",
@@ -8926,6 +9146,10 @@
     [
       "Signarama",
       13
+    ],
+    [
+      "Sylvan Learning",
+      12
     ],
     [
       "Cruise Planners | CP Pro",
@@ -8937,10 +9161,6 @@
     ],
     [
       "Nothing Bundt Cakes",
-      11
-    ],
-    [
-      "Sylvan Learning",
       11
     ],
     [
@@ -8988,6 +9208,14 @@
       8
     ],
     [
+      "Stretch Zone Franchising, LLC ",
+      7
+    ],
+    [
+      "Liberty Tax",
+      7
+    ],
+    [
       "Orangetheory Fitness",
       7
     ],
@@ -9008,14 +9236,6 @@
       7
     ],
     [
-      "Stretch Zone Franchising, LLC ",
-      6
-    ],
-    [
-      "Liberty Tax",
-      6
-    ],
-    [
       "Pedego Electric Bikes",
       6
     ],
@@ -9026,6 +9246,14 @@
     [
       "Pointe Grand",
       6
+    ],
+    [
+      "FSC Franchise Brands",
+      5
+    ],
+    [
+      "Weidner",
+      5
     ],
     [
       "Orangetheory Fitness Canada",
@@ -9064,7 +9292,7 @@
       5
     ],
     [
-      "Weidner",
+      "Travel Leaders Group Canada",
       4
     ],
     [
@@ -9085,10 +9313,6 @@
     ],
     [
       "Pacifica Residential",
-      4
-    ],
-    [
-      "FSC Franchise Brands",
       4
     ],
     [
@@ -9118,6 +9342,10 @@
     [
       "Scooter's Coffee, LLC",
       4
+    ],
+    [
+      "Monarch Investment and Management Group",
+      3
     ],
     [
       "Lynd",
@@ -9168,10 +9396,6 @@
       3
     ],
     [
-      "Travel Leaders Group Canada",
-      3
-    ],
-    [
       "Eggs Up Grill",
       3
     ],
@@ -9214,6 +9438,18 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "Culvers",
+      2
+    ],
+    [
+      "Anterra",
+      2
+    ],
+    [
+      "Fitness Together",
+      2
     ],
     [
       "voco",
@@ -9393,10 +9629,6 @@
     ],
     [
       "The Bainbridge Companies, LLC ",
-      2
-    ],
-    [
-      "Monarch Investment and Management Group",
       2
     ],
     [
