@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01 04:54 UTC",
+  "generated_at": "2026-08-01 07:29 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,20 +54,20 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 86,
-      "interested": 86
+      "responses_12mo": 85,
+      "interested": 85
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 81,
-      "interested": 81
+      "responses_12mo": 82,
+      "interested": 82
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
       "views_12mo": 0,
-      "responses_12mo": 6,
-      "interested": 6
+      "responses_12mo": 7,
+      "interested": 7
     },
     "Surveys": {
       "guide_id": "RLz8F0jmIzDqIwzo7WOPNNHQr4M",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 253,
-      "interested": 253
+      "responses_12mo": 256,
+      "interested": 256
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 68,
-      "interested": 68
+      "responses_12mo": 70,
+      "interested": 70
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 129,
-      "interested": 129
+      "responses_12mo": 131,
+      "interested": 131
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,149 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 104,
-      "interested": 104
+      "responses_12mo": 105,
+      "interested": 105
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 75,
-      "interested": 75
+      "responses_12mo": 77,
+      "interested": 77
     }
   },
   "contacts": [
+    {
+      "visitor": "368760",
+      "email": "bsh_mgr@lakefieldvet.com",
+      "name": "",
+      "account": "Lakefield Veterinary Group",
+      "date": "2026-07-31",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "150892",
+      "email": "kkeltner@soccershots.com",
+      "name": "",
+      "account": "Soccer Shots",
+      "date": "2026-07-31",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Pages"
+    },
+    {
+      "visitor": "967894",
+      "email": "sjennings@lms-realestate.com",
+      "name": "",
+      "account": "LMS Investment Management",
+      "date": "2026-07-31",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "740987",
+      "email": "jaime.lipson+3065757@foxroach.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-07-31",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1028270",
+      "email": "plantationFL@woofgangbakery.com",
+      "name": "",
+      "account": "Woof Gang Bakery & Grooming",
+      "date": "2026-07-31",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "865017",
+      "email": "kgreen@atchealthcare.com",
+      "name": "",
+      "account": "ATC Healthcare Services",
+      "date": "2026-07-31",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "813956",
+      "email": "jessica.akebrand@skyzone.com",
+      "name": "",
+      "account": "Sky Zone",
+      "date": "2026-07-31",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1146425",
+      "email": "nicolette.jaime@livebryten.com",
+      "name": "",
+      "account": "Bryten Management",
+      "date": "2026-07-31",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "980707",
+      "email": "Sandi@servicemasterbycomplete.com",
+      "name": "",
+      "account": "ServiceMaster Restore",
+      "date": "2026-07-31",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1025862",
+      "email": "Erika.Cabrera@assetliving.com",
+      "name": "",
+      "account": "Asset Living",
+      "date": "2026-07-31",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1020664",
+      "email": "vineyardcommonsmgr@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-07-31",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "879773",
+      "email": "info@ardmoreatvance.com",
+      "name": "",
+      "account": "Ardmore Residential ",
+      "date": "2026-07-31",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
     {
       "visitor": "409728",
       "email": "rt925n@att.com",
@@ -9078,34 +9210,23 @@
       "age_days": 354,
       "sla": "red",
       "area": "Reporting Suite"
-    },
-    {
-      "visitor": "778285",
-      "email": "digital.admin@livcor.com",
-      "name": "",
-      "account": "LivCor",
-      "date": "2025-07-31",
-      "user_level": "Administrator",
-      "age_days": 366,
-      "sla": "red",
-      "area": "Reporting Suite"
     }
   ],
   "level_counts": {
-    "Administrator": 105,
-    "Manager": 709,
+    "Administrator": 107,
+    "Manager": 718,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 122,
+    "green": 134,
     "amber": 612,
-    "red": 81
+    "red": 80
   },
-  "total_interested": 815,
-  "oldest_age": 366,
+  "total_interested": 826,
+  "oldest_age": 354,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
@@ -9113,7 +9234,7 @@
     ],
     [
       "Willow Bridge Property Company ",
-      28
+      29
     ],
     [
       "AT&T",
@@ -9124,16 +9245,16 @@
       17
     ],
     [
+      "Berkshire Hathaway HomeServices",
+      16
+    ],
+    [
       "Cruise Planners | CP Elite",
       16
     ],
     [
-      "Berkshire Hathaway HomeServices",
-      15
-    ],
-    [
       "Sky Zone",
-      14
+      15
     ],
     [
       "Subway - North America",
@@ -9156,6 +9277,10 @@
       12
     ],
     [
+      "Woof Gang Bakery & Grooming",
+      11
+    ],
+    [
       "Texas Roadhouse Holdings LLC",
       11
     ],
@@ -9166,10 +9291,6 @@
     [
       "The Learning Experience",
       11
-    ],
-    [
-      "Woof Gang Bakery & Grooming",
-      10
     ],
     [
       "Neighborly",
@@ -9248,6 +9369,10 @@
       6
     ],
     [
+      "Bryten Management",
+      5
+    ],
+    [
       "FSC Franchise Brands",
       5
     ],
@@ -9292,6 +9417,10 @@
       5
     ],
     [
+      "Lakefield Veterinary Group",
+      4
+    ],
+    [
       "Travel Leaders Group Canada",
       4
     ],
@@ -9320,10 +9449,6 @@
       4
     ],
     [
-      "Bryten Management",
-      4
-    ],
-    [
       "Sport Clips",
       4
     ],
@@ -9344,6 +9469,10 @@
       4
     ],
     [
+      "ServiceMaster Restore",
+      3
+    ],
+    [
       "Monarch Investment and Management Group",
       3
     ],
@@ -9357,10 +9486,6 @@
     ],
     [
       "Jersey Mike's Subs",
-      3
-    ],
-    [
-      "Lakefield Veterinary Group",
       3
     ],
     [
@@ -9438,6 +9563,14 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "LMS Investment Management",
+      2
+    ],
+    [
+      "Asset Living",
+      2
     ],
     [
       "Culvers",
@@ -9568,10 +9701,6 @@
       2
     ],
     [
-      "ServiceMaster Restore",
-      2
-    ],
-    [
       "CareBuilders At Home",
       2
     ],
@@ -9633,10 +9762,6 @@
     ],
     [
       "Ricky's All Day Grill",
-      2
-    ],
-    [
-      "LivCor",
       2
     ],
     [
