@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02 06:18 UTC",
+  "generated_at": "2026-08-02 08:55 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,14 +60,14 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 82,
-      "interested": 82
+      "responses_12mo": 83,
+      "interested": 83
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
       "views_12mo": 0,
-      "responses_12mo": 7,
-      "interested": 7
+      "responses_12mo": 9,
+      "interested": 9
     },
     "Surveys": {
       "guide_id": "RLz8F0jmIzDqIwzo7WOPNNHQr4M",
@@ -78,8 +78,8 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 256,
-      "interested": 256
+      "responses_12mo": 259,
+      "interested": 259
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 131,
-      "interested": 131
+      "responses_12mo": 133,
+      "interested": 133
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -120,11 +120,110 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 77,
-      "interested": 77
+      "responses_12mo": 78,
+      "interested": 78
     }
   },
   "contacts": [
+    {
+      "visitor": "858920",
+      "email": "deb@travelwithdeb.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-08-02",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "720764",
+      "email": "rodney.johnson@waxingthecity.com",
+      "name": "",
+      "account": "Waxing the City ",
+      "date": "2026-08-02",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "529976",
+      "email": "camperiekoa@gmail.com",
+      "name": "",
+      "account": "KOA",
+      "date": "2026-08-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1205278",
+      "email": "John@pedegobaltimore.com",
+      "name": "",
+      "account": "Pedego Electric Bikes",
+      "date": "2026-08-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Pages"
+    },
+    {
+      "visitor": "1205303",
+      "email": "pedegoboothbayharbor@gmail.com",
+      "name": "",
+      "account": "Pedego Electric Bikes",
+      "date": "2026-08-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Pages"
+    },
+    {
+      "visitor": "182397",
+      "email": "willie.acree+1063613@bhhsgeorgia.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-08-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1213176",
+      "email": "SmyrnaGA@goddardschools.com",
+      "name": "",
+      "account": "The Goddard School",
+      "date": "2026-08-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "69742",
+      "email": "jeff.page@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-08-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1098092",
+      "email": "Danny.williams@degreewellness.com",
+      "name": "",
+      "account": "Degree Wellness",
+      "date": "2026-08-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
     {
       "visitor": "368760",
       "email": "bsh_mgr@lakefieldvet.com",
@@ -9214,23 +9313,23 @@
   ],
   "level_counts": {
     "Administrator": 107,
-    "Manager": 718,
+    "Manager": 727,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 123,
+    "green": 132,
     "amber": 623,
     "red": 80
   },
-  "total_interested": 826,
+  "total_interested": 835,
   "oldest_age": 355,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
-      36
+      37
     ],
     [
       "Willow Bridge Property Company ",
@@ -9241,16 +9340,16 @@
       22
     ],
     [
-      "RPM Living",
+      "Berkshire Hathaway HomeServices",
       17
     ],
     [
-      "Berkshire Hathaway HomeServices",
-      16
+      "Cruise Planners | CP Elite",
+      17
     ],
     [
-      "Cruise Planners | CP Elite",
-      16
+      "RPM Living",
+      17
     ],
     [
       "Sky Zone",
@@ -9317,6 +9416,10 @@
       9
     ],
     [
+      "Pedego Electric Bikes",
+      8
+    ],
+    [
       "American Freight (MAFGA)",
       8
     ],
@@ -9357,7 +9460,7 @@
       7
     ],
     [
-      "Pedego Electric Bikes",
+      "The Goddard School",
       6
     ],
     [
@@ -9367,6 +9470,10 @@
     [
       "Pointe Grand",
       6
+    ],
+    [
+      "KOA",
+      5
     ],
     [
       "Bryten Management",
@@ -9413,10 +9520,6 @@
       5
     ],
     [
-      "The Goddard School",
-      5
-    ],
-    [
       "Lakefield Veterinary Group",
       4
     ],
@@ -9450,10 +9553,6 @@
     ],
     [
       "Sport Clips",
-      4
-    ],
-    [
-      "KOA",
       4
     ],
     [
@@ -9563,6 +9662,10 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "Degree Wellness",
+      2
     ],
     [
       "LMS Investment Management",
