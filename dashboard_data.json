@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04 04:44 UTC",
+  "generated_at": "2026-08-04 07:42 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 84,
-      "interested": 84
+      "responses_12mo": 88,
+      "interested": 88
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 261,
-      "interested": 261
+      "responses_12mo": 263,
+      "interested": 263
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 73,
-      "interested": 73
+      "responses_12mo": 74,
+      "interested": 74
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,14 +96,14 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 135,
-      "interested": 135
+      "responses_12mo": 140,
+      "interested": 140
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
       "views_12mo": 0,
-      "responses_12mo": 7,
-      "interested": 7
+      "responses_12mo": 8,
+      "interested": 8
     },
     "Data Management": {
       "guide_id": "YESnj4QI3Np_fsQ1W6_e_jBlJis",
@@ -114,17 +114,105 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 105,
-      "interested": 105
+      "responses_12mo": 107,
+      "interested": 107
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 79,
-      "interested": 79
+      "responses_12mo": 84,
+      "interested": 84
     }
   },
   "contacts": [
+    {
+      "visitor": "819730",
+      "email": "sanbruno@pinotspalette.com",
+      "name": "",
+      "account": "Pinots",
+      "date": "2026-08-04",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "475453",
+      "email": "ray.demarco@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Pro",
+      "date": "2026-08-04",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1080799",
+      "email": "capman@lynd.com",
+      "name": "",
+      "account": "Lynd",
+      "date": "2026-08-04",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "712032",
+      "email": "acapella@ovationco.com",
+      "name": "",
+      "account": "Ovation Property Management",
+      "date": "2026-08-03",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1033541",
+      "email": "mp9607@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-08-03",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "67733",
+      "email": "Thorntree.Mgr@adaracommunities.com",
+      "name": "",
+      "account": "Adara Communities ",
+      "date": "2026-08-03",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "48560",
+      "email": "lemontil@anytimefitness.com",
+      "name": "",
+      "account": "Anytime Fitness NA ",
+      "date": "2026-08-03",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1036396",
+      "email": "sroehrig@samtheconcreteman.com",
+      "name": "",
+      "account": "Sam The Concrete Man",
+      "date": "2026-08-03",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
     {
       "visitor": "1131625",
       "email": "Kemi.MacGregorDickson@skyzone.com",
@@ -135,6 +223,138 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Social"
+    },
+    {
+      "visitor": "280326",
+      "email": "alegre@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-08-03",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1020439",
+      "email": "amittower@dilldinkers.com",
+      "name": "",
+      "account": "Dill Dinkers",
+      "date": "2026-08-03",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "303648",
+      "email": "rw7741@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-08-03",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "46242",
+      "email": "wexford@brainbalancecenters.com",
+      "name": "",
+      "account": "Brain Balance Centers ",
+      "date": "2026-08-03",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "78705",
+      "email": "tracyMVP360@gmail.com",
+      "name": "",
+      "account": "Sport Clips",
+      "date": "2026-08-03",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "418200",
+      "email": "JNavarre@monarchinvestment.com",
+      "name": "",
+      "account": "Monarch Investment and Management Group",
+      "date": "2026-08-03",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Listings"
+    },
+    {
+      "visitor": "958567",
+      "email": "clata@overdriveinteractive.com",
+      "name": "",
+      "account": "Life Time",
+      "date": "2026-08-03",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1229484",
+      "email": "ymuddesser@lightbridgeacademy.com",
+      "name": "",
+      "account": "Lightbridge Academy",
+      "date": "2026-08-03",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1281654",
+      "email": "Charles.Ruston@skyzone.com",
+      "name": "",
+      "account": "Sky Zone",
+      "date": "2026-08-03",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "961283",
+      "email": "battlefieldcrossingasstmgr@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-08-03",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "77168",
+      "email": "akroncanton.owner@mollymaid.com",
+      "name": "",
+      "account": "Neighborly",
+      "date": "2026-08-03",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "869080",
+      "email": "kelvintallerelectronica@gmail.com",
+      "name": "",
+      "account": "Anytime Fitness NA ",
+      "date": "2026-08-03",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "69742",
@@ -9411,19 +9631,19 @@
     }
   ],
   "level_counts": {
-    "Administrator": 107,
-    "Manager": 736,
+    "Administrator": 108,
+    "Manager": 755,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 105,
+    "green": 125,
     "amber": 659,
     "red": 80
   },
-  "total_interested": 844,
+  "total_interested": 864,
   "oldest_age": 357,
   "repeat_accounts": [
     [
@@ -9432,15 +9652,19 @@
     ],
     [
       "Willow Bridge Property Company ",
-      29
+      30
     ],
     [
       "AT&T",
-      22
+      24
     ],
     [
       "Cruise Planners | CP Elite",
       19
+    ],
+    [
+      "Sky Zone",
+      17
     ],
     [
       "Berkshire Hathaway HomeServices",
@@ -9451,19 +9675,19 @@
       17
     ],
     [
-      "Sky Zone",
-      16
+      "Anytime Fitness NA ",
+      15
     ],
     [
       "Subway - North America",
       14
     ],
     [
-      "Sylvan Learning",
+      "Cruise Planners | CP Pro",
       13
     ],
     [
-      "Anytime Fitness NA ",
+      "Sylvan Learning",
       13
     ],
     [
@@ -9475,8 +9699,8 @@
       12
     ],
     [
-      "Cruise Planners | CP Pro",
-      12
+      "Neighborly",
+      11
     ],
     [
       "Texas Roadhouse Holdings LLC",
@@ -9491,7 +9715,7 @@
       11
     ],
     [
-      "Neighborly",
+      "Avenue5 Residential",
       10
     ],
     [
@@ -9503,16 +9727,16 @@
       10
     ],
     [
-      "Avenue5 Residential",
-      9
-    ],
-    [
       "Discovery Marketing Group, LLC dba STAT Marketing",
       9
     ],
     [
       "Holiday Inn Express",
       9
+    ],
+    [
+      "Adara Communities ",
+      8
     ],
     [
       "Pedego Electric Bikes",
@@ -9547,10 +9771,6 @@
       7
     ],
     [
-      "Adara Communities ",
-      7
-    ],
-    [
       "Bruster's Real Ice Cream",
       7
     ],
@@ -9573,6 +9793,14 @@
     [
       "Pointe Grand",
       6
+    ],
+    [
+      "Dill Dinkers",
+      5
+    ],
+    [
+      "Sport Clips",
+      5
     ],
     [
       "KOA",
@@ -9619,15 +9847,27 @@
       5
     ],
     [
+      "Lynd",
+      4
+    ],
+    [
+      "Ovation Property Management",
+      4
+    ],
+    [
+      "Monarch Investment and Management Group",
+      4
+    ],
+    [
+      "Lightbridge Academy",
+      4
+    ],
+    [
       "Lakefield Veterinary Group",
       4
     ],
     [
       "Travel Leaders Group Canada",
-      4
-    ],
-    [
-      "Dill Dinkers",
       4
     ],
     [
@@ -9651,10 +9891,6 @@
       4
     ],
     [
-      "Sport Clips",
-      4
-    ],
-    [
       "HomeWell Care Services",
       4
     ],
@@ -9671,14 +9907,6 @@
       3
     ],
     [
-      "Monarch Investment and Management Group",
-      3
-    ],
-    [
-      "Lynd",
-      3
-    ],
-    [
       "Aqua-Tots Swim Schools ",
       3
     ],
@@ -9688,10 +9916,6 @@
     ],
     [
       "Sunridge Management ",
-      3
-    ],
-    [
-      "Ovation Property Management",
       3
     ],
     [
@@ -9712,10 +9936,6 @@
     ],
     [
       "Arlington Properties",
-      3
-    ],
-    [
-      "Lightbridge Academy",
       3
     ],
     [
@@ -9761,6 +9981,18 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "Pinots",
+      2
+    ],
+    [
+      "Sam The Concrete Man",
+      2
+    ],
+    [
+      "Brain Balance Centers ",
+      2
     ],
     [
       "Sharkey's Cuts for Kids",
