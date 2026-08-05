@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05 06:31 UTC",
+  "generated_at": "2026-08-05 09:38 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,14 +60,14 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 88,
-      "interested": 88
+      "responses_12mo": 92,
+      "interested": 92
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
       "views_12mo": 0,
-      "responses_12mo": 9,
-      "interested": 9
+      "responses_12mo": 10,
+      "interested": 10
     },
     "Surveys": {
       "guide_id": "RLz8F0jmIzDqIwzo7WOPNNHQr4M",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 263,
-      "interested": 263
+      "responses_12mo": 267,
+      "interested": 267
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 74,
-      "interested": 74
+      "responses_12mo": 76,
+      "interested": 76
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 140,
-      "interested": 140
+      "responses_12mo": 149,
+      "interested": 149
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,61 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 107,
-      "interested": 107
+      "responses_12mo": 108,
+      "interested": 108
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 84,
-      "interested": 84
+      "responses_12mo": 86,
+      "interested": 86
     }
   },
   "contacts": [
+    {
+      "visitor": "67673",
+      "email": "arborvillage.mgr@adaracommunities.com",
+      "name": "",
+      "account": "Adara Communities ",
+      "date": "2026-08-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "54661",
+      "email": "HuffmanTX@anytimefitness.com",
+      "name": "",
+      "account": "Anytime Fitness NA ",
+      "date": "2026-08-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1207875",
+      "email": "sierra.rommel@vetcor.com",
+      "name": "",
+      "account": "Vetcor",
+      "date": "2026-08-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "993647",
+      "email": "erin@wrdc.net",
+      "name": "",
+      "account": "Oak Hill Management",
+      "date": "2026-08-04",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
     {
       "visitor": "819730",
       "email": "sanbruno@pinotspalette.com",
@@ -137,6 +181,83 @@
       "area": "Reviews (Reputation)"
     },
     {
+      "visitor": "338025",
+      "email": "sh602r@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-08-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Pages"
+    },
+    {
+      "visitor": "935454",
+      "email": "memami@thelittlegym.com",
+      "name": "",
+      "account": "The Little Gym",
+      "date": "2026-08-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "912219",
+      "email": "Andrew.Braden@sylvanlearning.com",
+      "name": "",
+      "account": "Snapology",
+      "date": "2026-08-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "541281",
+      "email": "katy@colormemine.com",
+      "name": "",
+      "account": "Color Me Mine LLC",
+      "date": "2026-08-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1144675",
+      "email": "vibesvacation@verizon.net",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-08-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "92433",
+      "email": "liz@teriyakimadness.com",
+      "name": "",
+      "account": "Teriyaki Madness",
+      "date": "2026-08-04",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1277953",
+      "email": "nyaina@tworld.com",
+      "name": "",
+      "account": "Transworld Business Advisors ",
+      "date": "2026-08-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
       "visitor": "475453",
       "email": "ray.demarco@cruiseplanners.com",
       "name": "",
@@ -146,6 +267,138 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Social"
+    },
+    {
+      "visitor": "1118551",
+      "email": "NY523.gm@gocarwash.com",
+      "name": "",
+      "account": "GO Car Wash",
+      "date": "2026-08-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "838165",
+      "email": "colinaspointe@anterra.com",
+      "name": "",
+      "account": "Anterra",
+      "date": "2026-08-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1034026",
+      "email": "merrymaids@merrymaids346.com",
+      "name": "",
+      "account": "Merry Maids",
+      "date": "2026-08-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "659362",
+      "email": "jportera@nolahotelgroup.com",
+      "name": "",
+      "account": "voco",
+      "date": "2026-08-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1179085",
+      "email": "vviglasky@orangetheoryfitness.ca",
+      "name": "",
+      "account": "Orangetheory Fitness Canada",
+      "date": "2026-08-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1210066",
+      "email": "Kate.q@otterlearning.com",
+      "name": "",
+      "account": "Otter Learning",
+      "date": "2026-08-04",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "82225",
+      "email": "thecaruthmgr@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-08-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1074518",
+      "email": "samanthabailey2045@gmail.com",
+      "name": "",
+      "account": "US Egg Brunch + Cocktails | Olo Sync Management",
+      "date": "2026-08-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "943565",
+      "email": "analydiashooks@elementsmassage.com",
+      "name": "",
+      "account": "Elements Massage",
+      "date": "2026-08-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "276471",
+      "email": "hendersonlibertytax+tavarus.young@hotmail.com",
+      "name": "",
+      "account": "Liberty Tax",
+      "date": "2026-08-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1182844",
+      "email": "rpaisley@orangetheoryfitness.ca",
+      "name": "",
+      "account": "Orangetheory Fitness Canada",
+      "date": "2026-08-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "673234",
+      "email": "cdbell@wnwfranchise.com",
+      "name": "",
+      "account": "Wag N Wash",
+      "date": "2026-08-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "1080799",
@@ -9631,32 +9884,32 @@
     }
   ],
   "level_counts": {
-    "Administrator": 109,
-    "Manager": 754,
+    "Administrator": 112,
+    "Manager": 774,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 101,
+    "green": 124,
     "amber": 683,
     "red": 80
   },
-  "total_interested": 864,
+  "total_interested": 887,
   "oldest_age": 358,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
-      38
+      39
     ],
     [
       "Willow Bridge Property Company ",
-      30
+      31
     ],
     [
       "AT&T",
-      24
+      25
     ],
     [
       "Cruise Planners | CP Elite",
@@ -9676,7 +9929,7 @@
     ],
     [
       "Anytime Fitness NA ",
-      15
+      16
     ],
     [
       "Subway - North America",
@@ -9699,6 +9952,10 @@
       12
     ],
     [
+      "Vetcor",
+      11
+    ],
+    [
       "Neighborly",
       11
     ],
@@ -9719,12 +9976,12 @@
       10
     ],
     [
-      "Vetcor",
+      "Pet Supplies Plus",
       10
     ],
     [
-      "Pet Supplies Plus",
-      10
+      "Adara Communities ",
+      9
     ],
     [
       "Discovery Marketing Group, LLC dba STAT Marketing",
@@ -9735,7 +9992,7 @@
       9
     ],
     [
-      "Adara Communities ",
+      "Liberty Tax",
       8
     ],
     [
@@ -9755,11 +10012,15 @@
       8
     ],
     [
-      "Stretch Zone Franchising, LLC ",
+      "Orangetheory Fitness Canada",
       7
     ],
     [
-      "Liberty Tax",
+      "Elements Massage",
+      7
+    ],
+    [
+      "Stretch Zone Franchising, LLC ",
       7
     ],
     [
@@ -9779,10 +10040,6 @@
       7
     ],
     [
-      "Elements Massage",
-      6
-    ],
-    [
       "The Goddard School",
       6
     ],
@@ -9793,6 +10050,10 @@
     [
       "Pointe Grand",
       6
+    ],
+    [
+      "Teriyaki Madness",
+      5
     ],
     [
       "Dill Dinkers",
@@ -9819,10 +10080,6 @@
       5
     ],
     [
-      "Orangetheory Fitness Canada",
-      5
-    ],
-    [
       "Decorating Den Interiors",
       5
     ],
@@ -9845,6 +10102,10 @@
     [
       "Comparion",
       5
+    ],
+    [
+      "Oak Hill Management",
+      4
     ],
     [
       "Lynd",
@@ -9879,10 +10140,6 @@
       4
     ],
     [
-      "Teriyaki Madness",
-      4
-    ],
-    [
       "Pacifica Residential",
       4
     ],
@@ -9901,6 +10158,26 @@
     [
       "Scooter's Coffee, LLC",
       4
+    ],
+    [
+      "Color Me Mine LLC",
+      3
+    ],
+    [
+      "GO Car Wash",
+      3
+    ],
+    [
+      "Anterra",
+      3
+    ],
+    [
+      "voco",
+      3
+    ],
+    [
+      "Otter Learning",
+      3
     ],
     [
       "ServiceMaster Restore",
@@ -9955,10 +10232,6 @@
       3
     ],
     [
-      "Oak Hill Management",
-      3
-    ],
-    [
       "TWO MEN AND A TRUCK",
       3
     ],
@@ -9984,6 +10257,26 @@
     ],
     [
       "Pinots",
+      2
+    ],
+    [
+      "The Little Gym",
+      2
+    ],
+    [
+      "Snapology",
+      2
+    ],
+    [
+      "Transworld Business Advisors ",
+      2
+    ],
+    [
+      "Merry Maids",
+      2
+    ],
+    [
+      "Wag N Wash",
       2
     ],
     [
@@ -10019,15 +10312,7 @@
       2
     ],
     [
-      "Anterra",
-      2
-    ],
-    [
       "Fitness Together",
-      2
-    ],
-    [
-      "voco",
       2
     ],
     [
@@ -10123,10 +10408,6 @@
       2
     ],
     [
-      "Color Me Mine LLC",
-      2
-    ],
-    [
       "Beavercreek Marketing",
       2
     ],
@@ -10147,15 +10428,7 @@
       2
     ],
     [
-      "GO Car Wash",
-      2
-    ],
-    [
       "i9 Sports",
-      2
-    ],
-    [
-      "Otter Learning",
       2
     ],
     [
