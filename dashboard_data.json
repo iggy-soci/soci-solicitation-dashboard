@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06 04:15 UTC",
+  "generated_at": "2026-08-06 07:17 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 92,
-      "interested": 92
+      "responses_12mo": 93,
+      "interested": 93
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 267,
-      "interested": 267
+      "responses_12mo": 271,
+      "interested": 271
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 76,
-      "interested": 76
+      "responses_12mo": 78,
+      "interested": 78
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,14 +96,14 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 149,
-      "interested": 149
+      "responses_12mo": 153,
+      "interested": 153
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
       "views_12mo": 0,
-      "responses_12mo": 8,
-      "interested": 8
+      "responses_12mo": 9,
+      "interested": 9
     },
     "Data Management": {
       "guide_id": "YESnj4QI3Np_fsQ1W6_e_jBlJis",
@@ -114,17 +114,182 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 108,
-      "interested": 108
+      "responses_12mo": 110,
+      "interested": 110
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 86,
-      "interested": 86
+      "responses_12mo": 87,
+      "interested": 87
     }
   },
   "contacts": [
+    {
+      "visitor": "1254515",
+      "email": "substantialfood@hotmail.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-08-06",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "419211",
+      "email": "Woodforest@ChildrensLighthouse.com",
+      "name": "",
+      "account": "Children's Lighthouse Franchise Company",
+      "date": "2026-08-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1012583",
+      "email": "canterberrya@hlcmail.com",
+      "name": "",
+      "account": "Huntington Learning Centers ",
+      "date": "2026-08-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "64972",
+      "email": "fountainviewplaza@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-08-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "20124",
+      "email": "lynbrookleasing@morganproperties.com",
+      "name": "",
+      "account": "Morgan Properties",
+      "date": "2026-08-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "655088",
+      "email": "lgibson@littlekickers.ca",
+      "name": "",
+      "account": "Little Kickers",
+      "date": "2026-08-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "3650",
+      "email": "ctolen@caseusa.com",
+      "name": "",
+      "account": "Case and Associates Properties, Inc.",
+      "date": "2026-08-05",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1035344",
+      "email": "leasingmanager.ue@fortispm.com",
+      "name": "",
+      "account": "Fortis Property Management",
+      "date": "2026-08-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "43156",
+      "email": "Icon@gre-m.com",
+      "name": "",
+      "account": "GRE Management LLC ",
+      "date": "2026-08-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "381432",
+      "email": "Rlewis@wng.com",
+      "name": "",
+      "account": "Western National Property Management ",
+      "date": "2026-08-05",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1080813",
+      "email": "lcrman@lynd.com",
+      "name": "",
+      "account": "Lynd",
+      "date": "2026-08-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1279498",
+      "email": "f.kallinger@novum-hospitality.com",
+      "name": "",
+      "account": "Garner",
+      "date": "2026-08-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1276668",
+      "email": "karissa.mercier@flint-group.com",
+      "name": "",
+      "account": "Flint Direct",
+      "date": "2026-08-05",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Listings"
+    },
+    {
+      "visitor": "1206484",
+      "email": "TWest@villagegreen.com",
+      "name": "",
+      "account": "Village Green Companies",
+      "date": "2026-08-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "400447",
+      "email": "KSanders@elevationpropertymanagement.com",
+      "name": "",
+      "account": "Elevation",
+      "date": "2026-08-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
     {
       "visitor": "67673",
       "email": "arborvillage.mgr@adaracommunities.com",
@@ -9884,19 +10049,19 @@
     }
   ],
   "level_counts": {
-    "Administrator": 112,
-    "Manager": 774,
+    "Administrator": 115,
+    "Manager": 786,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 96,
+    "green": 111,
     "amber": 710,
     "red": 81
   },
-  "total_interested": 887,
+  "total_interested": 902,
   "oldest_age": 359,
   "repeat_accounts": [
     [
@@ -9905,7 +10070,7 @@
     ],
     [
       "Willow Bridge Property Company ",
-      31
+      32
     ],
     [
       "AT&T",
@@ -9933,7 +10098,7 @@
     ],
     [
       "Subway - North America",
-      14
+      15
     ],
     [
       "Cruise Planners | CP Pro",
@@ -10052,6 +10217,14 @@
       6
     ],
     [
+      "Fortis Property Management",
+      5
+    ],
+    [
+      "Lynd",
+      5
+    ],
+    [
       "Teriyaki Madness",
       5
     ],
@@ -10108,10 +10281,6 @@
       4
     ],
     [
-      "Lynd",
-      4
-    ],
-    [
       "Ovation Property Management",
       4
     ],
@@ -10144,10 +10313,6 @@
       4
     ],
     [
-      "Fortis Property Management",
-      4
-    ],
-    [
       "HomeWell Care Services",
       4
     ],
@@ -10158,6 +10323,22 @@
     [
       "Scooter's Coffee, LLC",
       4
+    ],
+    [
+      "Children's Lighthouse Franchise Company",
+      3
+    ],
+    [
+      "Huntington Learning Centers ",
+      3
+    ],
+    [
+      "Garner",
+      3
+    ],
+    [
+      "Village Green Companies",
+      3
     ],
     [
       "Color Me Mine LLC",
@@ -10256,6 +10437,14 @@
       3
     ],
     [
+      "Little Kickers",
+      2
+    ],
+    [
+      "Case and Associates Properties, Inc.",
+      2
+    ],
+    [
       "Pinots",
       2
     ],
@@ -10344,10 +10533,6 @@
       2
     ],
     [
-      "Huntington Learning Centers ",
-      2
-    ],
-    [
       "E.C. Barton",
       2
     ],
@@ -10361,10 +10546,6 @@
     ],
     [
       "Oxford Learning",
-      2
-    ],
-    [
-      "Village Green Companies",
       2
     ],
     [
@@ -10401,10 +10582,6 @@
     ],
     [
       "Marco's Pizza",
-      2
-    ],
-    [
-      "Children's Lighthouse Franchise Company",
       2
     ],
     [
@@ -10477,10 +10654,6 @@
     ],
     [
       "Ricky's All Day Grill",
-      2
-    ],
-    [
-      "Garner",
       2
     ]
   ],
