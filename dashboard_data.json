@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07 07:22 UTC",
+  "generated_at": "2026-08-07 08:34 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 95,
-      "interested": 95
+      "responses_12mo": 96,
+      "interested": 96
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -125,6 +125,17 @@
     }
   },
   "contacts": [
+    {
+      "visitor": "1173780",
+      "email": "napa@groceryoutlet.com",
+      "name": "",
+      "account": "Grocery Outlet",
+      "date": "2026-08-07",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
     {
       "visitor": "1272954",
       "email": "diby@urbanairjacksonvillesouth.com",
@@ -10314,18 +10325,18 @@
   ],
   "level_counts": {
     "Administrator": 117,
-    "Manager": 808,
+    "Manager": 809,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 112,
+    "green": 113,
     "amber": 622,
     "red": 192
   },
-  "total_interested": 926,
+  "total_interested": 927,
   "oldest_age": 360,
   "repeat_accounts": [
     [
@@ -10605,6 +10616,10 @@
       4
     ],
     [
+      "Grocery Outlet",
+      3
+    ],
+    [
       "Highmark Residential",
       3
     ],
@@ -10718,10 +10733,6 @@
     ],
     [
       "Rent-A-Center",
-      2
-    ],
-    [
-      "Grocery Outlet",
       2
     ],
     [
