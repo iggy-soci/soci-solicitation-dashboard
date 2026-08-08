@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08 06:07 UTC",
+  "generated_at": "2026-08-08 07:30 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,14 +60,14 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 96,
-      "interested": 96
+      "responses_12mo": 97,
+      "interested": 97
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
       "views_12mo": 0,
-      "responses_12mo": 10,
-      "interested": 10
+      "responses_12mo": 11,
+      "interested": 11
     },
     "Surveys": {
       "guide_id": "RLz8F0jmIzDqIwzo7WOPNNHQr4M",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 279,
-      "interested": 279
+      "responses_12mo": 283,
+      "interested": 283
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 79,
-      "interested": 79
+      "responses_12mo": 80,
+      "interested": 80
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 159,
-      "interested": 159
+      "responses_12mo": 165,
+      "interested": 165
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,28 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 112,
-      "interested": 112
+      "responses_12mo": 113,
+      "interested": 113
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 91,
-      "interested": 91
+      "responses_12mo": 94,
+      "interested": 94
     }
   },
   "contacts": [
+    {
+      "visitor": "1195093",
+      "email": "Grace.Weah@liveatinland.com",
+      "name": "",
+      "account": "Inland Residential Real Estate Services",
+      "date": "2026-08-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
     {
       "visitor": "1173780",
       "email": "napa@groceryoutlet.com",
@@ -135,6 +146,182 @@
       "age_days": 1,
       "sla": "green",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1186619",
+      "email": "arantxa.lituma@burnbootcamp.com",
+      "name": "",
+      "account": "Burn Boot Camp",
+      "date": "2026-08-07",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Pages"
+    },
+    {
+      "visitor": "491203",
+      "email": "bannerwestfield@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-08-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1117629",
+      "email": "FalconLeasing@valiantresidential.com",
+      "name": "",
+      "account": "Valiant Residential",
+      "date": "2026-08-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "163508",
+      "email": "HamptonPA@goddardschools.com",
+      "name": "",
+      "account": "The Goddard School",
+      "date": "2026-08-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "830232",
+      "email": "doug@tri-statetravel.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-08-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1212608",
+      "email": "miriam.olmos@adaracommunities.com",
+      "name": "",
+      "account": "Adara Communities ",
+      "date": "2026-08-07",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1250664",
+      "email": "hemantkash@gmail.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-08-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "518571",
+      "email": "imtwoodranch@imtresidential.com",
+      "name": "",
+      "account": "IMT Residential",
+      "date": "2026-08-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "421594",
+      "email": "mavenwheaton@havenresidential.com",
+      "name": "",
+      "account": "29th Street Living",
+      "date": "2026-08-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "312031",
+      "email": "sr5252@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-08-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1204801",
+      "email": "northhills1@fgcompanies.com",
+      "name": "",
+      "account": "Franklin Group",
+      "date": "2026-08-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1279534",
+      "email": "dirk.dahlhaus@hi-dus-city.de",
+      "name": "",
+      "account": "Holiday Inn",
+      "date": "2026-08-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1276147",
+      "email": "4134870@sso.subway.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-08-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "68576",
+      "email": "garnet_brooks@hotmail.com",
+      "name": "",
+      "account": "Stretch Zone Franchising, LLC ",
+      "date": "2026-08-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "143162",
+      "email": "WindsorSquare@gres.com",
+      "name": "",
+      "account": "Guardian Real Estate Services LLC",
+      "date": "2026-08-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1216024",
+      "email": "charlene.fox@monarchinvestment.com",
+      "name": "",
+      "account": "Monarch Investment and Management Group",
+      "date": "2026-08-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "1272954",
@@ -10324,32 +10511,36 @@
     }
   ],
   "level_counts": {
-    "Administrator": 117,
-    "Manager": 809,
+    "Administrator": 119,
+    "Manager": 824,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 101,
+    "green": 118,
     "amber": 533,
     "red": 293
   },
-  "total_interested": 927,
+  "total_interested": 944,
   "oldest_age": 361,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
-      39
+      40
     ],
     [
       "Willow Bridge Property Company ",
-      32
+      33
     ],
     [
       "AT&T",
-      25
+      26
+    ],
+    [
+      "Subway - North America",
+      19
     ],
     [
       "Cruise Planners | CP Elite",
@@ -10358,10 +10549,6 @@
     [
       "Sky Zone",
       18
-    ],
-    [
-      "Subway - North America",
-      17
     ],
     [
       "Berkshire Hathaway HomeServices",
@@ -10416,12 +10603,12 @@
       11
     ],
     [
-      "Pet Supplies Plus",
+      "Adara Communities ",
       10
     ],
     [
-      "Adara Communities ",
-      9
+      "Pet Supplies Plus",
+      10
     ],
     [
       "Discovery Marketing Group, LLC dba STAT Marketing",
@@ -10430,6 +10617,10 @@
     [
       "Holiday Inn Express",
       9
+    ],
+    [
+      "Stretch Zone Franchising, LLC ",
+      8
     ],
     [
       "Liberty Tax",
@@ -10452,6 +10643,10 @@
       8
     ],
     [
+      "The Goddard School",
+      7
+    ],
+    [
       "Pointe Grand",
       7
     ],
@@ -10461,10 +10656,6 @@
     ],
     [
       "Elements Massage",
-      7
-    ],
-    [
-      "Stretch Zone Franchising, LLC ",
       7
     ],
     [
@@ -10488,12 +10679,16 @@
       6
     ],
     [
-      "The Goddard School",
+      "VEG ER for Pets",
       6
     ],
     [
-      "VEG ER for Pets",
-      6
+      "Holiday Inn",
+      5
+    ],
+    [
+      "Monarch Investment and Management Group",
+      5
     ],
     [
       "Urban Air - Unleashed Brands",
@@ -10564,11 +10759,11 @@
       5
     ],
     [
-      "Garner",
+      "29th Street Living",
       4
     ],
     [
-      "Holiday Inn",
+      "Garner",
       4
     ],
     [
@@ -10577,10 +10772,6 @@
     ],
     [
       "Ovation Property Management",
-      4
-    ],
-    [
-      "Monarch Investment and Management Group",
       4
     ],
     [
@@ -10617,6 +10808,10 @@
     ],
     [
       "Grocery Outlet",
+      3
+    ],
+    [
+      "IMT Residential",
       3
     ],
     [
@@ -10712,12 +10907,16 @@
       3
     ],
     [
-      "29th Street Living",
+      "CIP Communities",
       3
     ],
     [
-      "CIP Communities",
-      3
+      "Burn Boot Camp",
+      2
+    ],
+    [
+      "Guardian Real Estate Services LLC",
+      2
     ],
     [
       "Raintree Partners",
@@ -10805,10 +11004,6 @@
     ],
     [
       "The Dolben Company ",
-      2
-    ],
-    [
-      "IMT Residential",
       2
     ],
     [
