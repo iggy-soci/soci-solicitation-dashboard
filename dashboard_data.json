@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08 15:33 UTC",
+  "generated_at": "2026-08-08 16:38 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -2067,7 +2067,7 @@
       "name": "",
       "account": "Subway - North America",
       "date": "2026-07-29",
-      "user_level": "Manager",
+      "user_level": "Unknown",
       "age_days": 10,
       "sla": "amber",
       "area": "AskGenius"
@@ -10512,11 +10512,11 @@
   ],
   "level_counts": {
     "Administrator": 119,
-    "Manager": 824,
+    "Manager": 823,
     "User": 0
   },
   "level_counts_extra": {
-    "Unknown": 1
+    "Unknown": 2
   },
   "sla_counts": {
     "green": 118,
