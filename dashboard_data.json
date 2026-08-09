@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09 06:09 UTC",
+  "generated_at": "2026-08-09 07:34 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 283,
-      "interested": 283
+      "responses_12mo": 285,
+      "interested": 285
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 80,
-      "interested": 80
+      "responses_12mo": 83,
+      "interested": 83
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -125,6 +125,61 @@
     }
   },
   "contacts": [
+    {
+      "visitor": "1173780",
+      "email": "napa@groceryoutlet.com",
+      "name": "",
+      "account": "Grocery Outlet",
+      "date": "2026-08-09",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1214201",
+      "email": "rsadler@soccershots.com",
+      "name": "",
+      "account": "Soccer Shots",
+      "date": "2026-08-08",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "460980",
+      "email": "maureen.vonminden@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-08-08",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "721900",
+      "email": "parag.kulkarni@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Pro",
+      "date": "2026-08-08",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1173770",
+      "email": "bishop@groceryoutlet.com",
+      "name": "",
+      "account": "Grocery Outlet",
+      "date": "2026-08-08",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
     {
       "visitor": "1195093",
       "email": "Grace.Weah@liveatinland.com",
@@ -10512,18 +10567,18 @@
   ],
   "level_counts": {
     "Administrator": 119,
-    "Manager": 823,
+    "Manager": 828,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 2
   },
   "sla_counts": {
-    "green": 111,
+    "green": 116,
     "amber": 494,
     "red": 339
   },
-  "total_interested": 944,
+  "total_interested": 949,
   "oldest_age": 362,
   "repeat_accounts": [
     [
@@ -10539,11 +10594,11 @@
       26
     ],
     [
-      "Subway - North America",
-      19
+      "Cruise Planners | CP Elite",
+      20
     ],
     [
-      "Cruise Planners | CP Elite",
+      "Subway - North America",
       19
     ],
     [
@@ -10564,7 +10619,7 @@
     ],
     [
       "Cruise Planners | CP Pro",
-      13
+      14
     ],
     [
       "Sylvan Learning",
@@ -10681,6 +10736,10 @@
     [
       "VEG ER for Pets",
       6
+    ],
+    [
+      "Grocery Outlet",
+      5
     ],
     [
       "Holiday Inn",
@@ -10807,10 +10866,6 @@
       4
     ],
     [
-      "Grocery Outlet",
-      3
-    ],
-    [
       "IMT Residential",
       3
     ],
@@ -10909,6 +10964,10 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "Soccer Shots",
+      2
     ],
     [
       "Burn Boot Camp",
