@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10 05:55 UTC",
+  "generated_at": "2026-08-10 07:51 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,14 +54,14 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 85,
-      "interested": 85
+      "responses_12mo": 86,
+      "interested": 86
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 97,
-      "interested": 97
+      "responses_12mo": 99,
+      "interested": 99
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,8 +78,8 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 285,
-      "interested": 285
+      "responses_12mo": 286,
+      "interested": 286
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 165,
-      "interested": 165
+      "responses_12mo": 167,
+      "interested": 167
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -126,6 +126,61 @@
   },
   "contacts": [
     {
+      "visitor": "1279685",
+      "email": "gaurav.apte@ihg.com",
+      "name": "",
+      "account": "Crowne Plaza",
+      "date": "2026-08-10",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Reporting Suite"
+    },
+    {
+      "visitor": "1279686",
+      "email": "rahul.bhatt@ihg.com",
+      "name": "",
+      "account": "Holiday Inn Express",
+      "date": "2026-08-10",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1229706",
+      "email": "verdevistamgr@greystar.com",
+      "name": "",
+      "account": "Sunroad Enterprises",
+      "date": "2026-08-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1279705",
+      "email": "walid.haddad@ihg.com",
+      "name": "",
+      "account": "InterContinental",
+      "date": "2026-08-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "747663",
+      "email": "asavitch@uniquetravelevents.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-08-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
       "visitor": "1173780",
       "email": "napa@groceryoutlet.com",
       "name": "",
@@ -135,6 +190,17 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Social"
+    },
+    {
+      "visitor": "949290",
+      "email": "maghrabio@hlcmail.com",
+      "name": "",
+      "account": "Huntington Learning Centers ",
+      "date": "2026-08-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
     },
     {
       "visitor": "1214201",
@@ -10567,23 +10633,23 @@
   ],
   "level_counts": {
     "Administrator": 119,
-    "Manager": 828,
+    "Manager": 834,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 2
   },
   "sla_counts": {
-    "green": 106,
+    "green": 112,
     "amber": 471,
     "red": 372
   },
-  "total_interested": 949,
+  "total_interested": 955,
   "oldest_age": 363,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
-      40
+      41
     ],
     [
       "Willow Bridge Property Company ",
@@ -10658,6 +10724,10 @@
       11
     ],
     [
+      "Holiday Inn Express",
+      10
+    ],
+    [
       "Adara Communities ",
       10
     ],
@@ -10667,10 +10737,6 @@
     ],
     [
       "Discovery Marketing Group, LLC dba STAT Marketing",
-      9
-    ],
-    [
-      "Holiday Inn Express",
       9
     ],
     [
@@ -10818,6 +10884,10 @@
       5
     ],
     [
+      "Huntington Learning Centers ",
+      4
+    ],
+    [
       "29th Street Living",
       4
     ],
@@ -10875,10 +10945,6 @@
     ],
     [
       "Children's Lighthouse Franchise Company",
-      3
-    ],
-    [
-      "Huntington Learning Centers ",
       3
     ],
     [
@@ -10964,6 +11030,14 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "Sunroad Enterprises",
+      2
+    ],
+    [
+      "InterContinental",
+      2
     ],
     [
       "Soccer Shots",
