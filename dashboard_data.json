@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12 05:56 UTC",
+  "generated_at": "2026-08-12 07:43 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 101,
-      "interested": 101
+      "responses_12mo": 102,
+      "interested": 102
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 293,
-      "interested": 293
+      "responses_12mo": 297,
+      "interested": 297
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 86,
-      "interested": 86
+      "responses_12mo": 87,
+      "interested": 87
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 173,
-      "interested": 173
+      "responses_12mo": 177,
+      "interested": 177
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,160 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 113,
-      "interested": 113
+      "responses_12mo": 114,
+      "interested": 114
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 98,
-      "interested": 98
+      "responses_12mo": 100,
+      "interested": 100
     }
   },
   "contacts": [
+    {
+      "visitor": "431827",
+      "email": "david.blary@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Pro",
+      "date": "2026-08-12",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1165611",
+      "email": "bandyraymond@gmail.com",
+      "name": "",
+      "account": "Woof Gang Bakery & Grooming",
+      "date": "2026-08-12",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1283920",
+      "email": "Arushi.khanna@ihg.com",
+      "name": "",
+      "account": "voco",
+      "date": "2026-08-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "380186",
+      "email": "hearthstonehomesokc@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-08-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "373539",
+      "email": "hearthstonehomesmoore@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-08-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "967638",
+      "email": "pserediuk@smrestore.ca",
+      "name": "",
+      "account": "ServiceMaster Restore",
+      "date": "2026-08-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "394534",
+      "email": "djamisonpa@goddardschools.com",
+      "name": "",
+      "account": "The Goddard School",
+      "date": "2026-08-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1033953",
+      "email": "david.lazarus@merrymaids.pro",
+      "name": "",
+      "account": "Merry Maids",
+      "date": "2026-08-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1033968",
+      "email": "betty.kowal@merrymaids.pro",
+      "name": "",
+      "account": "Merry Maids",
+      "date": "2026-08-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "296884",
+      "email": "veronica.barela@gb85.com",
+      "name": "",
+      "account": "Griffis Blessing",
+      "date": "2026-08-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1069965",
+      "email": "caleb.a.casas@salata.com",
+      "name": "",
+      "account": "Salata",
+      "date": "2026-08-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1223548",
+      "email": "frontdeskfarnorthdallas@gmail.com",
+      "name": "",
+      "account": "The Only Facial",
+      "date": "2026-08-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "792105",
+      "email": "Marrissa@mtncreek.com",
+      "name": "",
+      "account": "MountainCreek Properties",
+      "date": "2026-08-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
     {
       "visitor": "68591",
       "email": "mariamacarenapelaezalcala@gmail.com",
@@ -10875,18 +11018,18 @@
   ],
   "level_counts": {
     "Administrator": 121,
-    "Manager": 855,
+    "Manager": 868,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 90,
+    "green": 103,
     "amber": 489,
     "red": 398
   },
-  "total_interested": 977,
+  "total_interested": 990,
   "oldest_age": 365,
   "repeat_accounts": [
     [
@@ -10906,12 +11049,12 @@
       21
     ],
     [
-      "Subway - North America",
-      19
+      "RPM Living",
+      20
     ],
     [
-      "RPM Living",
-      18
+      "Subway - North America",
+      19
     ],
     [
       "Sky Zone",
@@ -10926,12 +11069,16 @@
       17
     ],
     [
+      "Cruise Planners | CP Pro",
+      15
+    ],
+    [
       "Sylvan Learning",
       14
     ],
     [
-      "Cruise Planners | CP Pro",
-      14
+      "Woof Gang Bakery & Grooming",
+      13
     ],
     [
       "Texas Roadhouse Holdings LLC",
@@ -10947,10 +11094,6 @@
     ],
     [
       "Neighborly",
-      12
-    ],
-    [
-      "Woof Gang Bakery & Grooming",
       12
     ],
     [
@@ -10986,6 +11129,10 @@
       9
     ],
     [
+      "The Goddard School",
+      8
+    ],
+    [
       "Liberty Tax",
       8
     ],
@@ -11004,10 +11151,6 @@
     [
       "Ford",
       8
-    ],
-    [
-      "The Goddard School",
-      7
     ],
     [
       "Pointe Grand",
@@ -11052,6 +11195,10 @@
     [
       "VEG ER for Pets",
       6
+    ],
+    [
+      "voco",
+      5
     ],
     [
       "Grocery Outlet",
@@ -11126,15 +11273,19 @@
       5
     ],
     [
+      "ServiceMaster Restore",
+      4
+    ],
+    [
+      "Merry Maids",
+      4
+    ],
+    [
       "Peak Living LLC",
       4
     ],
     [
       "Color Me Mine LLC",
-      4
-    ],
-    [
-      "voco",
       4
     ],
     [
@@ -11222,10 +11373,6 @@
       3
     ],
     [
-      "ServiceMaster Restore",
-      3
-    ],
-    [
       "Aqua-Tots Swim Schools ",
       3
     ],
@@ -11276,6 +11423,10 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "Griffis Blessing",
+      2
     ],
     [
       "Shoot 360",
@@ -11335,10 +11486,6 @@
     ],
     [
       "Transworld Business Advisors ",
-      2
-    ],
-    [
-      "Merry Maids",
       2
     ],
     [
