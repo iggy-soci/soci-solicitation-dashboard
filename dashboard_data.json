@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13 06:57 UTC",
+  "generated_at": "2026-08-13 08:37 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,14 +54,14 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 86,
-      "interested": 86
+      "responses_12mo": 84,
+      "interested": 84
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 102,
-      "interested": 102
+      "responses_12mo": 107,
+      "interested": 107
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 297,
-      "interested": 297
+      "responses_12mo": 303,
+      "interested": 303
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 87,
-      "interested": 87
+      "responses_12mo": 89,
+      "interested": 89
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 177,
-      "interested": 177
+      "responses_12mo": 183,
+      "interested": 183
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,171 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 114,
-      "interested": 114
+      "responses_12mo": 115,
+      "interested": 115
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 100,
-      "interested": 100
+      "responses_12mo": 102,
+      "interested": 102
     }
   },
   "contacts": [
+    {
+      "visitor": "1283211",
+      "email": "info@royalserenetravel.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-08-13",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "232412",
+      "email": "psp4198@petsuppliesplus.com",
+      "name": "",
+      "account": "Pet Supplies Plus",
+      "date": "2026-08-13",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "781620",
+      "email": "thefairway@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-08-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1053485",
+      "email": "lamesha.wilson+lamesha.wilson@gmail.com",
+      "name": "",
+      "account": "Liberty Tax",
+      "date": "2026-08-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1253830",
+      "email": "sudipny@gmail.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-08-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1033968",
+      "email": "betty.kowal@merrymaids.pro",
+      "name": "",
+      "account": "Merry Maids",
+      "date": "2026-08-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1206118",
+      "email": "marketing.saoha1@ihg.com",
+      "name": "",
+      "account": "InterContinental",
+      "date": "2026-08-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1272045",
+      "email": "nbass+3079687@bhhstx.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-08-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "820408",
+      "email": "melanie+3067919@homesale.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-08-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1228570",
+      "email": "connect@travelagentgreenville.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-08-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "980639",
+      "email": "kgrizzaffi@catpractice.com",
+      "name": "",
+      "account": "Veterinary Practice Partners",
+      "date": "2026-08-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "869529",
+      "email": "highlands.am@westwood-apartments.com",
+      "name": "",
+      "account": "Westwood Residential Company ",
+      "date": "2026-08-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "595920",
+      "email": "holbrookmanager@icocommunities.com",
+      "name": "",
+      "account": "ICO Companies",
+      "date": "2026-08-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1067397",
+      "email": "manager@villagelaurelmeadows.com",
+      "name": "",
+      "account": "Bryten Management",
+      "date": "2026-08-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
     {
       "visitor": "431827",
       "email": "david.blary@cruiseplanners.com",
@@ -137,6 +291,61 @@
       "area": "Genius Social"
     },
     {
+      "visitor": "92433",
+      "email": "liz@teriyakimadness.com",
+      "name": "",
+      "account": "Teriyaki Madness",
+      "date": "2026-08-12",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "344691",
+      "email": "dc562d@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-08-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1177896",
+      "email": "sales@hielacey.com",
+      "name": "",
+      "account": "Holiday Inn Express",
+      "date": "2026-08-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "818894",
+      "email": "mgoertz@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-08-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1282313",
+      "email": "LindseyByrne@atlashotels.co.uk",
+      "name": "",
+      "account": "Holiday Inn Express",
+      "date": "2026-08-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
       "visitor": "1165611",
       "email": "bandyraymond@gmail.com",
       "name": "",
@@ -146,6 +355,39 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Reviews"
+    },
+    {
+      "visitor": "747629",
+      "email": "cpemberton@drivewayne.com",
+      "name": "",
+      "account": "Ford",
+      "date": "2026-08-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "783117",
+      "email": "info@FremontHillsSeniorLiving.com",
+      "name": "",
+      "account": "Discovery Marketing Group, LLC dba STAT Marketing",
+      "date": "2026-08-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1183163",
+      "email": "ktarley@jonesstreet.com",
+      "name": "",
+      "account": "Jones Street Residential ",
+      "date": "2026-08-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "1283920",
@@ -10992,69 +11234,51 @@
       "age_days": 363,
       "sla": "red",
       "area": "Reporting Suite"
-    },
-    {
-      "visitor": "997727",
-      "email": "josephine.cicolini+3073079@penfedrealty.com",
-      "name": "",
-      "account": "Berkshire Hathaway HomeServices",
-      "date": "2025-08-12",
-      "user_level": "Manager",
-      "age_days": 366,
-      "sla": "red",
-      "area": "Reporting Suite"
-    },
-    {
-      "visitor": "1004451",
-      "email": "gmhilkelc@gmail.com",
-      "name": "",
-      "account": "Holiday Inn",
-      "date": "2025-08-12",
-      "user_level": "Manager",
-      "age_days": 366,
-      "sla": "red",
-      "area": "Reporting Suite"
     }
   ],
   "level_counts": {
-    "Administrator": 121,
-    "Manager": 868,
+    "Administrator": 122,
+    "Manager": 887,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 89,
+    "green": 111,
     "amber": 474,
-    "red": 427
+    "red": 425
   },
-  "total_interested": 990,
-  "oldest_age": 366,
+  "total_interested": 1010,
+  "oldest_age": 363,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
-      42
+      44
     ],
     [
       "Willow Bridge Property Company ",
-      36
+      37
     ],
     [
       "AT&T",
-      27
+      28
+    ],
+    [
+      "RPM Living",
+      21
     ],
     [
       "Cruise Planners | CP Elite",
       21
     ],
     [
-      "RPM Living",
+      "Subway - North America",
       20
     ],
     [
-      "Subway - North America",
-      19
+      "Berkshire Hathaway HomeServices",
+      18
     ],
     [
       "Sky Zone",
@@ -11062,10 +11286,6 @@
     ],
     [
       "Anytime Fitness NA ",
-      17
-    ],
-    [
-      "Berkshire Hathaway HomeServices",
       17
     ],
     [
@@ -11089,12 +11309,20 @@
       13
     ],
     [
+      "Holiday Inn Express",
+      12
+    ],
+    [
       "The Learning Experience",
       12
     ],
     [
       "Neighborly",
       12
+    ],
+    [
+      "Pet Supplies Plus",
+      11
     ],
     [
       "Avenue5 Residential",
@@ -11109,7 +11337,7 @@
       11
     ],
     [
-      "Holiday Inn Express",
+      "Discovery Marketing Group, LLC dba STAT Marketing",
       10
     ],
     [
@@ -11117,23 +11345,19 @@
       10
     ],
     [
-      "Pet Supplies Plus",
-      10
+      "Liberty Tax",
+      9
+    ],
+    [
+      "Ford",
+      9
     ],
     [
       "Stretch Zone Franchising, LLC ",
       9
     ],
     [
-      "Discovery Marketing Group, LLC dba STAT Marketing",
-      9
-    ],
-    [
       "The Goddard School",
-      8
-    ],
-    [
-      "Liberty Tax",
       8
     ],
     [
@@ -11149,8 +11373,8 @@
       8
     ],
     [
-      "Ford",
-      8
+      "Bryten Management",
+      7
     ],
     [
       "Pointe Grand",
@@ -11181,6 +11405,10 @@
       7
     ],
     [
+      "Teriyaki Madness",
+      6
+    ],
+    [
       "Weidner",
       6
     ],
@@ -11189,12 +11417,12 @@
       6
     ],
     [
-      "Bryten Management",
+      "VEG ER for Pets",
       6
     ],
     [
-      "VEG ER for Pets",
-      6
+      "Merry Maids",
+      5
     ],
     [
       "voco",
@@ -11202,10 +11430,6 @@
     ],
     [
       "Grocery Outlet",
-      5
-    ],
-    [
-      "Holiday Inn",
       5
     ],
     [
@@ -11230,10 +11454,6 @@
     ],
     [
       "Lynd",
-      5
-    ],
-    [
-      "Teriyaki Madness",
       5
     ],
     [
@@ -11277,10 +11497,6 @@
       4
     ],
     [
-      "Merry Maids",
-      4
-    ],
-    [
       "Peak Living LLC",
       4
     ],
@@ -11294,6 +11510,10 @@
     ],
     [
       "29th Street Living",
+      4
+    ],
+    [
+      "Holiday Inn",
       4
     ],
     [
@@ -11339,6 +11559,10 @@
     [
       "Scooter's Coffee, LLC",
       4
+    ],
+    [
+      "InterContinental",
+      3
     ],
     [
       "The Little Gym",
@@ -11425,6 +11649,18 @@
       3
     ],
     [
+      "Veterinary Practice Partners",
+      2
+    ],
+    [
+      "Westwood Residential Company ",
+      2
+    ],
+    [
+      "Jones Street Residential ",
+      2
+    ],
+    [
       "Griffis Blessing",
       2
     ],
@@ -11434,10 +11670,6 @@
     ],
     [
       "Sunroad Enterprises",
-      2
-    ],
-    [
-      "InterContinental",
       2
     ],
     [
