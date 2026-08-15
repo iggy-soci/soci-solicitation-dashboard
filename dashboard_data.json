@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15 06:44 UTC",
+  "generated_at": "2026-08-15 07:33 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 109,
-      "interested": 109
+      "responses_12mo": 111,
+      "interested": 111
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -84,8 +84,8 @@
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 91,
-      "interested": 91
+      "responses_12mo": 93,
+      "interested": 93
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 185,
-      "interested": 185
+      "responses_12mo": 189,
+      "interested": 189
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -120,11 +120,110 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 106,
-      "interested": 106
+      "responses_12mo": 107,
+      "interested": 107
     }
   },
   "contacts": [
+    {
+      "visitor": "1251695",
+      "email": "keshuv@kkcorp.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-08-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "946988",
+      "email": "santaclaritamgr@amazinglashstudio.com",
+      "name": "",
+      "account": "Amazing Lash",
+      "date": "2026-08-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1033649",
+      "email": "melody.gardiner@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Pro",
+      "date": "2026-08-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "782533",
+      "email": "sarah.waterman@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-08-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "137954",
+      "email": "jake@chronictacos.com",
+      "name": "",
+      "account": "Chronic Tacos",
+      "date": "2026-08-14",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "675080",
+      "email": "nrussell@homewellcares.com",
+      "name": "",
+      "account": "HomeWell Care Services",
+      "date": "2026-08-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1004534",
+      "email": "OnyxUptown@ca-mgmt.com",
+      "name": "",
+      "account": "Chamberlin Associates",
+      "date": "2026-08-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1265039",
+      "email": "nathalieoudin@veg.com",
+      "name": "",
+      "account": "VEG ER for Pets",
+      "date": "2026-08-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1157160",
+      "email": "jmccrory@rtgroupproperties.com",
+      "name": "",
+      "account": "MRD Apartments",
+      "date": "2026-08-14",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
     {
       "visitor": "161821",
       "email": "L2uptownmgr@willowbridgepc.com",
@@ -11413,19 +11512,19 @@
     }
   ],
   "level_counts": {
-    "Administrator": 121,
-    "Manager": 904,
+    "Administrator": 123,
+    "Manager": 911,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 84,
+    "green": 93,
     "amber": 445,
     "red": 497
   },
-  "total_interested": 1026,
+  "total_interested": 1035,
   "oldest_age": 365,
   "repeat_accounts": [
     [
@@ -11441,16 +11540,16 @@
       28
     ],
     [
-      "RPM Living",
-      21
-    ],
-    [
       "Cruise Planners | CP Elite",
-      21
+      22
     ],
     [
       "Subway - North America",
-      20
+      21
+    ],
+    [
+      "RPM Living",
+      21
     ],
     [
       "Sky Zone",
@@ -11466,7 +11565,7 @@
     ],
     [
       "Cruise Planners | CP Pro",
-      15
+      16
     ],
     [
       "Sylvan Learning",
@@ -11553,6 +11652,10 @@
       8
     ],
     [
+      "VEG ER for Pets",
+      7
+    ],
+    [
       "Bryten Management",
       7
     ],
@@ -11597,8 +11700,8 @@
       6
     ],
     [
-      "VEG ER for Pets",
-      6
+      "HomeWell Care Services",
+      5
     ],
     [
       "Holiday Inn",
@@ -11725,16 +11828,20 @@
       4
     ],
     [
-      "HomeWell Care Services",
-      4
-    ],
-    [
       "American Freight NewCo",
       4
     ],
     [
       "Scooter's Coffee, LLC",
       4
+    ],
+    [
+      "Amazing Lash",
+      3
+    ],
+    [
+      "Chamberlin Associates",
+      3
     ],
     [
       "Kiddie Academy",
@@ -11831,6 +11938,10 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "MRD Apartments",
+      2
     ],
     [
       "Freeman Webb",
@@ -11957,10 +12068,6 @@
       2
     ],
     [
-      "Amazing Lash",
-      2
-    ],
-    [
       "EverLine",
       2
     ],
@@ -11994,10 +12101,6 @@
     ],
     [
       "MG Properties Group",
-      2
-    ],
-    [
-      "Chamberlin Associates",
       2
     ],
     [
