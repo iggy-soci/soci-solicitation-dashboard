@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16 06:45 UTC",
+  "generated_at": "2026-08-16 07:34 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,14 +54,14 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 84,
-      "interested": 84
+      "responses_12mo": 83,
+      "interested": 83
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 111,
-      "interested": 111
+      "responses_12mo": 113,
+      "interested": 113
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 189,
-      "interested": 189
+      "responses_12mo": 190,
+      "interested": 190
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,94 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 117,
-      "interested": 117
+      "responses_12mo": 118,
+      "interested": 118
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 107,
-      "interested": 107
+      "responses_12mo": 110,
+      "interested": 110
     }
   },
   "contacts": [
+    {
+      "visitor": "590724",
+      "email": "cmackinnon@thelashlounge.com",
+      "name": "",
+      "account": "The Lash Lounge",
+      "date": "2026-08-16",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1196874",
+      "email": "midwilshireca@woofgangbakery.com",
+      "name": "",
+      "account": "Woof Gang Bakery & Grooming",
+      "date": "2026-08-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "510491",
+      "email": "413@beefobradys.com",
+      "name": "",
+      "account": "FSC Franchise Brands",
+      "date": "2026-08-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "136318",
+      "email": "kal@crestpointco.com",
+      "name": "",
+      "account": "SocialSaiya",
+      "date": "2026-08-15",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1253809",
+      "email": "p.lutfor@yahoo.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-08-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1070393",
+      "email": "store1015@americanfreight.us",
+      "name": "",
+      "account": "American Freight NewCo",
+      "date": "2026-08-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1066204",
+      "email": "Emilycornell@nitugroup.com",
+      "name": "",
+      "account": "Nothing Bundt Cakes",
+      "date": "2026-08-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
     {
       "visitor": "1251695",
       "email": "keshuv@kkcorp.com",
@@ -11498,34 +11575,23 @@
       "age_days": 361,
       "sla": "red",
       "area": "Reporting Suite"
-    },
-    {
-      "visitor": "1013988",
-      "email": "hsisson@bbcgrp.com",
-      "name": "",
-      "account": "Balfour Beatty Communities ",
-      "date": "2025-08-15",
-      "user_level": "Manager",
-      "age_days": 366,
-      "sla": "red",
-      "area": "Reporting Suite"
     }
   ],
   "level_counts": {
-    "Administrator": 123,
-    "Manager": 911,
+    "Administrator": 124,
+    "Manager": 916,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 89,
+    "green": 96,
     "amber": 417,
-    "red": 529
+    "red": 528
   },
-  "total_interested": 1035,
-  "oldest_age": 366,
+  "total_interested": 1041,
+  "oldest_age": 361,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
@@ -11540,12 +11606,12 @@
       28
     ],
     [
-      "Cruise Planners | CP Elite",
+      "Subway - North America",
       22
     ],
     [
-      "Subway - North America",
-      21
+      "Cruise Planners | CP Elite",
+      22
     ],
     [
       "RPM Living",
@@ -11568,12 +11634,12 @@
       16
     ],
     [
-      "Sylvan Learning",
+      "Woof Gang Bakery & Grooming",
       14
     ],
     [
-      "Woof Gang Bakery & Grooming",
-      13
+      "Sylvan Learning",
+      14
     ],
     [
       "Texas Roadhouse Holdings LLC",
@@ -11582,6 +11648,10 @@
     [
       "Signarama",
       13
+    ],
+    [
+      "Nothing Bundt Cakes",
+      12
     ],
     [
       "Avenue5 Residential",
@@ -11605,10 +11675,6 @@
     ],
     [
       "Vetcor",
-      11
-    ],
-    [
-      "Nothing Bundt Cakes",
       11
     ],
     [
@@ -11684,6 +11750,10 @@
       7
     ],
     [
+      "FSC Franchise Brands",
+      6
+    ],
+    [
       "Grocery Outlet",
       6
     ],
@@ -11698,6 +11768,10 @@
     [
       "BrightStar Care ",
       6
+    ],
+    [
+      "American Freight NewCo",
+      5
     ],
     [
       "HomeWell Care Services",
@@ -11749,10 +11823,6 @@
     ],
     [
       "KOA",
-      5
-    ],
-    [
-      "FSC Franchise Brands",
       5
     ],
     [
@@ -11820,15 +11890,7 @@
       4
     ],
     [
-      "Balfour Beatty Communities ",
-      4
-    ],
-    [
       "Pacifica Residential",
-      4
-    ],
-    [
-      "American Freight NewCo",
       4
     ],
     [
@@ -11908,6 +11970,10 @@
       3
     ],
     [
+      "Balfour Beatty Communities ",
+      3
+    ],
+    [
       "Sheng Raamco Management Inc",
       3
     ],
@@ -11938,6 +12004,14 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "The Lash Lounge",
+      2
+    ],
+    [
+      "SocialSaiya",
+      2
     ],
     [
       "MRD Apartments",
