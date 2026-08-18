@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18 20:52 UTC",
+  "generated_at": "2026-08-18 21:28 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -78,8 +78,8 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 0,
-      "interested": 0
+      "responses_12mo": 311,
+      "interested": 311
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
@@ -125,6 +125,17 @@
     }
   },
   "contacts": [
+    {
+      "visitor": "89529",
+      "email": "RiversideCA@goddardschools.com",
+      "name": "",
+      "account": "The Goddard School",
+      "date": "2026-08-18",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
     {
       "visitor": "1251307",
       "email": "zahidm61@hotmail.com",
@@ -190,6 +201,39 @@
       "age_days": 1,
       "sla": "green",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1124517",
+      "email": "k.binge@waterwingsswimschool.com",
+      "name": "",
+      "account": "Water Wings Swim School",
+      "date": "2026-08-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1217030",
+      "email": "Zaki.Kamandy@milkshakefactory.com",
+      "name": "",
+      "account": "Milkshake Factory",
+      "date": "2026-08-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "92433",
+      "email": "liz@teriyakimadness.com",
+      "name": "",
+      "account": "Teriyaki Madness",
+      "date": "2026-08-17",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
     },
     {
       "visitor": "1255670",
@@ -566,6 +610,61 @@
       "area": "Reviews (Reputation)"
     },
     {
+      "visitor": "1277464",
+      "email": "jennifer@gotravelpros.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-08-13",
+      "user_level": "Manager",
+      "age_days": 5,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1272683",
+      "email": "rich.carter@mobilityworks.com",
+      "name": "",
+      "account": "MobilityWorks",
+      "date": "2026-08-13",
+      "user_level": "Manager",
+      "age_days": 5,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "366720",
+      "email": "ileana.diaz@kiddieacademy.net",
+      "name": "",
+      "account": "Kiddie Academy",
+      "date": "2026-08-13",
+      "user_level": "Manager",
+      "age_days": 5,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "106885",
+      "email": "sm.05055@rentacenter.com",
+      "name": "",
+      "account": "Rent-A-Center",
+      "date": "2026-08-13",
+      "user_level": "Manager",
+      "age_days": 5,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1283211",
+      "email": "info@royalserenetravel.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-08-13",
+      "user_level": "Manager",
+      "age_days": 5,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
       "visitor": "1173868",
       "email": "paradise@groceryoutlet.com",
       "name": "",
@@ -742,6 +841,61 @@
       "area": "Reviews (Reputation)"
     },
     {
+      "visitor": "1272045",
+      "email": "nbass+3079687@bhhstx.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-08-12",
+      "user_level": "Manager",
+      "age_days": 6,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "820408",
+      "email": "melanie+3067919@homesale.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-08-12",
+      "user_level": "Manager",
+      "age_days": 6,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1228570",
+      "email": "connect@travelagentgreenville.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-08-12",
+      "user_level": "Manager",
+      "age_days": 6,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "980639",
+      "email": "kgrizzaffi@catpractice.com",
+      "name": "",
+      "account": "Veterinary Practice Partners",
+      "date": "2026-08-12",
+      "user_level": "Manager",
+      "age_days": 6,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "869529",
+      "email": "highlands.am@westwood-apartments.com",
+      "name": "",
+      "account": "Westwood Residential Company ",
+      "date": "2026-08-12",
+      "user_level": "Manager",
+      "age_days": 6,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
       "visitor": "595920",
       "email": "holbrookmanager@icocommunities.com",
       "name": "",
@@ -885,6 +1039,50 @@
       "area": "Reviews (Reputation)"
     },
     {
+      "visitor": "380186",
+      "email": "hearthstonehomesokc@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-08-11",
+      "user_level": "Manager",
+      "age_days": 7,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "373539",
+      "email": "hearthstonehomesmoore@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-08-11",
+      "user_level": "Manager",
+      "age_days": 7,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "967638",
+      "email": "pserediuk@smrestore.ca",
+      "name": "",
+      "account": "ServiceMaster Restore",
+      "date": "2026-08-11",
+      "user_level": "Manager",
+      "age_days": 7,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "394534",
+      "email": "djamisonpa@goddardschools.com",
+      "name": "",
+      "account": "The Goddard School",
+      "date": "2026-08-11",
+      "user_level": "Manager",
+      "age_days": 7,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
       "visitor": "1033953",
       "email": "david.lazarus@merrymaids.pro",
       "name": "",
@@ -993,6 +1191,83 @@
       "age_days": 8,
       "sla": "amber",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "713462",
+      "email": "store_jacksontn@texasroadhouse.com",
+      "name": "",
+      "account": "Texas Roadhouse Holdings LLC",
+      "date": "2026-08-10",
+      "user_level": "Manager",
+      "age_days": 8,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "840853",
+      "email": "waterbridgeapts@peakliving.com",
+      "name": "",
+      "account": "Peak Living LLC",
+      "date": "2026-08-10",
+      "user_level": "Manager",
+      "age_days": 8,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1165584",
+      "email": "theleightonmgr@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-08-10",
+      "user_level": "Manager",
+      "age_days": 8,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "711561",
+      "email": "lfoust@tlecorp.com",
+      "name": "",
+      "account": "The Learning Experience",
+      "date": "2026-08-10",
+      "user_level": "Administrator",
+      "age_days": 8,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "77168",
+      "email": "akroncanton.owner@mollymaid.com",
+      "name": "",
+      "account": "Neighborly",
+      "date": "2026-08-10",
+      "user_level": "Manager",
+      "age_days": 8,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1282721",
+      "email": "info@footsforwardtravel.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-08-10",
+      "user_level": "Manager",
+      "age_days": 8,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "981508",
+      "email": "tlgmckinneytx@thelittlegym.com",
+      "name": "",
+      "account": "The Little Gym",
+      "date": "2026-08-10",
+      "user_level": "Manager",
+      "age_days": 8,
+      "sla": "amber",
+      "area": "Social"
     },
     {
       "visitor": "1161400",
@@ -1160,6 +1435,17 @@
       "area": "Reviews (Reputation)"
     },
     {
+      "visitor": "747663",
+      "email": "asavitch@uniquetravelevents.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-08-09",
+      "user_level": "Manager",
+      "age_days": 9,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
       "visitor": "1173780",
       "email": "napa@groceryoutlet.com",
       "name": "",
@@ -1180,6 +1466,28 @@
       "age_days": 9,
       "sla": "amber",
       "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1214201",
+      "email": "rsadler@soccershots.com",
+      "name": "",
+      "account": "Soccer Shots",
+      "date": "2026-08-08",
+      "user_level": "Manager",
+      "age_days": 10,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "460980",
+      "email": "maureen.vonminden@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-08-08",
+      "user_level": "Manager",
+      "age_days": 10,
+      "sla": "amber",
+      "area": "Social"
     },
     {
       "visitor": "721900",
@@ -1235,6 +1543,50 @@
       "age_days": 11,
       "sla": "amber",
       "area": "Pages"
+    },
+    {
+      "visitor": "491203",
+      "email": "bannerwestfield@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-08-07",
+      "user_level": "Manager",
+      "age_days": 11,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1117629",
+      "email": "FalconLeasing@valiantresidential.com",
+      "name": "",
+      "account": "Valiant Residential",
+      "date": "2026-08-07",
+      "user_level": "Manager",
+      "age_days": 11,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "163508",
+      "email": "HamptonPA@goddardschools.com",
+      "name": "",
+      "account": "The Goddard School",
+      "date": "2026-08-07",
+      "user_level": "Manager",
+      "age_days": 11,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "830232",
+      "email": "doug@tri-statetravel.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-08-07",
+      "user_level": "Manager",
+      "age_days": 11,
+      "sla": "amber",
+      "area": "Social"
     },
     {
       "visitor": "1212608",
@@ -1413,6 +1765,94 @@
       "area": "Reviews (Reputation)"
     },
     {
+      "visitor": "1272064",
+      "email": "anthony.casillas@avenue5.com",
+      "name": "",
+      "account": "Raintree Partners",
+      "date": "2026-08-06",
+      "user_level": "Manager",
+      "age_days": 12,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "886587",
+      "email": "manager@pointegrandmacon.com",
+      "name": "",
+      "account": "Pointe Grand",
+      "date": "2026-08-06",
+      "user_level": "Manager",
+      "age_days": 12,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "871510",
+      "email": "asamuels@samapartments.com",
+      "name": "",
+      "account": "Sandhurst Apartment Management",
+      "date": "2026-08-06",
+      "user_level": "Manager",
+      "age_days": 12,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1123891",
+      "email": "riverslanding@prgrealestate.com",
+      "name": "",
+      "account": "PRG Real Estate Management",
+      "date": "2026-08-06",
+      "user_level": "Manager",
+      "age_days": 12,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1213755",
+      "email": "bethany.wood@timberlandpartners.com",
+      "name": "",
+      "account": "Timberland Partners",
+      "date": "2026-08-06",
+      "user_level": "Manager",
+      "age_days": 12,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "713586",
+      "email": "641marketing@texasroadhouse.com",
+      "name": "",
+      "account": "Texas Roadhouse Holdings LLC",
+      "date": "2026-08-06",
+      "user_level": "Manager",
+      "age_days": 12,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "55700",
+      "email": "eastvueranch@highmarkres.com",
+      "name": "",
+      "account": "Highmark Residential",
+      "date": "2026-08-06",
+      "user_level": "Manager",
+      "age_days": 12,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "106895",
+      "email": "sm.05555@rentacenter.com",
+      "name": "",
+      "account": "Rent-A-Center",
+      "date": "2026-08-06",
+      "user_level": "Manager",
+      "age_days": 12,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
       "visitor": "1174190",
       "email": "mallory.rueca@skyzone.com",
       "name": "",
@@ -1554,6 +1994,50 @@
       "age_days": 13,
       "sla": "amber",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1012583",
+      "email": "canterberrya@hlcmail.com",
+      "name": "",
+      "account": "Huntington Learning Centers ",
+      "date": "2026-08-05",
+      "user_level": "Manager",
+      "age_days": 13,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "64972",
+      "email": "fountainviewplaza@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-08-05",
+      "user_level": "Manager",
+      "age_days": 13,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "20124",
+      "email": "lynbrookleasing@morganproperties.com",
+      "name": "",
+      "account": "Morgan Properties",
+      "date": "2026-08-05",
+      "user_level": "Manager",
+      "age_days": 13,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "655088",
+      "email": "lgibson@littlekickers.ca",
+      "name": "",
+      "account": "Little Kickers",
+      "date": "2026-08-05",
+      "user_level": "Manager",
+      "age_days": 13,
+      "sla": "amber",
+      "area": "Social"
     },
     {
       "visitor": "3650",
@@ -1719,6 +2203,50 @@
       "age_days": 14,
       "sla": "amber",
       "area": "Pages"
+    },
+    {
+      "visitor": "935454",
+      "email": "memami@thelittlegym.com",
+      "name": "",
+      "account": "The Little Gym",
+      "date": "2026-08-04",
+      "user_level": "Manager",
+      "age_days": 14,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "912219",
+      "email": "Andrew.Braden@sylvanlearning.com",
+      "name": "",
+      "account": "Snapology",
+      "date": "2026-08-04",
+      "user_level": "Manager",
+      "age_days": 14,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "541281",
+      "email": "katy@colormemine.com",
+      "name": "",
+      "account": "Color Me Mine LLC",
+      "date": "2026-08-04",
+      "user_level": "Manager",
+      "age_days": 14,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1144675",
+      "email": "vibesvacation@verizon.net",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-08-04",
+      "user_level": "Manager",
+      "age_days": 14,
+      "sla": "amber",
+      "area": "Social"
     },
     {
       "visitor": "92433",
@@ -1930,6 +2458,28 @@
       "area": "Reviews (Reputation)"
     },
     {
+      "visitor": "48560",
+      "email": "lemontil@anytimefitness.com",
+      "name": "",
+      "account": "Anytime Fitness NA ",
+      "date": "2026-08-03",
+      "user_level": "Manager",
+      "age_days": 15,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1036396",
+      "email": "sroehrig@samtheconcreteman.com",
+      "name": "",
+      "account": "Sam The Concrete Man",
+      "date": "2026-08-03",
+      "user_level": "Manager",
+      "age_days": 15,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
       "visitor": "1131625",
       "email": "Kemi.MacGregorDickson@skyzone.com",
       "name": "",
@@ -2084,6 +2634,39 @@
       "area": "Reviews (Reputation)"
     },
     {
+      "visitor": "986485",
+      "email": "allydevenish626@gmail.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-08-02",
+      "user_level": "Manager",
+      "age_days": 16,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "735810",
+      "email": "deborah.pollard@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-08-02",
+      "user_level": "Manager",
+      "age_days": 16,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "858920",
+      "email": "deb@travelwithdeb.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-08-02",
+      "user_level": "Manager",
+      "age_days": 16,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
       "visitor": "592155",
       "email": "Katy.TX@sylvanlearning.com",
       "name": "",
@@ -2183,6 +2766,28 @@
       "area": "Pages"
     },
     {
+      "visitor": "182397",
+      "email": "willie.acree+1063613@bhhsgeorgia.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-08-01",
+      "user_level": "Manager",
+      "age_days": 17,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1213176",
+      "email": "SmyrnaGA@goddardschools.com",
+      "name": "",
+      "account": "The Goddard School",
+      "date": "2026-08-01",
+      "user_level": "Manager",
+      "age_days": 17,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
       "visitor": "69742",
       "email": "jeff.page@cruiseplanners.com",
       "name": "",
@@ -2225,6 +2830,39 @@
       "age_days": 18,
       "sla": "amber",
       "area": "Pages"
+    },
+    {
+      "visitor": "967894",
+      "email": "sjennings@lms-realestate.com",
+      "name": "",
+      "account": "LMS Investment Management",
+      "date": "2026-07-31",
+      "user_level": "Administrator",
+      "age_days": 18,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "740987",
+      "email": "jaime.lipson+3065757@foxroach.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-07-31",
+      "user_level": "Manager",
+      "age_days": 18,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1028270",
+      "email": "plantationFL@woofgangbakery.com",
+      "name": "",
+      "account": "Woof Gang Bakery & Grooming",
+      "date": "2026-07-31",
+      "user_level": "Manager",
+      "age_days": 18,
+      "sla": "amber",
+      "area": "Social"
     },
     {
       "visitor": "865017",
@@ -2359,6 +2997,94 @@
       "area": "Reviews (Reputation)"
     },
     {
+      "visitor": "1278451",
+      "email": "arnolddeutschl52@aol.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-30",
+      "user_level": "Manager",
+      "age_days": 19,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "991079",
+      "email": "hereigotravelcompany@gmail.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-30",
+      "user_level": "Manager",
+      "age_days": 19,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1219262",
+      "email": "elizabethurbaniak@bleedblue.net",
+      "name": "",
+      "account": "Culvers",
+      "date": "2026-07-30",
+      "user_level": "Manager",
+      "age_days": 19,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1264958",
+      "email": "rramirez@anterra.com",
+      "name": "",
+      "account": "Anterra",
+      "date": "2026-07-30",
+      "user_level": "Manager",
+      "age_days": 19,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "591958",
+      "email": "RockHill.SC@sylvanlearning.com",
+      "name": "",
+      "account": "Sylvan Learning",
+      "date": "2026-07-30",
+      "user_level": "Manager",
+      "age_days": 19,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1215466",
+      "email": "jamila.hilliard@monarchinvestment.com",
+      "name": "",
+      "account": "Monarch Investment and Management Group",
+      "date": "2026-07-30",
+      "user_level": "Manager",
+      "age_days": 19,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1020784",
+      "email": "b.bogan@keytotheworldtravel.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-30",
+      "user_level": "Manager",
+      "age_days": 19,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1128760",
+      "email": "katiefranks+3075956@tprsold.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-07-30",
+      "user_level": "Manager",
+      "age_days": 19,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
       "visitor": "1228187",
       "email": "west.manison@gb85.com",
       "name": "",
@@ -2489,6 +3215,127 @@
       "age_days": 20,
       "sla": "amber",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "713577",
+      "email": "139marketing@texasroadhouse.com",
+      "name": "",
+      "account": "Texas Roadhouse Holdings LLC",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 20,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "633218",
+      "email": "silva.m+3061151@ewm.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 20,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "984256",
+      "email": "agent@cillatravel.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 20,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "963793",
+      "email": "296marketing@texasroadhouse.com",
+      "name": "",
+      "account": "Texas Roadhouse Holdings LLC",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 20,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "35209",
+      "email": "Corsa@dolben.com",
+      "name": "",
+      "account": "The Dolben Company ",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 20,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1275189",
+      "email": "ashleighm@weidner.com",
+      "name": "",
+      "account": "Weidner",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 20,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "707408",
+      "email": "nancy.johnson@svmjanitorialsolutions.com",
+      "name": "",
+      "account": "ServiceMaster Clean",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 20,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1064246",
+      "email": "jackie.morgan@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 20,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "450159",
+      "email": "vueparkwest@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 20,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1208090",
+      "email": "bedfordhillsmgr@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 20,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1069493",
+      "email": "imtgulfstream@imtresidential.com",
+      "name": "",
+      "account": "IMT Residential",
+      "date": "2026-07-29",
+      "user_level": "Manager",
+      "age_days": 20,
+      "sla": "amber",
+      "area": "Social"
     },
     {
       "visitor": "992120",
@@ -2698,6 +3545,72 @@
       "age_days": 21,
       "sla": "amber",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1155898",
+      "email": "MadisonWest.WI@sylvanlearning.com",
+      "name": "",
+      "account": "Sylvan Learning",
+      "date": "2026-07-28",
+      "user_level": "Manager",
+      "age_days": 21,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "162565",
+      "email": "shirleen.anderson@britishswimschool.com",
+      "name": "",
+      "account": "British Swim School ",
+      "date": "2026-07-28",
+      "user_level": "Manager",
+      "age_days": 21,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "783085",
+      "email": "EAH@lakefieldvet.com",
+      "name": "",
+      "account": "Lakefield Veterinary Group",
+      "date": "2026-07-28",
+      "user_level": "Manager",
+      "age_days": 21,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1154791",
+      "email": "thrivegreenmountain@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-07-28",
+      "user_level": "Manager",
+      "age_days": 21,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "62884",
+      "email": "eastonmanager@sunridgeapts.net",
+      "name": "",
+      "account": "Sunridge Management ",
+      "date": "2026-07-28",
+      "user_level": "Manager",
+      "age_days": 21,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1175974",
+      "email": "candaceo@glassdoctorohio.com",
+      "name": "",
+      "account": "Neighborly",
+      "date": "2026-07-28",
+      "user_level": "Manager",
+      "age_days": 21,
+      "sla": "amber",
+      "area": "Social"
     },
     {
       "visitor": "970155",
@@ -2920,6 +3833,94 @@
       "area": "Reviews (Reputation)"
     },
     {
+      "visitor": "989619",
+      "email": "janeyy@weidner.com",
+      "name": "",
+      "account": "Weidner",
+      "date": "2026-07-27",
+      "user_level": "Administrator",
+      "age_days": 22,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "461439",
+      "email": "dkludy@decoratingden.com",
+      "name": "",
+      "account": "Decorating Den Interiors",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 22,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1187450",
+      "email": "81marketing@texasroadhouse.com",
+      "name": "",
+      "account": "Texas Roadhouse Holdings LLC",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 22,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "713311",
+      "email": "whiteplains@tlechildcare.com",
+      "name": "",
+      "account": "The Learning Experience",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 22,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1183132",
+      "email": "swheeler@allegroliving.com",
+      "name": "",
+      "account": "Allegro Senior Living",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 22,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "819723",
+      "email": "RanchoSantaMargarita@pinotspalette.com",
+      "name": "",
+      "account": "Pinots",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 22,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "461398",
+      "email": "laresafahey@decoratingden.com",
+      "name": "",
+      "account": "Decorating Den Interiors",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 22,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "675940",
+      "email": "doscwsmyrna@gmail.com",
+      "name": "",
+      "account": "Candlewood Suites",
+      "date": "2026-07-27",
+      "user_level": "Manager",
+      "age_days": 22,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
       "visitor": "1216543",
       "email": "wesgrasty@gmail.com",
       "name": "",
@@ -3107,6 +4108,28 @@
       "area": "Engagements"
     },
     {
+      "visitor": "943596",
+      "email": "karenhoward@elementsmassage.com",
+      "name": "",
+      "account": "Elements Massage",
+      "date": "2026-07-26",
+      "user_level": "Manager",
+      "age_days": 23,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1044819",
+      "email": "info@DiscoveryVillageDesPlaines.com",
+      "name": "",
+      "account": "Discovery Marketing Group, LLC dba STAT Marketing",
+      "date": "2026-07-26",
+      "user_level": "Manager",
+      "age_days": 23,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
       "visitor": "863917",
       "email": "greenpoint@tlechildcare.com",
       "name": "",
@@ -3149,6 +4172,17 @@
       "age_days": 24,
       "sla": "amber",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "461294",
+      "email": "cosmopolitan@decoratingden.com",
+      "name": "",
+      "account": "Decorating Den Interiors",
+      "date": "2026-07-25",
+      "user_level": "Manager",
+      "age_days": 24,
+      "sla": "amber",
+      "area": "Social"
     },
     {
       "visitor": "973140",
@@ -3283,6 +4317,61 @@
       "area": "Pages"
     },
     {
+      "visitor": "1033196",
+      "email": "Crupp.snap@gmail.com",
+      "name": "",
+      "account": "The Little Gym",
+      "date": "2026-07-24",
+      "user_level": "Manager",
+      "age_days": 25,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "980657",
+      "email": "amiller@wovet.com",
+      "name": "",
+      "account": "Veterinary Practice Partners",
+      "date": "2026-07-24",
+      "user_level": "Manager",
+      "age_days": 25,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1169977",
+      "email": "Bryan.Hermann@brightstarcare.com",
+      "name": "",
+      "account": "BrightStar Care ",
+      "date": "2026-07-24",
+      "user_level": "Manager",
+      "age_days": 25,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "588391",
+      "email": "andrea@exquisitevacation.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-24",
+      "user_level": "Manager",
+      "age_days": 25,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1256147",
+      "email": "lynnet@everymiletravel.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-24",
+      "user_level": "Manager",
+      "age_days": 25,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
       "visitor": "1277577",
       "email": "julievoyer@everlinecoatings.com",
       "name": "",
@@ -3391,6 +4480,72 @@
       "age_days": 26,
       "sla": "amber",
       "area": "Surveys"
+    },
+    {
+      "visitor": "283598",
+      "email": "rcsupport@aquatotsca.com",
+      "name": "",
+      "account": "Aqua-Tots Swim Schools ",
+      "date": "2026-07-23",
+      "user_level": "Manager",
+      "age_days": 26,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "372223",
+      "email": "IntegraSunriseParc@BellpartnersInc.com",
+      "name": "",
+      "account": "Bell Partners",
+      "date": "2026-07-23",
+      "user_level": "Manager",
+      "age_days": 26,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "713496",
+      "email": "store_lexington@texasroadhouse.com",
+      "name": "",
+      "account": "Texas Roadhouse Holdings LLC",
+      "date": "2026-07-23",
+      "user_level": "Manager",
+      "age_days": 26,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "372180",
+      "email": "Boardwalk@BellPartnersInc.com",
+      "name": "",
+      "account": "Bell Partners",
+      "date": "2026-07-23",
+      "user_level": "Manager",
+      "age_days": 26,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1073563",
+      "email": "imxsoci_catchall+a80f44c8_d5bc_48a7_8673_157c1ab60dc5_3384@imatrix.com",
+      "name": "",
+      "account": "TherapySites ",
+      "date": "2026-07-23",
+      "user_level": "Manager",
+      "age_days": 26,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "759361",
+      "email": "bluestartravel@aol.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-23",
+      "user_level": "Manager",
+      "age_days": 26,
+      "sla": "amber",
+      "area": "Social"
     },
     {
       "visitor": "735810",
@@ -3589,6 +4744,61 @@
       "age_days": 27,
       "sla": "amber",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1133107",
+      "email": "dolcemgr@psdm.com",
+      "name": "",
+      "account": "Pacifica Residential",
+      "date": "2026-07-22",
+      "user_level": "Manager",
+      "age_days": 27,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "461314",
+      "email": "dlrich@decoratingden.com",
+      "name": "",
+      "account": "Decorating Den Interiors",
+      "date": "2026-07-22",
+      "user_level": "Manager",
+      "age_days": 27,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1067019",
+      "email": "TheInfieldLofts@HighmarkRes.com",
+      "name": "",
+      "account": "Highmark Residential",
+      "date": "2026-07-22",
+      "user_level": "Manager",
+      "age_days": 27,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1069199",
+      "email": "646@beefobradys.com",
+      "name": "",
+      "account": "FSC Franchise Brands",
+      "date": "2026-07-22",
+      "user_level": "Manager",
+      "age_days": 27,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "998658",
+      "email": "jspigner@millcreekplaces.com",
+      "name": "",
+      "account": "Mill Creek Residential ",
+      "date": "2026-07-22",
+      "user_level": "Manager",
+      "age_days": 27,
+      "sla": "amber",
+      "area": "Social"
     },
     {
       "visitor": "461327",
@@ -3866,6 +5076,17 @@
       "area": "Reviews (Reputation)"
     },
     {
+      "visitor": "639592",
+      "email": "lexington@paintingwithatwist.com",
+      "name": "",
+      "account": "Painting with a Twist, LLC",
+      "date": "2026-07-21",
+      "user_level": "Manager",
+      "age_days": 28,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
       "visitor": "145036",
       "email": "midland-lec@primroseretirement.com",
       "name": "",
@@ -4141,6 +5362,127 @@
       "area": "Pages"
     },
     {
+      "visitor": "510381",
+      "email": "173@thebrasstap.com",
+      "name": "",
+      "account": "FSC Franchise Brands",
+      "date": "2026-07-20",
+      "user_level": "Manager",
+      "age_days": 29,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1168280",
+      "email": "heather.blackwelder@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Pro",
+      "date": "2026-07-20",
+      "user_level": "Manager",
+      "age_days": 29,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1189959",
+      "email": "favour.nwaiwu@griswoldcare.com",
+      "name": "",
+      "account": "Griswold",
+      "date": "2026-07-20",
+      "user_level": "Manager",
+      "age_days": 29,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "993143",
+      "email": "tammy@vacationsyorkton.ca",
+      "name": "",
+      "account": "Travel Leaders Group Canada",
+      "date": "2026-07-20",
+      "user_level": "Manager",
+      "age_days": 29,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "147076",
+      "email": "elementatveridian@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-07-20",
+      "user_level": "Manager",
+      "age_days": 29,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1145914",
+      "email": "hamed@signarama-costamesa.com",
+      "name": "",
+      "account": "Signarama",
+      "date": "2026-07-20",
+      "user_level": "Manager",
+      "age_days": 29,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "814319",
+      "email": "bmcclendon+3067736@bhhsselectstl.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-07-20",
+      "user_level": "Manager",
+      "age_days": 29,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1221008",
+      "email": "astahle@villagegreen.com",
+      "name": "",
+      "account": "Village Green Companies",
+      "date": "2026-07-20",
+      "user_level": "Manager",
+      "age_days": 29,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1045283",
+      "email": "Manager.soho@fortispm.com",
+      "name": "",
+      "account": "Fortis Property Management",
+      "date": "2026-07-20",
+      "user_level": "Manager",
+      "age_days": 29,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "507564",
+      "email": "Dawn.drucker@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-07-20",
+      "user_level": "Manager",
+      "age_days": 29,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "744264",
+      "email": "jyl@aavacay.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-20",
+      "user_level": "Manager",
+      "age_days": 29,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
       "visitor": "1227533",
       "email": "foresthillsny.sales@signarama.com",
       "name": "",
@@ -4339,6 +5681,61 @@
       "area": "Engagements"
     },
     {
+      "visitor": "943766",
+      "email": "cshyra@radiantwaxing.com",
+      "name": "",
+      "account": "Radiant Waxing",
+      "date": "2026-07-19",
+      "user_level": "Manager",
+      "age_days": 30,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "273193",
+      "email": "psp4057@petsuppliesplus.com",
+      "name": "",
+      "account": "Pet Supplies Plus",
+      "date": "2026-07-19",
+      "user_level": "Manager",
+      "age_days": 30,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1071075",
+      "email": "brijeshpatel@marcospizza.net",
+      "name": "",
+      "account": "Marco's Pizza",
+      "date": "2026-07-19",
+      "user_level": "Manager",
+      "age_days": 30,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "1050654",
+      "email": "val@af.furniture",
+      "name": "",
+      "account": "American Freight (MAFGA)",
+      "date": "2026-07-19",
+      "user_level": "Administrator",
+      "age_days": 30,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
+      "visitor": "639698",
+      "email": "studio219@paintingwithatwist.com",
+      "name": "",
+      "account": "Painting with a Twist, LLC",
+      "date": "2026-07-19",
+      "user_level": "Manager",
+      "age_days": 30,
+      "sla": "amber",
+      "area": "Social"
+    },
+    {
       "visitor": "1204449",
       "email": "krista.seigler@cruiseplanners.com",
       "name": "",
@@ -4381,6 +5778,28 @@
       "age_days": 31,
       "sla": "red",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1154781",
+      "email": "pm.crestview@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-07-18",
+      "user_level": "Manager",
+      "age_days": 31,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1185626",
+      "email": "nicolem@cruisetraveloutlet.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-18",
+      "user_level": "Manager",
+      "age_days": 31,
+      "sla": "red",
+      "area": "Social"
     },
     {
       "visitor": "943766",
@@ -4458,6 +5877,83 @@
       "age_days": 32,
       "sla": "red",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1203711",
+      "email": "vishalpatel2@marcos.com",
+      "name": "",
+      "account": "Marco's Pizza",
+      "date": "2026-07-17",
+      "user_level": "Manager",
+      "age_days": 32,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1145951",
+      "email": "ray@signarama-corona.com",
+      "name": "",
+      "account": "Signarama",
+      "date": "2026-07-17",
+      "user_level": "Manager",
+      "age_days": 32,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1245782",
+      "email": "zelema.jackson-cummings@vetcor.com",
+      "name": "",
+      "account": "Vetcor",
+      "date": "2026-07-17",
+      "user_level": "Manager",
+      "age_days": 32,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1205286",
+      "email": "lisa@pedegonaples.com",
+      "name": "",
+      "account": "Pedego Electric Bikes",
+      "date": "2026-07-17",
+      "user_level": "Manager",
+      "age_days": 32,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1168134",
+      "email": "rachel@eastorlandocoffee.com",
+      "name": "",
+      "account": "Ellianos Coffee",
+      "date": "2026-07-17",
+      "user_level": "Manager",
+      "age_days": 32,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "763342",
+      "email": "maplegrove@nothingbundtcakes.com",
+      "name": "",
+      "account": "Nothing Bundt Cakes",
+      "date": "2026-07-17",
+      "user_level": "Manager",
+      "age_days": 32,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "999102",
+      "email": "nancy@luxurytravelinc.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-17",
+      "user_level": "Manager",
+      "age_days": 32,
+      "sla": "red",
+      "area": "Social"
     },
     {
       "visitor": "1064246",
@@ -4612,6 +6108,83 @@
       "age_days": 33,
       "sla": "red",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "153454",
+      "email": "saltlakekoa@gmail.com",
+      "name": "",
+      "account": "KOA",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 33,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "419150",
+      "email": "AltaVista@ChildrensLighthouse.com",
+      "name": "",
+      "account": "Children's Lighthouse Franchise Company",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 33,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1027583",
+      "email": "Carolstreamil@woofgangbakery.com",
+      "name": "",
+      "account": "Woof Gang Bakery & Grooming",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 33,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "840742",
+      "email": "brookwoodapts@peakliving.com",
+      "name": "",
+      "account": "Peak Living LLC",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 33,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1061685",
+      "email": "jamie@travelseeco.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 33,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "158664",
+      "email": "kim@youreyesite.com",
+      "name": "",
+      "account": "Keplr Vision",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 33,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "510435",
+      "email": "539@beefobradys.com",
+      "name": "",
+      "account": "FSC Franchise Brands",
+      "date": "2026-07-16",
+      "user_level": "Manager",
+      "age_days": 33,
+      "sla": "red",
+      "area": "Social"
     },
     {
       "visitor": "592215",
@@ -4854,6 +6427,127 @@
       "age_days": 34,
       "sla": "red",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1214266",
+      "email": "namita.patel@signarama.com",
+      "name": "",
+      "account": "Signarama",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 34,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "712710",
+      "email": "eastrutherford@tlechildcare.com",
+      "name": "",
+      "account": "The Learning Experience",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 34,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "71994",
+      "email": "geisler@esourcecoach.com",
+      "name": "",
+      "account": "FSBI - Entrepreneur's Source ",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 34,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1074000",
+      "email": "cary.owner2@aireserv.com",
+      "name": "",
+      "account": "Neighborly",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 34,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "644021",
+      "email": "jarmstrong@tworld.com",
+      "name": "",
+      "account": "Transworld Business Advisors ",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 34,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1266676",
+      "email": "ClaudiaG.G@legendmgmt.com",
+      "name": "",
+      "account": "Legend Asset Management ",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 34,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1065194",
+      "email": "marlene@elevatedtravelerco.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 34,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1245437",
+      "email": "byron.thomas@comparioninsurance.com",
+      "name": "",
+      "account": "Comparion",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 34,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "993647",
+      "email": "erin@wrdc.net",
+      "name": "",
+      "account": "Oak Hill Management",
+      "date": "2026-07-15",
+      "user_level": "Administrator",
+      "age_days": 34,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1129120",
+      "email": "tommy@svmrc.com",
+      "name": "",
+      "account": "ServiceMaster Restore",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 34,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1160596",
+      "email": "james.sumlar@twomen.com",
+      "name": "",
+      "account": "TWO MEN AND A TRUCK",
+      "date": "2026-07-15",
+      "user_level": "Manager",
+      "age_days": 34,
+      "sla": "red",
+      "area": "Social"
     },
     {
       "visitor": "860670",
@@ -5142,6 +6836,127 @@
       "area": "Pages"
     },
     {
+      "visitor": "458329",
+      "email": "loftson8th@livesq.com",
+      "name": "",
+      "account": "Student Quarters",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 35,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "152769",
+      "email": "echelon99@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 35,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1228474",
+      "email": "CitrineOn67th@ca-mgmt.com",
+      "name": "",
+      "account": "Chamberlin Associates",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 35,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "983199",
+      "email": "jhedden@vetcor.com",
+      "name": "",
+      "account": "Vetcor",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 35,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "834771",
+      "email": "anderson@cruisestore.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 35,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1219226",
+      "email": "AltairClearCreek@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 35,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1207331",
+      "email": "Viviane.C@legendmgmt.com",
+      "name": "",
+      "account": "Legend Asset Management ",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 35,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "744051",
+      "email": "kchapman@millcreekplaces.com",
+      "name": "",
+      "account": "Mill Creek Residential ",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 35,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "858829",
+      "email": "simplyelitetravel@gmail.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 35,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "765381",
+      "email": "alarson@agproco.com",
+      "name": "",
+      "account": "Ag-Pro Companies",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 35,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1184780",
+      "email": "rosenberg@tlechildcare.com",
+      "name": "",
+      "account": "The Learning Experience",
+      "date": "2026-07-14",
+      "user_level": "Manager",
+      "age_days": 35,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
       "visitor": "1146425",
       "email": "nicolette.jaime@livebryten.com",
       "name": "",
@@ -5417,6 +7232,138 @@
       "area": "Reviews (Reputation)"
     },
     {
+      "visitor": "528281",
+      "email": "isaiah.rojas@i9sports.com",
+      "name": "",
+      "account": "i9 Sports",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 36,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1069735",
+      "email": "manager@livemainsail.com",
+      "name": "",
+      "account": "Bryten Management",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 36,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "146240",
+      "email": "cindy.smith@racfranchising.com",
+      "name": "",
+      "account": "RimTyme",
+      "date": "2026-07-13",
+      "user_level": "Administrator",
+      "age_days": 36,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1220667",
+      "email": "samantha.dickman@vetcor.com",
+      "name": "",
+      "account": "Vetcor",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 36,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "459462",
+      "email": "mainandmill@sunridgeapts.net",
+      "name": "",
+      "account": "Sunridge Management ",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 36,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1255216",
+      "email": "ATippett@millcreekplaces.com",
+      "name": "",
+      "account": "Mill Creek Residential ",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 36,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1033710",
+      "email": "vamsi.bhagavathula@kiddieacademy.net",
+      "name": "",
+      "account": "Kiddie Academy",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 36,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1247762",
+      "email": "imxsoci_catchall+45f17399_1815_493b_ba91_5d6b14ace324_3678@imatrix.com",
+      "name": "",
+      "account": "iMatrix Chiropractic ",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 36,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1171416",
+      "email": "jii4027@jeremiahsice.com",
+      "name": "",
+      "account": "Jeremiah's Italian Ice",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 36,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "81394",
+      "email": "residencesatsaltillo@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 36,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "969281",
+      "email": "nexus485@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 36,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "35658",
+      "email": "DeCastroL@hlcmail.com",
+      "name": "",
+      "account": "Huntington Learning Centers ",
+      "date": "2026-07-13",
+      "user_level": "Manager",
+      "age_days": 36,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
       "visitor": "69735",
       "email": "carol.tricoche@carolsescapes.com",
       "name": "",
@@ -5593,6 +7540,39 @@
       "area": "Reviews (Reputation)"
     },
     {
+      "visitor": "1265527",
+      "email": "c.robin.hall@gmail.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-12",
+      "user_level": "Manager",
+      "age_days": 37,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "283763",
+      "email": "psp4467@petsuppliesplus.com",
+      "name": "",
+      "account": "Pet Supplies Plus",
+      "date": "2026-07-12",
+      "user_level": "Manager",
+      "age_days": 37,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "745884",
+      "email": "kevin@morefundestinations.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-12",
+      "user_level": "Manager",
+      "age_days": 37,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
       "visitor": "759360",
       "email": "amy.karpinski@cruiseplanners.com",
       "name": "",
@@ -5690,6 +7670,50 @@
       "age_days": 38,
       "sla": "red",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "480684",
+      "email": "westmemorial@stretchzone.com",
+      "name": "",
+      "account": "Stretch Zone Franchising, LLC ",
+      "date": "2026-07-11",
+      "user_level": "Manager",
+      "age_days": 38,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "785656",
+      "email": "jimma.hernden@frenchiesnails.com",
+      "name": "",
+      "account": "Frenchies Modern Nail Care",
+      "date": "2026-07-11",
+      "user_level": "Manager",
+      "age_days": 38,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1195906",
+      "email": "Mileswithmandy@yahoo.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-11",
+      "user_level": "Manager",
+      "age_days": 38,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "162354",
+      "email": "thomas.patchin@rpmpeace.com",
+      "name": "",
+      "account": "Neighborly",
+      "date": "2026-07-11",
+      "user_level": "Manager",
+      "age_days": 38,
+      "sla": "red",
+      "area": "Social"
     },
     {
       "visitor": "943712",
@@ -5811,6 +7835,138 @@
       "age_days": 39,
       "sla": "red",
       "area": "Pages"
+    },
+    {
+      "visitor": "949887",
+      "email": "tranquilityinttravel@gmail.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 39,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "638518",
+      "email": "ashrader@arlingtonproperties.net",
+      "name": "",
+      "account": "Arlington Properties",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 39,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "48426",
+      "email": "vandrade@umich.edu",
+      "name": "",
+      "account": "Anytime Fitness NA ",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 39,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1207470",
+      "email": "Brooksidegardenssales@wedgewoodweddings.com",
+      "name": "",
+      "account": "Wedgewood Weddings & Events",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 39,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "61117",
+      "email": "coachjwalt@gmail.com",
+      "name": "",
+      "account": "Neighborly",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 39,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "504105",
+      "email": "ashley.wadiak@brightstarcare.com",
+      "name": "",
+      "account": "BrightStar Care ",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 39,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "805973",
+      "email": "infomnrh@moradaseniorliving.com",
+      "name": "",
+      "account": "Discovery Marketing Group, LLC dba STAT Marketing",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 39,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "840724",
+      "email": "angelosapts@peakliving.com",
+      "name": "",
+      "account": "Peak Living LLC",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 39,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "649000",
+      "email": "manager@risormaplegrove.com",
+      "name": "",
+      "account": "Roers Companies LLC",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 39,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "988030",
+      "email": "422marketing@texasroadhouse.com",
+      "name": "",
+      "account": "Texas Roadhouse Holdings LLC",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 39,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1036441",
+      "email": "aebbs@thetravelagentnextdoor.com",
+      "name": "",
+      "account": "Travel Leaders Group Canada",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 39,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "79968",
+      "email": "BethesdaMD@goddardschools.com",
+      "name": "",
+      "account": "The Goddard School",
+      "date": "2026-07-10",
+      "user_level": "Manager",
+      "age_days": 39,
+      "sla": "red",
+      "area": "Social"
     },
     {
       "visitor": "415626",
@@ -6097,6 +8253,39 @@
       "age_days": 40,
       "sla": "red",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1230808",
+      "email": "sarah@kraftytravel.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-09",
+      "user_level": "Manager",
+      "age_days": 40,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "283876",
+      "email": "mason@lumapm.com",
+      "name": "",
+      "account": "Luma Residential",
+      "date": "2026-07-09",
+      "user_level": "Manager",
+      "age_days": 40,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "143162",
+      "email": "WindsorSquare@gres.com",
+      "name": "",
+      "account": "Guardian Real Estate Services LLC",
+      "date": "2026-07-09",
+      "user_level": "Manager",
+      "age_days": 40,
+      "sla": "red",
+      "area": "Social"
     },
     {
       "visitor": "864812",
@@ -6526,6 +8715,468 @@
       "age_days": 41,
       "sla": "red",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "141939",
+      "email": "thebeachhouse@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "712839",
+      "email": "quailvalley@tlechildcare.com",
+      "name": "",
+      "account": "The Learning Experience",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1233345",
+      "email": "fresno-clovis@nothingbundtcakes.com",
+      "name": "",
+      "account": "Nothing Bundt Cakes",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "741638",
+      "email": "info@discoverycommonssanpablo.com",
+      "name": "",
+      "account": "Discovery Marketing Group, LLC dba STAT Marketing",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "150299",
+      "email": "thefairway@adaracommunities.com",
+      "name": "",
+      "account": "Adara Communities ",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "969295",
+      "email": "thornberryparkmgr@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1155947",
+      "email": "cindy.bermejo@comparioninsurance.com",
+      "name": "",
+      "account": "Comparion",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "80221",
+      "email": "LaderaRanchCA@goddardschools.com",
+      "name": "",
+      "account": "The Goddard School",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "714074_mobile",
+      "email": "infoscc@AstonGardens.com",
+      "name": "",
+      "account": "Discovery Marketing Group, LLC dba STAT Marketing",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "67733",
+      "email": "Thorntree.Mgr@adaracommunities.com",
+      "name": "",
+      "account": "Adara Communities ",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "640625",
+      "email": "raneebrunner@esourcecoach.com",
+      "name": "",
+      "account": "FSBI - Entrepreneur's Source ",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "943614",
+      "email": "medford@elementsmassage.com",
+      "name": "",
+      "account": "Elements Massage",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1197042",
+      "email": "kclay@capitalsquareliving.com",
+      "name": "",
+      "account": "Capital Square Living",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "94981",
+      "email": "briargate@crowneapartments.com",
+      "name": "",
+      "account": "Crowne Partners",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1163141",
+      "email": "kevin@smkamloops.com",
+      "name": "",
+      "account": "ServiceMaster Restore",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "877502",
+      "email": "tmad251@teriyakimadness.com",
+      "name": "",
+      "account": "Teriyaki Madness",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "426147",
+      "email": "skyeatlove@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "417398",
+      "email": "coastresidences@dolben.com",
+      "name": "",
+      "account": "The Dolben Company ",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "712897",
+      "email": "powell@tlechildcare.com",
+      "name": "",
+      "account": "The Learning Experience",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "698650",
+      "email": "Mgr11@purpledubs.com",
+      "name": "",
+      "account": "RimTyme",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "283877",
+      "email": "southernoaks@lumapm.com",
+      "name": "",
+      "account": "Luma Residential",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "659137",
+      "email": "carync@brainbalancecenters.com",
+      "name": "",
+      "account": "Brain Balance Centers ",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "81317",
+      "email": "inmanpark@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "226300",
+      "email": "pontevedrabeachfl2@goddardschools.com",
+      "name": "",
+      "account": "The Goddard School",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "879920",
+      "email": "sm.07247@rentacenter.com",
+      "name": "",
+      "account": "Rent-A-Center",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1245886",
+      "email": "leasing@liveblock334apartments.com",
+      "name": "",
+      "account": "Fairfield Residential",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1050198",
+      "email": "mnugent@homewellcares.com",
+      "name": "",
+      "account": "HomeWell Care Services",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1149093",
+      "email": "Coralgables.fl@sylvanlearning.com",
+      "name": "",
+      "account": "Sylvan Learning",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1174818",
+      "email": "jazmine.anderson@eucalyptus-re.com",
+      "name": "",
+      "account": "Eucalyptus Real Estate",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1177342",
+      "email": "leasing@crosswindsnc-apts.com",
+      "name": "",
+      "account": "Ginkgo Residential ",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "884645",
+      "email": "iwashington@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "714224",
+      "email": "JPoole@YourOasisAdvisor.com",
+      "name": "",
+      "account": "Oasis Senior Advisors ",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "673236",
+      "email": "wnw3021@wagnwash.com",
+      "name": "",
+      "account": "Wag N Wash",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "834981",
+      "email": "monique@travelingwithcents.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "950040",
+      "email": "jamie@sewlubbockquiltco.com",
+      "name": "",
+      "account": "BERNINA",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "712716",
+      "email": "edgewaterpark@tlechildcare.com",
+      "name": "",
+      "account": "The Learning Experience",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1065716",
+      "email": "centralgulfcoast@soccerstars.com",
+      "name": "",
+      "account": "Youth Athletes United",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "655087",
+      "email": "gergis@littlekickers.ca",
+      "name": "",
+      "account": "Little Kickers",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "136319",
+      "email": "saiya@saiyapatel.com",
+      "name": "",
+      "account": "SocialSaiya",
+      "date": "2026-07-08",
+      "user_level": "Administrator",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "712066",
+      "email": "jamesboyd@fortywinks.com.au",
+      "name": "",
+      "account": "Forty Winks | The Pistol",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1257459",
+      "email": "elisa.dunkle@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Basic",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "750845",
+      "email": "lam@fortywinkscanberra.com.au",
+      "name": "",
+      "account": "Forty Winks | The Pistol",
+      "date": "2026-07-08",
+      "user_level": "Manager",
+      "age_days": 41,
+      "sla": "red",
+      "area": "Social"
     },
     {
       "visitor": "1070383",
@@ -7263,6 +9914,776 @@
       "age_days": 42,
       "sla": "red",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1145827",
+      "email": "stella@signarama-pasadena.com",
+      "name": "",
+      "account": "Signarama",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1006013",
+      "email": "chris.holda@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Pro",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1221462",
+      "email": "doug.firestone@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "886848",
+      "email": "ravi.varanasi@rpmvaranasi.com",
+      "name": "",
+      "account": "Neighborly",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "778225",
+      "email": "bordentownnj@tlechildcare.com",
+      "name": "",
+      "account": "The Learning Experience",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "968389",
+      "email": "susan@scootersnsv.com",
+      "name": "",
+      "account": "Scooter's Coffee, LLC",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1218759",
+      "email": "Mhussain@lightbridgeacademy.com",
+      "name": "",
+      "account": "Lightbridge Academy",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1186962",
+      "email": "c-lipps1@forddirect.com",
+      "name": "",
+      "account": "Ford",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "659207",
+      "email": "travel@attheta.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "963219",
+      "email": "jii3039@jeremiahsice.com",
+      "name": "",
+      "account": "Jeremiah's Italian Ice",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "997908",
+      "email": "Natalie.chapman@siennaliving.ca",
+      "name": "",
+      "account": "Sienna Senior Living",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "713445",
+      "email": "store_harrisburg@texasroadhouse.com",
+      "name": "",
+      "account": "Texas Roadhouse Holdings LLC",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "452157",
+      "email": "bainbridgebayview@bainbridgere.com",
+      "name": "",
+      "account": "The Bainbridge Companies, LLC ",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1068956",
+      "email": "mschwenk@capitalsquareliving.com",
+      "name": "",
+      "account": "Capital Square Living",
+      "date": "2026-07-07",
+      "user_level": "Administrator",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "994433",
+      "email": "sam.sawiris@thegreatgreek.com",
+      "name": "",
+      "account": "The Great Greek Grill",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "969172",
+      "email": "4farms@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "864812",
+      "email": "Emily.Holt@janmangroup.com",
+      "name": "",
+      "account": "Nothing Bundt Cakes",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "780104",
+      "email": "jamie.webb@myjohnstonesupply.com",
+      "name": "",
+      "account": "Johnstone Supply",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "968561",
+      "email": "Isaiah.Davis@monarchinvestment.com",
+      "name": "",
+      "account": "Monarch Investment and Management Group",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1212711",
+      "email": "Info.0900@onehourair.com",
+      "name": "",
+      "account": "One Hour Heating & Air Conditioning ",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1196121",
+      "email": "DNagpal@Discoveryseniorliving.com",
+      "name": "",
+      "account": "Discovery Marketing Group, LLC dba STAT Marketing",
+      "date": "2026-07-07",
+      "user_level": "Administrator",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1203723",
+      "email": "MD0015@pjscoffee.com",
+      "name": "",
+      "account": "PJ's Coffee",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "886479",
+      "email": "pelicans.douglasville@gmail.com",
+      "name": "",
+      "account": "Pelican's SnoBalls",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1216906",
+      "email": "Victoria@livanolibertypark.com",
+      "name": "",
+      "account": "Gallery Residential",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "67673",
+      "email": "arborvillage.mgr@adaracommunities.com",
+      "name": "",
+      "account": "Adara Communities ",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "796732",
+      "email": "ahuebner@ntyfranchise.com",
+      "name": "",
+      "account": "Clothes Mentor",
+      "date": "2026-07-07",
+      "user_level": "Administrator",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "945019",
+      "email": "circlecrossaz@woofgangbakery.com",
+      "name": "",
+      "account": "Woof Gang Bakery & Grooming",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1186296",
+      "email": "hgeren@hillpointe.com",
+      "name": "",
+      "account": "Pointe Grand",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1205163",
+      "email": "kelly@mytravelawaits.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "639732",
+      "email": "studio277@paintingwithatwist.com",
+      "name": "",
+      "account": "Painting with a Twist, LLC",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "228694",
+      "email": "ancoramgr@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "712635",
+      "email": "beltline@tlechildcare.com",
+      "name": "",
+      "account": "The Learning Experience",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "840099",
+      "email": "oceancenter@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1177965",
+      "email": "cathy@landctravelagency.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1169466",
+      "email": "Adrienne.cecil@coopertrailsl.com",
+      "name": "",
+      "account": "Trilogy Health Services",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "103488",
+      "email": "vbujor@millcreekplaces.com",
+      "name": "",
+      "account": "Mill Creek Residential ",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1175632",
+      "email": "NewportHarbour@WINNCO.com",
+      "name": "",
+      "account": "WinnResidential",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1254867",
+      "email": "abenn@homewellcares.com",
+      "name": "",
+      "account": "HomeWell Care Services",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1211495",
+      "email": "bainbridgecabinbranch@bainbridgere.com",
+      "name": "",
+      "account": "The Bainbridge Companies, LLC ",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1171899",
+      "email": "mollymaidgwh@gmail.com",
+      "name": "",
+      "account": "Neighborly",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1147773",
+      "email": "kenilworthnj.sales@signarama.com",
+      "name": "",
+      "account": "Signarama",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "713451",
+      "email": "481marketing@texasroadhouse.com",
+      "name": "",
+      "account": "Texas Roadhouse Holdings LLC",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "150234",
+      "email": "arborsdublin@adaracommunities.com",
+      "name": "",
+      "account": "Adara Communities ",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "531127",
+      "email": "coyoung@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "743881",
+      "email": "info@WoodburyMewsSeniorLiving.com",
+      "name": "",
+      "account": "Discovery Marketing Group, LLC dba STAT Marketing",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1159679",
+      "email": "dsurra@homewellcares.com",
+      "name": "",
+      "account": "HomeWell Care Services",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1041392",
+      "email": "sc2626@thenavipartners.com",
+      "name": "",
+      "account": "Scooter's Coffee, LLC",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "269750",
+      "email": "hwilfley@wordenmartin.com",
+      "name": "",
+      "account": "Ford",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "701526",
+      "email": "sheri@inspiretravelgroup.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "542285",
+      "email": "jbyrnes@milkshakefactory.com",
+      "name": "",
+      "account": "Milkshake Factory",
+      "date": "2026-07-07",
+      "user_level": "Administrator",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "82113",
+      "email": "lasallemgr@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "991966",
+      "email": "attainabletravel@yahoo.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1179127",
+      "email": "robyn.dennis@comparioninsurance.com",
+      "name": "",
+      "account": "Comparion",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "750692",
+      "email": "stonecanyonasstmgr@raamco.com",
+      "name": "",
+      "account": "Sheng Raamco Management Inc",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "949153",
+      "email": "folsomca@stretchzone.com",
+      "name": "",
+      "account": "Stretch Zone Franchising, LLC ",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "658584",
+      "email": "easton@brooksideproperties.com",
+      "name": "",
+      "account": "Brookside Properties",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1225158",
+      "email": "andrea.randall+3078821@bhhscarolinas.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "79936",
+      "email": "FloweryBranchGA@goddardschools.com",
+      "name": "",
+      "account": "The Goddard School",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1049520",
+      "email": "ansa.steenkamp@merrymaids.pro",
+      "name": "",
+      "account": "Merry Maids",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "52559",
+      "email": "alisa.wagner@fivestarpainting.com",
+      "name": "",
+      "account": "Neighborly",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "639600",
+      "email": "sanantonio-nw@paintingwithatwist.com",
+      "name": "",
+      "account": "Painting with a Twist, LLC",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "949093",
+      "email": "leasing@grovemoundville.com",
+      "name": "",
+      "account": "LMS Investment Management",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "84954",
+      "email": "trio@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "419144",
+      "email": "Woodcreek@ChildrensLighthouse.com",
+      "name": "",
+      "account": "Children's Lighthouse Franchise Company",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "945602",
+      "email": "kmorales@dilldinkers.com",
+      "name": "",
+      "account": "Dill Dinkers",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1207841",
+      "email": "albert@semleads.net",
+      "name": "",
+      "account": "CareBuilders At Home",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1069138",
+      "email": "aleesha.burton@monarchinvestment.com",
+      "name": "",
+      "account": "Monarch Investment and Management Group",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1229256",
+      "email": "social@socialhubcompany.com",
+      "name": "",
+      "account": "Mill Creek Residential ",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "1220650",
+      "email": "Cterry@hillpointe.com",
+      "name": "",
+      "account": "Pointe Grand",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
+    },
+    {
+      "visitor": "831892",
+      "email": "734marketing@texasroadhouse.com",
+      "name": "",
+      "account": "Texas Roadhouse Holdings LLC",
+      "date": "2026-07-07",
+      "user_level": "Manager",
+      "age_days": 42,
+      "sla": "red",
+      "area": "Social"
     },
     {
       "visitor": "1199166",
@@ -8443,63 +11864,83 @@
     }
   ],
   "level_counts": {
-    "Administrator": 114,
-    "Manager": 641,
+    "Administrator": 126,
+    "Manager": 940,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 76,
-    "amber": 309,
-    "red": 371
+    "green": 94,
+    "amber": 418,
+    "red": 555
   },
-  "total_interested": 756,
+  "total_interested": 1067,
   "oldest_age": 363,
   "repeat_accounts": [
     [
-      "AT&T",
-      29
+      "Travel Leaders Group",
+      46
     ],
     [
       "Willow Bridge Property Company ",
-      25
+      39
+    ],
+    [
+      "AT&T",
+      29
     ],
     [
       "Subway - North America",
       24
     ],
     [
+      "RPM Living",
+      22
+    ],
+    [
+      "Cruise Planners | CP Elite",
+      22
+    ],
+    [
       "Sky Zone",
       19
     ],
     [
-      "Cruise Planners | CP Elite",
-      17
+      "Berkshire Hathaway HomeServices",
+      19
     ],
     [
       "Anytime Fitness NA ",
-      16
-    ],
-    [
-      "RPM Living",
-      14
+      18
     ],
     [
       "Cruise Planners | CP Pro",
-      14
+      16
     ],
     [
       "Sylvan Learning",
-      12
+      15
     ],
     [
       "Woof Gang Bakery & Grooming",
-      12
+      15
     ],
     [
-      "Travel Leaders Group",
+      "Texas Roadhouse Holdings LLC",
+      14
+    ],
+    [
+      "Nothing Bundt Cakes",
+      13
+    ],
+    [
+      "Signarama",
+      13
+    ],
+    [
+      "Avenue5 Residential",
       12
     ],
     [
@@ -8507,35 +11948,67 @@
       12
     ],
     [
-      "Berkshire Hathaway HomeServices",
-      11
+      "The Learning Experience",
+      12
     ],
     [
-      "Nothing Bundt Cakes",
-      10
+      "Neighborly",
+      12
     ],
     [
       "Pet Supplies Plus",
-      9
+      11
     ],
     [
-      "Avenue5 Residential",
-      9
+      "Vetcor",
+      11
+    ],
+    [
+      "The Goddard School",
+      10
+    ],
+    [
+      "Discovery Marketing Group, LLC dba STAT Marketing",
+      10
+    ],
+    [
+      "Adara Communities ",
+      10
     ],
     [
       "Liberty Tax",
       9
     ],
     [
+      "Ford",
+      9
+    ],
+    [
+      "Stretch Zone Franchising, LLC ",
+      9
+    ],
+    [
+      "Forty Winks | The Pistol",
+      8
+    ],
+    [
+      "Teriyaki Madness",
+      8
+    ],
+    [
       "Orangetheory Fitness",
       8
     ],
     [
-      "Vetcor",
+      "Pedego Electric Bikes",
       8
     ],
     [
-      "Signarama",
+      "American Freight (MAFGA)",
+      8
+    ],
+    [
+      "Mill Creek Residential ",
       8
     ],
     [
@@ -8547,11 +12020,11 @@
       7
     ],
     [
-      "Ford",
+      "Bryten Management",
       7
     ],
     [
-      "Stretch Zone Franchising, LLC ",
+      "Pointe Grand",
       7
     ],
     [
@@ -8559,11 +12032,7 @@
       7
     ],
     [
-      "Pedego Electric Bikes",
-      7
-    ],
-    [
-      "American Freight (MAFGA)",
+      "Elements Massage",
       7
     ],
     [
@@ -8571,11 +12040,19 @@
       7
     ],
     [
-      "Forty Winks | The Pistol",
+      "Capital Square Living",
+      7
+    ],
+    [
+      "Dill Dinkers",
       6
     ],
     [
-      "Teriyaki Madness",
+      "Decorating Den Interiors",
+      6
+    ],
+    [
+      "FSC Franchise Brands",
       6
     ],
     [
@@ -8583,23 +12060,31 @@
       6
     ],
     [
-      "Bryten Management",
+      "Weidner",
       6
     ],
     [
-      "Adara Communities ",
+      "BrightStar Care ",
       6
-    ],
-    [
-      "Dill Dinkers",
-      5
     ],
     [
       "American Freight NewCo",
       5
     ],
     [
+      "HomeWell Care Services",
+      5
+    ],
+    [
       "Holiday Inn",
+      5
+    ],
+    [
+      "Merry Maids",
+      5
+    ],
+    [
+      "Monarch Investment and Management Group",
       5
     ],
     [
@@ -8611,11 +12096,15 @@
       5
     ],
     [
-      "Lynd",
+      "Travel Leaders Group Canada",
       5
     ],
     [
-      "Elements Massage",
+      "Fortis Property Management",
+      5
+    ],
+    [
+      "Lynd",
       5
     ],
     [
@@ -8623,31 +12112,43 @@
       5
     ],
     [
+      "KOA",
+      5
+    ],
+    [
       "Guild Mortgage",
       5
     ],
     [
-      "Capital Square Living",
+      "Painting with a Twist, LLC",
       5
     ],
     [
-      "Texas Roadhouse Holdings LLC",
+      "Jeremiah's Italian Ice",
+      5
+    ],
+    [
+      "Comparion",
+      5
+    ],
+    [
+      "Sheng Raamco Management Inc",
       4
     ],
     [
-      "Merry Maids",
+      "ServiceMaster Restore",
       4
     ],
     [
-      "Discovery Marketing Group, LLC dba STAT Marketing",
+      "Peak Living LLC",
       4
     ],
     [
-      "Weidner",
+      "Color Me Mine LLC",
       4
     ],
     [
-      "BrightStar Care ",
+      "Huntington Learning Centers ",
       4
     ],
     [
@@ -8659,7 +12160,7 @@
       4
     ],
     [
-      "Fortis Property Management",
+      "Oak Hill Management",
       4
     ],
     [
@@ -8667,11 +12168,11 @@
       4
     ],
     [
-      "Neighborly",
+      "Lightbridge Academy",
       4
     ],
     [
-      "KOA",
+      "Lakefield Veterinary Group",
       4
     ],
     [
@@ -8679,15 +12180,23 @@
       4
     ],
     [
-      "Pointe Grand",
+      "Pacifica Residential",
       4
+    ],
+    [
+      "Scooter's Coffee, LLC",
+      4
+    ],
+    [
+      "Milkshake Factory",
+      3
     ],
     [
       "KidsUnited USA",
       3
     ],
     [
-      "Sheng Raamco Management Inc",
+      "Legend Asset Management ",
       3
     ],
     [
@@ -8695,11 +12204,19 @@
       3
     ],
     [
-      "FSC Franchise Brands",
+      "Amazing Lash",
       3
     ],
     [
-      "Amazing Lash",
+      "Chamberlin Associates",
+      3
+    ],
+    [
+      "Kiddie Academy",
+      3
+    ],
+    [
+      "Rent-A-Center",
       3
     ],
     [
@@ -8707,15 +12224,23 @@
       3
     ],
     [
-      "Color Me Mine LLC",
+      "The Little Gym",
       3
     ],
     [
-      "Travel Leaders Group Canada",
+      "IMT Residential",
       3
     ],
     [
-      "Oak Hill Management",
+      "Highmark Residential",
+      3
+    ],
+    [
+      "Children's Lighthouse Franchise Company",
+      3
+    ],
+    [
+      "Village Green Companies",
       3
     ],
     [
@@ -8723,19 +12248,27 @@
       3
     ],
     [
+      "Anterra",
+      3
+    ],
+    [
       "Otter Learning",
       3
     ],
     [
-      "Lightbridge Academy",
+      "Aqua-Tots Swim Schools ",
       3
     ],
     [
-      "Lakefield Veterinary Group",
+      "Sunridge Management ",
       3
     ],
     [
-      "The Learning Experience",
+      "Candlewood Suites",
+      3
+    ],
+    [
+      "WinnResidential",
       3
     ],
     [
@@ -8747,15 +12280,15 @@
       3
     ],
     [
+      "Arlington Properties",
+      3
+    ],
+    [
       "Eggs Up Grill",
       3
     ],
     [
-      "Jeremiah's Italian Ice",
-      3
-    ],
-    [
-      "Mill Creek Residential ",
+      "Radiant Waxing",
       3
     ],
     [
@@ -8763,7 +12296,11 @@
       3
     ],
     [
-      "Pacifica Residential",
+      "TWO MEN AND A TRUCK",
+      3
+    ],
+    [
+      "RimTyme",
       3
     ],
     [
@@ -8771,11 +12308,7 @@
       3
     ],
     [
-      "The Goddard School",
-      2
-    ],
-    [
-      "Decorating Den Interiors",
+      "Roers Companies LLC",
       2
     ],
     [
@@ -8783,11 +12316,7 @@
       2
     ],
     [
-      "HomeWell Care Services",
-      2
-    ],
-    [
-      "Chamberlin Associates",
+      "SocialSaiya",
       2
     ],
     [
@@ -8796,6 +12325,14 @@
     ],
     [
       "Freeman Webb",
+      2
+    ],
+    [
+      "Veterinary Practice Partners",
+      2
+    ],
+    [
+      "Westwood Residential Company ",
       2
     ],
     [
@@ -8815,15 +12352,27 @@
       2
     ],
     [
-      "Huntington Learning Centers ",
+      "Soccer Shots",
       2
     ],
     [
-      "IMT Residential",
+      "Guardian Real Estate Services LLC",
       2
     ],
     [
-      "Monarch Investment and Management Group",
+      "Raintree Partners",
+      2
+    ],
+    [
+      "PRG Real Estate Management",
+      2
+    ],
+    [
+      "Timberland Partners",
+      2
+    ],
+    [
+      "Little Kickers",
       2
     ],
     [
@@ -8831,11 +12380,27 @@
       2
     ],
     [
-      "Village Green Companies",
+      "Pinots",
       2
     ],
     [
-      "Anterra",
+      "Snapology",
+      2
+    ],
+    [
+      "Transworld Business Advisors ",
+      2
+    ],
+    [
+      "Wag N Wash",
+      2
+    ],
+    [
+      "Sam The Concrete Man",
+      2
+    ],
+    [
+      "Brain Balance Centers ",
       2
     ],
     [
@@ -8851,7 +12416,15 @@
       2
     ],
     [
+      "LMS Investment Management",
+      2
+    ],
+    [
       "Asset Living",
+      2
+    ],
+    [
+      "Culvers",
       2
     ],
     [
@@ -8859,15 +12432,11 @@
       2
     ],
     [
-      "Aqua-Tots Swim Schools ",
+      "The Dolben Company ",
       2
     ],
     [
       "Celebree School",
-      2
-    ],
-    [
-      "WinnResidential",
       2
     ],
     [
@@ -8879,7 +12448,7 @@
       2
     ],
     [
-      "Arlington Properties",
+      "Bell Partners",
       2
     ],
     [
@@ -8911,7 +12480,11 @@
       2
     ],
     [
-      "Radiant Waxing",
+      "Trilogy Health Services",
+      2
+    ],
+    [
+      "Marco's Pizza",
       2
     ],
     [
@@ -8923,11 +12496,19 @@
       2
     ],
     [
-      "Comparion",
+      "FSBI - Entrepreneur's Source ",
       2
     ],
     [
-      "TWO MEN AND A TRUCK",
+      "CareBuilders At Home",
+      2
+    ],
+    [
+      "i9 Sports",
+      2
+    ],
+    [
+      "PJ's Coffee",
       2
     ],
     [
@@ -8943,7 +12524,7 @@
       2
     ],
     [
-      "Candlewood Suites",
+      "Luma Residential",
       2
     ],
     [
@@ -8951,15 +12532,19 @@
       2
     ],
     [
+      "Clothes Mentor",
+      2
+    ],
+    [
       "Benjamin Franklin Plumbing",
       2
     ],
     [
-      "Scooter's Coffee, LLC",
+      "Legacy Residential Group",
       2
     ],
     [
-      "Legacy Residential Group",
+      "The Bainbridge Companies, LLC ",
       2
     ],
     [
