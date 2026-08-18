@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18 06:49 UTC",
+  "generated_at": "2026-08-18 07:40 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 116,
-      "interested": 116
+      "responses_12mo": 119,
+      "interested": 119
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 307,
-      "interested": 307
+      "responses_12mo": 311,
+      "interested": 311
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 93,
-      "interested": 93
+      "responses_12mo": 94,
+      "interested": 94
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 193,
-      "interested": 193
+      "responses_12mo": 199,
+      "interested": 199
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,72 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 118,
-      "interested": 118
+      "responses_12mo": 121,
+      "interested": 121
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 110,
-      "interested": 110
+      "responses_12mo": 112,
+      "interested": 112
     }
   },
   "contacts": [
+    {
+      "visitor": "89529",
+      "email": "RiversideCA@goddardschools.com",
+      "name": "",
+      "account": "The Goddard School",
+      "date": "2026-08-18",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1251307",
+      "email": "zahidm61@hotmail.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-08-18",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "53888",
+      "email": "PoteauOK@anytimefitness.com",
+      "name": "",
+      "account": "Anytime Fitness NA ",
+      "date": "2026-08-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1283411",
+      "email": "Searen.Ghuloom@ihg.com",
+      "name": "",
+      "account": "voco",
+      "date": "2026-08-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1182085",
+      "email": "SX9062@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-08-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
     {
       "visitor": "433231",
       "email": "drewm@fortywinkscanberra.com.au",
@@ -146,6 +201,160 @@
       "age_days": 1,
       "sla": "green",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1124517",
+      "email": "k.binge@waterwingsswimschool.com",
+      "name": "",
+      "account": "Water Wings Swim School",
+      "date": "2026-08-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1217030",
+      "email": "Zaki.Kamandy@milkshakefactory.com",
+      "name": "",
+      "account": "Milkshake Factory",
+      "date": "2026-08-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "92433",
+      "email": "liz@teriyakimadness.com",
+      "name": "",
+      "account": "Teriyaki Madness",
+      "date": "2026-08-17",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1255670",
+      "email": "locke@matteramalgamated.com",
+      "name": "",
+      "account": "KidsUnited USA",
+      "date": "2026-08-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "80221",
+      "email": "LaderaRanchCA@goddardschools.com",
+      "name": "",
+      "account": "The Goddard School",
+      "date": "2026-08-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "750683",
+      "email": "rbbcmgr@raamco.com",
+      "name": "",
+      "account": "Sheng Raamco Management Inc",
+      "date": "2026-08-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "649023",
+      "email": "manager@ryderridgeapts.com",
+      "name": "",
+      "account": "Roers Companies LLC",
+      "date": "2026-08-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1207331",
+      "email": "Viviane.C@legendmgmt.com",
+      "name": "",
+      "account": "Legend Asset Management ",
+      "date": "2026-08-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "373282",
+      "email": "independenceplacekilleen@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-08-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "666102",
+      "email": "john.cle@dumpstercrushr.com",
+      "name": "",
+      "account": "Crushr",
+      "date": "2026-08-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "592217",
+      "email": "LakewoodRanch.FL@sylvanlearning.com",
+      "name": "",
+      "account": "Sylvan Learning",
+      "date": "2026-08-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1247988",
+      "email": "joelmtharp11@gmail.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-08-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "461448",
+      "email": "ioana@decoratingden.com",
+      "name": "",
+      "account": "Decorating Den Interiors",
+      "date": "2026-08-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1073527",
+      "email": "northcharleston-sc@nothingbundtcakes.com",
+      "name": "",
+      "account": "Nothing Bundt Cakes",
+      "date": "2026-08-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "1285277",
@@ -11655,19 +11864,19 @@
     }
   ],
   "level_counts": {
-    "Administrator": 125,
-    "Manager": 922,
+    "Administrator": 126,
+    "Manager": 940,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 75,
+    "green": 94,
     "amber": 418,
     "red": 555
   },
-  "total_interested": 1048,
+  "total_interested": 1067,
   "oldest_age": 363,
   "repeat_accounts": [
     [
@@ -11680,19 +11889,19 @@
     ],
     [
       "AT&T",
-      28
+      29
     ],
     [
       "Subway - North America",
+      24
+    ],
+    [
+      "RPM Living",
       22
     ],
     [
       "Cruise Planners | CP Elite",
       22
-    ],
-    [
-      "RPM Living",
-      21
     ],
     [
       "Sky Zone",
@@ -11704,11 +11913,15 @@
     ],
     [
       "Anytime Fitness NA ",
-      17
+      18
     ],
     [
       "Cruise Planners | CP Pro",
       16
+    ],
+    [
+      "Sylvan Learning",
+      15
     ],
     [
       "Woof Gang Bakery & Grooming",
@@ -11719,16 +11932,12 @@
       14
     ],
     [
-      "Sylvan Learning",
-      14
+      "Nothing Bundt Cakes",
+      13
     ],
     [
       "Signarama",
       13
-    ],
-    [
-      "Nothing Bundt Cakes",
-      12
     ],
     [
       "Avenue5 Residential",
@@ -11755,6 +11964,10 @@
       11
     ],
     [
+      "The Goddard School",
+      10
+    ],
+    [
       "Discovery Marketing Group, LLC dba STAT Marketing",
       10
     ],
@@ -11779,11 +11992,11 @@
       8
     ],
     [
-      "Orangetheory Fitness",
+      "Teriyaki Madness",
       8
     ],
     [
-      "The Goddard School",
+      "Orangetheory Fitness",
       8
     ],
     [
@@ -11799,7 +12012,7 @@
       8
     ],
     [
-      "Teriyaki Madness",
+      "voco",
       7
     ],
     [
@@ -11835,7 +12048,7 @@
       6
     ],
     [
-      "voco",
+      "Decorating Den Interiors",
       6
     ],
     [
@@ -11903,10 +12116,6 @@
       5
     ],
     [
-      "Decorating Den Interiors",
-      5
-    ],
-    [
       "Guild Mortgage",
       5
     ],
@@ -11921,6 +12130,10 @@
     [
       "Comparion",
       5
+    ],
+    [
+      "Sheng Raamco Management Inc",
+      4
     ],
     [
       "ServiceMaster Restore",
@@ -11973,6 +12186,18 @@
     [
       "Scooter's Coffee, LLC",
       4
+    ],
+    [
+      "Milkshake Factory",
+      3
+    ],
+    [
+      "KidsUnited USA",
+      3
+    ],
+    [
+      "Legend Asset Management ",
+      3
     ],
     [
       "Burn Boot Camp",
@@ -12055,10 +12280,6 @@
       3
     ],
     [
-      "Sheng Raamco Management Inc",
-      3
-    ],
-    [
       "Arlington Properties",
       3
     ],
@@ -12085,6 +12306,10 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "Roers Companies LLC",
+      2
     ],
     [
       "The Lash Lounge",
@@ -12239,10 +12464,6 @@
       2
     ],
     [
-      "KidsUnited USA",
-      2
-    ],
-    [
       "Western Union - USA",
       2
     ],
@@ -12279,19 +12500,11 @@
       2
     ],
     [
-      "Legend Asset Management ",
-      2
-    ],
-    [
       "CareBuilders At Home",
       2
     ],
     [
       "i9 Sports",
-      2
-    ],
-    [
-      "Milkshake Factory",
       2
     ],
     [
