@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19 06:51 UTC",
+  "generated_at": "2026-08-19 07:41 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 119,
-      "interested": 119
+      "responses_12mo": 123,
+      "interested": 123
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 311,
-      "interested": 311
+      "responses_12mo": 317,
+      "interested": 317
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 94,
-      "interested": 94
+      "responses_12mo": 95,
+      "interested": 95
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 199,
-      "interested": 199
+      "responses_12mo": 204,
+      "interested": 204
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,127 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 121,
-      "interested": 121
+      "responses_12mo": 123,
+      "interested": 123
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 112,
-      "interested": 112
+      "responses_12mo": 114,
+      "interested": 114
     }
   },
   "contacts": [
+    {
+      "visitor": "948612",
+      "email": "sarkara@hlcmail.com",
+      "name": "",
+      "account": "Huntington Learning Centers ",
+      "date": "2026-08-19",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1025184",
+      "email": "pm.sagecliff@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-08-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "450259",
+      "email": "hedgesathawthorne@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-08-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "421594",
+      "email": "mavenwheaton@havenresidential.com",
+      "name": "",
+      "account": "29th Street Living",
+      "date": "2026-08-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1286532",
+      "email": "Hassan.Hamada@ihg.com",
+      "name": "",
+      "account": "Crowne Plaza",
+      "date": "2026-08-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "657154",
+      "email": "HeritageatRiverstoneLSG@allegiant-carter.com",
+      "name": "",
+      "account": "Allegiant-Carter Management",
+      "date": "2026-08-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "223882",
+      "email": "lakesidetc@highmarkres.com",
+      "name": "",
+      "account": "Highmark Residential",
+      "date": "2026-08-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1217371",
+      "email": "mwhitehead@homewellcares.com",
+      "name": "",
+      "account": "HomeWell Care Services",
+      "date": "2026-08-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1171984",
+      "email": "courtneyc@canneryliving.com",
+      "name": "",
+      "account": "Embrey Management Service",
+      "date": "2026-08-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "882408",
+      "email": "info@kansasparadiseplaza.com",
+      "name": "",
+      "account": "Eucalyptus Real Estate",
+      "date": "2026-08-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
     {
       "visitor": "89529",
       "email": "RiversideCA@goddardschools.com",
@@ -137,6 +247,94 @@
       "area": "Social"
     },
     {
+      "visitor": "1214266",
+      "email": "namita.patel@signarama.com",
+      "name": "",
+      "account": "Signarama",
+      "date": "2026-08-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1069965",
+      "email": "caleb.a.casas@salata.com",
+      "name": "",
+      "account": "Salata",
+      "date": "2026-08-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1106257",
+      "email": "studiomanager0411@orangetheoryfitness.com",
+      "name": "",
+      "account": "Orangetheory Fitness",
+      "date": "2026-08-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "510485",
+      "email": "005@beefobradys.com",
+      "name": "",
+      "account": "FSC Franchise Brands",
+      "date": "2026-08-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1286532",
+      "email": "Hassan.Hamada@ihg.com",
+      "name": "",
+      "account": "InterContinental",
+      "date": "2026-08-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1284148",
+      "email": "layan.aljuhani@ihg.com",
+      "name": "",
+      "account": "Crowne Plaza",
+      "date": "2026-08-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "833423",
+      "email": "valerie.stover@affordablecare.com",
+      "name": "",
+      "account": "Affordable Care",
+      "date": "2026-08-18",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1271318",
+      "email": "jcorcino@laramar.com",
+      "name": "",
+      "account": "The Laramar Group",
+      "date": "2026-08-18",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
       "visitor": "1251307",
       "email": "zahidm61@hotmail.com",
       "name": "",
@@ -146,6 +344,28 @@
       "age_days": 1,
       "sla": "green",
       "area": "AskGenius"
+    },
+    {
+      "visitor": "292115",
+      "email": "cgoncalves@lightbridgeacademy.com",
+      "name": "",
+      "account": "Lightbridge Academy",
+      "date": "2026-08-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "232538",
+      "email": "nfenlason@soccershots.com",
+      "name": "",
+      "account": "Soccer Shots",
+      "date": "2026-08-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "53888",
@@ -11864,19 +12084,19 @@
     }
   ],
   "level_counts": {
-    "Administrator": 126,
-    "Manager": 940,
+    "Administrator": 128,
+    "Manager": 958,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 82,
+    "green": 102,
     "amber": 423,
     "red": 562
   },
-  "total_interested": 1067,
+  "total_interested": 1087,
   "oldest_age": 364,
   "repeat_accounts": [
     [
@@ -11885,7 +12105,7 @@
     ],
     [
       "Willow Bridge Property Company ",
-      39
+      40
     ],
     [
       "AT&T",
@@ -11928,20 +12148,20 @@
       15
     ],
     [
+      "Signarama",
+      14
+    ],
+    [
       "Texas Roadhouse Holdings LLC",
       14
     ],
     [
+      "Avenue5 Residential",
+      13
+    ],
+    [
       "Nothing Bundt Cakes",
       13
-    ],
-    [
-      "Signarama",
-      13
-    ],
-    [
-      "Avenue5 Residential",
-      12
     ],
     [
       "Holiday Inn Express",
@@ -11976,6 +12196,10 @@
       10
     ],
     [
+      "Orangetheory Fitness",
+      9
+    ],
+    [
       "Liberty Tax",
       9
     ],
@@ -11996,10 +12220,6 @@
       8
     ],
     [
-      "Orangetheory Fitness",
-      8
-    ],
-    [
       "Pedego Electric Bikes",
       8
     ],
@@ -12010,6 +12230,10 @@
     [
       "Mill Creek Residential ",
       8
+    ],
+    [
+      "FSC Franchise Brands",
+      7
     ],
     [
       "voco",
@@ -12044,15 +12268,15 @@
       7
     ],
     [
+      "HomeWell Care Services",
+      6
+    ],
+    [
       "Dill Dinkers",
       6
     ],
     [
       "Decorating Den Interiors",
-      6
-    ],
-    [
-      "FSC Franchise Brands",
       6
     ],
     [
@@ -12068,11 +12292,19 @@
       6
     ],
     [
-      "American Freight NewCo",
+      "Huntington Learning Centers ",
       5
     ],
     [
-      "HomeWell Care Services",
+      "29th Street Living",
+      5
+    ],
+    [
+      "Lightbridge Academy",
+      5
+    ],
+    [
+      "American Freight NewCo",
       5
     ],
     [
@@ -12132,6 +12364,14 @@
       5
     ],
     [
+      "Highmark Residential",
+      4
+    ],
+    [
+      "InterContinental",
+      4
+    ],
+    [
       "Sheng Raamco Management Inc",
       4
     ],
@@ -12148,14 +12388,6 @@
       4
     ],
     [
-      "Huntington Learning Centers ",
-      4
-    ],
-    [
-      "29th Street Living",
-      4
-    ],
-    [
       "Garner",
       4
     ],
@@ -12165,10 +12397,6 @@
     ],
     [
       "Ovation Property Management",
-      4
-    ],
-    [
-      "Lightbridge Academy",
       4
     ],
     [
@@ -12186,6 +12414,14 @@
     [
       "Scooter's Coffee, LLC",
       4
+    ],
+    [
+      "Crowne Plaza",
+      3
+    ],
+    [
+      "Soccer Shots",
+      3
     ],
     [
       "Milkshake Factory",
@@ -12220,19 +12456,11 @@
       3
     ],
     [
-      "InterContinental",
-      3
-    ],
-    [
       "The Little Gym",
       3
     ],
     [
       "IMT Residential",
-      3
-    ],
-    [
-      "Highmark Residential",
       3
     ],
     [
@@ -12308,6 +12536,18 @@
       3
     ],
     [
+      "Embrey Management Service",
+      2
+    ],
+    [
+      "Eucalyptus Real Estate",
+      2
+    ],
+    [
+      "Salata",
+      2
+    ],
+    [
       "Roers Companies LLC",
       2
     ],
@@ -12349,10 +12589,6 @@
     ],
     [
       "Sunroad Enterprises",
-      2
-    ],
-    [
-      "Soccer Shots",
       2
     ],
     [
