@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20 06:52 UTC",
+  "generated_at": "2026-08-20 07:44 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,14 +60,14 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 123,
-      "interested": 123
+      "responses_12mo": 128,
+      "interested": 128
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
       "views_12mo": 0,
-      "responses_12mo": 11,
-      "interested": 11
+      "responses_12mo": 12,
+      "interested": 12
     },
     "Surveys": {
       "guide_id": "RLz8F0jmIzDqIwzo7WOPNNHQr4M",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 317,
-      "interested": 317
+      "responses_12mo": 322,
+      "interested": 322
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 95,
-      "interested": 95
+      "responses_12mo": 97,
+      "interested": 97
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 204,
-      "interested": 204
+      "responses_12mo": 207,
+      "interested": 207
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -120,11 +120,132 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 114,
-      "interested": 114
+      "responses_12mo": 118,
+      "interested": 118
     }
   },
   "contacts": [
+    {
+      "visitor": "1004534",
+      "email": "OnyxUptown@ca-mgmt.com",
+      "name": "",
+      "account": "Chamberlin Associates",
+      "date": "2026-08-20",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "948719",
+      "email": "udreamiplantravels@gmail.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-08-20",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "912495",
+      "email": "CheyenneMgr@RJourney.com",
+      "name": "",
+      "account": "Rjourney",
+      "date": "2026-08-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1228474",
+      "email": "CitrineOn67th@ca-mgmt.com",
+      "name": "",
+      "account": "Chamberlin Associates",
+      "date": "2026-08-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "838165",
+      "email": "colinaspointe@anterra.com",
+      "name": "",
+      "account": "Anterra",
+      "date": "2026-08-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1279764",
+      "email": "joanne.gray@birmingham.staybridge.com",
+      "name": "",
+      "account": "Staybridge Suites",
+      "date": "2026-08-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1205843",
+      "email": "JQ739D@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-08-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Pages"
+    },
+    {
+      "visitor": "1234388",
+      "email": "jenniferbishoptravel@gmail.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-08-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1215450",
+      "email": "kelsea@livanoknoxville.com",
+      "name": "",
+      "account": "Gallery Residential",
+      "date": "2026-08-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "106776",
+      "email": "afton@tlhenterprises.com",
+      "name": "",
+      "account": "Rent-A-Center",
+      "date": "2026-08-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "762923",
+      "email": "encantadalaestancia@myhslhome.com",
+      "name": "",
+      "account": "HSL Asset Management LLC ",
+      "date": "2026-08-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
     {
       "visitor": "948612",
       "email": "sarkara@hlcmail.com",
@@ -135,6 +256,105 @@
       "age_days": 1,
       "sla": "green",
       "area": "Social"
+    },
+    {
+      "visitor": "943474",
+      "email": "mebeaudreault@elementsmassage.com",
+      "name": "",
+      "account": "Elements Massage",
+      "date": "2026-08-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1277299",
+      "email": "linda.amerman@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Pro",
+      "date": "2026-08-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1207795",
+      "email": "ssheehan@raintreepartners.com",
+      "name": "",
+      "account": "Raintree Partners",
+      "date": "2026-08-19",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "84174",
+      "email": "essexmgr@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-08-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "360167",
+      "email": "crossroadslibtax+brittany.sanderson@gmail.com",
+      "name": "",
+      "account": "Liberty Tax",
+      "date": "2026-08-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1173754",
+      "email": "westsacramento@groceryoutlet.com",
+      "name": "",
+      "account": "Grocery Outlet",
+      "date": "2026-08-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1185993",
+      "email": "kailey.freeman@monarchinvestment.com",
+      "name": "",
+      "account": "Monarch Investment and Management Group",
+      "date": "2026-08-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "840856",
+      "email": "willowlakeapts@peakliving.com",
+      "name": "",
+      "account": "Peak Living LLC",
+      "date": "2026-08-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1206118",
+      "email": "marketing.saoha1@ihg.com",
+      "name": "",
+      "account": "InterContinental",
+      "date": "2026-08-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "1025184",
@@ -12084,32 +12304,32 @@
     }
   ],
   "level_counts": {
-    "Administrator": 128,
-    "Manager": 958,
+    "Administrator": 129,
+    "Manager": 977,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 80,
+    "green": 100,
     "amber": 410,
     "red": 597
   },
-  "total_interested": 1087,
+  "total_interested": 1107,
   "oldest_age": 365,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
-      46
+      48
     ],
     [
       "Willow Bridge Property Company ",
-      40
+      41
     ],
     [
       "AT&T",
-      29
+      30
     ],
     [
       "Subway - North America",
@@ -12137,7 +12357,7 @@
     ],
     [
       "Cruise Planners | CP Pro",
-      16
+      17
     ],
     [
       "Sylvan Learning",
@@ -12184,6 +12404,10 @@
       11
     ],
     [
+      "Liberty Tax",
+      10
+    ],
+    [
       "The Goddard School",
       10
     ],
@@ -12200,16 +12424,16 @@
       9
     ],
     [
-      "Liberty Tax",
-      9
-    ],
-    [
       "Ford",
       9
     ],
     [
       "Stretch Zone Franchising, LLC ",
       9
+    ],
+    [
+      "Elements Massage",
+      8
     ],
     [
       "Forty Winks | The Pistol",
@@ -12230,6 +12454,10 @@
     [
       "Mill Creek Residential ",
       8
+    ],
+    [
+      "Grocery Outlet",
+      7
     ],
     [
       "FSC Franchise Brands",
@@ -12256,16 +12484,16 @@
       7
     ],
     [
-      "Elements Massage",
-      7
-    ],
-    [
       "Bruster's Real Ice Cream",
       7
     ],
     [
       "Capital Square Living",
       7
+    ],
+    [
+      "Monarch Investment and Management Group",
+      6
     ],
     [
       "HomeWell Care Services",
@@ -12280,10 +12508,6 @@
       6
     ],
     [
-      "Grocery Outlet",
-      6
-    ],
-    [
       "Weidner",
       6
     ],
@@ -12292,7 +12516,19 @@
       6
     ],
     [
+      "Chamberlin Associates",
+      5
+    ],
+    [
       "Huntington Learning Centers ",
+      5
+    ],
+    [
+      "Peak Living LLC",
+      5
+    ],
+    [
+      "InterContinental",
       5
     ],
     [
@@ -12313,10 +12549,6 @@
     ],
     [
       "Merry Maids",
-      5
-    ],
-    [
-      "Monarch Investment and Management Group",
       5
     ],
     [
@@ -12364,11 +12596,15 @@
       5
     ],
     [
-      "Highmark Residential",
+      "Anterra",
       4
     ],
     [
-      "InterContinental",
+      "Rent-A-Center",
+      4
+    ],
+    [
+      "Highmark Residential",
       4
     ],
     [
@@ -12377,10 +12613,6 @@
     ],
     [
       "ServiceMaster Restore",
-      4
-    ],
-    [
-      "Peak Living LLC",
       4
     ],
     [
@@ -12416,6 +12648,10 @@
       4
     ],
     [
+      "Raintree Partners",
+      3
+    ],
+    [
       "Crowne Plaza",
       3
     ],
@@ -12444,15 +12680,7 @@
       3
     ],
     [
-      "Chamberlin Associates",
-      3
-    ],
-    [
       "Kiddie Academy",
-      3
-    ],
-    [
-      "Rent-A-Center",
       3
     ],
     [
@@ -12473,10 +12701,6 @@
     ],
     [
       "GO Car Wash",
-      3
-    ],
-    [
-      "Anterra",
       3
     ],
     [
@@ -12536,6 +12760,10 @@
       3
     ],
     [
+      "Gallery Residential",
+      2
+    ],
+    [
       "Embrey Management Service",
       2
     ],
@@ -12593,10 +12821,6 @@
     ],
     [
       "Guardian Real Estate Services LLC",
-      2
-    ],
-    [
-      "Raintree Partners",
       2
     ],
     [
