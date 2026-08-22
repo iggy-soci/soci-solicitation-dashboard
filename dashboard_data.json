@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22 06:46 UTC",
+  "generated_at": "2026-08-22 07:35 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 324,
-      "interested": 324
+      "responses_12mo": 325,
+      "interested": 325
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 97,
-      "interested": 97
+      "responses_12mo": 98,
+      "interested": 98
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 211,
-      "interested": 211
+      "responses_12mo": 215,
+      "interested": 215
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -120,8 +120,8 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 121,
-      "interested": 121
+      "responses_12mo": 122,
+      "interested": 122
     }
   },
   "contacts": [
@@ -135,6 +135,83 @@
       "age_days": 1,
       "sla": "green",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "64018",
+      "email": "vancouver.owner@mrappliance.com",
+      "name": "",
+      "account": "Neighborly",
+      "date": "2026-08-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1080831",
+      "email": "scoman@lynd.com",
+      "name": "",
+      "account": "Lynd",
+      "date": "2026-08-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "38352",
+      "email": "mfurstenberg@brainbalancecenters.com",
+      "name": "",
+      "account": "Brain Balance Centers ",
+      "date": "2026-08-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1250455",
+      "email": "masoudrazian@yahoo.ca",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-08-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1207160",
+      "email": "ciri.ellis@capitalsquareliving.com",
+      "name": "",
+      "account": "Capital Square Living",
+      "date": "2026-08-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1288357",
+      "email": "mohamed.elbalshy@hiexdubai.ae",
+      "name": "",
+      "account": "Holiday Inn Express",
+      "date": "2026-08-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "273191",
+      "email": "psp4025@petsuppliesplus.com",
+      "name": "",
+      "account": "Pet Supplies Plus",
+      "date": "2026-08-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "510380",
@@ -12448,18 +12525,18 @@
   ],
   "level_counts": {
     "Administrator": 131,
-    "Manager": 988,
+    "Manager": 995,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 87,
+    "green": 94,
     "amber": 382,
     "red": 651
   },
-  "total_interested": 1120,
+  "total_interested": 1127,
   "oldest_age": 359,
   "repeat_accounts": [
     [
@@ -12476,7 +12553,7 @@
     ],
     [
       "Subway - North America",
-      24
+      25
     ],
     [
       "RPM Living",
@@ -12519,6 +12596,14 @@
       14
     ],
     [
+      "Neighborly",
+      13
+    ],
+    [
+      "Holiday Inn Express",
+      13
+    ],
+    [
       "Avenue5 Residential",
       13
     ],
@@ -12527,20 +12612,12 @@
       13
     ],
     [
-      "Holiday Inn Express",
+      "Pet Supplies Plus",
       12
     ],
     [
       "The Learning Experience",
       12
-    ],
-    [
-      "Neighborly",
-      12
-    ],
-    [
-      "Pet Supplies Plus",
-      11
     ],
     [
       "Vetcor",
@@ -12577,6 +12654,10 @@
     [
       "Stretch Zone Franchising, LLC ",
       9
+    ],
+    [
+      "Capital Square Living",
+      8
     ],
     [
       "FSC Franchise Brands",
@@ -12635,8 +12716,8 @@
       7
     ],
     [
-      "Capital Square Living",
-      7
+      "Lynd",
+      6
     ],
     [
       "Merry Maids",
@@ -12708,10 +12789,6 @@
     ],
     [
       "Fortis Property Management",
-      5
-    ],
-    [
-      "Lynd",
       5
     ],
     [
@@ -12793,6 +12870,10 @@
     [
       "Scooter's Coffee, LLC",
       4
+    ],
+    [
+      "Brain Balance Centers ",
+      3
     ],
     [
       "Raintree Partners",
@@ -13000,10 +13081,6 @@
     ],
     [
       "Sam The Concrete Man",
-      2
-    ],
-    [
-      "Brain Balance Centers ",
       2
     ],
     [
