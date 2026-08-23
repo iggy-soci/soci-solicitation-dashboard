@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23 06:51 UTC",
+  "generated_at": "2026-08-23 07:36 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,14 +54,14 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 83,
-      "interested": 83
+      "responses_12mo": 84,
+      "interested": 84
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 133,
-      "interested": 133
+      "responses_12mo": 134,
+      "interested": 134
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,8 +78,8 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 325,
-      "interested": 325
+      "responses_12mo": 326,
+      "interested": 326
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 215,
-      "interested": 215
+      "responses_12mo": 217,
+      "interested": 217
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -125,6 +125,61 @@
     }
   },
   "contacts": [
+    {
+      "visitor": "1286809",
+      "email": "dave.ormerod@scorevolunteer.org",
+      "name": "",
+      "account": "SCORE",
+      "date": "2026-08-22",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reporting Suite"
+    },
+    {
+      "visitor": "1279506",
+      "email": "c.courtney@novum-hospitality.com",
+      "name": "",
+      "account": "Garner",
+      "date": "2026-08-22",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1229248",
+      "email": "business@momodigitals.com",
+      "name": "",
+      "account": "USA Camping",
+      "date": "2026-08-22",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "639747",
+      "email": "studio311@paintingwithatwist.com",
+      "name": "",
+      "account": "Painting with a Twist, LLC",
+      "date": "2026-08-22",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "888273",
+      "email": "MarlboroMD@zoomingroomin.com",
+      "name": "",
+      "account": "Zoomin Groomin",
+      "date": "2026-08-22",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
     {
       "visitor": "1271021",
       "email": "justover7@yahoo.com",
@@ -12524,19 +12579,19 @@
     }
   ],
   "level_counts": {
-    "Administrator": 131,
-    "Manager": 995,
+    "Administrator": 132,
+    "Manager": 999,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 88,
+    "green": 93,
     "amber": 368,
     "red": 671
   },
-  "total_interested": 1127,
+  "total_interested": 1132,
   "oldest_age": 360,
   "repeat_accounts": [
     [
@@ -12716,6 +12771,10 @@
       7
     ],
     [
+      "Painting with a Twist, LLC",
+      6
+    ],
+    [
       "Lynd",
       6
     ],
@@ -12742,6 +12801,10 @@
     [
       "BrightStar Care ",
       6
+    ],
+    [
+      "Garner",
+      5
     ],
     [
       "Chamberlin Associates",
@@ -12804,12 +12867,12 @@
       5
     ],
     [
-      "Painting with a Twist, LLC",
+      "Jeremiah's Italian Ice",
       5
     ],
     [
-      "Jeremiah's Italian Ice",
-      5
+      "Zoomin Groomin",
+      4
     ],
     [
       "Crowne Plaza",
@@ -12837,10 +12900,6 @@
     ],
     [
       "Color Me Mine LLC",
-      4
-    ],
-    [
-      "Garner",
       4
     ],
     [
@@ -12965,10 +13024,6 @@
     ],
     [
       "Radiant Waxing",
-      3
-    ],
-    [
-      "Zoomin Groomin",
       3
     ],
     [
