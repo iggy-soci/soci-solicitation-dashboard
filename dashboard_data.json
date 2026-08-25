@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25 06:54 UTC",
+  "generated_at": "2026-08-25 07:48 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,14 +54,14 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 84,
-      "interested": 84
+      "responses_12mo": 85,
+      "interested": 85
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 135,
-      "interested": 135
+      "responses_12mo": 137,
+      "interested": 137
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 326,
-      "interested": 326
+      "responses_12mo": 329,
+      "interested": 329
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 99,
-      "interested": 99
+      "responses_12mo": 100,
+      "interested": 100
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 220,
-      "interested": 220
+      "responses_12mo": 226,
+      "interested": 226
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,8 +114,8 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 123,
-      "interested": 123
+      "responses_12mo": 124,
+      "interested": 124
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
@@ -125,6 +125,50 @@
     }
   },
   "contacts": [
+    {
+      "visitor": "421962",
+      "email": "ErinLoveless@ernesthealth.com",
+      "name": "",
+      "account": "Ernest Health",
+      "date": "2026-08-25",
+      "user_level": "Administrator",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1264985",
+      "email": "agm@expressaurora.com",
+      "name": "",
+      "account": "Holiday Inn Express",
+      "date": "2026-08-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reporting Suite"
+    },
+    {
+      "visitor": "81233",
+      "email": "aspireroxburymgr@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-08-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1226597",
+      "email": "patric.gutu@shaminhotels.com",
+      "name": "",
+      "account": "Holiday Inn Express",
+      "date": "2026-08-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
     {
       "visitor": "1283478",
       "email": "lolljcait@gmail.com",
@@ -137,6 +181,105 @@
       "area": "Reviews (Reputation)"
     },
     {
+      "visitor": "351940",
+      "email": "pat.bezek+3048912@foxroach.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-08-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "943712",
+      "email": "brendanstapleton@fitnesstogether.com",
+      "name": "",
+      "account": "Fitness Together",
+      "date": "2026-08-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1061934",
+      "email": "charity.gavaza@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Pro",
+      "date": "2026-08-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "462942",
+      "email": "ebattise+esther.battise01@hotmail.com",
+      "name": "",
+      "account": "Liberty Tax",
+      "date": "2026-08-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1215776",
+      "email": "eduncan@linkapm.com",
+      "name": "",
+      "account": "LINK Real Estate Group",
+      "date": "2026-08-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1205843",
+      "email": "JQ739D@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-08-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1250876",
+      "email": "hafele@midrivers.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-08-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "664157",
+      "email": "twentyone41mgr@ca-mgmt.com",
+      "name": "",
+      "account": "Chamberlin Associates",
+      "date": "2026-08-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1063164",
+      "email": "woodlandspreserve@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-08-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
       "visitor": "1277692",
       "email": "4003798@sso.subway.com",
       "name": "",
@@ -146,6 +289,17 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Reviews"
+    },
+    {
+      "visitor": "381046",
+      "email": "vickie.hall+vickie.hall01@foyfin.com",
+      "name": "",
+      "account": "Liberty Tax",
+      "date": "2026-08-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
     },
     {
       "visitor": "648944",
@@ -12645,19 +12799,19 @@
     }
   ],
   "level_counts": {
-    "Administrator": 132,
-    "Manager": 1005,
+    "Administrator": 133,
+    "Manager": 1018,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 74,
+    "green": 88,
     "amber": 365,
     "red": 699
   },
-  "total_interested": 1138,
+  "total_interested": 1152,
   "oldest_age": 362,
   "repeat_accounts": [
     [
@@ -12666,15 +12820,15 @@
     ],
     [
       "Willow Bridge Property Company ",
-      41
+      42
     ],
     [
       "AT&T",
-      30
+      31
     ],
     [
       "Subway - North America",
-      26
+      27
     ],
     [
       "RPM Living",
@@ -12685,6 +12839,10 @@
       22
     ],
     [
+      "Berkshire Hathaway HomeServices",
+      20
+    ],
+    [
       "Sky Zone",
       20
     ],
@@ -12693,12 +12851,12 @@
       20
     ],
     [
-      "Berkshire Hathaway HomeServices",
-      19
+      "Cruise Planners | CP Pro",
+      18
     ],
     [
-      "Cruise Planners | CP Pro",
-      17
+      "Holiday Inn Express",
+      15
     ],
     [
       "Sylvan Learning",
@@ -12707,6 +12865,10 @@
     [
       "Woof Gang Bakery & Grooming",
       15
+    ],
+    [
+      "Avenue5 Residential",
+      14
     ],
     [
       "Signarama",
@@ -12721,16 +12883,12 @@
       13
     ],
     [
-      "Holiday Inn Express",
-      13
-    ],
-    [
-      "Avenue5 Residential",
-      13
-    ],
-    [
       "Nothing Bundt Cakes",
       13
+    ],
+    [
+      "Liberty Tax",
+      12
     ],
     [
       "Pet Supplies Plus",
@@ -12743,10 +12901,6 @@
     [
       "Vetcor",
       11
-    ],
-    [
-      "Liberty Tax",
-      10
     ],
     [
       "The Goddard School",
@@ -12837,6 +12991,10 @@
       7
     ],
     [
+      "Chamberlin Associates",
+      6
+    ],
+    [
       "Painting with a Twist, LLC",
       6
     ],
@@ -12874,10 +13032,6 @@
     ],
     [
       "Garner",
-      5
-    ],
-    [
-      "Chamberlin Associates",
       5
     ],
     [
@@ -12995,6 +13149,10 @@
     [
       "Comparion",
       4
+    ],
+    [
+      "Fitness Together",
+      3
     ],
     [
       "Brain Balance Centers ",
@@ -13234,10 +13392,6 @@
     ],
     [
       "Culvers",
-      2
-    ],
-    [
-      "Fitness Together",
       2
     ],
     [
