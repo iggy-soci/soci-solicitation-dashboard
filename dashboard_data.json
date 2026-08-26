@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26 06:00 UTC",
+  "generated_at": "2026-08-26 07:26 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 137,
-      "interested": 137
+      "responses_12mo": 142,
+      "interested": 142
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,8 +78,8 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 329,
-      "interested": 329
+      "responses_12mo": 333,
+      "interested": 333
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 226,
-      "interested": 226
+      "responses_12mo": 231,
+      "interested": 231
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,116 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 124,
-      "interested": 124
+      "responses_12mo": 128,
+      "interested": 128
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 123,
-      "interested": 123
+      "responses_12mo": 126,
+      "interested": 126
     }
   },
   "contacts": [
+    {
+      "visitor": "1205843",
+      "email": "JQ739D@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-08-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "984764",
+      "email": "dle@arcpointlabs.com",
+      "name": "",
+      "account": "ARCpoint Labs Corporate",
+      "date": "2026-08-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1211663",
+      "email": "gerencia@avidaeropuertogdl.com",
+      "name": "",
+      "account": "avid hotels",
+      "date": "2026-08-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1253906",
+      "email": "nikunjapatel07@gmail.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-08-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "410474",
+      "email": "corsair@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-08-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "750710",
+      "email": "woodlandhillsasstmgr@raamco.com",
+      "name": "",
+      "account": "Sheng Raamco Management Inc",
+      "date": "2026-08-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1203652",
+      "email": "monica.dailey@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Pro",
+      "date": "2026-08-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1258530",
+      "email": "HCrabb@millcreekplaces.com",
+      "name": "",
+      "account": "Mill Creek Residential ",
+      "date": "2026-08-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "69742",
+      "email": "jeff.page@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-08-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
     {
       "visitor": "421962",
       "email": "ErinLoveless@ernesthealth.com",
@@ -135,6 +234,138 @@
       "age_days": 1,
       "sla": "green",
       "area": "Social"
+    },
+    {
+      "visitor": "277921",
+      "email": "libertytax.gh+larry.fleck02@gmail.com",
+      "name": "",
+      "account": "Liberty Tax",
+      "date": "2026-08-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1211663",
+      "email": "gerencia@avidaeropuertogdl.com",
+      "name": "",
+      "account": "avid hotels",
+      "date": "2026-08-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "969268",
+      "email": "havenregentparkmgr@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-08-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1234311",
+      "email": "lemmondfarm@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-08-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1253906",
+      "email": "nikunjapatel07@gmail.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-08-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1254184",
+      "email": "vinod3382@yahoo.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-08-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1260782",
+      "email": "jbulloc1@byrider.com",
+      "name": "",
+      "account": "Byrider",
+      "date": "2026-08-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1195213",
+      "email": "d-keefau@forddirect.com",
+      "name": "",
+      "account": "Ford",
+      "date": "2026-08-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1289481",
+      "email": "gfales@byrider.com",
+      "name": "",
+      "account": "Byrider",
+      "date": "2026-08-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1286675",
+      "email": "stephanie.duessler+3080281@bhhsflpg.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-08-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1229876",
+      "email": "agm.symonsvalley@kidstrong.com",
+      "name": "",
+      "account": "KidStrong",
+      "date": "2026-08-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "143465",
+      "email": "five810@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-08-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "1264985",
@@ -12800,18 +13031,18 @@
   ],
   "level_counts": {
     "Administrator": 133,
-    "Manager": 1018,
+    "Manager": 1039,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 67,
+    "green": 88,
     "amber": 381,
     "red": 704
   },
-  "total_interested": 1152,
+  "total_interested": 1173,
   "oldest_age": 363,
   "repeat_accounts": [
     [
@@ -12820,27 +13051,27 @@
     ],
     [
       "Willow Bridge Property Company ",
-      42
+      43
     ],
     [
       "AT&T",
-      31
+      32
     ],
     [
       "Subway - North America",
-      27
+      30
+    ],
+    [
+      "Cruise Planners | CP Elite",
+      23
     ],
     [
       "RPM Living",
       23
     ],
     [
-      "Cruise Planners | CP Elite",
-      22
-    ],
-    [
       "Berkshire Hathaway HomeServices",
-      20
+      21
     ],
     [
       "Sky Zone",
@@ -12852,7 +13083,11 @@
     ],
     [
       "Cruise Planners | CP Pro",
-      18
+      19
+    ],
+    [
+      "Avenue5 Residential",
+      17
     ],
     [
       "Holiday Inn Express",
@@ -12867,10 +13102,6 @@
       15
     ],
     [
-      "Avenue5 Residential",
-      14
-    ],
-    [
       "Signarama",
       14
     ],
@@ -12879,16 +13110,16 @@
       14
     ],
     [
+      "Liberty Tax",
+      13
+    ],
+    [
       "Neighborly",
       13
     ],
     [
       "Nothing Bundt Cakes",
       13
-    ],
-    [
-      "Liberty Tax",
-      12
     ],
     [
       "Pet Supplies Plus",
@@ -12903,6 +13134,10 @@
       11
     ],
     [
+      "Ford",
+      10
+    ],
+    [
       "The Goddard School",
       10
     ],
@@ -12915,15 +13150,15 @@
       10
     ],
     [
+      "Mill Creek Residential ",
+      9
+    ],
+    [
       "Bryten Management",
       9
     ],
     [
       "Orangetheory Fitness",
-      9
-    ],
-    [
-      "Ford",
       9
     ],
     [
@@ -12968,10 +13203,6 @@
     ],
     [
       "American Freight (MAFGA)",
-      8
-    ],
-    [
-      "Mill Creek Residential ",
       8
     ],
     [
@@ -13025,6 +13256,10 @@
     [
       "BrightStar Care ",
       6
+    ],
+    [
+      "Sheng Raamco Management Inc",
+      5
     ],
     [
       "Scooter's Coffee, LLC",
@@ -13115,10 +13350,6 @@
       4
     ],
     [
-      "Sheng Raamco Management Inc",
-      4
-    ],
-    [
       "ServiceMaster Restore",
       4
     ],
@@ -13149,6 +13380,10 @@
     [
       "Comparion",
       4
+    ],
+    [
+      "ARCpoint Labs Corporate",
+      3
     ],
     [
       "Fitness Together",
@@ -13261,6 +13496,14 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "avid hotels",
+      2
+    ],
+    [
+      "Byrider",
+      2
     ],
     [
       "Chicken Salad Chick",
@@ -13476,10 +13719,6 @@
     ],
     [
       "AIM Recycling - Ontario",
-      2
-    ],
-    [
-      "ARCpoint Labs Corporate",
       2
     ],
     [
