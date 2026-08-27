@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27 00:34 UTC",
+  "generated_at": "2026-08-27 11:01 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,14 +54,14 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 85,
-      "interested": 85
+      "responses_12mo": 86,
+      "interested": 86
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 142,
-      "interested": 142
+      "responses_12mo": 143,
+      "interested": 143
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 333,
-      "interested": 333
+      "responses_12mo": 335,
+      "interested": 335
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 100,
-      "interested": 100
+      "responses_12mo": 101,
+      "interested": 101
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 231,
-      "interested": 231
+      "responses_12mo": 233,
+      "interested": 233
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,149 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 128,
-      "interested": 128
+      "responses_12mo": 129,
+      "interested": 129
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 126,
-      "interested": 126
+      "responses_12mo": 130,
+      "interested": 130
     }
   },
   "contacts": [
+    {
+      "visitor": "1279688",
+      "email": "stephen.dsouza1@ihg.com",
+      "name": "",
+      "account": "InterContinental",
+      "date": "2026-08-27",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Reporting Suite"
+    },
+    {
+      "visitor": "1193799",
+      "email": "orlandridge@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-08-27",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "69968",
+      "email": "emarr@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-08-27",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "756759",
+      "email": "jnceide@gmail.com",
+      "name": "",
+      "account": "Jersey Mike's Subs",
+      "date": "2026-08-27",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1282105",
+      "email": "Maaz.Khan@skyzone.com",
+      "name": "",
+      "account": "Sky Zone",
+      "date": "2026-08-26",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "69757",
+      "email": "deborah.shah@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-08-26",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1130318",
+      "email": "twhitlock@wingsnmore.com",
+      "name": "",
+      "account": "Wings 'N More| Olo Sync Management",
+      "date": "2026-08-26",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "958723",
+      "email": "ryan@smrsi.com",
+      "name": "",
+      "account": "ServiceMaster Restore",
+      "date": "2026-08-26",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1253574",
+      "email": "patelyash627@gmail.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-08-26",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "701471",
+      "email": "highlands@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-08-26",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "35661",
+      "email": "DotsonE@hlcmail.com",
+      "name": "",
+      "account": "Huntington Learning Centers ",
+      "date": "2026-08-26",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "880924",
+      "email": "john@shipleync.com",
+      "name": "",
+      "account": "Shipley Do-Nuts",
+      "date": "2026-08-26",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
     {
       "visitor": "1205843",
       "email": "JQ739D@att.com",
@@ -13031,18 +13163,18 @@
   ],
   "level_counts": {
     "Administrator": 133,
-    "Manager": 1039,
+    "Manager": 1051,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 69,
+    "green": 81,
     "amber": 369,
     "red": 735
   },
-  "total_interested": 1173,
+  "total_interested": 1185,
   "oldest_age": 364,
   "repeat_accounts": [
     [
@@ -13059,23 +13191,23 @@
     ],
     [
       "Subway - North America",
-      30
+      31
     ],
     [
       "Cruise Planners | CP Elite",
-      23
+      25
     ],
     [
       "RPM Living",
-      23
+      24
+    ],
+    [
+      "Sky Zone",
+      21
     ],
     [
       "Berkshire Hathaway HomeServices",
       21
-    ],
-    [
-      "Sky Zone",
-      20
     ],
     [
       "Anytime Fitness NA ",
@@ -13087,7 +13219,7 @@
     ],
     [
       "Avenue5 Residential",
-      17
+      18
     ],
     [
       "Holiday Inn Express",
@@ -13222,6 +13354,18 @@
       7
     ],
     [
+      "InterContinental",
+      6
+    ],
+    [
+      "Jersey Mike's Subs",
+      6
+    ],
+    [
+      "Huntington Learning Centers ",
+      6
+    ],
+    [
       "Chamberlin Associates",
       6
     ],
@@ -13258,6 +13402,10 @@
       6
     ],
     [
+      "ServiceMaster Restore",
+      5
+    ],
+    [
       "Sheng Raamco Management Inc",
       5
     ],
@@ -13270,15 +13418,7 @@
       5
     ],
     [
-      "Huntington Learning Centers ",
-      5
-    ],
-    [
       "Peak Living LLC",
-      5
-    ],
-    [
-      "InterContinental",
       5
     ],
     [
@@ -13299,10 +13439,6 @@
     ],
     [
       "Urban Air - Unleashed Brands",
-      5
-    ],
-    [
-      "Jersey Mike's Subs",
       5
     ],
     [
@@ -13347,10 +13483,6 @@
     ],
     [
       "Highmark Residential",
-      4
-    ],
-    [
-      "ServiceMaster Restore",
       4
     ],
     [
