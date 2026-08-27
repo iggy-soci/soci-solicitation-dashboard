@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27 11:01 UTC",
+  "generated_at": "2026-08-27 21:05 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -1957,7 +1957,7 @@
       "name": "",
       "account": "Rent-A-Center",
       "date": "2026-08-13",
-      "user_level": "Manager",
+      "user_level": "Administrator",
       "age_days": 14,
       "sla": "amber",
       "area": "Social"
@@ -5455,7 +5455,7 @@
       "name": "",
       "account": "Pedego Electric Bikes",
       "date": "2026-07-26",
-      "user_level": "Manager",
+      "user_level": "Unknown",
       "age_days": 32,
       "sla": "red",
       "area": "Genius Reviews"
@@ -13162,12 +13162,12 @@
     }
   ],
   "level_counts": {
-    "Administrator": 133,
-    "Manager": 1051,
+    "Administrator": 134,
+    "Manager": 1049,
     "User": 0
   },
   "level_counts_extra": {
-    "Unknown": 1
+    "Unknown": 2
   },
   "sla_counts": {
     "green": 81,
