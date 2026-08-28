@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28 05:32 UTC",
+  "generated_at": "2026-08-28 18:23 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,14 +54,14 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 86,
-      "interested": 86
+      "responses_12mo": 87,
+      "interested": 87
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 143,
-      "interested": 143
+      "responses_12mo": 147,
+      "interested": 147
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 335,
-      "interested": 335
+      "responses_12mo": 339,
+      "interested": 339
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 101,
-      "interested": 101
+      "responses_12mo": 103,
+      "interested": 103
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,14 +96,14 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 233,
-      "interested": 233
+      "responses_12mo": 234,
+      "interested": 234
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
       "views_12mo": 0,
-      "responses_12mo": 9,
-      "interested": 9
+      "responses_12mo": 10,
+      "interested": 10
     },
     "Data Management": {
       "guide_id": "YESnj4QI3Np_fsQ1W6_e_jBlJis",
@@ -114,17 +114,39 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 129,
-      "interested": 129
+      "responses_12mo": 131,
+      "interested": 131
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 130,
-      "interested": 130
+      "responses_12mo": 134,
+      "interested": 134
     }
   },
   "contacts": [
+    {
+      "visitor": "1253906",
+      "email": "nikunjapatel07@gmail.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-08-28",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Reporting Suite"
+    },
+    {
+      "visitor": "1246707",
+      "email": "dev.kharva@signarama.com",
+      "name": "",
+      "account": "Signarama",
+      "date": "2026-08-28",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Social"
+    },
     {
       "visitor": "1279688",
       "email": "stephen.dsouza1@ihg.com",
@@ -135,6 +157,94 @@
       "age_days": 1,
       "sla": "green",
       "area": "Reporting Suite"
+    },
+    {
+      "visitor": "949863",
+      "email": "treehouse@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-08-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "79933",
+      "email": "Suwanee3GA@goddardschools.com",
+      "name": "",
+      "account": "The Goddard School",
+      "date": "2026-08-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "394251",
+      "email": "crystal@oasissenioradvisors.com",
+      "name": "",
+      "account": "Oasis Senior Advisors ",
+      "date": "2026-08-27",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "840787",
+      "email": "LakeRidgeapts@peakliving.com",
+      "name": "",
+      "account": "Peak Living LLC",
+      "date": "2026-08-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1284689",
+      "email": "leasing@1010waughapartments.com",
+      "name": "",
+      "account": "Fairfield Residential",
+      "date": "2026-08-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1048863",
+      "email": "madisonatriversedge@alliedresidential.com",
+      "name": "",
+      "account": "Allied Residential ",
+      "date": "2026-08-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1255976",
+      "email": "alfeeya.hall@assetliving.com",
+      "name": "",
+      "account": "Asset Living",
+      "date": "2026-08-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1271639",
+      "email": "lauren.pacheco@comparioninsurance.com",
+      "name": "",
+      "account": "Comparion",
+      "date": "2026-08-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
     },
     {
       "visitor": "1193799",
@@ -148,6 +258,17 @@
       "area": "Social"
     },
     {
+      "visitor": "71839",
+      "email": "jstarks@Tworld.com",
+      "name": "",
+      "account": "Transworld Business Advisors ",
+      "date": "2026-08-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
       "visitor": "69968",
       "email": "emarr@cruiseplanners.com",
       "name": "",
@@ -157,6 +278,94 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Social"
+    },
+    {
+      "visitor": "698649",
+      "email": "Mgr10@purpledubs.com",
+      "name": "",
+      "account": "RimTyme",
+      "date": "2026-08-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1284791",
+      "email": "Kyle.linsner@tsunamiexpress.com",
+      "name": "",
+      "account": "Tsunami Express",
+      "date": "2026-08-27",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Listings"
+    },
+    {
+      "visitor": "369321",
+      "email": "juliepeterson1210+julie.peterson01@gmail.com",
+      "name": "",
+      "account": "Liberty Tax",
+      "date": "2026-08-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1248267",
+      "email": "chaitanpatel@comcast.net",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-08-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1290913",
+      "email": "ansilva@venterraliving.com",
+      "name": "",
+      "account": "Venterra Living",
+      "date": "2026-08-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "698624",
+      "email": "pixl@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-08-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "649007",
+      "email": "apm@terramaplegrove.com",
+      "name": "",
+      "account": "Roers Companies LLC",
+      "date": "2026-08-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1290764",
+      "email": "gifaz@venterraliving.com",
+      "name": "",
+      "account": "Venterra Living",
+      "date": "2026-08-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "756759",
@@ -13162,19 +13371,19 @@
     }
   ],
   "level_counts": {
-    "Administrator": 134,
-    "Manager": 1049,
+    "Administrator": 136,
+    "Manager": 1066,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 2
   },
   "sla_counts": {
-    "green": 67,
+    "green": 86,
     "amber": 359,
     "red": 759
   },
-  "total_interested": 1185,
+  "total_interested": 1204,
   "oldest_age": 365,
   "repeat_accounts": [
     [
@@ -13183,15 +13392,15 @@
     ],
     [
       "Willow Bridge Property Company ",
-      43
+      44
+    ],
+    [
+      "Subway - North America",
+      33
     ],
     [
       "AT&T",
       32
-    ],
-    [
-      "Subway - North America",
-      31
     ],
     [
       "Cruise Planners | CP Elite",
@@ -13214,12 +13423,16 @@
       20
     ],
     [
+      "Avenue5 Residential",
+      19
+    ],
+    [
       "Cruise Planners | CP Pro",
       19
     ],
     [
-      "Avenue5 Residential",
-      18
+      "Signarama",
+      15
     ],
     [
       "Holiday Inn Express",
@@ -13234,16 +13447,12 @@
       15
     ],
     [
-      "Signarama",
+      "Liberty Tax",
       14
     ],
     [
       "Texas Roadhouse Holdings LLC",
       14
-    ],
-    [
-      "Liberty Tax",
-      13
     ],
     [
       "Neighborly",
@@ -13262,15 +13471,15 @@
       12
     ],
     [
+      "The Goddard School",
+      11
+    ],
+    [
       "Vetcor",
       11
     ],
     [
       "Ford",
-      10
-    ],
-    [
-      "The Goddard School",
       10
     ],
     [
@@ -13358,6 +13567,10 @@
       6
     ],
     [
+      "Peak Living LLC",
+      6
+    ],
+    [
       "Jersey Mike's Subs",
       6
     ],
@@ -13402,6 +13615,10 @@
       6
     ],
     [
+      "Comparion",
+      5
+    ],
+    [
       "ServiceMaster Restore",
       5
     ],
@@ -13415,10 +13632,6 @@
     ],
     [
       "Garner",
-      5
-    ],
-    [
-      "Peak Living LLC",
       5
     ],
     [
@@ -13466,6 +13679,10 @@
       5
     ],
     [
+      "RimTyme",
+      4
+    ],
+    [
       "Zoomin Groomin",
       4
     ],
@@ -13510,8 +13727,20 @@
       4
     ],
     [
-      "Comparion",
-      4
+      "Asset Living",
+      3
+    ],
+    [
+      "Transworld Business Advisors ",
+      3
+    ],
+    [
+      "Venterra Living",
+      3
+    ],
+    [
+      "Roers Companies LLC",
+      3
     ],
     [
       "ARCpoint Labs Corporate",
@@ -13622,12 +13851,16 @@
       3
     ],
     [
-      "RimTyme",
+      "CIP Communities",
       3
     ],
     [
-      "CIP Communities",
-      3
+      "Oasis Senior Advisors ",
+      2
+    ],
+    [
+      "Fairfield Residential",
+      2
     ],
     [
       "avid hotels",
@@ -13659,10 +13892,6 @@
     ],
     [
       "Salata",
-      2
-    ],
-    [
-      "Roers Companies LLC",
       2
     ],
     [
@@ -13734,10 +13963,6 @@
       2
     ],
     [
-      "Transworld Business Advisors ",
-      2
-    ],
-    [
       "Wag N Wash",
       2
     ],
@@ -13759,10 +13984,6 @@
     ],
     [
       "LMS Investment Management",
-      2
-    ],
-    [
-      "Asset Living",
       2
     ],
     [
