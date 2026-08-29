@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29 01:50 UTC",
+  "generated_at": "2026-08-29 08:46 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,14 +54,14 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 87,
-      "interested": 87
+      "responses_12mo": 85,
+      "interested": 85
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 147,
-      "interested": 147
+      "responses_12mo": 148,
+      "interested": 148
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 339,
-      "interested": 339
+      "responses_12mo": 343,
+      "interested": 343
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 103,
-      "interested": 103
+      "responses_12mo": 106,
+      "interested": 106
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 234,
-      "interested": 234
+      "responses_12mo": 237,
+      "interested": 237
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -126,6 +126,28 @@
   },
   "contacts": [
     {
+      "visitor": "277293",
+      "email": "katysouth+noe.martinez@libertytax.com",
+      "name": "",
+      "account": "Liberty Tax",
+      "date": "2026-08-29",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "461344",
+      "email": "rayona@decoratingden.com",
+      "name": "",
+      "account": "Decorating Den Interiors",
+      "date": "2026-08-29",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
       "visitor": "1253906",
       "email": "nikunjapatel07@gmail.com",
       "name": "",
@@ -137,6 +159,72 @@
       "area": "Reporting Suite"
     },
     {
+      "visitor": "1284672",
+      "email": "leasing@1810mainapartments.com",
+      "name": "",
+      "account": "Fairfield Residential",
+      "date": "2026-08-28",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "395364",
+      "email": "lakehousegranbury@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-08-28",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "141950",
+      "email": "10xportroyale@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-08-28",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1203047",
+      "email": "emily.romero@gsrgroup.us",
+      "name": "",
+      "account": "Nothing Bundt Cakes",
+      "date": "2026-08-28",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1031933",
+      "email": "jpina@homewellcares.com",
+      "name": "",
+      "account": "HomeWell Care Services",
+      "date": "2026-08-28",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1006013",
+      "email": "chris.holda@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Pro",
+      "date": "2026-08-28",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
       "visitor": "1246707",
       "email": "dev.kharva@signarama.com",
       "name": "",
@@ -146,6 +234,39 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Social"
+    },
+    {
+      "visitor": "277293",
+      "email": "katysouth+noe.martinez@libertytax.com",
+      "name": "",
+      "account": "Liberty Tax",
+      "date": "2026-08-28",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1286530",
+      "email": "Michelle.Trautner@hi-dus-city.de",
+      "name": "",
+      "account": "Holiday Inn",
+      "date": "2026-08-28",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "32180",
+      "email": "lts14100@libertytax.com",
+      "name": "",
+      "account": "Liberty Tax",
+      "date": "2026-08-28",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
     },
     {
       "visitor": "1279688",
@@ -677,7 +798,7 @@
     },
     {
       "visitor": "1286675",
-      "email": "",
+      "email": "stephanie.duessler+3080281@bhhsflpg.com",
       "name": "",
       "account": "Berkshire Hathaway HomeServices",
       "date": "2026-08-25",
@@ -688,7 +809,7 @@
     },
     {
       "visitor": "1229876",
-      "email": "",
+      "email": "agm.symonsvalley@kidstrong.com",
       "name": "",
       "account": "KidStrong",
       "date": "2026-08-25",
@@ -699,7 +820,7 @@
     },
     {
       "visitor": "143465",
-      "email": "",
+      "email": "five810@avenue5apt.com",
       "name": "",
       "account": "Avenue5 Residential",
       "date": "2026-08-25",
@@ -1051,7 +1172,7 @@
     },
     {
       "visitor": "273191",
-      "email": "",
+      "email": "psp4025@petsuppliesplus.com",
       "name": "",
       "account": "Pet Supplies Plus",
       "date": "2026-08-21",
@@ -1392,7 +1513,7 @@
     },
     {
       "visitor": "1173754",
-      "email": "",
+      "email": "westsacramento@groceryoutlet.com",
       "name": "",
       "account": "Grocery Outlet",
       "date": "2026-08-19",
@@ -1403,7 +1524,7 @@
     },
     {
       "visitor": "1185993",
-      "email": "",
+      "email": "kailey.freeman@monarchinvestment.com",
       "name": "",
       "account": "Monarch Investment and Management Group",
       "date": "2026-08-19",
@@ -1854,7 +1975,7 @@
     },
     {
       "visitor": "461448",
-      "email": "",
+      "email": "ioana@decoratingden.com",
       "name": "",
       "account": "Decorating Den Interiors",
       "date": "2026-08-17",
@@ -1865,7 +1986,7 @@
     },
     {
       "visitor": "1073527",
-      "email": "",
+      "email": "northcharleston-sc@nothingbundtcakes.com",
       "name": "",
       "account": "Nothing Bundt Cakes",
       "date": "2026-08-17",
@@ -2096,7 +2217,7 @@
     },
     {
       "visitor": "1157160",
-      "email": "",
+      "email": "jmccrory@rtgroupproperties.com",
       "name": "",
       "account": "MRD Apartments",
       "date": "2026-08-14",
@@ -2261,7 +2382,7 @@
     },
     {
       "visitor": "1234311",
-      "email": "",
+      "email": "lemmondfarm@avenue5apt.com",
       "name": "",
       "account": "Avenue5 Residential",
       "date": "2026-08-13",
@@ -2272,7 +2393,7 @@
     },
     {
       "visitor": "633472",
-      "email": "",
+      "email": "shae.fuller@chickensaladchick.com",
       "name": "",
       "account": "Chicken Salad Chick",
       "date": "2026-08-13",
@@ -2283,7 +2404,7 @@
     },
     {
       "visitor": "1066245",
-      "email": "",
+      "email": "bluffview@freemanwebb.com",
       "name": "",
       "account": "Freeman Webb",
       "date": "2026-08-13",
@@ -2294,7 +2415,7 @@
     },
     {
       "visitor": "1277464",
-      "email": "",
+      "email": "jennifer@gotravelpros.com",
       "name": "",
       "account": "Travel Leaders Group",
       "date": "2026-08-13",
@@ -2525,7 +2646,7 @@
     },
     {
       "visitor": "783117",
-      "email": "",
+      "email": "info@FremontHillsSeniorLiving.com",
       "name": "",
       "account": "Discovery Marketing Group, LLC dba STAT Marketing",
       "date": "2026-08-12",
@@ -2536,7 +2657,7 @@
     },
     {
       "visitor": "1183163",
-      "email": "",
+      "email": "ktarley@jonesstreet.com",
       "name": "",
       "account": "Jones Street Residential ",
       "date": "2026-08-12",
@@ -2668,7 +2789,7 @@
     },
     {
       "visitor": "68591",
-      "email": "",
+      "email": "mariamacarenapelaezalcala@gmail.com",
       "name": "",
       "account": "Stretch Zone Franchising, LLC ",
       "date": "2026-08-11",
@@ -2899,7 +3020,7 @@
     },
     {
       "visitor": "54700",
-      "email": "",
+      "email": "CoronaCA@anytimefitness.com",
       "name": "",
       "account": "Anytime Fitness NA ",
       "date": "2026-08-10",
@@ -2910,7 +3031,7 @@
     },
     {
       "visitor": "82225",
-      "email": "",
+      "email": "thecaruthmgr@willowbridgepc.com",
       "name": "",
       "account": "Willow Bridge Property Company ",
       "date": "2026-08-10",
@@ -2921,7 +3042,7 @@
     },
     {
       "visitor": "491203",
-      "email": "",
+      "email": "bannerwestfield@willowbridgepc.com",
       "name": "",
       "account": "Willow Bridge Property Company ",
       "date": "2026-08-10",
@@ -3911,7 +4032,7 @@
     },
     {
       "visitor": "1182844",
-      "email": "",
+      "email": "rpaisley@orangetheoryfitness.ca",
       "name": "",
       "account": "Orangetheory Fitness Canada",
       "date": "2026-08-04",
@@ -3922,7 +4043,7 @@
     },
     {
       "visitor": "673234",
-      "email": "",
+      "email": "cdbell@wnwfranchise.com",
       "name": "",
       "account": "Wag N Wash",
       "date": "2026-08-04",
@@ -3933,7 +4054,7 @@
     },
     {
       "visitor": "1080799",
-      "email": "",
+      "email": "capman@lynd.com",
       "name": "",
       "account": "Lynd",
       "date": "2026-08-04",
@@ -4098,7 +4219,7 @@
     },
     {
       "visitor": "1281654",
-      "email": "",
+      "email": "Charles.Ruston@skyzone.com",
       "name": "",
       "account": "Sky Zone",
       "date": "2026-08-03",
@@ -4109,7 +4230,7 @@
     },
     {
       "visitor": "961283",
-      "email": "",
+      "email": "battlefieldcrossingasstmgr@willowbridgepc.com",
       "name": "",
       "account": "Willow Bridge Property Company ",
       "date": "2026-08-03",
@@ -4120,7 +4241,7 @@
     },
     {
       "visitor": "77168",
-      "email": "",
+      "email": "akroncanton.owner@mollymaid.com",
       "name": "",
       "account": "Neighborly",
       "date": "2026-08-03",
@@ -4131,7 +4252,7 @@
     },
     {
       "visitor": "869080",
-      "email": "",
+      "email": "kelvintallerelectronica@gmail.com",
       "name": "",
       "account": "Anytime Fitness NA ",
       "date": "2026-08-03",
@@ -5979,7 +6100,7 @@
     },
     {
       "visitor": "1264958",
-      "email": "",
+      "email": "rramirez@anterra.com",
       "name": "",
       "account": "Anterra",
       "date": "2026-07-24",
@@ -5990,7 +6111,7 @@
     },
     {
       "visitor": "1227540",
-      "email": "",
+      "email": "corpit@pvolve.com",
       "name": "",
       "account": "Pvolve",
       "date": "2026-07-23",
@@ -6155,7 +6276,7 @@
     },
     {
       "visitor": "763336",
-      "email": "",
+      "email": "beaumont.roth@nothingbundtcakes.com",
       "name": "",
       "account": "Nothing Bundt Cakes",
       "date": "2026-07-23",
@@ -6166,7 +6287,7 @@
     },
     {
       "visitor": "886321",
-      "email": "",
+      "email": "rob@mustardseedtravels.com",
       "name": "",
       "account": "Travel Leaders Group",
       "date": "2026-07-23",
@@ -6177,7 +6298,7 @@
     },
     {
       "visitor": "1276675",
-      "email": "",
+      "email": "cmaetenerife@gmail.com",
       "name": "",
       "account": "Neighborly",
       "date": "2026-07-23",
@@ -6188,7 +6309,7 @@
     },
     {
       "visitor": "1179092",
-      "email": "",
+      "email": "spatry@orangetheoryfitness.ca",
       "name": "",
       "account": "Orangetheory Fitness Canada",
       "date": "2026-07-23",
@@ -6199,7 +6320,7 @@
     },
     {
       "visitor": "1276180",
-      "email": "",
+      "email": "cayde.jiang@vertexhg.com",
       "name": "",
       "account": "KPOT Korean BBQ & Hot Pot",
       "date": "2026-07-23",
@@ -6496,7 +6617,7 @@
     },
     {
       "visitor": "366684",
-      "email": "",
+      "email": "buda@kiddieacademy.net",
       "name": "",
       "account": "Kiddie Academy",
       "date": "2026-07-22",
@@ -6507,7 +6628,7 @@
     },
     {
       "visitor": "1275189",
-      "email": "",
+      "email": "ashleighm@weidner.com",
       "name": "",
       "account": "Weidner",
       "date": "2026-07-22",
@@ -6518,7 +6639,7 @@
     },
     {
       "visitor": "1033585",
-      "email": "",
+      "email": "melissa@indulgencevacations.ca",
       "name": "",
       "account": "Travel Leaders Group Canada",
       "date": "2026-07-22",
@@ -7563,7 +7684,7 @@
     },
     {
       "visitor": "783085",
-      "email": "",
+      "email": "EAH@lakefieldvet.com",
       "name": "",
       "account": "Lakefield Veterinary Group",
       "date": "2026-07-17",
@@ -8234,7 +8355,7 @@
     },
     {
       "visitor": "1228802",
-      "email": "",
+      "email": "jiayun.ou@liveoakwood.com",
       "name": "",
       "account": "Oakwood Management Company",
       "date": "2026-07-15",
@@ -8245,7 +8366,7 @@
     },
     {
       "visitor": "1233345",
-      "email": "",
+      "email": "fresno-clovis@nothingbundtcakes.com",
       "name": "",
       "account": "Nothing Bundt Cakes",
       "date": "2026-07-15",
@@ -8256,7 +8377,7 @@
     },
     {
       "visitor": "781620",
-      "email": "",
+      "email": "thefairway@rpmliving.com",
       "name": "",
       "account": "RPM Living",
       "date": "2026-07-15",
@@ -8267,7 +8388,7 @@
     },
     {
       "visitor": "1207798",
-      "email": "",
+      "email": "briarwoodpm@psdm.com",
       "name": "",
       "account": "Pacifica Residential",
       "date": "2026-07-15",
@@ -13346,45 +13467,23 @@
       "age_days": 357,
       "sla": "red",
       "area": "Reporting Suite"
-    },
-    {
-      "visitor": "1024968",
-      "email": "michigan3@anytimefitness.com",
-      "name": "",
-      "account": "Anytime Fitness NA ",
-      "date": "2025-08-29",
-      "user_level": "Manager",
-      "age_days": 365,
-      "sla": "red",
-      "area": "Reporting Suite"
-    },
-    {
-      "visitor": "722077",
-      "email": "aldie@tlechildcare.com",
-      "name": "",
-      "account": "The Learning Experience",
-      "date": "2025-08-28",
-      "user_level": "Manager",
-      "age_days": 366,
-      "sla": "red",
-      "area": "Reporting Suite"
     }
   ],
   "level_counts": {
     "Administrator": 136,
-    "Manager": 1067,
+    "Manager": 1076,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 77,
+    "green": 88,
     "amber": 340,
-    "red": 787
+    "red": 785
   },
-  "total_interested": 1204,
-  "oldest_age": 366,
+  "total_interested": 1213,
+  "oldest_age": 357,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
@@ -13403,12 +13502,12 @@
       32
     ],
     [
-      "Cruise Planners | CP Elite",
-      25
+      "RPM Living",
+      26
     ],
     [
-      "RPM Living",
-      24
+      "Cruise Planners | CP Elite",
+      25
     ],
     [
       "Sky Zone",
@@ -13419,7 +13518,7 @@
       21
     ],
     [
-      "Anytime Fitness NA ",
+      "Cruise Planners | CP Pro",
       20
     ],
     [
@@ -13427,8 +13526,12 @@
       19
     ],
     [
-      "Cruise Planners | CP Pro",
+      "Anytime Fitness NA ",
       19
+    ],
+    [
+      "Liberty Tax",
+      17
     ],
     [
       "Signarama",
@@ -13447,7 +13550,7 @@
       15
     ],
     [
-      "Liberty Tax",
+      "Nothing Bundt Cakes",
       14
     ],
     [
@@ -13459,19 +13562,15 @@
       13
     ],
     [
-      "Nothing Bundt Cakes",
-      13
-    ],
-    [
       "Pet Supplies Plus",
       12
     ],
     [
-      "The Learning Experience",
-      12
+      "The Goddard School",
+      11
     ],
     [
-      "The Goddard School",
+      "The Learning Experience",
       11
     ],
     [
@@ -13547,6 +13646,14 @@
       8
     ],
     [
+      "Decorating Den Interiors",
+      7
+    ],
+    [
+      "HomeWell Care Services",
+      7
+    ],
+    [
       "voco",
       7
     ],
@@ -13561,6 +13668,10 @@
     [
       "Bruster's Real Ice Cream",
       7
+    ],
+    [
+      "Holiday Inn",
+      6
     ],
     [
       "InterContinental",
@@ -13595,15 +13706,7 @@
       6
     ],
     [
-      "HomeWell Care Services",
-      6
-    ],
-    [
       "Dill Dinkers",
-      6
-    ],
-    [
-      "Decorating Den Interiors",
       6
     ],
     [
@@ -13644,10 +13747,6 @@
     ],
     [
       "American Freight NewCo",
-      5
-    ],
-    [
-      "Holiday Inn",
       5
     ],
     [
@@ -13725,6 +13824,10 @@
     [
       "Pacifica Residential",
       4
+    ],
+    [
+      "Fairfield Residential",
+      3
     ],
     [
       "Asset Living",
@@ -13856,10 +13959,6 @@
     ],
     [
       "Oasis Senior Advisors ",
-      2
-    ],
-    [
-      "Fairfield Residential",
       2
     ],
     [
