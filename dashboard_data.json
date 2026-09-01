@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01 06:39 UTC",
+  "generated_at": "2026-09-01 12:27 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,14 +60,14 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 148,
-      "interested": 148
+      "responses_12mo": 155,
+      "interested": 155
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
       "views_12mo": 0,
-      "responses_12mo": 12,
-      "interested": 12
+      "responses_12mo": 13,
+      "interested": 13
     },
     "Surveys": {
       "guide_id": "RLz8F0jmIzDqIwzo7WOPNNHQr4M",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 344,
-      "interested": 344
+      "responses_12mo": 351,
+      "interested": 351
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 106,
-      "interested": 106
+      "responses_12mo": 107,
+      "interested": 107
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 239,
-      "interested": 239
+      "responses_12mo": 244,
+      "interested": 244
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -120,11 +120,242 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 134,
-      "interested": 134
+      "responses_12mo": 139,
+      "interested": 139
     }
   },
   "contacts": [
+    {
+      "visitor": "840963",
+      "email": "esinger@atchealthcare.com",
+      "name": "",
+      "account": "ATC Healthcare Services",
+      "date": "2026-09-01",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "62890",
+      "email": "grapevinemanager@sunridgeapts.net",
+      "name": "",
+      "account": "Sunridge Management ",
+      "date": "2026-08-31",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "744021",
+      "email": "henderson@woofgangbakery.com",
+      "name": "",
+      "account": "Woof Gang Bakery & Grooming",
+      "date": "2026-08-31",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1058101",
+      "email": "kshaw@portofsubs.com",
+      "name": "",
+      "account": "Port of Subs",
+      "date": "2026-08-31",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "143957",
+      "email": "manager.nobhillapts@freemanwebb.com",
+      "name": "",
+      "account": "Freeman Webb",
+      "date": "2026-08-31",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "663442",
+      "email": "cb129f@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-08-31",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1204654",
+      "email": "JMcGuane@agproco.com",
+      "name": "",
+      "account": "Ag-Pro Companies",
+      "date": "2026-08-31",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1062471",
+      "email": "r.halacz@brainjuice.pl",
+      "name": "",
+      "account": "CooperVision",
+      "date": "2026-08-31",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Pages"
+    },
+    {
+      "visitor": "367039",
+      "email": "northalbuquerque@kiddieacademy.net",
+      "name": "",
+      "account": "Kiddie Academy",
+      "date": "2026-08-31",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1066184",
+      "email": "avamatsas@gmail.com",
+      "name": "",
+      "account": "Scooter's Coffee, LLC",
+      "date": "2026-08-31",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1173492",
+      "email": "dvelazquez@pointegrand.com",
+      "name": "",
+      "account": "Pointe Grand",
+      "date": "2026-08-31",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "77306",
+      "email": "northwestdallascounty.owner@mollymaid.com",
+      "name": "",
+      "account": "Neighborly",
+      "date": "2026-08-31",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1165300",
+      "email": "Topoftheworldtravel1@yahoo.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-08-31",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1066040",
+      "email": "SCFredericks@springarborliving.com",
+      "name": "",
+      "account": "Allegro Senior Living",
+      "date": "2026-08-31",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "155105",
+      "email": "mbotkins@koa.net",
+      "name": "",
+      "account": "KOA",
+      "date": "2026-08-31",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1202024",
+      "email": "will@usacampingcompany.com",
+      "name": "",
+      "account": "USA Camping",
+      "date": "2026-08-31",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "140776",
+      "email": "dbennett@centerspacehomes.com",
+      "name": "",
+      "account": "Centerspace",
+      "date": "2026-08-31",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1284708",
+      "email": "Leasing@FallbrookRanchApartments.com",
+      "name": "",
+      "account": "Fairfield Residential",
+      "date": "2026-08-31",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "77778",
+      "email": "queensbury.owner@mrelectric.com",
+      "name": "",
+      "account": "Neighborly",
+      "date": "2026-08-31",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1285498",
+      "email": "gm@himanchester-west.co.uk",
+      "name": "",
+      "account": "Holiday Inn",
+      "date": "2026-08-31",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1268570",
+      "email": "1745564@sso.subway.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-08-31",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
     {
       "visitor": "276270",
       "email": "mandarin+gordon.walton@libertytax.com",
@@ -135,6 +366,61 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1195891",
+      "email": "xjulius@arlingtonproperties.net",
+      "name": "",
+      "account": "Arlington Properties",
+      "date": "2026-08-31",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1265512",
+      "email": "christian.delcastillo@hioakvillebronte.com",
+      "name": "",
+      "account": "Holiday Inn",
+      "date": "2026-08-31",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "513088",
+      "email": "roseonsybil@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-08-31",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "595558",
+      "email": "shausa007@gmail.com",
+      "name": "",
+      "account": "Sharkey's Cuts for Kids",
+      "date": "2026-08-31",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "868238",
+      "email": "manager@livev2ftmyers.com",
+      "name": "",
+      "account": "Bryten Management",
+      "date": "2026-08-31",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "1154177",
@@ -13514,24 +13800,24 @@
     }
   ],
   "level_counts": {
-    "Administrator": 136,
-    "Manager": 1080,
+    "Administrator": 137,
+    "Manager": 1105,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 68,
+    "green": 94,
     "amber": 322,
     "red": 827
   },
-  "total_interested": 1217,
+  "total_interested": 1243,
   "oldest_age": 360,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
-      50
+      51
     ],
     [
       "Willow Bridge Property Company ",
@@ -13539,15 +13825,15 @@
     ],
     [
       "Subway - North America",
-      33
+      34
     ],
     [
       "AT&T",
-      32
+      33
     ],
     [
       "RPM Living",
-      26
+      27
     ],
     [
       "Cruise Planners | CP Elite",
@@ -13578,6 +13864,14 @@
       18
     ],
     [
+      "Woof Gang Bakery & Grooming",
+      16
+    ],
+    [
+      "Neighborly",
+      15
+    ],
+    [
       "Signarama",
       15
     ],
@@ -13590,20 +13884,12 @@
       15
     ],
     [
-      "Woof Gang Bakery & Grooming",
-      15
-    ],
-    [
       "Nothing Bundt Cakes",
       14
     ],
     [
       "Texas Roadhouse Holdings LLC",
       14
-    ],
-    [
-      "Neighborly",
-      13
     ],
     [
       "Pet Supplies Plus",
@@ -13622,6 +13908,10 @@
       11
     ],
     [
+      "Bryten Management",
+      10
+    ],
+    [
       "Ford",
       10
     ],
@@ -13634,15 +13924,15 @@
       10
     ],
     [
+      "Pointe Grand",
+      9
+    ],
+    [
       "Elements Massage",
       9
     ],
     [
       "Mill Creek Residential ",
-      9
-    ],
-    [
-      "Bryten Management",
       9
     ],
     [
@@ -13652,6 +13942,10 @@
     [
       "Stretch Zone Franchising, LLC ",
       9
+    ],
+    [
+      "Holiday Inn",
+      8
     ],
     [
       "Capital Square Living",
@@ -13667,10 +13961,6 @@
     ],
     [
       "Monarch Investment and Management Group",
-      8
-    ],
-    [
-      "Pointe Grand",
       8
     ],
     [
@@ -13714,7 +14004,11 @@
       7
     ],
     [
-      "Holiday Inn",
+      "Scooter's Coffee, LLC",
+      6
+    ],
+    [
+      "KOA",
       6
     ],
     [
@@ -13774,10 +14068,6 @@
       5
     ],
     [
-      "Scooter's Coffee, LLC",
-      5
-    ],
-    [
       "Garner",
       5
     ],
@@ -13810,16 +14100,28 @@
       5
     ],
     [
-      "KOA",
-      5
-    ],
-    [
       "Guild Mortgage",
       5
     ],
     [
       "Jeremiah's Italian Ice",
       5
+    ],
+    [
+      "Sunridge Management ",
+      4
+    ],
+    [
+      "Kiddie Academy",
+      4
+    ],
+    [
+      "Fairfield Residential",
+      4
+    ],
+    [
+      "Arlington Properties",
+      4
     ],
     [
       "RimTyme",
@@ -13870,7 +14172,11 @@
       4
     ],
     [
-      "Fairfield Residential",
+      "Freeman Webb",
+      3
+    ],
+    [
+      "Sharkey's Cuts for Kids",
       3
     ],
     [
@@ -13930,10 +14236,6 @@
       3
     ],
     [
-      "Kiddie Academy",
-      3
-    ],
-    [
       "The Little Gym",
       3
     ],
@@ -13962,10 +14264,6 @@
       3
     ],
     [
-      "Sunridge Management ",
-      3
-    ],
-    [
       "Candlewood Suites",
       3
     ],
@@ -13979,10 +14277,6 @@
     ],
     [
       "Balfour Beatty Communities ",
-      3
-    ],
-    [
-      "Arlington Properties",
       3
     ],
     [
@@ -14000,6 +14294,26 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "ATC Healthcare Services",
+      2
+    ],
+    [
+      "Port of Subs",
+      2
+    ],
+    [
+      "Ag-Pro Companies",
+      2
+    ],
+    [
+      "Allegro Senior Living",
+      2
+    ],
+    [
+      "USA Camping",
+      2
     ],
     [
       "Oasis Senior Advisors ",
@@ -14047,10 +14361,6 @@
     ],
     [
       "MRD Apartments",
-      2
-    ],
-    [
-      "Freeman Webb",
       2
     ],
     [
@@ -14111,10 +14421,6 @@
     ],
     [
       "Sam The Concrete Man",
-      2
-    ],
-    [
-      "Sharkey's Cuts for Kids",
       2
     ],
     [
