@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02 04:58 UTC",
+  "generated_at": "2026-09-02 09:29 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 155,
-      "interested": 155
+      "responses_12mo": 159,
+      "interested": 159
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -72,20 +72,20 @@
     "Surveys": {
       "guide_id": "RLz8F0jmIzDqIwzo7WOPNNHQr4M",
       "views_12mo": 0,
-      "responses_12mo": 1,
-      "interested": 1
+      "responses_12mo": 2,
+      "interested": 2
     },
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 351,
-      "interested": 351
+      "responses_12mo": 355,
+      "interested": 355
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 107,
-      "interested": 107
+      "responses_12mo": 108,
+      "interested": 108
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 244,
-      "interested": 244
+      "responses_12mo": 245,
+      "interested": 245
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,61 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 132,
-      "interested": 132
+      "responses_12mo": 133,
+      "interested": 133
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 139,
-      "interested": 139
+      "responses_12mo": 142,
+      "interested": 142
     }
   },
   "contacts": [
+    {
+      "visitor": "99748",
+      "email": "wesbrook@oxfordlearning.com",
+      "name": "",
+      "account": "Oxford Learning",
+      "date": "2026-09-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "303395",
+      "email": "ah187u@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-09-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "747764",
+      "email": "canvasatanna@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-09-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1268570",
+      "email": "1745564@sso.subway.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-09-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
     {
       "visitor": "840963",
       "email": "esinger@atchealthcare.com",
@@ -135,6 +179,127 @@
       "age_days": 1,
       "sla": "green",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1222378",
+      "email": "amaki@dtnmgt.com",
+      "name": "",
+      "account": "DTN Management Company",
+      "date": "2026-09-01",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Surveys"
+    },
+    {
+      "visitor": "759344",
+      "email": "pm.themarina@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-09-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "145472",
+      "email": "brooks@rickysr.com",
+      "name": "",
+      "account": "Ricky's All Day Grill",
+      "date": "2026-09-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "106881",
+      "email": "sm.04265@rentacenter.com",
+      "name": "",
+      "account": "Rent-A-Center",
+      "date": "2026-09-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "713385",
+      "email": "store_columbusga@texasroadhouse.com",
+      "name": "",
+      "account": "Texas Roadhouse Holdings LLC",
+      "date": "2026-09-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1070390",
+      "email": "richard.pedraza@americanfreight.us",
+      "name": "",
+      "account": "American Freight NewCo",
+      "date": "2026-09-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1283409",
+      "email": "mutaz.alnwaihi@ihg.com",
+      "name": "",
+      "account": "voco",
+      "date": "2026-09-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1128548",
+      "email": "ANALUISA1011@GMAIL.COM",
+      "name": "",
+      "account": "Round Table Pizza | Olo Sync Management",
+      "date": "2026-09-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1023336",
+      "email": "lisa.osborn@grazecraze.com",
+      "name": "",
+      "account": "Graze Craze Advertising Fund, Inc.",
+      "date": "2026-09-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "284942",
+      "email": "pm.crosspointe@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-09-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "69534",
+      "email": "ttascione@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-09-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "62890",
@@ -13800,19 +13965,19 @@
     }
   ],
   "level_counts": {
-    "Administrator": 137,
-    "Manager": 1105,
+    "Administrator": 138,
+    "Manager": 1119,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 72,
+    "green": 87,
     "amber": 334,
     "red": 837
   },
-  "total_interested": 1243,
+  "total_interested": 1258,
   "oldest_age": 361,
   "repeat_accounts": [
     [
@@ -13821,15 +13986,15 @@
     ],
     [
       "Willow Bridge Property Company ",
-      44
+      45
     ],
     [
       "Subway - North America",
-      34
+      35
     ],
     [
       "AT&T",
-      33
+      34
     ],
     [
       "RPM Living",
@@ -13837,7 +14002,11 @@
     ],
     [
       "Cruise Planners | CP Elite",
-      25
+      26
+    ],
+    [
+      "Avenue5 Residential",
+      21
     ],
     [
       "Sky Zone",
@@ -13852,10 +14021,6 @@
       20
     ],
     [
-      "Avenue5 Residential",
-      19
-    ],
-    [
       "Anytime Fitness NA ",
       19
     ],
@@ -13866,6 +14031,10 @@
     [
       "Woof Gang Bakery & Grooming",
       16
+    ],
+    [
+      "Texas Roadhouse Holdings LLC",
+      15
     ],
     [
       "Neighborly",
@@ -13885,10 +14054,6 @@
     ],
     [
       "Nothing Bundt Cakes",
-      14
-    ],
-    [
-      "Texas Roadhouse Holdings LLC",
       14
     ],
     [
@@ -13944,6 +14109,10 @@
       9
     ],
     [
+      "voco",
+      8
+    ],
+    [
       "Holiday Inn",
       8
     ],
@@ -13988,10 +14157,6 @@
       7
     ],
     [
-      "voco",
-      7
-    ],
-    [
       "VEG ER for Pets",
       7
     ],
@@ -14002,6 +14167,10 @@
     [
       "Bruster's Real Ice Cream",
       7
+    ],
+    [
+      "American Freight NewCo",
+      6
     ],
     [
       "Scooter's Coffee, LLC",
@@ -14056,6 +14225,10 @@
       6
     ],
     [
+      "Rent-A-Center",
+      5
+    ],
+    [
       "Comparion",
       5
     ],
@@ -14077,10 +14250,6 @@
     ],
     [
       "Lightbridge Academy",
-      5
-    ],
-    [
-      "American Freight NewCo",
       5
     ],
     [
@@ -14140,10 +14309,6 @@
       4
     ],
     [
-      "Rent-A-Center",
-      4
-    ],
-    [
       "Highmark Residential",
       4
     ],
@@ -14170,6 +14335,14 @@
     [
       "Pacifica Residential",
       4
+    ],
+    [
+      "Oxford Learning",
+      3
+    ],
+    [
+      "Ricky's All Day Grill",
+      3
     ],
     [
       "Freeman Webb",
@@ -14468,10 +14641,6 @@
       2
     ],
     [
-      "Oxford Learning",
-      2
-    ],
-    [
       "Western Union - USA",
       2
     ],
@@ -14549,10 +14718,6 @@
     ],
     [
       "The Bainbridge Companies, LLC ",
-      2
-    ],
-    [
-      "Ricky's All Day Grill",
       2
     ]
   ],
