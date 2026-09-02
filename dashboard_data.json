@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02 09:29 UTC",
+  "generated_at": "2026-09-02 13:49 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -114,8 +114,8 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 133,
-      "interested": 133
+      "responses_12mo": 0,
+      "interested": 0
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
@@ -256,17 +256,6 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Reviews"
-    },
-    {
-      "visitor": "1128548",
-      "email": "ANALUISA1011@GMAIL.COM",
-      "name": "",
-      "account": "Round Table Pizza | Olo Sync Management",
-      "date": "2026-09-01",
-      "user_level": "Manager",
-      "age_days": 1,
-      "sla": "green",
-      "area": "AskGenius"
     },
     {
       "visitor": "1023336",
@@ -599,17 +588,6 @@
       "area": "Social"
     },
     {
-      "visitor": "943442",
-      "email": "katemills@elementsmassage.com",
-      "name": "",
-      "account": "Elements Massage",
-      "date": "2026-08-30",
-      "user_level": "Manager",
-      "age_days": 3,
-      "sla": "green",
-      "area": "AskGenius"
-    },
-    {
       "visitor": "277293",
       "email": "katysouth+noe.martinez@libertytax.com",
       "name": "",
@@ -918,28 +896,6 @@
       "area": "Listings"
     },
     {
-      "visitor": "369321",
-      "email": "juliepeterson1210+julie.peterson01@gmail.com",
-      "name": "",
-      "account": "Liberty Tax",
-      "date": "2026-08-27",
-      "user_level": "Manager",
-      "age_days": 6,
-      "sla": "green",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1248267",
-      "email": "chaitanpatel@comcast.net",
-      "name": "",
-      "account": "Subway - North America",
-      "date": "2026-08-27",
-      "user_level": "Manager",
-      "age_days": 6,
-      "sla": "green",
-      "area": "AskGenius"
-    },
-    {
       "visitor": "1290913",
       "email": "ansilva@venterraliving.com",
       "name": "",
@@ -1037,17 +993,6 @@
       "age_days": 7,
       "sla": "green",
       "area": "Genius Reviews"
-    },
-    {
-      "visitor": "1253574",
-      "email": "patelyash627@gmail.com",
-      "name": "",
-      "account": "Subway - North America",
-      "date": "2026-08-26",
-      "user_level": "Manager",
-      "age_days": 7,
-      "sla": "green",
-      "area": "AskGenius"
     },
     {
       "visitor": "701471",
@@ -1248,50 +1193,6 @@
       "area": "Genius Reviews"
     },
     {
-      "visitor": "1254184",
-      "email": "vinod3382@yahoo.com",
-      "name": "",
-      "account": "Subway - North America",
-      "date": "2026-08-25",
-      "user_level": "Manager",
-      "age_days": 8,
-      "sla": "amber",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1260782",
-      "email": "jbulloc1@byrider.com",
-      "name": "",
-      "account": "Byrider",
-      "date": "2026-08-25",
-      "user_level": "Manager",
-      "age_days": 8,
-      "sla": "amber",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1195213",
-      "email": "d-keefau@forddirect.com",
-      "name": "",
-      "account": "Ford",
-      "date": "2026-08-25",
-      "user_level": "Manager",
-      "age_days": 8,
-      "sla": "amber",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1289481",
-      "email": "gfales@byrider.com",
-      "name": "",
-      "account": "Byrider",
-      "date": "2026-08-25",
-      "user_level": "Manager",
-      "age_days": 8,
-      "sla": "amber",
-      "area": "AskGenius"
-    },
-    {
       "visitor": "1286675",
       "email": "stephanie.duessler+3080281@bhhsflpg.com",
       "name": "",
@@ -1477,17 +1378,6 @@
       "age_days": 9,
       "sla": "amber",
       "area": "Genius Reviews"
-    },
-    {
-      "visitor": "381046",
-      "email": "vickie.hall+vickie.hall01@foyfin.com",
-      "name": "",
-      "account": "Liberty Tax",
-      "date": "2026-08-24",
-      "user_level": "Manager",
-      "age_days": 9,
-      "sla": "amber",
-      "area": "AskGenius"
     },
     {
       "visitor": "648944",
@@ -2227,39 +2117,6 @@
       "area": "Genius Reviews"
     },
     {
-      "visitor": "833423",
-      "email": "valerie.stover@affordablecare.com",
-      "name": "",
-      "account": "Affordable Care",
-      "date": "2026-08-18",
-      "user_level": "Administrator",
-      "age_days": 15,
-      "sla": "amber",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1271318",
-      "email": "jcorcino@laramar.com",
-      "name": "",
-      "account": "The Laramar Group",
-      "date": "2026-08-18",
-      "user_level": "Administrator",
-      "age_days": 15,
-      "sla": "amber",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1251307",
-      "email": "zahidm61@hotmail.com",
-      "name": "",
-      "account": "Subway - North America",
-      "date": "2026-08-18",
-      "user_level": "Manager",
-      "age_days": 15,
-      "sla": "amber",
-      "area": "AskGenius"
-    },
-    {
       "visitor": "292115",
       "email": "cgoncalves@lightbridgeacademy.com",
       "name": "",
@@ -2447,28 +2304,6 @@
       "area": "Genius Reviews"
     },
     {
-      "visitor": "592217",
-      "email": "LakewoodRanch.FL@sylvanlearning.com",
-      "name": "",
-      "account": "Sylvan Learning",
-      "date": "2026-08-17",
-      "user_level": "Manager",
-      "age_days": 16,
-      "sla": "amber",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1247988",
-      "email": "joelmtharp11@gmail.com",
-      "name": "",
-      "account": "Subway - North America",
-      "date": "2026-08-17",
-      "user_level": "Manager",
-      "age_days": 16,
-      "sla": "amber",
-      "area": "AskGenius"
-    },
-    {
       "visitor": "461448",
       "email": "ioana@decoratingden.com",
       "name": "",
@@ -2588,17 +2423,6 @@
       "age_days": 18,
       "sla": "amber",
       "area": "Genius Reviews"
-    },
-    {
-      "visitor": "1253809",
-      "email": "p.lutfor@yahoo.com",
-      "name": "",
-      "account": "Subway - North America",
-      "date": "2026-08-15",
-      "user_level": "Manager",
-      "age_days": 18,
-      "sla": "amber",
-      "area": "AskGenius"
     },
     {
       "visitor": "1070393",
@@ -2854,28 +2678,6 @@
       "area": "Genius Reviews"
     },
     {
-      "visitor": "440683",
-      "email": "sitefifty55mgr@cushwake.com",
-      "name": "",
-      "account": "Cushman & Wakefield",
-      "date": "2026-08-13",
-      "user_level": "Manager",
-      "age_days": 20,
-      "sla": "amber",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "191153",
-      "email": "alabath+1013883@bhhsselectstl.com",
-      "name": "",
-      "account": "Berkshire Hathaway HomeServices",
-      "date": "2026-08-13",
-      "user_level": "Manager",
-      "age_days": 20,
-      "sla": "amber",
-      "area": "AskGenius"
-    },
-    {
       "visitor": "1234311",
       "email": "lemmondfarm@avenue5apt.com",
       "name": "",
@@ -3129,17 +2931,6 @@
       "area": "Genius Reviews"
     },
     {
-      "visitor": "747629",
-      "email": "cpemberton@drivewayne.com",
-      "name": "",
-      "account": "Ford",
-      "date": "2026-08-12",
-      "user_level": "Manager",
-      "age_days": 21,
-      "sla": "amber",
-      "area": "AskGenius"
-    },
-    {
       "visitor": "783117",
       "email": "info@FremontHillsSeniorLiving.com",
       "name": "",
@@ -3248,17 +3039,6 @@
       "age_days": 22,
       "sla": "amber",
       "area": "Genius Reviews"
-    },
-    {
-      "visitor": "1069965",
-      "email": "caleb.a.casas@salata.com",
-      "name": "",
-      "account": "Salata",
-      "date": "2026-08-11",
-      "user_level": "Manager",
-      "age_days": 22,
-      "sla": "amber",
-      "area": "AskGenius"
     },
     {
       "visitor": "1223548",
@@ -3800,17 +3580,6 @@
       "area": "Genius Reviews"
     },
     {
-      "visitor": "1276147",
-      "email": "4134870@sso.subway.com",
-      "name": "",
-      "account": "Subway - North America",
-      "date": "2026-08-07",
-      "user_level": "Manager",
-      "age_days": 26,
-      "sla": "amber",
-      "area": "AskGenius"
-    },
-    {
       "visitor": "68576",
       "email": "garnet_brooks@hotmail.com",
       "name": "",
@@ -4075,39 +3844,6 @@
       "area": "Genius Reviews"
     },
     {
-      "visitor": "1251934",
-      "email": "besubway@gmail.com",
-      "name": "",
-      "account": "Subway - North America",
-      "date": "2026-08-06",
-      "user_level": "Manager",
-      "age_days": 27,
-      "sla": "amber",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1260594",
-      "email": "2587318@sso.subway.com",
-      "name": "",
-      "account": "Subway - North America",
-      "date": "2026-08-06",
-      "user_level": "Manager",
-      "age_days": 27,
-      "sla": "amber",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1254515",
-      "email": "substantialfood@hotmail.com",
-      "name": "",
-      "account": "Subway - North America",
-      "date": "2026-08-06",
-      "user_level": "Manager",
-      "age_days": 27,
-      "sla": "amber",
-      "area": "AskGenius"
-    },
-    {
       "visitor": "1282678",
       "email": "mtremblay@thetravelagentnextdoor.com",
       "name": "",
@@ -4249,17 +3985,6 @@
       "age_days": 28,
       "sla": "amber",
       "area": "Listings"
-    },
-    {
-      "visitor": "1206484",
-      "email": "TWest@villagegreen.com",
-      "name": "",
-      "account": "Village Green Companies",
-      "date": "2026-08-05",
-      "user_level": "Manager",
-      "age_days": 28,
-      "sla": "amber",
-      "area": "AskGenius"
     },
     {
       "visitor": "400447",
@@ -4515,17 +4240,6 @@
       "area": "Genius Reviews"
     },
     {
-      "visitor": "276471",
-      "email": "hendersonlibertytax+tavarus.young@hotmail.com",
-      "name": "",
-      "account": "Liberty Tax",
-      "date": "2026-08-04",
-      "user_level": "Manager",
-      "age_days": 29,
-      "sla": "amber",
-      "area": "AskGenius"
-    },
-    {
       "visitor": "1182844",
       "email": "rpaisley@orangetheoryfitness.ca",
       "name": "",
@@ -4689,28 +4403,6 @@
       "age_days": 30,
       "sla": "amber",
       "area": "Listings"
-    },
-    {
-      "visitor": "958567",
-      "email": "clata@overdriveinteractive.com",
-      "name": "",
-      "account": "Life Time",
-      "date": "2026-08-03",
-      "user_level": "Administrator",
-      "age_days": 30,
-      "sla": "amber",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1229484",
-      "email": "ymuddesser@lightbridgeacademy.com",
-      "name": "",
-      "account": "Lightbridge Academy",
-      "date": "2026-08-03",
-      "user_level": "Manager",
-      "age_days": 30,
-      "sla": "amber",
-      "area": "AskGenius"
     },
     {
       "visitor": "1281654",
@@ -5043,17 +4735,6 @@
       "area": "Genius Reviews"
     },
     {
-      "visitor": "1025862",
-      "email": "Erika.Cabrera@assetliving.com",
-      "name": "",
-      "account": "Asset Living",
-      "date": "2026-07-31",
-      "user_level": "Administrator",
-      "age_days": 33,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
       "visitor": "1020664",
       "email": "vineyardcommonsmgr@willowbridgepc.com",
       "name": "",
@@ -5307,17 +4988,6 @@
       "area": "Genius Reviews"
     },
     {
-      "visitor": "1267994",
-      "email": "andy.peat@soccer5usa.com",
-      "name": "",
-      "account": "Soccer 5",
-      "date": "2026-07-30",
-      "user_level": "Administrator",
-      "age_days": 34,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
       "visitor": "993143",
       "email": "tammy@vacationsyorkton.ca",
       "name": "",
@@ -5527,83 +5197,6 @@
       "area": "Genius Reviews"
     },
     {
-      "visitor": "840155",
-      "email": "kimneel059+kim.neel@gmail.com",
-      "name": "",
-      "account": "Liberty Tax",
-      "date": "2026-07-29",
-      "user_level": "Manager",
-      "age_days": 35,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "296500",
-      "email": "ajedres85+alberto.tapia01@gmail.com",
-      "name": "",
-      "account": "Liberty Tax",
-      "date": "2026-07-29",
-      "user_level": "Manager",
-      "age_days": 35,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1221981",
-      "email": "lyla.edwards@hteao.com",
-      "name": "",
-      "account": "HTeaO",
-      "date": "2026-07-29",
-      "user_level": "Administrator",
-      "age_days": 35,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1261735",
-      "email": "138595@sso.subway.com",
-      "name": "",
-      "account": "Subway - North America",
-      "date": "2026-07-29",
-      "user_level": "Manager",
-      "age_days": 35,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "864812",
-      "email": "Emily.Holt@janmangroup.com",
-      "name": "",
-      "account": "Nothing Bundt Cakes",
-      "date": "2026-07-29",
-      "user_level": "Manager",
-      "age_days": 35,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1274144",
-      "email": "1702501@sso.subway.com",
-      "name": "",
-      "account": "Subway - North America",
-      "date": "2026-07-29",
-      "user_level": "Manager",
-      "age_days": 35,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "712066",
-      "email": "jamesboyd@fortywinks.com.au",
-      "name": "",
-      "account": "Forty Winks | The Pistol",
-      "date": "2026-07-29",
-      "user_level": "Manager",
-      "age_days": 35,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
       "visitor": "1002949",
       "email": "jkatzsoci@dilldinkers.com",
       "name": "",
@@ -5789,28 +5382,6 @@
       "age_days": 36,
       "sla": "red",
       "area": "Genius Reviews"
-    },
-    {
-      "visitor": "1001493",
-      "email": "kstewart@mghus.com",
-      "name": "",
-      "account": "Epic Wings",
-      "date": "2026-07-28",
-      "user_level": "Manager",
-      "age_days": 36,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "166204",
-      "email": "sophia@bareskinz.biz",
-      "name": "",
-      "account": "Bare Skin Studios",
-      "date": "2026-07-28",
-      "user_level": "Manager",
-      "age_days": 36,
-      "sla": "red",
-      "area": "AskGenius"
     },
     {
       "visitor": "1223084",
@@ -6143,83 +5714,6 @@
       "area": "Data Management"
     },
     {
-      "visitor": "768670",
-      "email": "Shawn.Groen@chsinc.com",
-      "name": "",
-      "account": "Cenex",
-      "date": "2026-07-27",
-      "user_level": "Manager",
-      "age_days": 37,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "666196",
-      "email": "brusters3d+405@yahoo.com",
-      "name": "",
-      "account": "Bruster's Real Ice Cream",
-      "date": "2026-07-27",
-      "user_level": "Manager",
-      "age_days": 37,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "510350",
-      "email": "athurman@raintreepartners.com",
-      "name": "",
-      "account": "Raintree Partners",
-      "date": "2026-07-27",
-      "user_level": "Administrator",
-      "age_days": 37,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "592215",
-      "email": "Kendall.FL@sylvanlearning.com",
-      "name": "",
-      "account": "Sylvan Learning",
-      "date": "2026-07-27",
-      "user_level": "Manager",
-      "age_days": 37,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "943306",
-      "email": "susanne.ingram@amazinglashstudio.com",
-      "name": "",
-      "account": "Amazing Lash",
-      "date": "2026-07-27",
-      "user_level": "Manager",
-      "age_days": 37,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1264924",
-      "email": "3046226@sso.subway.com",
-      "name": "",
-      "account": "Subway - North America",
-      "date": "2026-07-27",
-      "user_level": "Manager",
-      "age_days": 37,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1231720",
-      "email": "whitecourt@fatburgercanada.com",
-      "name": "",
-      "account": "Fatburger Canada",
-      "date": "2026-07-27",
-      "user_level": "Administrator",
-      "age_days": 37,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
       "visitor": "460810",
       "email": "hspearland@healthsourcechiro.com",
       "name": "",
@@ -6407,17 +5901,6 @@
       "area": "Genius Reviews"
     },
     {
-      "visitor": "1176119",
-      "email": "wmoe@grewalfoods.com",
-      "name": "",
-      "account": "Subway - North America",
-      "date": "2026-07-25",
-      "user_level": "Manager",
-      "age_days": 39,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
       "visitor": "1252842",
       "email": "bon.appetit.subs@gmail.com",
       "name": "",
@@ -6559,39 +6042,6 @@
       "age_days": 40,
       "sla": "red",
       "area": "Listings"
-    },
-    {
-      "visitor": "950442",
-      "email": "Summer.minjarez@skyzone.com",
-      "name": "",
-      "account": "Sky Zone",
-      "date": "2026-07-24",
-      "user_level": "Manager",
-      "age_days": 40,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "302159",
-      "email": "cc122y@att.com",
-      "name": "",
-      "account": "AT&T",
-      "date": "2026-07-24",
-      "user_level": "Manager",
-      "age_days": 40,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1269840",
-      "email": "3425210@sso.subway.com",
-      "name": "",
-      "account": "Subway - North America",
-      "date": "2026-07-24",
-      "user_level": "Manager",
-      "age_days": 40,
-      "sla": "red",
-      "area": "AskGenius"
     },
     {
       "visitor": "1264958",
@@ -6746,28 +6196,6 @@
       "age_days": 41,
       "sla": "red",
       "area": "Genius Reviews"
-    },
-    {
-      "visitor": "709273",
-      "email": "kzentz@numarkcu.org",
-      "name": "",
-      "account": "NuMark Credit Union",
-      "date": "2026-07-23",
-      "user_level": "Administrator",
-      "age_days": 41,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "632958",
-      "email": "SADON@ARLINGTONPROPERTIES.NET",
-      "name": "",
-      "account": "Arlington Properties",
-      "date": "2026-07-23",
-      "user_level": "Manager",
-      "age_days": 41,
-      "sla": "red",
-      "area": "AskGenius"
     },
     {
       "visitor": "763336",
@@ -7067,50 +6495,6 @@
       "area": "Listings"
     },
     {
-      "visitor": "1205469",
-      "email": "a-mcka16@forddirect.com",
-      "name": "",
-      "account": "Ford",
-      "date": "2026-07-22",
-      "user_level": "Manager",
-      "age_days": 42,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "419617",
-      "email": "westdesmoinesia@anylabtestnow.com",
-      "name": "",
-      "account": "Any Lab Test Now",
-      "date": "2026-07-22",
-      "user_level": "Manager",
-      "age_days": 42,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1255310",
-      "email": "aking@nhacademy.net",
-      "name": "",
-      "account": "New Horizon Academy",
-      "date": "2026-07-22",
-      "user_level": "Administrator",
-      "age_days": 42,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1247811",
-      "email": "KCox@villagegreen.com",
-      "name": "",
-      "account": "Village Green Companies",
-      "date": "2026-07-22",
-      "user_level": "Manager",
-      "age_days": 42,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
       "visitor": "366684",
       "email": "buda@kiddieacademy.net",
       "name": "",
@@ -7362,61 +6746,6 @@
       "age_days": 43,
       "sla": "red",
       "area": "Listings"
-    },
-    {
-      "visitor": "1254169",
-      "email": "subwayoxford@yahoo.com",
-      "name": "",
-      "account": "Subway - North America",
-      "date": "2026-07-21",
-      "user_level": "Manager",
-      "age_days": 43,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1256953",
-      "email": "3801319@sso.subway.com",
-      "name": "",
-      "account": "Subway - North America",
-      "date": "2026-07-21",
-      "user_level": "Manager",
-      "age_days": 43,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1255628",
-      "email": "ddesandis@orangetheoryfitness.com",
-      "name": "",
-      "account": "Orangetheory Fitness",
-      "date": "2026-07-21",
-      "user_level": "Manager",
-      "age_days": 43,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "754495",
-      "email": "amit.seth@firehousesubs.com",
-      "name": "",
-      "account": "Firehouse Subs",
-      "date": "2026-07-21",
-      "user_level": "Manager",
-      "age_days": 43,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "698037",
-      "email": "eric.flores@texasroadhouse.com",
-      "name": "",
-      "account": "Texas Roadhouse Holdings LLC",
-      "date": "2026-07-21",
-      "user_level": "Manager",
-      "age_days": 43,
-      "sla": "red",
-      "area": "AskGenius"
     },
     {
       "visitor": "232412",
@@ -7714,28 +7043,6 @@
       "age_days": 44,
       "sla": "red",
       "area": "Listings"
-    },
-    {
-      "visitor": "1109844",
-      "email": "sstetson@orangetheoryfitness.com",
-      "name": "",
-      "account": "Orangetheory Fitness",
-      "date": "2026-07-20",
-      "user_level": "Manager",
-      "age_days": 44,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "713839",
-      "email": "hewaniuk@petsuppliesplus.com",
-      "name": "",
-      "account": "Pet Supplies Plus",
-      "date": "2026-07-20",
-      "user_level": "Manager",
-      "age_days": 44,
-      "sla": "red",
-      "area": "AskGenius"
     },
     {
       "visitor": "979162",
@@ -8431,61 +7738,6 @@
       "area": "Genius Reviews"
     },
     {
-      "visitor": "1033842",
-      "email": "samanthak@citstatebank.com",
-      "name": "",
-      "account": "Beavercreek Marketing",
-      "date": "2026-07-16",
-      "user_level": "Manager",
-      "age_days": 48,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "208355",
-      "email": "lisa.wright+205321@foxroach.com",
-      "name": "",
-      "account": "Berkshire Hathaway HomeServices",
-      "date": "2026-07-16",
-      "user_level": "Manager",
-      "age_days": 48,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1189499",
-      "email": "A-BOTOS3@azureford.onmicrosoft.com",
-      "name": "",
-      "account": "Ford",
-      "date": "2026-07-16",
-      "user_level": "Manager",
-      "age_days": 48,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "398460",
-      "email": "cheri+3051643@hillsrealestateteam.com",
-      "name": "",
-      "account": "Berkshire Hathaway HomeServices",
-      "date": "2026-07-16",
-      "user_level": "Manager",
-      "age_days": 48,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "43695",
-      "email": "Spencer@scjm.solutions",
-      "name": "",
-      "account": "Sport Clips",
-      "date": "2026-07-16",
-      "user_level": "Manager",
-      "age_days": 48,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
       "visitor": "1264717",
       "email": "kthayes@bbcgrp.com",
       "name": "",
@@ -8770,83 +8022,6 @@
       "age_days": 49,
       "sla": "red",
       "area": "Genius Reviews"
-    },
-    {
-      "visitor": "639773",
-      "email": "studio369@paintingwithatwist.com",
-      "name": "",
-      "account": "Painting with a Twist, LLC",
-      "date": "2026-07-15",
-      "user_level": "Manager",
-      "age_days": 49,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "92039",
-      "email": "rebecca.johnson@anytimefitness.com",
-      "name": "",
-      "account": "Anytime Fitness NA ",
-      "date": "2026-07-15",
-      "user_level": "Manager",
-      "age_days": 49,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "160669",
-      "email": "dulcie@dramakids.com",
-      "name": "",
-      "account": "Drama Kids",
-      "date": "2026-07-15",
-      "user_level": "Administrator",
-      "age_days": 49,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1117250",
-      "email": "johnathan.barron@gocarwash.com",
-      "name": "",
-      "account": "GO Car Wash",
-      "date": "2026-07-15",
-      "user_level": "Manager",
-      "age_days": 49,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "284209",
-      "email": "psp4502@petsuppliesplus.com",
-      "name": "",
-      "account": "Pet Supplies Plus",
-      "date": "2026-07-15",
-      "user_level": "Manager",
-      "age_days": 49,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "687798",
-      "email": "tcole@pacentralfcu.com",
-      "name": "",
-      "account": "Beavercreek Marketing",
-      "date": "2026-07-15",
-      "user_level": "Manager",
-      "age_days": 49,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "440007",
-      "email": "Michele.Mitchell@employbridge.com",
-      "name": "",
-      "account": "Employbridge Holding Company",
-      "date": "2026-07-15",
-      "user_level": "Manager",
-      "age_days": 49,
-      "sla": "red",
-      "area": "AskGenius"
     },
     {
       "visitor": "1228802",
@@ -9234,39 +8409,6 @@
       "area": "Listings"
     },
     {
-      "visitor": "1146484",
-      "email": "jtusing@celebree.com",
-      "name": "",
-      "account": "Celebree School",
-      "date": "2026-07-14",
-      "user_level": "Manager",
-      "age_days": 50,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1011636",
-      "email": "Marcus.Roberts@libertymutual.com",
-      "name": "",
-      "account": "Comparion",
-      "date": "2026-07-14",
-      "user_level": "Administrator",
-      "age_days": 50,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1225156",
-      "email": "trossin@biggby.com",
-      "name": "",
-      "account": "Biggby Coffee",
-      "date": "2026-07-14",
-      "user_level": "Manager",
-      "age_days": 50,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
       "visitor": "96156",
       "email": "mary.w@floydsbarbershop.com",
       "name": "",
@@ -9608,50 +8750,6 @@
       "area": "Genius Reviews"
     },
     {
-      "visitor": "528492",
-      "email": "kaitlin.watson@i9sports.com",
-      "name": "",
-      "account": "i9 Sports",
-      "date": "2026-07-13",
-      "user_level": "Manager",
-      "age_days": 51,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1210066",
-      "email": "Kate.q@otterlearning.com",
-      "name": "",
-      "account": "Otter Learning",
-      "date": "2026-07-13",
-      "user_level": "Administrator",
-      "age_days": 51,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "217316",
-      "email": "oceanpines+360651@penfedrealty.com",
-      "name": "",
-      "account": "Berkshire Hathaway HomeServices",
-      "date": "2026-07-13",
-      "user_level": "Manager",
-      "age_days": 51,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "794891",
-      "email": "kelly@spartan-investors.com",
-      "name": "",
-      "account": "FreeUP Storage",
-      "date": "2026-07-13",
-      "user_level": "Administrator",
-      "age_days": 51,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
       "visitor": "1201670",
       "email": "brustersoftroy+466@gmail.com",
       "name": "",
@@ -9927,17 +9025,6 @@
       "area": "Genius Reviews"
     },
     {
-      "visitor": "1208072",
-      "email": "lori.worthington@frmwj.com",
-      "name": "",
-      "account": "Subway - North America",
-      "date": "2026-07-11",
-      "user_level": "Manager",
-      "age_days": 53,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
       "visitor": "518549",
       "email": "imtdaytonstation@imtresidential.com",
       "name": "",
@@ -10211,50 +9298,6 @@
       "age_days": 54,
       "sla": "red",
       "area": "Genius Reviews"
-    },
-    {
-      "visitor": "1179048",
-      "email": "vpalamos@orangetheoryfitness.ca",
-      "name": "",
-      "account": "Orangetheory Fitness Canada",
-      "date": "2026-07-10",
-      "user_level": "Manager",
-      "age_days": 54,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "142703",
-      "email": "mary.williams@freemanwebb.com",
-      "name": "",
-      "account": "Freeman Webb",
-      "date": "2026-07-10",
-      "user_level": "Administrator",
-      "age_days": 54,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1162401",
-      "email": "wgrasty@guildmortgage.net",
-      "name": "",
-      "account": "Guild Mortgage",
-      "date": "2026-07-10",
-      "user_level": "Administrator",
-      "age_days": 54,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1252343",
-      "email": "bownesssubway@yahoo.ca",
-      "name": "",
-      "account": "Subway - North America",
-      "date": "2026-07-10",
-      "user_level": "Manager",
-      "age_days": 54,
-      "sla": "red",
-      "area": "AskGenius"
     },
     {
       "visitor": "1195910",
@@ -10596,149 +9639,6 @@
       "age_days": 55,
       "sla": "red",
       "area": "Listings"
-    },
-    {
-      "visitor": "1155900",
-      "email": "marredondo+3076319@bhhstx.com",
-      "name": "",
-      "account": "Berkshire Hathaway HomeServices",
-      "date": "2026-07-09",
-      "user_level": "Manager",
-      "age_days": 55,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "813956",
-      "email": "jessica.akebrand@skyzone.com",
-      "name": "",
-      "account": "Sky Zone",
-      "date": "2026-07-09",
-      "user_level": "Administrator",
-      "age_days": 55,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "804391",
-      "email": "sanna.wright@devcous.com",
-      "name": "",
-      "account": "HNN Communities",
-      "date": "2026-07-09",
-      "user_level": "Administrator",
-      "age_days": 55,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "146240",
-      "email": "cindy.smith@racfranchising.com",
-      "name": "",
-      "account": "RimTyme",
-      "date": "2026-07-09",
-      "user_level": "Administrator",
-      "age_days": 55,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "942277",
-      "email": "kyoung@peakliving.com",
-      "name": "",
-      "account": "Peak Living LLC",
-      "date": "2026-07-09",
-      "user_level": "Administrator",
-      "age_days": 55,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "269335",
-      "email": "sfields@mooyah.com",
-      "name": "",
-      "account": "MOOYAH Franchising LLC",
-      "date": "2026-07-09",
-      "user_level": "Administrator",
-      "age_days": 55,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "791803",
-      "email": "kwilson@houchens.com",
-      "name": "",
-      "account": "Houchens Food Group",
-      "date": "2026-07-09",
-      "user_level": "Administrator",
-      "age_days": 55,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "669556",
-      "email": "erin.lambert@texasroadhouse.com",
-      "name": "",
-      "account": "Texas Roadhouse Holdings LLC",
-      "date": "2026-07-09",
-      "user_level": "Manager",
-      "age_days": 55,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1050654",
-      "email": "val@af.furniture",
-      "name": "",
-      "account": "American Freight (MAFGA)",
-      "date": "2026-07-09",
-      "user_level": "Administrator",
-      "age_days": 55,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1217002",
-      "email": "b-sil157@forddirect.com",
-      "name": "",
-      "account": "Ford",
-      "date": "2026-07-09",
-      "user_level": "Manager",
-      "age_days": 55,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "303730",
-      "email": "em4255@att.com",
-      "name": "",
-      "account": "AT&T",
-      "date": "2026-07-09",
-      "user_level": "Unknown",
-      "age_days": 55,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "700886",
-      "email": "cierra.ailey@rpmliving.com",
-      "name": "",
-      "account": "RPM Living",
-      "date": "2026-07-09",
-      "user_level": "Administrator",
-      "age_days": 55,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "273149",
-      "email": "psp4445@petsuppliesplus.com",
-      "name": "",
-      "account": "Pet Supplies Plus",
-      "date": "2026-07-09",
-      "user_level": "Manager",
-      "age_days": 55,
-      "sla": "red",
-      "area": "AskGenius"
     },
     {
       "visitor": "411211",
@@ -11586,237 +10486,6 @@
       "age_days": 56,
       "sla": "red",
       "area": "Listings"
-    },
-    {
-      "visitor": "398863",
-      "email": "centralphoenixlmc@aqua-tots.com",
-      "name": "",
-      "account": "Aqua-Tots Swim Schools ",
-      "date": "2026-07-08",
-      "user_level": "Manager",
-      "age_days": 56,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1053121",
-      "email": "Jslatton@healthy-connections.org",
-      "name": "",
-      "account": "Healthy Connections",
-      "date": "2026-07-08",
-      "user_level": "Administrator",
-      "age_days": 56,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "951276",
-      "email": "ariannaodell@gmail.com",
-      "name": "",
-      "account": "Merrill Gardens",
-      "date": "2026-07-08",
-      "user_level": "Manager",
-      "age_days": 56,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1176058",
-      "email": "charlesb@ohcal.com",
-      "name": "",
-      "account": "Subway - North America",
-      "date": "2026-07-08",
-      "user_level": "Manager",
-      "age_days": 56,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1068956",
-      "email": "mschwenk@capitalsquareliving.com",
-      "name": "",
-      "account": "Capital Square Living",
-      "date": "2026-07-08",
-      "user_level": "Administrator",
-      "age_days": 56,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1180022",
-      "email": "joshrodriguez.to2004@gmail.com",
-      "name": "",
-      "account": "Scooter's Coffee, LLC",
-      "date": "2026-07-08",
-      "user_level": "Manager",
-      "age_days": 56,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1146387",
-      "email": "luis.rivera@westernunion.com",
-      "name": "",
-      "account": "Western Union - USA",
-      "date": "2026-07-08",
-      "user_level": "Manager",
-      "age_days": 56,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1109624",
-      "email": "dani@thrivevg.com",
-      "name": "",
-      "account": "Orangetheory Fitness",
-      "date": "2026-07-08",
-      "user_level": "Manager",
-      "age_days": 56,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "286881",
-      "email": "kelli@anchorpacifica.com",
-      "name": "",
-      "account": "Anchor Pacifica",
-      "date": "2026-07-08",
-      "user_level": "Administrator",
-      "age_days": 56,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1096682",
-      "email": "kim@embark-marketing.com",
-      "name": "",
-      "account": "ADMIN",
-      "date": "2026-07-08",
-      "user_level": "Administrator",
-      "age_days": 56,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "515183",
-      "email": "sortiz@legacyresidential.com",
-      "name": "",
-      "account": "Legacy Residential Group",
-      "date": "2026-07-08",
-      "user_level": "Administrator",
-      "age_days": 56,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "711587",
-      "email": "nlopez@fixnetwork.com",
-      "name": "",
-      "account": "Mondofix Canada",
-      "date": "2026-07-08",
-      "user_level": "Administrator",
-      "age_days": 56,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "742110",
-      "email": "stefaniestefanie@veg.com",
-      "name": "",
-      "account": "VEG ER for Pets",
-      "date": "2026-07-08",
-      "user_level": "Manager",
-      "age_days": 56,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "368185",
-      "email": "ashley.allen@ivyrehab.com",
-      "name": "",
-      "account": "Ivy Rehab Network",
-      "date": "2026-07-08",
-      "user_level": "Administrator",
-      "age_days": 56,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "982801",
-      "email": "amy@govavia.com",
-      "name": "",
-      "account": "VaVia",
-      "date": "2026-07-08",
-      "user_level": "Administrator",
-      "age_days": 56,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "754512",
-      "email": "alexa.meyer@mattamycorp.com",
-      "name": "",
-      "account": "US Mattamy Homes Corporation",
-      "date": "2026-07-08",
-      "user_level": "Administrator",
-      "age_days": 56,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "229959",
-      "email": "bcwilde@lkqcorp.com",
-      "name": "",
-      "account": "LKQ Corporation",
-      "date": "2026-07-08",
-      "user_level": "Administrator",
-      "age_days": 56,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "981113",
-      "email": "grace.delasko@SpartanNash.com",
-      "name": "",
-      "account": "SpartanNash",
-      "date": "2026-07-08",
-      "user_level": "Administrator",
-      "age_days": 56,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1185131",
-      "email": "etsarfati@aim-recycling.com",
-      "name": "",
-      "account": "AIM Recycling - Ontario",
-      "date": "2026-07-08",
-      "user_level": "Administrator",
-      "age_days": 56,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1207090",
-      "email": "andrea.ganun@kidsunited.com",
-      "name": "",
-      "account": "KidsUnited USA",
-      "date": "2026-07-08",
-      "user_level": "Administrator",
-      "age_days": 56,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "92433",
-      "email": "liz@teriyakimadness.com",
-      "name": "",
-      "account": "Teriyaki Madness",
-      "date": "2026-07-08",
-      "user_level": "Administrator",
-      "age_days": 56,
-      "sla": "red",
-      "area": "AskGenius"
     },
     {
       "visitor": "1028270",
@@ -12952,138 +11621,6 @@
       "area": "Genius Reviews"
     },
     {
-      "visitor": "1101055",
-      "email": "angelaatherton@veg.com",
-      "name": "",
-      "account": "VEG ER for Pets",
-      "date": "2026-07-07",
-      "user_level": "Manager",
-      "age_days": 57,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "289929",
-      "email": "bfootit@aveliving.com",
-      "name": "",
-      "account": "AVE Living ",
-      "date": "2026-07-07",
-      "user_level": "Administrator",
-      "age_days": 57,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1256912",
-      "email": "4018951@sso.subway.com",
-      "name": "",
-      "account": "Subway - North America",
-      "date": "2026-07-07",
-      "user_level": "Manager",
-      "age_days": 57,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "591738",
-      "email": "Longview.TX@sylvanlearning.com",
-      "name": "",
-      "account": "Sylvan Learning",
-      "date": "2026-07-07",
-      "user_level": "Manager",
-      "age_days": 57,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "716944",
-      "email": "desireem@ovationco.com",
-      "name": "",
-      "account": "Ovation Property Management",
-      "date": "2026-07-07",
-      "user_level": "Administrator",
-      "age_days": 57,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "962209",
-      "email": "brianb@4timeholdings.com",
-      "name": "",
-      "account": "KOA",
-      "date": "2026-07-07",
-      "user_level": "Manager",
-      "age_days": 57,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "935220",
-      "email": "alyssal@rentcip.com",
-      "name": "",
-      "account": "CIP Communities",
-      "date": "2026-07-07",
-      "user_level": "Administrator",
-      "age_days": 57,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "147236",
-      "email": "Sheila.Smyre@becu.org",
-      "name": "",
-      "account": "Boeing Employees Credit Union",
-      "date": "2026-07-07",
-      "user_level": "Administrator",
-      "age_days": 57,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "194301",
-      "email": "shelli.novotny+413923@bhhsamb.com",
-      "name": "",
-      "account": "Berkshire Hathaway HomeServices",
-      "date": "2026-07-07",
-      "user_level": "Manager",
-      "age_days": 57,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "282969",
-      "email": "justin@rickysr.com",
-      "name": "",
-      "account": "Ricky's All Day Grill",
-      "date": "2026-07-07",
-      "user_level": "Administrator",
-      "age_days": 57,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "1157160",
-      "email": "jmccrory@rtgroupproperties.com",
-      "name": "",
-      "account": "MRD Apartments",
-      "date": "2026-07-07",
-      "user_level": "Administrator",
-      "age_days": 57,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
-      "visitor": "796732",
-      "email": "ahuebner@ntyfranchise.com",
-      "name": "",
-      "account": "NTY Franchise Company",
-      "date": "2026-07-07",
-      "user_level": "Administrator",
-      "age_days": 57,
-      "sla": "red",
-      "area": "AskGenius"
-    },
-    {
       "visitor": "1070383",
       "email": "store1010@americanfreight.us",
       "name": "",
@@ -13965,19 +12502,17 @@
     }
   ],
   "level_counts": {
-    "Administrator": 138,
-    "Manager": 1119,
+    "Administrator": 93,
+    "Manager": 1032,
     "User": 0
   },
-  "level_counts_extra": {
-    "Unknown": 1
-  },
+  "level_counts_extra": {},
   "sla_counts": {
-    "green": 87,
-    "amber": 334,
-    "red": 837
+    "green": 82,
+    "amber": 311,
+    "red": 732
   },
-  "total_interested": 1258,
+  "total_interested": 1125,
   "oldest_age": 361,
   "repeat_accounts": [
     [
@@ -13989,19 +12524,15 @@
       45
     ],
     [
-      "Subway - North America",
-      35
-    ],
-    [
       "AT&T",
-      34
-    ],
-    [
-      "RPM Living",
-      27
+      32
     ],
     [
       "Cruise Planners | CP Elite",
+      26
+    ],
+    [
+      "RPM Living",
       26
     ],
     [
@@ -14009,32 +12540,20 @@
       21
     ],
     [
-      "Sky Zone",
-      21
-    ],
-    [
-      "Berkshire Hathaway HomeServices",
-      21
-    ],
-    [
       "Cruise Planners | CP Pro",
       20
     ],
     [
-      "Anytime Fitness NA ",
+      "Sky Zone",
       19
     ],
     [
-      "Liberty Tax",
+      "Anytime Fitness NA ",
       18
     ],
     [
       "Woof Gang Bakery & Grooming",
       16
-    ],
-    [
-      "Texas Roadhouse Holdings LLC",
-      15
     ],
     [
       "Neighborly",
@@ -14045,19 +12564,31 @@
       15
     ],
     [
+      "Berkshire Hathaway HomeServices",
+      15
+    ],
+    [
       "Holiday Inn Express",
       15
     ],
     [
-      "Sylvan Learning",
-      15
-    ],
-    [
-      "Nothing Bundt Cakes",
+      "Subway - North America",
       14
     ],
     [
-      "Pet Supplies Plus",
+      "Texas Roadhouse Holdings LLC",
+      13
+    ],
+    [
+      "Liberty Tax",
+      13
+    ],
+    [
+      "Nothing Bundt Cakes",
+      13
+    ],
+    [
+      "Sylvan Learning",
       12
     ],
     [
@@ -14077,10 +12608,6 @@
       10
     ],
     [
-      "Ford",
-      10
-    ],
-    [
       "Discovery Marketing Group, LLC dba STAT Marketing",
       10
     ],
@@ -14093,15 +12620,11 @@
       9
     ],
     [
-      "Elements Massage",
-      9
-    ],
-    [
       "Mill Creek Residential ",
       9
     ],
     [
-      "Orangetheory Fitness",
+      "Pet Supplies Plus",
       9
     ],
     [
@@ -14117,10 +12640,6 @@
       8
     ],
     [
-      "Capital Square Living",
-      8
-    ],
-    [
       "FSC Franchise Brands",
       8
     ],
@@ -14133,19 +12652,11 @@
       8
     ],
     [
-      "Forty Winks | The Pistol",
-      8
-    ],
-    [
-      "Teriyaki Madness",
+      "Elements Massage",
       8
     ],
     [
       "Pedego Electric Bikes",
-      8
-    ],
-    [
-      "American Freight (MAFGA)",
       8
     ],
     [
@@ -14157,15 +12668,19 @@
       7
     ],
     [
-      "VEG ER for Pets",
+      "Capital Square Living",
       7
     ],
     [
-      "Orangetheory Fitness Canada",
+      "Forty Winks | The Pistol",
       7
     ],
     [
-      "Bruster's Real Ice Cream",
+      "Teriyaki Madness",
+      7
+    ],
+    [
+      "American Freight (MAFGA)",
       7
     ],
     [
@@ -14173,19 +12688,7 @@
       6
     ],
     [
-      "Scooter's Coffee, LLC",
-      6
-    ],
-    [
-      "KOA",
-      6
-    ],
-    [
       "InterContinental",
-      6
-    ],
-    [
-      "Peak Living LLC",
       6
     ],
     [
@@ -14201,15 +12704,15 @@
       6
     ],
     [
-      "Painting with a Twist, LLC",
-      6
-    ],
-    [
       "Lynd",
       6
     ],
     [
       "Merry Maids",
+      6
+    ],
+    [
+      "Orangetheory Fitness",
       6
     ],
     [
@@ -14225,11 +12728,27 @@
       6
     ],
     [
+      "Orangetheory Fitness Canada",
+      6
+    ],
+    [
+      "Bruster's Real Ice Cream",
+      6
+    ],
+    [
       "Rent-A-Center",
       5
     ],
     [
-      "Comparion",
+      "Scooter's Coffee, LLC",
+      5
+    ],
+    [
+      "KOA",
+      5
+    ],
+    [
+      "Peak Living LLC",
       5
     ],
     [
@@ -14245,11 +12764,15 @@
       5
     ],
     [
+      "Painting with a Twist, LLC",
+      5
+    ],
+    [
       "29th Street Living",
       5
     ],
     [
-      "Lightbridge Academy",
+      "VEG ER for Pets",
       5
     ],
     [
@@ -14265,15 +12788,11 @@
       5
     ],
     [
-      "Sport Clips",
-      5
-    ],
-    [
-      "Guild Mortgage",
-      5
-    ],
-    [
       "Jeremiah's Italian Ice",
+      5
+    ],
+    [
+      "Ford",
       5
     ],
     [
@@ -14289,11 +12808,7 @@
       4
     ],
     [
-      "Arlington Properties",
-      4
-    ],
-    [
-      "RimTyme",
+      "Comparion",
       4
     ],
     [
@@ -14313,6 +12828,10 @@
       4
     ],
     [
+      "Lightbridge Academy",
+      4
+    ],
+    [
       "Color Me Mine LLC",
       4
     ],
@@ -14321,7 +12840,7 @@
       4
     ],
     [
-      "Ovation Property Management",
+      "Sport Clips",
       4
     ],
     [
@@ -14329,7 +12848,7 @@
       4
     ],
     [
-      "Any Lab Test Now",
+      "Guild Mortgage",
       4
     ],
     [
@@ -14341,11 +12860,7 @@
       3
     ],
     [
-      "Ricky's All Day Grill",
-      3
-    ],
-    [
-      "Freeman Webb",
+      "Arlington Properties",
       3
     ],
     [
@@ -14353,11 +12868,11 @@
       3
     ],
     [
-      "Asset Living",
+      "Transworld Business Advisors ",
       3
     ],
     [
-      "Transworld Business Advisors ",
+      "RimTyme",
       3
     ],
     [
@@ -14381,10 +12896,6 @@
       3
     ],
     [
-      "Raintree Partners",
-      3
-    ],
-    [
       "Soccer Shots",
       3
     ],
@@ -14393,19 +12904,11 @@
       3
     ],
     [
-      "KidsUnited USA",
-      3
-    ],
-    [
       "Legend Asset Management ",
       3
     ],
     [
       "Burn Boot Camp",
-      3
-    ],
-    [
-      "Amazing Lash",
       3
     ],
     [
@@ -14421,19 +12924,11 @@
       3
     ],
     [
-      "Village Green Companies",
+      "Ovation Property Management",
       3
     ],
     [
-      "GO Car Wash",
-      3
-    ],
-    [
-      "Otter Learning",
-      3
-    ],
-    [
-      "Aqua-Tots Swim Schools ",
+      "Any Lab Test Now",
       3
     ],
     [
@@ -14465,15 +12960,19 @@
       3
     ],
     [
-      "CIP Communities",
-      3
-    ],
-    [
       "ATC Healthcare Services",
       2
     ],
     [
+      "Ricky's All Day Grill",
+      2
+    ],
+    [
       "Port of Subs",
+      2
+    ],
+    [
+      "Freeman Webb",
       2
     ],
     [
@@ -14493,11 +12992,11 @@
       2
     ],
     [
-      "avid hotels",
+      "Asset Living",
       2
     ],
     [
-      "Byrider",
+      "avid hotels",
       2
     ],
     [
@@ -14513,6 +13012,10 @@
       2
     ],
     [
+      "Raintree Partners",
+      2
+    ],
+    [
       "Embrey Management Service",
       2
     ],
@@ -14521,7 +13024,7 @@
       2
     ],
     [
-      "Salata",
+      "KidsUnited USA",
       2
     ],
     [
@@ -14533,7 +13036,7 @@
       2
     ],
     [
-      "MRD Apartments",
+      "Amazing Lash",
       2
     ],
     [
@@ -14589,15 +13092,19 @@
       2
     ],
     [
+      "GO Car Wash",
+      2
+    ],
+    [
+      "Otter Learning",
+      2
+    ],
+    [
       "Wag N Wash",
       2
     ],
     [
       "Sam The Concrete Man",
-      2
-    ],
-    [
-      "HTeaO",
       2
     ],
     [
@@ -14617,7 +13124,7 @@
       2
     ],
     [
-      "Celebree School",
+      "Aqua-Tots Swim Schools ",
       2
     ],
     [
@@ -14641,14 +13148,6 @@
       2
     ],
     [
-      "Western Union - USA",
-      2
-    ],
-    [
-      "Firehouse Subs",
-      2
-    ],
-    [
       "MG Properties Group",
       2
     ],
@@ -14665,14 +13164,6 @@
       2
     ],
     [
-      "Beavercreek Marketing",
-      2
-    ],
-    [
-      "Houchens Food Group",
-      2
-    ],
-    [
       "FSBI - Entrepreneur's Source ",
       2
     ],
@@ -14681,15 +13172,7 @@
       2
     ],
     [
-      "i9 Sports",
-      2
-    ],
-    [
       "PJ's Coffee",
-      2
-    ],
-    [
-      "AIM Recycling - Ontario",
       2
     ],
     [
@@ -14701,7 +13184,7 @@
       2
     ],
     [
-      "VaVia",
+      "CIP Communities",
       2
     ],
     [
@@ -14710,10 +13193,6 @@
     ],
     [
       "Benjamin Franklin Plumbing",
-      2
-    ],
-    [
-      "Legacy Residential Group",
       2
     ],
     [
