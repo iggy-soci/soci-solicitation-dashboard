@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03 06:19 UTC",
+  "generated_at": "2026-09-03 11:34 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 159,
-      "interested": 159
+      "responses_12mo": 160,
+      "interested": 160
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 355,
-      "interested": 355
+      "responses_12mo": 360,
+      "interested": 360
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 108,
-      "interested": 108
+      "responses_12mo": 111,
+      "interested": 111
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 245,
-      "interested": 245
+      "responses_12mo": 248,
+      "interested": 248
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -120,11 +120,176 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 142,
-      "interested": 142
+      "responses_12mo": 145,
+      "interested": 145
     }
   },
   "contacts": [
+    {
+      "visitor": "1213911",
+      "email": "eciechoski@mosquitojoe.com",
+      "name": "",
+      "account": "Neighborly",
+      "date": "2026-09-03",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1279025",
+      "email": "RafaelManriquerobles@veg.com",
+      "name": "",
+      "account": "VEG ER for Pets",
+      "date": "2026-09-03",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1228366",
+      "email": "elkgrove.owner@mrelectric.com",
+      "name": "",
+      "account": "Neighborly",
+      "date": "2026-09-02",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "744021",
+      "email": "henderson@woofgangbakery.com",
+      "name": "",
+      "account": "Woof Gang Bakery & Grooming",
+      "date": "2026-09-02",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1214615",
+      "email": "dawn@glammytravel.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-09-02",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1222704",
+      "email": "albuquerqueeast.nm@thepicklrfranchise.com",
+      "name": "",
+      "account": "The Picklr",
+      "date": "2026-09-02",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1228869",
+      "email": "camaddeo@thetravelagentnextdoor.com",
+      "name": "",
+      "account": "Travel Leaders Group Canada",
+      "date": "2026-09-02",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1271607",
+      "email": "mbrammer@sunholdings.net",
+      "name": "",
+      "account": "Azul Restaurants, LLC (Freebirds)",
+      "date": "2026-09-02",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1229181",
+      "email": "avillarailhead.manager@livebryten.com",
+      "name": "",
+      "account": "Bryten Management",
+      "date": "2026-09-02",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "949364",
+      "email": "henry.kim@amazinglashstudio.com",
+      "name": "",
+      "account": "Amazing Lash",
+      "date": "2026-09-02",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "690098",
+      "email": "servicemastertc@yahoo.com",
+      "name": "",
+      "account": "ServiceMaster Clean",
+      "date": "2026-09-02",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "273390",
+      "email": "thelanding@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-09-02",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1065194",
+      "email": "marlene@elevatedtravelerco.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-09-02",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "749058",
+      "email": "augustameadowsmgr@raamco.com",
+      "name": "",
+      "account": "Sheng Raamco Management Inc",
+      "date": "2026-09-02",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "747875",
+      "email": "jfenicle@dilldinkers.com",
+      "name": "",
+      "account": "Dill Dinkers",
+      "date": "2026-09-02",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
     {
       "visitor": "99748",
       "email": "wesbrook@oxfordlearning.com",
@@ -13965,24 +14130,24 @@
     }
   ],
   "level_counts": {
-    "Administrator": 138,
-    "Manager": 1119,
+    "Administrator": 140,
+    "Manager": 1132,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 79,
+    "green": 94,
     "amber": 324,
     "red": 855
   },
-  "total_interested": 1258,
+  "total_interested": 1273,
   "oldest_age": 362,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
-      51
+      53
     ],
     [
       "Willow Bridge Property Company ",
@@ -14006,7 +14171,7 @@
     ],
     [
       "Avenue5 Residential",
-      21
+      22
     ],
     [
       "Sky Zone",
@@ -14029,15 +14194,15 @@
       18
     ],
     [
+      "Neighborly",
+      17
+    ],
+    [
       "Woof Gang Bakery & Grooming",
-      16
+      17
     ],
     [
       "Texas Roadhouse Holdings LLC",
-      15
-    ],
-    [
-      "Neighborly",
       15
     ],
     [
@@ -14061,6 +14226,10 @@
       12
     ],
     [
+      "Bryten Management",
+      11
+    ],
+    [
       "The Goddard School",
       11
     ],
@@ -14071,10 +14240,6 @@
     [
       "Vetcor",
       11
-    ],
-    [
-      "Bryten Management",
-      10
     ],
     [
       "Ford",
@@ -14107,6 +14272,10 @@
     [
       "Stretch Zone Franchising, LLC ",
       9
+    ],
+    [
+      "VEG ER for Pets",
+      8
     ],
     [
       "voco",
@@ -14149,15 +14318,15 @@
       8
     ],
     [
+      "Dill Dinkers",
+      7
+    ],
+    [
       "Decorating Den Interiors",
       7
     ],
     [
       "HomeWell Care Services",
-      7
-    ],
-    [
-      "VEG ER for Pets",
       7
     ],
     [
@@ -14167,6 +14336,14 @@
     [
       "Bruster's Real Ice Cream",
       7
+    ],
+    [
+      "Travel Leaders Group Canada",
+      6
+    ],
+    [
+      "Sheng Raamco Management Inc",
+      6
     ],
     [
       "American Freight NewCo",
@@ -14213,10 +14390,6 @@
       6
     ],
     [
-      "Dill Dinkers",
-      6
-    ],
-    [
       "Weidner",
       6
     ],
@@ -14237,10 +14410,6 @@
       5
     ],
     [
-      "Sheng Raamco Management Inc",
-      5
-    ],
-    [
       "Garner",
       5
     ],
@@ -14254,10 +14423,6 @@
     ],
     [
       "Urban Air - Unleashed Brands",
-      5
-    ],
-    [
-      "Travel Leaders Group Canada",
       5
     ],
     [
@@ -14275,6 +14440,10 @@
     [
       "Jeremiah's Italian Ice",
       5
+    ],
+    [
+      "Amazing Lash",
+      4
     ],
     [
       "Sunridge Management ",
@@ -14405,10 +14574,6 @@
       3
     ],
     [
-      "Amazing Lash",
-      3
-    ],
-    [
       "The Little Gym",
       3
     ],
@@ -14467,6 +14632,10 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "ServiceMaster Clean",
+      2
     ],
     [
       "ATC Healthcare Services",
