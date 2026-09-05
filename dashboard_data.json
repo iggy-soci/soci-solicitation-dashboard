@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05 03:45 UTC",
+  "generated_at": "2026-09-05 08:12 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 163,
-      "interested": 163
+      "responses_12mo": 167,
+      "interested": 167
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 364,
-      "interested": 364
+      "responses_12mo": 367,
+      "interested": 367
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 114,
-      "interested": 114
+      "responses_12mo": 115,
+      "interested": 115
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 252,
-      "interested": 252
+      "responses_12mo": 254,
+      "interested": 254
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,94 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 136,
-      "interested": 136
+      "responses_12mo": 138,
+      "interested": 138
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 146,
-      "interested": 146
+      "responses_12mo": 148,
+      "interested": 148
     }
   },
   "contacts": [
+    {
+      "visitor": "1292489",
+      "email": "Pimporn.Tongpua@ihg.com",
+      "name": "",
+      "account": "Holiday Inn",
+      "date": "2026-09-05",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1254527",
+      "email": "kirankw600@gmail.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-09-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1069818",
+      "email": "patelparvaa@gmail.com",
+      "name": "",
+      "account": "Scooter's Coffee, LLC",
+      "date": "2026-09-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1286154",
+      "email": "Palmbeachgardens@kidtokid.com",
+      "name": "",
+      "account": "Kid to Kid",
+      "date": "2026-09-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "701494",
+      "email": "pm.mirabella@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-09-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "143924",
+      "email": "manager.britishwoods@freemanwebb.com",
+      "name": "",
+      "account": "Freeman Webb",
+      "date": "2026-09-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "417332",
+      "email": "pm.gridline@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-09-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
     {
       "visitor": "886321",
       "email": "rob@mustardseedtravels.com",
@@ -137,6 +214,17 @@
       "area": "Social"
     },
     {
+      "visitor": "1278970",
+      "email": "scott.dellcpa+scott.dell@gmail.com",
+      "name": "",
+      "account": "Liberty Tax",
+      "date": "2026-09-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
       "visitor": "1224289",
       "email": "koo@jeilearning.com",
       "name": "",
@@ -146,6 +234,28 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Social"
+    },
+    {
+      "visitor": "1193570",
+      "email": "meredith.kilgore@burnbootcamp.com",
+      "name": "",
+      "account": "Burn Boot Camp",
+      "date": "2026-09-04",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1291602",
+      "email": "thomas.bourdois@ic-bordeaux.com",
+      "name": "",
+      "account": "InterContinental",
+      "date": "2026-09-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
     },
     {
       "visitor": "1254527",
@@ -168,6 +278,50 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Reviews"
+    },
+    {
+      "visitor": "449432",
+      "email": "akirkpatrick@avenue5.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-09-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "276283",
+      "email": "MARLON+marlon.moran01@MORANAGENCIES.COM",
+      "name": "",
+      "account": "Liberty Tax",
+      "date": "2026-09-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "804515",
+      "email": "enclaveatwoodlandlakes@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-09-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "67720",
+      "email": "Pirates.Mgr@adaracommunities.com",
+      "name": "",
+      "account": "Adara Communities ",
+      "date": "2026-09-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "273390",
@@ -14328,19 +14482,19 @@
     }
   ],
   "level_counts": {
-    "Administrator": 143,
-    "Manager": 1147,
+    "Administrator": 144,
+    "Manager": 1160,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 80,
+    "green": 94,
     "amber": 316,
     "red": 895
   },
-  "total_interested": 1291,
+  "total_interested": 1305,
   "oldest_age": 364,
   "repeat_accounts": [
     [
@@ -14353,7 +14507,7 @@
     ],
     [
       "Subway - North America",
-      36
+      37
     ],
     [
       "AT&T",
@@ -14361,6 +14515,10 @@
     ],
     [
       "RPM Living",
+      28
+    ],
+    [
+      "Avenue5 Residential",
       27
     ],
     [
@@ -14368,8 +14526,8 @@
       26
     ],
     [
-      "Avenue5 Residential",
-      24
+      "Liberty Tax",
+      22
     ],
     [
       "Berkshire Hathaway HomeServices",
@@ -14378,10 +14536,6 @@
     [
       "Sky Zone",
       21
-    ],
-    [
-      "Liberty Tax",
-      20
     ],
     [
       "Anytime Fitness NA ",
@@ -14424,6 +14578,10 @@
       12
     ],
     [
+      "Adara Communities ",
+      11
+    ],
+    [
       "Ford",
       11
     ],
@@ -14444,16 +14602,12 @@
       11
     ],
     [
+      "Holiday Inn",
+      10
+    ],
+    [
       "Discovery Marketing Group, LLC dba STAT Marketing",
       10
-    ],
-    [
-      "Adara Communities ",
-      10
-    ],
-    [
-      "Holiday Inn",
-      9
     ],
     [
       "VEG ER for Pets",
@@ -14516,6 +14670,14 @@
       8
     ],
     [
+      "Scooter's Coffee, LLC",
+      7
+    ],
+    [
+      "InterContinental",
+      7
+    ],
+    [
       "Weidner",
       7
     ],
@@ -14552,15 +14714,7 @@
       6
     ],
     [
-      "Scooter's Coffee, LLC",
-      6
-    ],
-    [
       "KOA",
-      6
-    ],
-    [
-      "InterContinental",
       6
     ],
     [
@@ -14638,6 +14792,14 @@
     [
       "Jeremiah's Italian Ice",
       5
+    ],
+    [
+      "Freeman Webb",
+      4
+    ],
+    [
+      "Burn Boot Camp",
+      4
     ],
     [
       "Otter Learning",
@@ -14720,10 +14882,6 @@
       3
     ],
     [
-      "Freeman Webb",
-      3
-    ],
-    [
       "Sharkey's Cuts for Kids",
       3
     ],
@@ -14773,10 +14931,6 @@
     ],
     [
       "Legend Asset Management ",
-      3
-    ],
-    [
-      "Burn Boot Camp",
       3
     ],
     [
