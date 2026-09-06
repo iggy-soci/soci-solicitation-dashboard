@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06 03:49 UTC",
+  "generated_at": "2026-09-06 08:30 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,8 +54,8 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 85,
-      "interested": 85
+      "responses_12mo": 84,
+      "interested": 84
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 367,
-      "interested": 367
+      "responses_12mo": 368,
+      "interested": 368
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 115,
-      "interested": 115
+      "responses_12mo": 116,
+      "interested": 116
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -120,8 +120,8 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 148,
-      "interested": 148
+      "responses_12mo": 149,
+      "interested": 149
     }
   },
   "contacts": [
@@ -135,6 +135,39 @@
       "age_days": 1,
       "sla": "green",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "74881",
+      "email": "eldoradoplace@myhslhome.com",
+      "name": "",
+      "account": "HSL Asset Management LLC ",
+      "date": "2026-09-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "653171",
+      "email": "clara.cortez@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-09-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "818918",
+      "email": "naperville@pinotspalette.com",
+      "name": "",
+      "account": "Pinots",
+      "date": "2026-09-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "1254527",
@@ -14468,34 +14501,23 @@
       "age_days": 362,
       "sla": "red",
       "area": "Reporting Suite"
-    },
-    {
-      "visitor": "1011662",
-      "email": "sgunaprakash@ikumon.com",
-      "name": "",
-      "account": "Kumon",
-      "date": "2025-09-06",
-      "user_level": "Manager",
-      "age_days": 365,
-      "sla": "red",
-      "area": "Reporting Suite"
     }
   ],
   "level_counts": {
     "Administrator": 144,
-    "Manager": 1160,
+    "Manager": 1162,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 91,
+    "green": 94,
     "amber": 297,
-    "red": 917
+    "red": 916
   },
-  "total_interested": 1305,
-  "oldest_age": 365,
+  "total_interested": 1307,
+  "oldest_age": 362,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
@@ -14518,12 +14540,12 @@
       28
     ],
     [
-      "Avenue5 Residential",
+      "Cruise Planners | CP Elite",
       27
     ],
     [
-      "Cruise Planners | CP Elite",
-      26
+      "Avenue5 Residential",
+      27
     ],
     [
       "Liberty Tax",
@@ -14870,6 +14892,14 @@
       4
     ],
     [
+      "HSL Asset Management LLC ",
+      3
+    ],
+    [
+      "Pinots",
+      3
+    ],
+    [
       "HTeaO",
       3
     ],
@@ -14990,10 +15020,6 @@
       3
     ],
     [
-      "HSL Asset Management LLC ",
-      2
-    ],
-    [
       "Affordable Care",
       2
     ],
@@ -15111,10 +15137,6 @@
     ],
     [
       "Case and Associates Properties, Inc.",
-      2
-    ],
-    [
-      "Pinots",
       2
     ],
     [
