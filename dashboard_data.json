@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07 06:31 UTC",
+  "generated_at": "2026-09-07 13:22 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 167,
-      "interested": 167
+      "responses_12mo": 168,
+      "interested": 168
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -84,8 +84,8 @@
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 116,
-      "interested": 116
+      "responses_12mo": 117,
+      "interested": 117
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 254,
-      "interested": 254
+      "responses_12mo": 255,
+      "interested": 255
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -125,6 +125,39 @@
     }
   },
   "contacts": [
+    {
+      "visitor": "1279025",
+      "email": "RafaelManriquerobles@veg.com",
+      "name": "",
+      "account": "VEG ER for Pets",
+      "date": "2026-09-07",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1291123",
+      "email": "chelmsford.ma@sylvanlearning.com",
+      "name": "",
+      "account": "Sylvan Learning",
+      "date": "2026-09-06",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1223603",
+      "email": "anil.madithati@urbanairgilroy.com",
+      "name": "",
+      "account": "Urban Air - Unleashed Brands",
+      "date": "2026-09-06",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
     {
       "visitor": "1292489",
       "email": "Pimporn.Tongpua@ihg.com",
@@ -14505,18 +14538,18 @@
   ],
   "level_counts": {
     "Administrator": 144,
-    "Manager": 1162,
+    "Manager": 1165,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 1
   },
   "sla_counts": {
-    "green": 92,
+    "green": 95,
     "amber": 278,
     "red": 937
   },
-  "total_interested": 1307,
+  "total_interested": 1310,
   "oldest_age": 363,
   "repeat_accounts": [
     [
@@ -14576,6 +14609,10 @@
       17
     ],
     [
+      "Sylvan Learning",
+      16
+    ],
+    [
       "Texas Roadhouse Holdings LLC",
       15
     ],
@@ -14585,10 +14622,6 @@
     ],
     [
       "Holiday Inn Express",
-      15
-    ],
-    [
-      "Sylvan Learning",
       15
     ],
     [
@@ -14624,16 +14657,16 @@
       11
     ],
     [
+      "VEG ER for Pets",
+      10
+    ],
+    [
       "Holiday Inn",
       10
     ],
     [
       "Discovery Marketing Group, LLC dba STAT Marketing",
       10
-    ],
-    [
-      "VEG ER for Pets",
-      9
     ],
     [
       "Pointe Grand",
@@ -14724,6 +14757,10 @@
       7
     ],
     [
+      "Urban Air - Unleashed Brands",
+      6
+    ],
+    [
       "Travel Leaders Group Canada",
       6
     ],
@@ -14793,10 +14830,6 @@
     ],
     [
       "Lightbridge Academy",
-      5
-    ],
-    [
-      "Urban Air - Unleashed Brands",
       5
     ],
     [
