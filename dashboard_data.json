@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09 03:57 UTC",
+  "generated_at": "2026-09-09 08:53 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,14 +60,14 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 169,
-      "interested": 169
+      "responses_12mo": 171,
+      "interested": 171
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
       "views_12mo": 0,
-      "responses_12mo": 13,
-      "interested": 13
+      "responses_12mo": 14,
+      "interested": 14
     },
     "Surveys": {
       "guide_id": "RLz8F0jmIzDqIwzo7WOPNNHQr4M",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 368,
-      "interested": 368
+      "responses_12mo": 370,
+      "interested": 370
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 117,
-      "interested": 117
+      "responses_12mo": 118,
+      "interested": 118
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,14 +96,14 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 256,
-      "interested": 256
+      "responses_12mo": 259,
+      "interested": 259
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
       "views_12mo": 0,
-      "responses_12mo": 10,
-      "interested": 10
+      "responses_12mo": 11,
+      "interested": 11
     },
     "Data Management": {
       "guide_id": "YESnj4QI3Np_fsQ1W6_e_jBlJis",
@@ -114,17 +114,116 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 138,
-      "interested": 138
+      "responses_12mo": 139,
+      "interested": 139
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 150,
-      "interested": 150
+      "responses_12mo": 154,
+      "interested": 154
     }
   },
   "contacts": [
+    {
+      "visitor": "1294311",
+      "email": "drew@everlinecoatings.com",
+      "name": "",
+      "account": "EverLine",
+      "date": "2026-09-09",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1223640",
+      "email": "sford@jscomunalegroup.com",
+      "name": "",
+      "account": "Johnstone Supply",
+      "date": "2026-09-08",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "750683",
+      "email": "rbbcmgr@raamco.com",
+      "name": "",
+      "account": "Sheng Raamco Management Inc",
+      "date": "2026-09-08",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "649705",
+      "email": "oc@soccershots.com",
+      "name": "",
+      "account": "Soccer Shots",
+      "date": "2026-09-08",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Pages"
+    },
+    {
+      "visitor": "865221",
+      "email": "DTouchstone@vetcor.com",
+      "name": "",
+      "account": "Vetcor",
+      "date": "2026-09-08",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1180037",
+      "email": "nadiaputul888+sahida.fatema01@gmail.com",
+      "name": "",
+      "account": "Liberty Tax",
+      "date": "2026-09-08",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1260994",
+      "email": "themodern@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-09-08",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1189959",
+      "email": "favour.nwaiwu@griswoldcare.com",
+      "name": "",
+      "account": "Griswold",
+      "date": "2026-09-08",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "690096",
+      "email": "servicemasterofneponset@verizon.net",
+      "name": "",
+      "account": "ServiceMaster Clean",
+      "date": "2026-09-08",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
     {
       "visitor": "1293076",
       "email": "kylar@weidner.com",
@@ -135,6 +234,72 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Reviews"
+    },
+    {
+      "visitor": "686238",
+      "email": "ethanralphs@gmail.com",
+      "name": "",
+      "account": "Sport Clips",
+      "date": "2026-09-08",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Listings"
+    },
+    {
+      "visitor": "225615",
+      "email": "ken.pops@shoutaboutus.com",
+      "name": "",
+      "account": "Jersey Mike's Subs",
+      "date": "2026-09-08",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "284401",
+      "email": "cdrunner22@gmail.com",
+      "name": "",
+      "account": "Stretch Zone Franchising, LLC ",
+      "date": "2026-09-08",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1294809",
+      "email": "travel@boktravel.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-09-08",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1260994",
+      "email": "themodern@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-09-08",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "767745",
+      "email": "retreatriversidemgr@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-09-08",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "655109",
@@ -14571,27 +14736,27 @@
   ],
   "level_counts": {
     "Administrator": 144,
-    "Manager": 1167,
+    "Manager": 1182,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 2
   },
   "sla_counts": {
-    "green": 56,
+    "green": 71,
     "amber": 311,
     "red": 946
   },
-  "total_interested": 1313,
+  "total_interested": 1328,
   "oldest_age": 365,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
-      54
+      55
     ],
     [
       "Willow Bridge Property Company ",
-      45
+      46
     ],
     [
       "Subway - North America",
@@ -14602,6 +14767,10 @@
       35
     ],
     [
+      "Avenue5 Residential",
+      29
+    ],
+    [
       "RPM Living",
       28
     ],
@@ -14610,12 +14779,8 @@
       27
     ],
     [
-      "Avenue5 Residential",
-      27
-    ],
-    [
       "Liberty Tax",
-      22
+      23
     ],
     [
       "Berkshire Hathaway HomeServices",
@@ -14662,6 +14827,10 @@
       14
     ],
     [
+      "Vetcor",
+      12
+    ],
+    [
       "Pet Supplies Plus",
       12
     ],
@@ -14686,8 +14855,8 @@
       11
     ],
     [
-      "Vetcor",
-      11
+      "Stretch Zone Franchising, LLC ",
+      10
     ],
     [
       "VEG ER for Pets",
@@ -14715,10 +14884,6 @@
     ],
     [
       "Orangetheory Fitness",
-      9
-    ],
-    [
-      "Stretch Zone Franchising, LLC ",
       9
     ],
     [
@@ -14762,6 +14927,14 @@
       8
     ],
     [
+      "Sheng Raamco Management Inc",
+      7
+    ],
+    [
+      "Jersey Mike's Subs",
+      7
+    ],
+    [
       "Scooter's Coffee, LLC",
       7
     ],
@@ -14790,15 +14963,15 @@
       7
     ],
     [
+      "Sport Clips",
+      6
+    ],
+    [
       "Urban Air - Unleashed Brands",
       6
     ],
     [
       "Travel Leaders Group Canada",
-      6
-    ],
-    [
-      "Sheng Raamco Management Inc",
       6
     ],
     [
@@ -14811,10 +14984,6 @@
     ],
     [
       "Peak Living LLC",
-      6
-    ],
-    [
-      "Jersey Mike's Subs",
       6
     ],
     [
@@ -14870,16 +15039,16 @@
       5
     ],
     [
-      "Sport Clips",
-      5
-    ],
-    [
       "Guild Mortgage",
       5
     ],
     [
       "Jeremiah's Italian Ice",
       5
+    ],
+    [
+      "Soccer Shots",
+      4
     ],
     [
       "Freeman Webb",
@@ -14958,6 +15127,14 @@
       4
     ],
     [
+      "EverLine",
+      3
+    ],
+    [
+      "ServiceMaster Clean",
+      3
+    ],
+    [
       "Little Kickers",
       3
     ],
@@ -15015,10 +15192,6 @@
     ],
     [
       "Raintree Partners",
-      3
-    ],
-    [
-      "Soccer Shots",
       3
     ],
     [
@@ -15090,11 +15263,15 @@
       3
     ],
     [
-      "Affordable Care",
+      "Johnstone Supply",
       2
     ],
     [
-      "ServiceMaster Clean",
+      "Griswold",
+      2
+    ],
+    [
+      "Affordable Care",
       2
     ],
     [
@@ -15239,10 +15416,6 @@
     ],
     [
       "Metro Diner Management",
-      2
-    ],
-    [
-      "EverLine",
       2
     ],
     [
