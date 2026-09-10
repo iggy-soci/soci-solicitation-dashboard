@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10 06:28 UTC",
+  "generated_at": "2026-09-10 11:44 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,32 +54,32 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 84,
-      "interested": 84
+      "responses_12mo": 83,
+      "interested": 83
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 171,
-      "interested": 171
+      "responses_12mo": 173,
+      "interested": 173
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
       "views_12mo": 0,
-      "responses_12mo": 14,
-      "interested": 14
+      "responses_12mo": 15,
+      "interested": 15
     },
     "Surveys": {
       "guide_id": "RLz8F0jmIzDqIwzo7WOPNNHQr4M",
       "views_12mo": 0,
-      "responses_12mo": 2,
-      "interested": 2
+      "responses_12mo": 3,
+      "interested": 3
     },
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 370,
-      "interested": 370
+      "responses_12mo": 373,
+      "interested": 373
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 259,
-      "interested": 259
+      "responses_12mo": 266,
+      "interested": 266
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,105 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 139,
-      "interested": 139
+      "responses_12mo": 140,
+      "interested": 140
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 154,
-      "interested": 154
+      "responses_12mo": 160,
+      "interested": 160
     }
   },
   "contacts": [
+    {
+      "visitor": "1293982",
+      "email": "marketing.bordeaux@ic-bordeaux.com",
+      "name": "",
+      "account": "InterContinental",
+      "date": "2026-09-10",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "360167",
+      "email": "crossroadslibtax+brittany.sanderson@gmail.com",
+      "name": "",
+      "account": "Liberty Tax",
+      "date": "2026-09-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1293076",
+      "email": "kylar@weidner.com",
+      "name": "",
+      "account": "Weidner",
+      "date": "2026-09-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1210066",
+      "email": "Kate.q@otterlearning.com",
+      "name": "",
+      "account": "Otter Learning",
+      "date": "2026-09-09",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Pages"
+    },
+    {
+      "visitor": "1293815",
+      "email": "michaela.coleman@jalexanders.com",
+      "name": "",
+      "account": "J Alexanders",
+      "date": "2026-09-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Surveys"
+    },
+    {
+      "visitor": "160276",
+      "email": "LSakevich@lightbridgeacademy.com",
+      "name": "",
+      "account": "Lightbridge Academy",
+      "date": "2026-09-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1289872",
+      "email": "cfernandes@venterraliving.com",
+      "name": "",
+      "account": "Venterra Living",
+      "date": "2026-09-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "591078",
+      "email": "briggslegacy+1092039@bhhslynchrealty.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-09-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
     {
       "visitor": "1294311",
       "email": "drew@everlinecoatings.com",
@@ -135,6 +223,149 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Social"
+    },
+    {
+      "visitor": "819716",
+      "email": "elmhurst@pinotspalette.com",
+      "name": "",
+      "account": "Pinots",
+      "date": "2026-09-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1159860",
+      "email": "montiveros@zellislife.com",
+      "name": "",
+      "account": "Zellis Residential",
+      "date": "2026-09-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1067418",
+      "email": "mgr.dockside@mgproperties.com",
+      "name": "",
+      "account": "MG Properties Group",
+      "date": "2026-09-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1174521",
+      "email": "tmad364@teriyakimadness.com",
+      "name": "",
+      "account": "Teriyaki Madness",
+      "date": "2026-09-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "692011",
+      "email": "mfeiger@lightbridgeacademy.com",
+      "name": "",
+      "account": "Lightbridge Academy",
+      "date": "2026-09-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1294604",
+      "email": "waleed.hamdi1@ihg.com",
+      "name": "",
+      "account": "Holiday Inn",
+      "date": "2026-09-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1249825",
+      "email": "virang@virangorganization.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-09-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1069740",
+      "email": "asessoms@esourcecoach.com",
+      "name": "",
+      "account": "FSBI - Entrepreneur's Source ",
+      "date": "2026-09-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "982946",
+      "email": "wildairmgr@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-09-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "819716",
+      "email": "elmhurst@pinotspalette.com",
+      "name": "",
+      "account": "Pinots",
+      "date": "2026-09-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1216017",
+      "email": "Jeff.Becker@goddardschools.com",
+      "name": "",
+      "account": "The Goddard School",
+      "date": "2026-09-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "100336",
+      "email": "nautilus@bainbridgere.com",
+      "name": "",
+      "account": "The Bainbridge Companies, LLC ",
+      "date": "2026-09-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1285054",
+      "email": "crawford@kumon.org",
+      "name": "",
+      "account": "Kumon Europe & Africa",
+      "date": "2026-09-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "1223640",
@@ -14721,34 +14952,23 @@
       "age_days": 358,
       "sla": "red",
       "area": "Reporting Suite"
-    },
-    {
-      "visitor": "836484",
-      "email": "rthompson@portofsubs.com",
-      "name": "",
-      "account": "Port of Subs",
-      "date": "2025-09-09",
-      "user_level": "Manager",
-      "age_days": 366,
-      "sla": "red",
-      "area": "Reporting Suite"
     }
   ],
   "level_counts": {
-    "Administrator": 144,
-    "Manager": 1182,
+    "Administrator": 145,
+    "Manager": 1201,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 2
   },
   "sla_counts": {
-    "green": 58,
+    "green": 79,
     "amber": 301,
-    "red": 969
+    "red": 968
   },
-  "total_interested": 1328,
-  "oldest_age": 366,
+  "total_interested": 1348,
+  "oldest_age": 358,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
@@ -14756,11 +14976,11 @@
     ],
     [
       "Willow Bridge Property Company ",
-      46
+      47
     ],
     [
       "Subway - North America",
-      37
+      38
     ],
     [
       "AT&T",
@@ -14780,11 +15000,11 @@
     ],
     [
       "Liberty Tax",
-      23
+      24
     ],
     [
       "Berkshire Hathaway HomeServices",
-      22
+      23
     ],
     [
       "Sky Zone",
@@ -14827,12 +15047,20 @@
       14
     ],
     [
+      "The Goddard School",
+      12
+    ],
+    [
       "Vetcor",
       12
     ],
     [
       "Pet Supplies Plus",
       12
+    ],
+    [
+      "Holiday Inn",
+      11
     ],
     [
       "Adara Communities ",
@@ -14844,10 +15072,6 @@
     ],
     [
       "Bryten Management",
-      11
-    ],
-    [
-      "The Goddard School",
       11
     ],
     [
@@ -14863,12 +15087,16 @@
       10
     ],
     [
-      "Holiday Inn",
+      "Discovery Marketing Group, LLC dba STAT Marketing",
       10
     ],
     [
-      "Discovery Marketing Group, LLC dba STAT Marketing",
-      10
+      "Weidner",
+      9
+    ],
+    [
+      "Teriyaki Madness",
+      9
     ],
     [
       "Pointe Grand",
@@ -14887,7 +15115,7 @@
       9
     ],
     [
-      "Weidner",
+      "InterContinental",
       8
     ],
     [
@@ -14915,16 +15143,16 @@
       8
     ],
     [
-      "Teriyaki Madness",
-      8
-    ],
-    [
       "Pedego Electric Bikes",
       8
     ],
     [
       "American Freight (MAFGA)",
       8
+    ],
+    [
+      "Lightbridge Academy",
+      7
     ],
     [
       "Sheng Raamco Management Inc",
@@ -14936,10 +15164,6 @@
     ],
     [
       "Scooter's Coffee, LLC",
-      7
-    ],
-    [
-      "InterContinental",
       7
     ],
     [
@@ -15011,6 +15235,14 @@
       6
     ],
     [
+      "Otter Learning",
+      5
+    ],
+    [
+      "Pinots",
+      5
+    ],
+    [
       "Rent-A-Center",
       5
     ],
@@ -15031,10 +15263,6 @@
       5
     ],
     [
-      "Lightbridge Academy",
-      5
-    ],
-    [
       "Fortis Property Management",
       5
     ],
@@ -15047,6 +15275,10 @@
       5
     ],
     [
+      "Venterra Living",
+      4
+    ],
+    [
       "Soccer Shots",
       4
     ],
@@ -15056,10 +15288,6 @@
     ],
     [
       "Burn Boot Camp",
-      4
-    ],
-    [
-      "Otter Learning",
       4
     ],
     [
@@ -15131,6 +15359,18 @@
       3
     ],
     [
+      "MG Properties Group",
+      3
+    ],
+    [
+      "FSBI - Entrepreneur's Source ",
+      3
+    ],
+    [
+      "The Bainbridge Companies, LLC ",
+      3
+    ],
+    [
       "ServiceMaster Clean",
       3
     ],
@@ -15140,10 +15380,6 @@
     ],
     [
       "HSL Asset Management LLC ",
-      3
-    ],
-    [
-      "Pinots",
       3
     ],
     [
@@ -15168,10 +15404,6 @@
     ],
     [
       "Transworld Business Advisors ",
-      3
-    ],
-    [
-      "Venterra Living",
       3
     ],
     [
@@ -15276,10 +15508,6 @@
     ],
     [
       "ATC Healthcare Services",
-      2
-    ],
-    [
-      "Port of Subs",
       2
     ],
     [
@@ -15439,10 +15667,6 @@
       2
     ],
     [
-      "MG Properties Group",
-      2
-    ],
-    [
       "Advance America",
       2
     ],
@@ -15460,10 +15684,6 @@
     ],
     [
       "Houchens Food Group",
-      2
-    ],
-    [
-      "FSBI - Entrepreneur's Source ",
       2
     ],
     [
@@ -15504,10 +15724,6 @@
     ],
     [
       "Legacy Residential Group",
-      2
-    ],
-    [
-      "The Bainbridge Companies, LLC ",
       2
     ]
   ],
