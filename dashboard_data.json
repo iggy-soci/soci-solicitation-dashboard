@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10 19:11 UTC",
+  "generated_at": "2026-09-10 21:46 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -12627,7 +12627,7 @@
       "name": "",
       "account": "Merrill Gardens",
       "date": "2026-07-08",
-      "user_level": "Manager",
+      "user_level": "Administrator",
       "age_days": 64,
       "sla": "red",
       "area": "AskGenius"
@@ -14955,8 +14955,8 @@
     }
   ],
   "level_counts": {
-    "Administrator": 145,
-    "Manager": 1201,
+    "Administrator": 146,
+    "Manager": 1200,
     "User": 0
   },
   "level_counts_extra": {
