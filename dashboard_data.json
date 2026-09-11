@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11 03:52 UTC",
+  "generated_at": "2026-09-11 08:46 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 173,
-      "interested": 173
+      "responses_12mo": 174,
+      "interested": 174
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 373,
-      "interested": 373
+      "responses_12mo": 374,
+      "interested": 374
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 118,
-      "interested": 118
+      "responses_12mo": 120,
+      "interested": 120
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 266,
-      "interested": 266
+      "responses_12mo": 267,
+      "interested": 267
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -120,11 +120,66 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 160,
-      "interested": 160
+      "responses_12mo": 161,
+      "interested": 161
     }
   },
   "contacts": [
+    {
+      "visitor": "507785",
+      "email": "keubanks@barberitos.com",
+      "name": "",
+      "account": "Barberitos",
+      "date": "2026-09-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1288989",
+      "email": "cheyenne.protz@gmail.com",
+      "name": "",
+      "account": "Teriyaki Madness",
+      "date": "2026-09-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1294256",
+      "email": "kovi@everlinecoatings.com",
+      "name": "",
+      "account": "EverLine",
+      "date": "2026-09-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1286286",
+      "email": "northacademy@uptowncheapskate.com",
+      "name": "",
+      "account": "Uptown Cheapskate",
+      "date": "2026-09-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "683373",
+      "email": "rr4141@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-09-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
     {
       "visitor": "1293982",
       "email": "marketing.bordeaux@ic-bordeaux.com",
@@ -135,6 +190,17 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Reviews"
+    },
+    {
+      "visitor": "150300",
+      "email": "yorktown@adaracommunities.com",
+      "name": "",
+      "account": "Adara Communities ",
+      "date": "2026-09-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "360167",
@@ -14956,18 +15022,18 @@
   ],
   "level_counts": {
     "Administrator": 146,
-    "Manager": 1200,
+    "Manager": 1206,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 2
   },
   "sla_counts": {
-    "green": 63,
+    "green": 69,
     "amber": 305,
     "red": 980
   },
-  "total_interested": 1348,
+  "total_interested": 1354,
   "oldest_age": 359,
   "repeat_accounts": [
     [
@@ -14984,7 +15050,7 @@
     ],
     [
       "AT&T",
-      35
+      36
     ],
     [
       "Avenue5 Residential",
@@ -15047,6 +15113,10 @@
       14
     ],
     [
+      "Adara Communities ",
+      12
+    ],
+    [
       "The Goddard School",
       12
     ],
@@ -15063,10 +15133,6 @@
       11
     ],
     [
-      "Adara Communities ",
-      11
-    ],
-    [
       "Ford",
       11
     ],
@@ -15077,6 +15143,10 @@
     [
       "The Learning Experience",
       11
+    ],
+    [
+      "Teriyaki Madness",
+      10
     ],
     [
       "Stretch Zone Franchising, LLC ",
@@ -15092,10 +15162,6 @@
     ],
     [
       "Weidner",
-      9
-    ],
-    [
-      "Teriyaki Madness",
       9
     ],
     [
@@ -15275,6 +15341,10 @@
       5
     ],
     [
+      "EverLine",
+      4
+    ],
+    [
       "Venterra Living",
       4
     ],
@@ -15353,10 +15423,6 @@
     [
       "Pacifica Residential",
       4
-    ],
-    [
-      "EverLine",
-      3
     ],
     [
       "MG Properties Group",
