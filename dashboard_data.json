@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12 05:29 UTC",
+  "generated_at": "2026-09-12 09:32 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 174,
-      "interested": 174
+      "responses_12mo": 175,
+      "interested": 175
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 374,
-      "interested": 374
+      "responses_12mo": 375,
+      "interested": 375
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 120,
-      "interested": 120
+      "responses_12mo": 121,
+      "interested": 121
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 267,
-      "interested": 267
+      "responses_12mo": 271,
+      "interested": 271
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -125,6 +125,83 @@
     }
   },
   "contacts": [
+    {
+      "visitor": "142833",
+      "email": "98hundred@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-09-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "519826",
+      "email": "pamswiercz+3059950@gmail.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-09-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1145964",
+      "email": "derrik@signarama-bcs.com",
+      "name": "",
+      "account": "Signarama",
+      "date": "2026-09-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "80383",
+      "email": "IndianTrailNC@goddardschools.com",
+      "name": "",
+      "account": "The Goddard School",
+      "date": "2026-09-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "393147",
+      "email": "precisiontunemo@gmail.com",
+      "name": "",
+      "account": "Precision Tune Auto Care",
+      "date": "2026-09-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "284401",
+      "email": "cdrunner22@gmail.com",
+      "name": "",
+      "account": "Stretch Zone Franchising, LLC ",
+      "date": "2026-09-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "281927",
+      "email": "canvasatwillowparkmgr@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-09-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
     {
       "visitor": "507785",
       "email": "keubanks@barberitos.com",
@@ -15022,18 +15099,18 @@
   ],
   "level_counts": {
     "Administrator": 146,
-    "Manager": 1206,
+    "Manager": 1213,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 2
   },
   "sla_counts": {
-    "green": 52,
+    "green": 59,
     "amber": 300,
     "red": 1002
   },
-  "total_interested": 1354,
+  "total_interested": 1361,
   "oldest_age": 360,
   "repeat_accounts": [
     [
@@ -15042,7 +15119,7 @@
     ],
     [
       "Willow Bridge Property Company ",
-      47
+      48
     ],
     [
       "Subway - North America",
@@ -15054,7 +15131,7 @@
     ],
     [
       "Avenue5 Residential",
-      29
+      30
     ],
     [
       "RPM Living",
@@ -15065,12 +15142,12 @@
       27
     ],
     [
-      "Liberty Tax",
+      "Berkshire Hathaway HomeServices",
       24
     ],
     [
-      "Berkshire Hathaway HomeServices",
-      23
+      "Liberty Tax",
+      24
     ],
     [
       "Sky Zone",
@@ -15093,15 +15170,15 @@
       17
     ],
     [
+      "Signarama",
+      16
+    ],
+    [
       "Sylvan Learning",
       16
     ],
     [
       "Texas Roadhouse Holdings LLC",
-      15
-    ],
-    [
-      "Signarama",
       15
     ],
     [
@@ -15113,11 +15190,11 @@
       14
     ],
     [
-      "Adara Communities ",
-      12
+      "The Goddard School",
+      13
     ],
     [
-      "The Goddard School",
+      "Adara Communities ",
       12
     ],
     [
@@ -15127,6 +15204,10 @@
     [
       "Pet Supplies Plus",
       12
+    ],
+    [
+      "Stretch Zone Franchising, LLC ",
+      11
     ],
     [
       "Holiday Inn",
@@ -15146,10 +15227,6 @@
     ],
     [
       "Teriyaki Madness",
-      10
-    ],
-    [
-      "Stretch Zone Franchising, LLC ",
       10
     ],
     [
@@ -15559,6 +15636,10 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "Precision Tune Auto Care",
+      2
     ],
     [
       "Johnstone Supply",
