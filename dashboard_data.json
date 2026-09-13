@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13 06:38 UTC",
+  "generated_at": "2026-09-13 12:37 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -66,8 +66,8 @@
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
       "views_12mo": 0,
-      "responses_12mo": 15,
-      "interested": 15
+      "responses_12mo": 16,
+      "interested": 16
     },
     "Surveys": {
       "guide_id": "RLz8F0jmIzDqIwzo7WOPNNHQr4M",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 271,
-      "interested": 271
+      "responses_12mo": 272,
+      "interested": 272
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,8 +114,8 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 140,
-      "interested": 140
+      "responses_12mo": 142,
+      "interested": 142
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
@@ -125,6 +125,50 @@
     }
   },
   "contacts": [
+    {
+      "visitor": "1254561",
+      "email": "pujan.er@gmail.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-09-13",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "492500",
+      "email": "tw904x@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-09-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Pages"
+    },
+    {
+      "visitor": "1064767",
+      "email": "LLarichiuta@dilldinkers.com",
+      "name": "",
+      "account": "Dill Dinkers",
+      "date": "2026-09-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1285074",
+      "email": "tena@kumon.org",
+      "name": "",
+      "account": "Kumon Europe & Africa",
+      "date": "2026-09-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
     {
       "visitor": "142833",
       "email": "98hundred@avenue5apt.com",
@@ -15099,18 +15143,18 @@
   ],
   "level_counts": {
     "Administrator": 146,
-    "Manager": 1213,
+    "Manager": 1217,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 2
   },
   "sla_counts": {
-    "green": 55,
+    "green": 59,
     "amber": 286,
     "red": 1020
   },
-  "total_interested": 1361,
+  "total_interested": 1365,
   "oldest_age": 361,
   "repeat_accounts": [
     [
@@ -15123,11 +15167,11 @@
     ],
     [
       "Subway - North America",
-      38
+      39
     ],
     [
       "AT&T",
-      36
+      37
     ],
     [
       "Avenue5 Residential",
@@ -15258,6 +15302,10 @@
       9
     ],
     [
+      "Dill Dinkers",
+      8
+    ],
+    [
       "InterContinental",
       8
     ],
@@ -15307,10 +15355,6 @@
     ],
     [
       "Scooter's Coffee, LLC",
-      7
-    ],
-    [
-      "Dill Dinkers",
       7
     ],
     [
@@ -15636,6 +15680,10 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "Kumon Europe & Africa",
+      2
     ],
     [
       "Precision Tune Auto Care",
