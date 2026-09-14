@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14 04:43 UTC",
+  "generated_at": "2026-09-14 10:25 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,8 +54,8 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 83,
-      "interested": 83
+      "responses_12mo": 84,
+      "interested": 84
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
@@ -78,8 +78,8 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 375,
-      "interested": 375
+      "responses_12mo": 376,
+      "interested": 376
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 272,
-      "interested": 272
+      "responses_12mo": 275,
+      "interested": 275
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,8 +114,8 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 142,
-      "interested": 142
+      "responses_12mo": 143,
+      "interested": 143
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
@@ -126,6 +126,61 @@
   },
   "contacts": [
     {
+      "visitor": "1280307",
+      "email": "janesa.nemis@ihg.com",
+      "name": "",
+      "account": "InterContinental",
+      "date": "2026-09-14",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1254140",
+      "email": "dipali626@gmail.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-09-14",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1226650",
+      "email": "gm.formulablue@gmail.com",
+      "name": "",
+      "account": "Holiday Inn Express",
+      "date": "2026-09-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reporting Suite"
+    },
+    {
+      "visitor": "284401",
+      "email": "cdrunner22@gmail.com",
+      "name": "",
+      "account": "Stretch Zone Franchising, LLC ",
+      "date": "2026-09-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "711580",
+      "email": "lenoxsoco@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-09-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
       "visitor": "1254561",
       "email": "pujan.er@gmail.com",
       "name": "",
@@ -135,6 +190,17 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1252164",
+      "email": "keeratinc@gmail.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-09-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
     },
     {
       "visitor": "492500",
@@ -15143,18 +15209,18 @@
   ],
   "level_counts": {
     "Administrator": 146,
-    "Manager": 1217,
+    "Manager": 1223,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 2
   },
   "sla_counts": {
-    "green": 57,
+    "green": 63,
     "amber": 279,
     "red": 1029
   },
-  "total_interested": 1365,
+  "total_interested": 1371,
   "oldest_age": 362,
   "repeat_accounts": [
     [
@@ -15167,7 +15233,7 @@
     ],
     [
       "Subway - North America",
-      39
+      41
     ],
     [
       "AT&T",
@@ -15175,7 +15241,7 @@
     ],
     [
       "Avenue5 Residential",
-      30
+      31
     ],
     [
       "RPM Living",
@@ -15214,6 +15280,10 @@
       17
     ],
     [
+      "Holiday Inn Express",
+      16
+    ],
+    [
       "Signarama",
       16
     ],
@@ -15226,16 +15296,16 @@
       15
     ],
     [
-      "Holiday Inn Express",
-      15
-    ],
-    [
       "Nothing Bundt Cakes",
       14
     ],
     [
       "The Goddard School",
       13
+    ],
+    [
+      "Stretch Zone Franchising, LLC ",
+      12
     ],
     [
       "Adara Communities ",
@@ -15248,10 +15318,6 @@
     [
       "Pet Supplies Plus",
       12
-    ],
-    [
-      "Stretch Zone Franchising, LLC ",
-      11
     ],
     [
       "Holiday Inn",
@@ -15282,6 +15348,10 @@
       10
     ],
     [
+      "InterContinental",
+      9
+    ],
+    [
       "Weidner",
       9
     ],
@@ -15303,10 +15373,6 @@
     ],
     [
       "Dill Dinkers",
-      8
-    ],
-    [
-      "InterContinental",
       8
     ],
     [
