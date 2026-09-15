@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15 01:46 UTC",
+  "generated_at": "2026-09-15 07:27 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 175,
-      "interested": 175
+      "responses_12mo": 176,
+      "interested": 176
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -72,20 +72,20 @@
     "Surveys": {
       "guide_id": "RLz8F0jmIzDqIwzo7WOPNNHQr4M",
       "views_12mo": 0,
-      "responses_12mo": 3,
-      "interested": 3
+      "responses_12mo": 4,
+      "interested": 4
     },
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 376,
-      "interested": 376
+      "responses_12mo": 380,
+      "interested": 380
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 121,
-      "interested": 121
+      "responses_12mo": 122,
+      "interested": 122
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 275,
-      "interested": 275
+      "responses_12mo": 279,
+      "interested": 279
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,8 +114,8 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 143,
-      "interested": 143
+      "responses_12mo": 144,
+      "interested": 144
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
@@ -125,6 +125,127 @@
     }
   },
   "contacts": [
+    {
+      "visitor": "41701",
+      "email": "Audrey.bachelder@sheaapartments.com",
+      "name": "",
+      "account": "Shea Properties ",
+      "date": "2026-09-14",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1295678",
+      "email": "amcgrail@eatgarbanzo.com",
+      "name": "",
+      "account": "Frutta Bowls",
+      "date": "2026-09-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Surveys"
+    },
+    {
+      "visitor": "969197",
+      "email": "knoxville@metrodiner.com",
+      "name": "",
+      "account": "Metro Diner Management",
+      "date": "2026-09-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1287201",
+      "email": "sk2492@smoothieking.com",
+      "name": "",
+      "account": "Smoothie King",
+      "date": "2026-09-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "37835",
+      "email": "krystlev22@yahoo.com",
+      "name": "",
+      "account": "Neighborly",
+      "date": "2026-09-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "886444",
+      "email": "broadstonesora@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-09-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1068961",
+      "email": "mfernandez@tworld.com",
+      "name": "",
+      "account": "Transworld Business Advisors ",
+      "date": "2026-09-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "749068",
+      "email": "bela@raamco.com",
+      "name": "",
+      "account": "Sheng Raamco Management Inc",
+      "date": "2026-09-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "886317",
+      "email": "info@vocomoab.com",
+      "name": "",
+      "account": "voco",
+      "date": "2026-09-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "712823",
+      "email": "maplevalley@tlechildcare.com",
+      "name": "",
+      "account": "The Learning Experience",
+      "date": "2026-09-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1253993",
+      "email": "crunyon@enmarket.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-09-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
     {
       "visitor": "1280307",
       "email": "janesa.nemis@ihg.com",
@@ -146,6 +267,17 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Reviews"
+    },
+    {
+      "visitor": "795240",
+      "email": "MarthaRodriguez@veg.com",
+      "name": "",
+      "account": "VEG ER for Pets",
+      "date": "2026-09-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
     },
     {
       "visitor": "1226650",
@@ -15208,19 +15340,19 @@
     }
   ],
   "level_counts": {
-    "Administrator": 146,
-    "Manager": 1223,
+    "Administrator": 147,
+    "Manager": 1234,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 2
   },
   "sla_counts": {
-    "green": 61,
+    "green": 73,
     "amber": 275,
     "red": 1035
   },
-  "total_interested": 1371,
+  "total_interested": 1383,
   "oldest_age": 363,
   "repeat_accounts": [
     [
@@ -15233,7 +15365,7 @@
     ],
     [
       "Subway - North America",
-      41
+      42
     ],
     [
       "AT&T",
@@ -15245,7 +15377,7 @@
     ],
     [
       "RPM Living",
-      28
+      29
     ],
     [
       "Cruise Planners | CP Elite",
@@ -15273,7 +15405,7 @@
     ],
     [
       "Neighborly",
-      17
+      18
     ],
     [
       "Woof Gang Bakery & Grooming",
@@ -15304,6 +15436,10 @@
       13
     ],
     [
+      "The Learning Experience",
+      12
+    ],
+    [
       "Stretch Zone Franchising, LLC ",
       12
     ],
@@ -15320,6 +15456,10 @@
       12
     ],
     [
+      "VEG ER for Pets",
+      11
+    ],
+    [
       "Holiday Inn",
       11
     ],
@@ -15332,20 +15472,16 @@
       11
     ],
     [
-      "The Learning Experience",
-      11
-    ],
-    [
       "Teriyaki Madness",
-      10
-    ],
-    [
-      "VEG ER for Pets",
       10
     ],
     [
       "Discovery Marketing Group, LLC dba STAT Marketing",
       10
+    ],
+    [
+      "voco",
+      9
     ],
     [
       "InterContinental",
@@ -15372,11 +15508,11 @@
       9
     ],
     [
-      "Dill Dinkers",
+      "Sheng Raamco Management Inc",
       8
     ],
     [
-      "voco",
+      "Dill Dinkers",
       8
     ],
     [
@@ -15409,10 +15545,6 @@
     ],
     [
       "Lightbridge Academy",
-      7
-    ],
-    [
-      "Sheng Raamco Management Inc",
       7
     ],
     [
@@ -15528,6 +15660,10 @@
       5
     ],
     [
+      "Transworld Business Advisors ",
+      4
+    ],
+    [
       "EverLine",
       4
     ],
@@ -15612,6 +15748,10 @@
       4
     ],
     [
+      "Metro Diner Management",
+      3
+    ],
+    [
       "MG Properties Group",
       3
     ],
@@ -15653,10 +15793,6 @@
     ],
     [
       "Asset Living",
-      3
-    ],
-    [
-      "Transworld Business Advisors ",
       3
     ],
     [
@@ -15901,10 +16037,6 @@
     ],
     [
       "Celebree School",
-      2
-    ],
-    [
-      "Metro Diner Management",
       2
     ],
     [
