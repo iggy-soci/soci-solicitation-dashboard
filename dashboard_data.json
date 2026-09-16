@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16 04:07 UTC",
+  "generated_at": "2026-09-16 09:26 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 176,
-      "interested": 176
+      "responses_12mo": 177,
+      "interested": 177
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 380,
-      "interested": 380
+      "responses_12mo": 384,
+      "interested": 384
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 122,
-      "interested": 122
+      "responses_12mo": 125,
+      "interested": 125
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 279,
-      "interested": 279
+      "responses_12mo": 282,
+      "interested": 282
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -120,11 +120,154 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 161,
-      "interested": 161
+      "responses_12mo": 163,
+      "interested": 163
     }
   },
   "contacts": [
+    {
+      "visitor": "1051393",
+      "email": "Cheryl.McDowell@skyzone.com",
+      "name": "",
+      "account": "Sky Zone",
+      "date": "2026-09-16",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "722202",
+      "email": "citywest@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-09-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "229959",
+      "email": "bcwilde@lkqcorp.com",
+      "name": "",
+      "account": "LKQ Corporation",
+      "date": "2026-09-15",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "749058",
+      "email": "augustameadowsmgr@raamco.com",
+      "name": "",
+      "account": "Sheng Raamco Management Inc",
+      "date": "2026-09-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "549752",
+      "email": "Michael.Pennyman@ComparionInsurance.com",
+      "name": "",
+      "account": "Comparion",
+      "date": "2026-09-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1058021",
+      "email": "melissa.tagala@mtncreek.com",
+      "name": "",
+      "account": "MountainCreek Properties",
+      "date": "2026-09-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1287731",
+      "email": "Taylor.Glowacki@kingstonSLsylvania.com",
+      "name": "",
+      "account": "Trilogy Health Services",
+      "date": "2026-09-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1293171",
+      "email": "katie.douglas@primroseretirement.com",
+      "name": "",
+      "account": "Primrose Retirement Communities",
+      "date": "2026-09-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "983280",
+      "email": "oldorchard@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-09-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1286461",
+      "email": "nirobinson21+nicky.robinson@gmail.com",
+      "name": "",
+      "account": "Liberty Tax",
+      "date": "2026-09-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "838255",
+      "email": "shravan.kumar@burnbootcamp.com",
+      "name": "",
+      "account": "Burn Boot Camp",
+      "date": "2026-09-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "819730",
+      "email": "sanbruno@pinotspalette.com",
+      "name": "",
+      "account": "Pinots",
+      "date": "2026-09-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "960768",
+      "email": "megiggle21@gmail.com",
+      "name": "",
+      "account": "Nothing Bundt Cakes",
+      "date": "2026-09-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
     {
       "visitor": "41701",
       "email": "Audrey.bachelder@sheaapartments.com",
@@ -15340,19 +15483,19 @@
     }
   ],
   "level_counts": {
-    "Administrator": 147,
-    "Manager": 1234,
+    "Administrator": 148,
+    "Manager": 1246,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 2
   },
   "sla_counts": {
-    "green": 57,
+    "green": 70,
     "amber": 285,
     "red": 1041
   },
-  "total_interested": 1383,
+  "total_interested": 1396,
   "oldest_age": 364,
   "repeat_accounts": [
     [
@@ -15361,7 +15504,7 @@
     ],
     [
       "Willow Bridge Property Company ",
-      48
+      49
     ],
     [
       "Subway - North America",
@@ -15377,23 +15520,23 @@
     ],
     [
       "RPM Living",
-      29
+      30
     ],
     [
       "Cruise Planners | CP Elite",
       27
     ],
     [
+      "Liberty Tax",
+      25
+    ],
+    [
       "Berkshire Hathaway HomeServices",
       24
     ],
     [
-      "Liberty Tax",
-      24
-    ],
-    [
       "Sky Zone",
-      21
+      22
     ],
     [
       "Anytime Fitness NA ",
@@ -15424,12 +15567,12 @@
       16
     ],
     [
-      "Texas Roadhouse Holdings LLC",
+      "Nothing Bundt Cakes",
       15
     ],
     [
-      "Nothing Bundt Cakes",
-      14
+      "Texas Roadhouse Holdings LLC",
+      15
     ],
     [
       "The Goddard School",
@@ -15480,6 +15623,10 @@
       10
     ],
     [
+      "Sheng Raamco Management Inc",
+      9
+    ],
+    [
       "voco",
       9
     ],
@@ -15506,10 +15653,6 @@
     [
       "Orangetheory Fitness",
       9
-    ],
-    [
-      "Sheng Raamco Management Inc",
-      8
     ],
     [
       "Dill Dinkers",
@@ -15572,6 +15715,14 @@
       7
     ],
     [
+      "Comparion",
+      6
+    ],
+    [
+      "Pinots",
+      6
+    ],
+    [
       "Sport Clips",
       6
     ],
@@ -15620,19 +15771,15 @@
       6
     ],
     [
+      "Burn Boot Camp",
+      5
+    ],
+    [
       "Otter Learning",
       5
     ],
     [
-      "Pinots",
-      5
-    ],
-    [
       "Rent-A-Center",
-      5
-    ],
-    [
-      "Comparion",
       5
     ],
     [
@@ -15677,10 +15824,6 @@
     ],
     [
       "Freeman Webb",
-      4
-    ],
-    [
-      "Burn Boot Camp",
       4
     ],
     [
@@ -15746,6 +15889,10 @@
     [
       "Pacifica Residential",
       4
+    ],
+    [
+      "Trilogy Health Services",
+      3
     ],
     [
       "Metro Diner Management",
@@ -15882,6 +16029,18 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "LKQ Corporation",
+      2
+    ],
+    [
+      "MountainCreek Properties",
+      2
+    ],
+    [
+      "Primrose Retirement Communities",
+      2
     ],
     [
       "Kumon Europe & Africa",
@@ -16061,10 +16220,6 @@
     ],
     [
       "Advance America",
-      2
-    ],
-    [
-      "Trilogy Health Services",
       2
     ],
     [
