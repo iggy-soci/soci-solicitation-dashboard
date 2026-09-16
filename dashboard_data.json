@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16 14:18 UTC",
+  "generated_at": "2026-09-16 18:20 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -4575,7 +4575,7 @@
       "name": "",
       "account": "ICO Companies",
       "date": "2026-08-12",
-      "user_level": "Manager",
+      "user_level": "Administrator",
       "age_days": 35,
       "sla": "red",
       "area": "Genius Social"
@@ -15483,8 +15483,8 @@
     }
   ],
   "level_counts": {
-    "Administrator": 148,
-    "Manager": 1246,
+    "Administrator": 149,
+    "Manager": 1245,
     "User": 0
   },
   "level_counts_extra": {
