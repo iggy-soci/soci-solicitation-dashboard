@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17 19:11 UTC",
+  "generated_at": "2026-09-17 22:22 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -4861,7 +4861,7 @@
       "name": "",
       "account": "RPM Living",
       "date": "2026-08-11",
-      "user_level": "Manager",
+      "user_level": "Unknown",
       "age_days": 37,
       "sla": "red",
       "area": "Social"
@@ -15627,11 +15627,11 @@
   ],
   "level_counts": {
     "Administrator": 149,
-    "Manager": 1258,
+    "Manager": 1257,
     "User": 0
   },
   "level_counts_extra": {
-    "Unknown": 2
+    "Unknown": 3
   },
   "sla_counts": {
     "green": 62,
