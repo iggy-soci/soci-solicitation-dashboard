@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17 00:13 UTC",
+  "generated_at": "2026-09-17 05:09 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -84,14 +84,14 @@
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 125,
-      "interested": 125
+      "responses_12mo": 0,
+      "interested": 0
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
       "views_12mo": 0,
-      "responses_12mo": 5,
-      "interested": 5
+      "responses_12mo": 0,
+      "interested": 0
     },
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
@@ -125,17 +125,6 @@
     }
   },
   "contacts": [
-    {
-      "visitor": "1051393",
-      "email": "Cheryl.McDowell@skyzone.com",
-      "name": "",
-      "account": "Sky Zone",
-      "date": "2026-09-16",
-      "user_level": "Manager",
-      "age_days": 1,
-      "sla": "green",
-      "area": "Genius Social"
-    },
     {
       "visitor": "722202",
       "email": "citywest@willowbridgepc.com",
@@ -190,28 +179,6 @@
       "age_days": 2,
       "sla": "green",
       "area": "Social"
-    },
-    {
-      "visitor": "1287731",
-      "email": "Taylor.Glowacki@kingstonSLsylvania.com",
-      "name": "",
-      "account": "Trilogy Health Services",
-      "date": "2026-09-15",
-      "user_level": "Manager",
-      "age_days": 2,
-      "sla": "green",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1293171",
-      "email": "katie.douglas@primroseretirement.com",
-      "name": "",
-      "account": "Primrose Retirement Communities",
-      "date": "2026-09-15",
-      "user_level": "Manager",
-      "age_days": 2,
-      "sla": "green",
-      "area": "Genius Social"
     },
     {
       "visitor": "983280",
@@ -333,17 +300,6 @@
       "age_days": 3,
       "sla": "green",
       "area": "Social"
-    },
-    {
-      "visitor": "1068961",
-      "email": "mfernandez@tworld.com",
-      "name": "",
-      "account": "Transworld Business Advisors ",
-      "date": "2026-09-14",
-      "user_level": "Manager",
-      "age_days": 3,
-      "sla": "green",
-      "area": "Genius Social"
     },
     {
       "visitor": "749068",
@@ -533,17 +489,6 @@
       "area": "Social"
     },
     {
-      "visitor": "1145964",
-      "email": "derrik@signarama-bcs.com",
-      "name": "",
-      "account": "Signarama",
-      "date": "2026-09-11",
-      "user_level": "Manager",
-      "age_days": 6,
-      "sla": "green",
-      "area": "Genius Social"
-    },
-    {
       "visitor": "80383",
       "email": "IndianTrailNC@goddardschools.com",
       "name": "",
@@ -608,28 +553,6 @@
       "age_days": 7,
       "sla": "green",
       "area": "Social"
-    },
-    {
-      "visitor": "1294256",
-      "email": "kovi@everlinecoatings.com",
-      "name": "",
-      "account": "EverLine",
-      "date": "2026-09-10",
-      "user_level": "Manager",
-      "age_days": 7,
-      "sla": "green",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1286286",
-      "email": "northacademy@uptowncheapskate.com",
-      "name": "",
-      "account": "Uptown Cheapskate",
-      "date": "2026-09-10",
-      "user_level": "Manager",
-      "age_days": 7,
-      "sla": "green",
-      "area": "Genius Social"
     },
     {
       "visitor": "683373",
@@ -740,17 +663,6 @@
       "age_days": 8,
       "sla": "amber",
       "area": "Social"
-    },
-    {
-      "visitor": "1294311",
-      "email": "drew@everlinecoatings.com",
-      "name": "",
-      "account": "EverLine",
-      "date": "2026-09-09",
-      "user_level": "Manager",
-      "age_days": 8,
-      "sla": "amber",
-      "area": "Genius Social"
     },
     {
       "visitor": "819716",
@@ -998,7 +910,7 @@
       "visitor": "686238",
       "email": "ethanralphs@gmail.com",
       "name": "",
-      "account": "Sport Clips",
+      "account": "1147",
       "date": "2026-09-08",
       "user_level": "Manager",
       "age_days": 9,
@@ -1094,17 +1006,6 @@
       "area": "Reviews (Reputation)"
     },
     {
-      "visitor": "1291123",
-      "email": "chelmsford.ma@sylvanlearning.com",
-      "name": "",
-      "account": "Sylvan Learning",
-      "date": "2026-09-06",
-      "user_level": "Manager",
-      "age_days": 11,
-      "sla": "amber",
-      "area": "Genius Social"
-    },
-    {
       "visitor": "1223603",
       "email": "anil.madithati@urbanairgilroy.com",
       "name": "",
@@ -1136,17 +1037,6 @@
       "age_days": 12,
       "sla": "amber",
       "area": "Social"
-    },
-    {
-      "visitor": "653171",
-      "email": "clara.cortez@cruiseplanners.com",
-      "name": "",
-      "account": "Cruise Planners | CP Elite",
-      "date": "2026-09-05",
-      "user_level": "Manager",
-      "age_days": 12,
-      "sla": "amber",
-      "area": "Genius Social"
     },
     {
       "visitor": "818918",
@@ -1235,28 +1125,6 @@
       "age_days": 13,
       "sla": "amber",
       "area": "Social"
-    },
-    {
-      "visitor": "1278970",
-      "email": "scott.dellcpa+scott.dell@gmail.com",
-      "name": "",
-      "account": "Liberty Tax",
-      "date": "2026-09-04",
-      "user_level": "Manager",
-      "age_days": 13,
-      "sla": "amber",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1224289",
-      "email": "koo@jeilearning.com",
-      "name": "",
-      "account": "JEI Learning Center",
-      "date": "2026-09-04",
-      "user_level": "Administrator",
-      "age_days": 13,
-      "sla": "amber",
-      "area": "Genius Social"
     },
     {
       "visitor": "1193570",
@@ -1424,28 +1292,6 @@
       "area": "Social"
     },
     {
-      "visitor": "1210066",
-      "email": "Kate.q@otterlearning.com",
-      "name": "",
-      "account": "Otter Learning",
-      "date": "2026-09-03",
-      "user_level": "Administrator",
-      "age_days": 14,
-      "sla": "amber",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1180037",
-      "email": "nadiaputul888+sahida.fatema01@gmail.com",
-      "name": "",
-      "account": "Liberty Tax",
-      "date": "2026-09-03",
-      "user_level": "Manager",
-      "age_days": 14,
-      "sla": "amber",
-      "area": "Genius Social"
-    },
-    {
       "visitor": "961839",
       "email": "sbauer@rndhouse.com",
       "name": "",
@@ -1576,39 +1422,6 @@
       "age_days": 15,
       "sla": "amber",
       "area": "Social"
-    },
-    {
-      "visitor": "1271607",
-      "email": "mbrammer@sunholdings.net",
-      "name": "",
-      "account": "Azul Restaurants, LLC (Freebirds)",
-      "date": "2026-09-02",
-      "user_level": "Administrator",
-      "age_days": 15,
-      "sla": "amber",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1229181",
-      "email": "avillarailhead.manager@livebryten.com",
-      "name": "",
-      "account": "Bryten Management",
-      "date": "2026-09-02",
-      "user_level": "Manager",
-      "age_days": 15,
-      "sla": "amber",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "949364",
-      "email": "henry.kim@amazinglashstudio.com",
-      "name": "",
-      "account": "Amazing Lash",
-      "date": "2026-09-02",
-      "user_level": "Manager",
-      "age_days": 15,
-      "sla": "amber",
-      "area": "Genius Social"
     },
     {
       "visitor": "690098",
@@ -1774,17 +1587,6 @@
       "age_days": 16,
       "sla": "amber",
       "area": "Social"
-    },
-    {
-      "visitor": "1070390",
-      "email": "richard.pedraza@americanfreight.us",
-      "name": "",
-      "account": "American Freight NewCo",
-      "date": "2026-09-01",
-      "user_level": "Manager",
-      "age_days": 16,
-      "sla": "amber",
-      "area": "Genius Social"
     },
     {
       "visitor": "1283409",
@@ -1996,17 +1798,6 @@
       "area": "Social"
     },
     {
-      "visitor": "1202024",
-      "email": "will@usacampingcompany.com",
-      "name": "",
-      "account": "USA Camping",
-      "date": "2026-08-31",
-      "user_level": "Administrator",
-      "age_days": 17,
-      "sla": "amber",
-      "area": "Genius Social"
-    },
-    {
       "visitor": "140776",
       "email": "dbennett@centerspacehomes.com",
       "name": "",
@@ -2150,28 +1941,6 @@
       "area": "AskGenius"
     },
     {
-      "visitor": "277293",
-      "email": "katysouth+noe.martinez@libertytax.com",
-      "name": "",
-      "account": "Liberty Tax",
-      "date": "2026-08-29",
-      "user_level": "Manager",
-      "age_days": 19,
-      "sla": "amber",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "461344",
-      "email": "rayona@decoratingden.com",
-      "name": "",
-      "account": "Decorating Den Interiors",
-      "date": "2026-08-29",
-      "user_level": "Manager",
-      "age_days": 19,
-      "sla": "amber",
-      "area": "Genius Social"
-    },
-    {
       "visitor": "1205148",
       "email": "amanda.west@rocksolidrestaurants.com",
       "name": "",
@@ -2247,28 +2016,6 @@
       "age_days": 20,
       "sla": "amber",
       "area": "Social"
-    },
-    {
-      "visitor": "1006013",
-      "email": "chris.holda@cruiseplanners.com",
-      "name": "",
-      "account": "Cruise Planners | CP Pro",
-      "date": "2026-08-28",
-      "user_level": "Manager",
-      "age_days": 20,
-      "sla": "amber",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1246707",
-      "email": "dev.kharva@signarama.com",
-      "name": "",
-      "account": "Signarama",
-      "date": "2026-08-28",
-      "user_level": "Manager",
-      "age_days": 20,
-      "sla": "amber",
-      "area": "Genius Social"
     },
     {
       "visitor": "277293",
@@ -2414,28 +2161,6 @@
       "area": "Social"
     },
     {
-      "visitor": "71839",
-      "email": "jstarks@Tworld.com",
-      "name": "",
-      "account": "Transworld Business Advisors ",
-      "date": "2026-08-27",
-      "user_level": "Manager",
-      "age_days": 21,
-      "sla": "amber",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "69968",
-      "email": "emarr@cruiseplanners.com",
-      "name": "",
-      "account": "Cruise Planners | CP Elite",
-      "date": "2026-08-27",
-      "user_level": "Manager",
-      "age_days": 21,
-      "sla": "amber",
-      "area": "Genius Social"
-    },
-    {
       "visitor": "698649",
       "email": "Mgr10@purpledubs.com",
       "name": "",
@@ -2450,7 +2175,7 @@
       "visitor": "1284791",
       "email": "Kyle.linsner@tsunamiexpress.com",
       "name": "",
-      "account": "Tsunami Express",
+      "account": "57095",
       "date": "2026-08-27",
       "user_level": "Administrator",
       "age_days": 21,
@@ -2931,17 +2656,6 @@
       "area": "Social"
     },
     {
-      "visitor": "1061934",
-      "email": "charity.gavaza@cruiseplanners.com",
-      "name": "",
-      "account": "Cruise Planners | CP Pro",
-      "date": "2026-08-24",
-      "user_level": "Manager",
-      "age_days": 24,
-      "sla": "amber",
-      "area": "Genius Social"
-    },
-    {
       "visitor": "462942",
       "email": "ebattise+esther.battise01@hotmail.com",
       "name": "",
@@ -3028,17 +2742,6 @@
       "age_days": 24,
       "sla": "amber",
       "area": "AskGenius"
-    },
-    {
-      "visitor": "648944",
-      "email": "westerville.catering@chickensaladchick.com",
-      "name": "",
-      "account": "Chicken Salad Chick",
-      "date": "2026-08-23",
-      "user_level": "Manager",
-      "age_days": 25,
-      "sla": "amber",
-      "area": "Genius Social"
     },
     {
       "visitor": "1286809",
@@ -3149,17 +2852,6 @@
       "age_days": 27,
       "sla": "amber",
       "area": "Social"
-    },
-    {
-      "visitor": "1080831",
-      "email": "scoman@lynd.com",
-      "name": "",
-      "account": "Lynd",
-      "date": "2026-08-21",
-      "user_level": "Manager",
-      "age_days": 27,
-      "sla": "amber",
-      "area": "Genius Social"
     },
     {
       "visitor": "38352",
@@ -3492,28 +3184,6 @@
       "area": "Social"
     },
     {
-      "visitor": "943474",
-      "email": "mebeaudreault@elementsmassage.com",
-      "name": "",
-      "account": "Elements Massage",
-      "date": "2026-08-19",
-      "user_level": "Manager",
-      "age_days": 29,
-      "sla": "amber",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1277299",
-      "email": "linda.amerman@cruiseplanners.com",
-      "name": "",
-      "account": "Cruise Planners | CP Pro",
-      "date": "2026-08-19",
-      "user_level": "Manager",
-      "age_days": 29,
-      "sla": "amber",
-      "area": "Genius Social"
-    },
-    {
       "visitor": "1207795",
       "email": "ssheehan@raintreepartners.com",
       "name": "",
@@ -3699,17 +3369,6 @@
       "age_days": 30,
       "sla": "amber",
       "area": "Social"
-    },
-    {
-      "visitor": "1214266",
-      "email": "namita.patel@signarama.com",
-      "name": "",
-      "account": "Signarama",
-      "date": "2026-08-18",
-      "user_level": "Manager",
-      "age_days": 30,
-      "sla": "amber",
-      "area": "Genius Social"
     },
     {
       "visitor": "1069965",
@@ -3908,17 +3567,6 @@
       "age_days": 31,
       "sla": "red",
       "area": "Social"
-    },
-    {
-      "visitor": "1255670",
-      "email": "locke@matteramalgamated.com",
-      "name": "",
-      "account": "KidsUnited USA",
-      "date": "2026-08-17",
-      "user_level": "Manager",
-      "age_days": 31,
-      "sla": "red",
-      "area": "Genius Social"
     },
     {
       "visitor": "80221",
@@ -4185,28 +3833,6 @@
       "area": "Reviews (Reputation)"
     },
     {
-      "visitor": "1033649",
-      "email": "melody.gardiner@cruiseplanners.com",
-      "name": "",
-      "account": "Cruise Planners | CP Pro",
-      "date": "2026-08-14",
-      "user_level": "Manager",
-      "age_days": 34,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "782533",
-      "email": "sarah.waterman@cruiseplanners.com",
-      "name": "",
-      "account": "Cruise Planners | CP Elite",
-      "date": "2026-08-14",
-      "user_level": "Manager",
-      "age_days": 34,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
       "visitor": "137954",
       "email": "jake@chronictacos.com",
       "name": "",
@@ -4337,28 +3963,6 @@
       "age_days": 35,
       "sla": "red",
       "area": "Social"
-    },
-    {
-      "visitor": "1173868",
-      "email": "paradise@groceryoutlet.com",
-      "name": "",
-      "account": "Grocery Outlet",
-      "date": "2026-08-13",
-      "user_level": "Manager",
-      "age_days": 35,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "890039",
-      "email": "david.basan@skyzone.com",
-      "name": "",
-      "account": "Sky Zone",
-      "date": "2026-08-13",
-      "user_level": "Manager",
-      "age_days": 35,
-      "sla": "red",
-      "area": "Genius Social"
     },
     {
       "visitor": "1109588",
@@ -4568,39 +4172,6 @@
       "age_days": 36,
       "sla": "red",
       "area": "Social"
-    },
-    {
-      "visitor": "595920",
-      "email": "holbrookmanager@icocommunities.com",
-      "name": "",
-      "account": "ICO Companies",
-      "date": "2026-08-12",
-      "user_level": "Administrator",
-      "age_days": 36,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1067397",
-      "email": "manager@villagelaurelmeadows.com",
-      "name": "",
-      "account": "Bryten Management",
-      "date": "2026-08-12",
-      "user_level": "Manager",
-      "age_days": 36,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "431827",
-      "email": "david.blary@cruiseplanners.com",
-      "name": "",
-      "account": "Cruise Planners | CP Pro",
-      "date": "2026-08-12",
-      "user_level": "Manager",
-      "age_days": 36,
-      "sla": "red",
-      "area": "Genius Social"
     },
     {
       "visitor": "92433",
@@ -4944,39 +4515,6 @@
       "area": "Social"
     },
     {
-      "visitor": "1161400",
-      "email": "tracie.campbell@shoot360austin.com",
-      "name": "",
-      "account": "Shoot 360",
-      "date": "2026-08-10",
-      "user_level": "Manager",
-      "age_days": 38,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "69989",
-      "email": "dana.henry@cruiseplanners.com",
-      "name": "",
-      "account": "Cruise Planners | CP Elite",
-      "date": "2026-08-10",
-      "user_level": "Manager",
-      "age_days": 38,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1270196",
-      "email": "jbacak@venterraliving.com",
-      "name": "",
-      "account": "Venterra Living",
-      "date": "2026-08-10",
-      "user_level": "Administrator",
-      "age_days": 38,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
       "visitor": "1178048",
       "email": "kristen@shoot360huntsville.com",
       "name": "",
@@ -5120,17 +4658,6 @@
       "area": "Social"
     },
     {
-      "visitor": "1173780",
-      "email": "napa@groceryoutlet.com",
-      "name": "",
-      "account": "Grocery Outlet",
-      "date": "2026-08-09",
-      "user_level": "Manager",
-      "age_days": 39,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
       "visitor": "949290",
       "email": "maghrabio@hlcmail.com",
       "name": "",
@@ -5162,28 +4689,6 @@
       "age_days": 40,
       "sla": "red",
       "area": "Social"
-    },
-    {
-      "visitor": "721900",
-      "email": "parag.kulkarni@cruiseplanners.com",
-      "name": "",
-      "account": "Cruise Planners | CP Pro",
-      "date": "2026-08-08",
-      "user_level": "Manager",
-      "age_days": 40,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1173770",
-      "email": "bishop@groceryoutlet.com",
-      "name": "",
-      "account": "Grocery Outlet",
-      "date": "2026-08-08",
-      "user_level": "Manager",
-      "age_days": 40,
-      "sla": "red",
-      "area": "Genius Social"
     },
     {
       "visitor": "1195093",
@@ -5261,17 +4766,6 @@
       "age_days": 41,
       "sla": "red",
       "area": "Social"
-    },
-    {
-      "visitor": "1212608",
-      "email": "miriam.olmos@adaracommunities.com",
-      "name": "",
-      "account": "Adara Communities ",
-      "date": "2026-08-07",
-      "user_level": "Administrator",
-      "age_days": 41,
-      "sla": "red",
-      "area": "Genius Social"
     },
     {
       "visitor": "1250664",
@@ -5527,28 +5021,6 @@
       "area": "Social"
     },
     {
-      "visitor": "1174190",
-      "email": "mallory.rueca@skyzone.com",
-      "name": "",
-      "account": "Sky Zone",
-      "date": "2026-08-06",
-      "user_level": "Administrator",
-      "age_days": 42,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1283202",
-      "email": "stephanie.ortiz@livebryten.com",
-      "name": "",
-      "account": "Bryten Management",
-      "date": "2026-08-06",
-      "user_level": "Administrator",
-      "age_days": 42,
-      "sla": "red",
-      "area": "Genius Search"
-    },
-    {
       "visitor": "1221868_mobile",
       "email": "bob.levan4595@aol.com",
       "name": "",
@@ -5714,28 +5186,6 @@
       "area": "Social"
     },
     {
-      "visitor": "3650",
-      "email": "ctolen@caseusa.com",
-      "name": "",
-      "account": "Case and Associates Properties, Inc.",
-      "date": "2026-08-05",
-      "user_level": "Administrator",
-      "age_days": 43,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1035344",
-      "email": "leasingmanager.ue@fortispm.com",
-      "name": "",
-      "account": "Fortis Property Management",
-      "date": "2026-08-05",
-      "user_level": "Manager",
-      "age_days": 43,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
       "visitor": "43156",
       "email": "Icon@gre-m.com",
       "name": "",
@@ -5783,7 +5233,7 @@
       "visitor": "1276668",
       "email": "karissa.mercier@flint-group.com",
       "name": "",
-      "account": "Landmark",
+      "account": "56676",
       "date": "2026-08-05",
       "user_level": "Administrator",
       "age_days": 43,
@@ -5921,39 +5371,6 @@
       "age_days": 44,
       "sla": "red",
       "area": "Social"
-    },
-    {
-      "visitor": "92433",
-      "email": "liz@teriyakimadness.com",
-      "name": "",
-      "account": "Teriyaki Madness",
-      "date": "2026-08-04",
-      "user_level": "Administrator",
-      "age_days": 44,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1277953",
-      "email": "nyaina@tworld.com",
-      "name": "",
-      "account": "Transworld Business Advisors ",
-      "date": "2026-08-04",
-      "user_level": "Manager",
-      "age_days": 44,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "475453",
-      "email": "ray.demarco@cruiseplanners.com",
-      "name": "",
-      "account": "Cruise Planners | CP Pro",
-      "date": "2026-08-04",
-      "user_level": "Manager",
-      "age_days": 44,
-      "sla": "red",
-      "area": "Genius Social"
     },
     {
       "visitor": "1118551",
@@ -6154,17 +5571,6 @@
       "area": "Social"
     },
     {
-      "visitor": "1131625",
-      "email": "Kemi.MacGregorDickson@skyzone.com",
-      "name": "",
-      "account": "Sky Zone",
-      "date": "2026-08-03",
-      "user_level": "Manager",
-      "age_days": 45,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
       "visitor": "280326",
       "email": "alegre@avenue5apt.com",
       "name": "",
@@ -6223,7 +5629,7 @@
       "visitor": "418200",
       "email": "JNavarre@monarchinvestment.com",
       "name": "",
-      "account": "Monarch Investment and Management Group",
+      "account": "5636",
       "date": "2026-08-03",
       "user_level": "Manager",
       "age_days": 45,
@@ -6339,28 +5745,6 @@
       "age_days": 46,
       "sla": "red",
       "area": "Social"
-    },
-    {
-      "visitor": "592155",
-      "email": "Katy.TX@sylvanlearning.com",
-      "name": "",
-      "account": "Sylvan Learning",
-      "date": "2026-08-02",
-      "user_level": "Manager",
-      "age_days": 46,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1161805",
-      "email": "manojdhruve@elementsmassage.com",
-      "name": "",
-      "account": "Elements Massage",
-      "date": "2026-08-02",
-      "user_level": "Manager",
-      "age_days": 46,
-      "sla": "red",
-      "area": "Genius Social"
     },
     {
       "visitor": "744021",
@@ -6537,28 +5921,6 @@
       "age_days": 48,
       "sla": "red",
       "area": "Social"
-    },
-    {
-      "visitor": "865017",
-      "email": "kgreen@atchealthcare.com",
-      "name": "",
-      "account": "ATC Healthcare Services",
-      "date": "2026-07-31",
-      "user_level": "Manager",
-      "age_days": 48,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "813956",
-      "email": "jessica.akebrand@skyzone.com",
-      "name": "",
-      "account": "Sky Zone",
-      "date": "2026-07-31",
-      "user_level": "Administrator",
-      "age_days": 48,
-      "sla": "red",
-      "area": "Genius Social"
     },
     {
       "visitor": "1146425",
@@ -6757,39 +6119,6 @@
       "age_days": 49,
       "sla": "red",
       "area": "Social"
-    },
-    {
-      "visitor": "1228187",
-      "email": "west.manison@gb85.com",
-      "name": "",
-      "account": "Griffis Blessing",
-      "date": "2026-07-30",
-      "user_level": "Manager",
-      "age_days": 49,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "943724",
-      "email": "ftbelmont@fitnesstogether.com",
-      "name": "",
-      "account": "Fitness Together",
-      "date": "2026-07-30",
-      "user_level": "Manager",
-      "age_days": 49,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "878828",
-      "email": "birmingham_jump@skyzone.com",
-      "name": "",
-      "account": "Sky Zone",
-      "date": "2026-07-30",
-      "user_level": "Manager",
-      "age_days": 49,
-      "sla": "red",
-      "area": "Genius Social"
     },
     {
       "visitor": "1053485",
@@ -7010,39 +6339,6 @@
       "age_days": 50,
       "sla": "red",
       "area": "Social"
-    },
-    {
-      "visitor": "992120",
-      "email": "carlos.nieves@skyzone.com",
-      "name": "",
-      "account": "Sky Zone",
-      "date": "2026-07-29",
-      "user_level": "Manager",
-      "age_days": 50,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "300061",
-      "email": "mary.moore@cruiseplanners.com",
-      "name": "",
-      "account": "Cruise Planners | CP Elite",
-      "date": "2026-07-29",
-      "user_level": "Manager",
-      "age_days": 50,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1044494",
-      "email": "cmiller@lynd.com",
-      "name": "",
-      "account": "Lynd",
-      "date": "2026-07-29",
-      "user_level": "Administrator",
-      "age_days": 50,
-      "sla": "red",
-      "area": "Genius Social"
     },
     {
       "visitor": "1163165",
@@ -7285,28 +6581,6 @@
       "age_days": 51,
       "sla": "red",
       "area": "Social"
-    },
-    {
-      "visitor": "970155",
-      "email": "jyoti.solanki@celebreeschool.com",
-      "name": "",
-      "account": "Celebree School",
-      "date": "2026-07-28",
-      "user_level": "Manager",
-      "age_days": 51,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "276935",
-      "email": "COUNTONTAMI+tami.varricchio@GMAIL.COM",
-      "name": "",
-      "account": "Liberty Tax",
-      "date": "2026-07-28",
-      "user_level": "Manager",
-      "age_days": 51,
-      "sla": "red",
-      "area": "Genius Social"
     },
     {
       "visitor": "54661",
@@ -7595,17 +6869,6 @@
       "area": "Social"
     },
     {
-      "visitor": "1216543",
-      "email": "wesgrasty@gmail.com",
-      "name": "",
-      "account": "Guild Mortgage",
-      "date": "2026-07-27",
-      "user_level": "Manager",
-      "age_days": 52,
-      "sla": "red",
-      "area": "Genius Search"
-    },
-    {
       "visitor": "1128097",
       "email": "appianterrace@winnco.com",
       "name": "",
@@ -7859,61 +7122,6 @@
       "area": "Social"
     },
     {
-      "visitor": "973140",
-      "email": "swilson@samtheconcreteman.com",
-      "name": "",
-      "account": "Sam The Concrete Man",
-      "date": "2026-07-25",
-      "user_level": "Manager",
-      "age_days": 54,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1277675",
-      "email": "makayla@everlinecoatings.com",
-      "name": "",
-      "account": "EverLine",
-      "date": "2026-07-25",
-      "user_level": "Manager",
-      "age_days": 54,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1145870",
-      "email": "dawn@signaramacolorado.com",
-      "name": "",
-      "account": "Signarama",
-      "date": "2026-07-25",
-      "user_level": "Manager",
-      "age_days": 54,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "859504",
-      "email": "Eliza.Lee@kiscosl.com",
-      "name": "",
-      "account": "Kisco Senior Living",
-      "date": "2026-07-25",
-      "user_level": "Manager",
-      "age_days": 54,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1277444",
-      "email": "nora.martin@cruiseplanners.com",
-      "name": "",
-      "account": "Cruise Planners | CP Pro",
-      "date": "2026-07-25",
-      "user_level": "Manager",
-      "age_days": 54,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
       "visitor": "950442",
       "email": "Summer.minjarez@skyzone.com",
       "name": "",
@@ -8046,28 +7254,6 @@
       "area": "Social"
     },
     {
-      "visitor": "1277577",
-      "email": "julievoyer@everlinecoatings.com",
-      "name": "",
-      "account": "EverLine",
-      "date": "2026-07-24",
-      "user_level": "Manager",
-      "age_days": 55,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "687611",
-      "email": "sarahp@ovationco.com",
-      "name": "",
-      "account": "Ovation Property Management",
-      "date": "2026-07-24",
-      "user_level": "Administrator",
-      "age_days": 55,
-      "sla": "red",
-      "area": "Genius Search"
-    },
-    {
       "visitor": "141691",
       "email": "highland@willowbridgepc.com",
       "name": "",
@@ -8093,7 +7279,7 @@
       "visitor": "75267",
       "email": "lvleisides@bbcgrp.com",
       "name": "",
-      "account": "Balfour Beatty Communities ",
+      "account": "3336",
       "date": "2026-07-24",
       "user_level": "Administrator",
       "age_days": 55,
@@ -8220,28 +7406,6 @@
       "age_days": 56,
       "sla": "red",
       "area": "Social"
-    },
-    {
-      "visitor": "735810",
-      "email": "deborah.pollard@cruiseplanners.com",
-      "name": "",
-      "account": "Cruise Planners | CP Elite",
-      "date": "2026-07-23",
-      "user_level": "Manager",
-      "age_days": 56,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1275189",
-      "email": "ashleighm@weidner.com",
-      "name": "",
-      "account": "Weidner",
-      "date": "2026-07-23",
-      "user_level": "Manager",
-      "age_days": 56,
-      "sla": "red",
-      "area": "Genius Social"
     },
     {
       "visitor": "982893",
@@ -8475,39 +7639,6 @@
       "area": "Social"
     },
     {
-      "visitor": "461327",
-      "email": "marinacolella@decoratingden.com",
-      "name": "",
-      "account": "Decorating Den Interiors",
-      "date": "2026-07-22",
-      "user_level": "Manager",
-      "age_days": 57,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1214176",
-      "email": "emely.duckworth@quinnmgmt.com",
-      "name": "",
-      "account": "Quinn Residences",
-      "date": "2026-07-22",
-      "user_level": "Manager",
-      "age_days": 57,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1038266",
-      "email": "medellin.marini@cruiseplanners.com",
-      "name": "",
-      "account": "Cruise Planners | CP Pro",
-      "date": "2026-07-22",
-      "user_level": "Manager",
-      "age_days": 57,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
       "visitor": "393184",
       "email": "ptune10728@yahoo.com",
       "name": "",
@@ -8599,7 +7730,7 @@
       "visitor": "1020511",
       "email": "LPeel@AdvenirAzora.com",
       "name": "",
-      "account": "Advenir Azora Living",
+      "account": "17635",
       "date": "2026-07-22",
       "user_level": "Administrator",
       "age_days": 57,
@@ -8761,50 +7892,6 @@
       "area": "Social"
     },
     {
-      "visitor": "145036",
-      "email": "midland-lec@primroseretirement.com",
-      "name": "",
-      "account": "Primrose Retirement Communities",
-      "date": "2026-07-21",
-      "user_level": "Manager",
-      "age_days": 58,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1265960",
-      "email": "dbowen03@gmail.com",
-      "name": "",
-      "account": "KidsUnited USA",
-      "date": "2026-07-21",
-      "user_level": "Manager",
-      "age_days": 58,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1174903",
-      "email": "BAHAA@SARND.COM",
-      "name": "",
-      "account": "Signarama",
-      "date": "2026-07-21",
-      "user_level": "Manager",
-      "age_days": 58,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "769386",
-      "email": "jim.kruger@cruiseplanners.com",
-      "name": "",
-      "account": "Cruise Planners | CP Pro",
-      "date": "2026-07-21",
-      "user_level": "Manager",
-      "age_days": 58,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
       "visitor": "909934",
       "email": "Jovanny.Pinto@anytimefitness.com",
       "name": "",
@@ -8896,7 +7983,7 @@
       "visitor": "1274306",
       "email": "Benjamin.Lee@westernunion.com",
       "name": "",
-      "account": "Western Union - USA",
+      "account": "51785",
       "date": "2026-07-21",
       "user_level": "Administrator",
       "age_days": 58,
@@ -9157,28 +8244,6 @@
       "area": "Social"
     },
     {
-      "visitor": "1227533",
-      "email": "foresthillsny.sales@signarama.com",
-      "name": "",
-      "account": "Signarama",
-      "date": "2026-07-20",
-      "user_level": "Manager",
-      "age_days": 59,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1080813",
-      "email": "lcrman@lynd.com",
-      "name": "",
-      "account": "Lynd",
-      "date": "2026-07-20",
-      "user_level": "Manager",
-      "age_days": 59,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
       "visitor": "689658",
       "email": "learn@sylvangranitebay.com",
       "name": "",
@@ -9248,7 +8313,7 @@
       "visitor": "667749",
       "email": "cpace@teampurpose.com",
       "name": "",
-      "account": "Advance America",
+      "account": "6591",
       "date": "2026-07-20",
       "user_level": "Administrator",
       "age_days": 59,
@@ -9410,17 +8475,6 @@
       "area": "Social"
     },
     {
-      "visitor": "1204449",
-      "email": "krista.seigler@cruiseplanners.com",
-      "name": "",
-      "account": "Cruise Planners | CP Pro",
-      "date": "2026-07-19",
-      "user_level": "Manager",
-      "age_days": 60,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
       "visitor": "1172059",
       "email": "ndruidhillsmanager@degreewellness.com",
       "name": "",
@@ -9474,17 +8528,6 @@
       "age_days": 61,
       "sla": "red",
       "area": "Social"
-    },
-    {
-      "visitor": "943766",
-      "email": "cshyra@radiantwaxing.com",
-      "name": "",
-      "account": "Radiant Waxing",
-      "date": "2026-07-18",
-      "user_level": "Manager",
-      "age_days": 61,
-      "sla": "red",
-      "area": "Genius Social"
     },
     {
       "visitor": "946058",
@@ -9628,28 +8671,6 @@
       "age_days": 62,
       "sla": "red",
       "area": "Social"
-    },
-    {
-      "visitor": "1064246",
-      "email": "jackie.morgan@cruiseplanners.com",
-      "name": "",
-      "account": "Cruise Planners | CP Elite",
-      "date": "2026-07-17",
-      "user_level": "Manager",
-      "age_days": 62,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "945602",
-      "email": "kmorales@dilldinkers.com",
-      "name": "",
-      "account": "Dill Dinkers",
-      "date": "2026-07-17",
-      "user_level": "Manager",
-      "age_days": 62,
-      "sla": "red",
-      "area": "Genius Social"
     },
     {
       "visitor": "943555",
@@ -9859,17 +8880,6 @@
       "age_days": 63,
       "sla": "red",
       "area": "Social"
-    },
-    {
-      "visitor": "592215",
-      "email": "Kendall.FL@sylvanlearning.com",
-      "name": "",
-      "account": "Sylvan Learning",
-      "date": "2026-07-16",
-      "user_level": "Manager",
-      "age_days": 63,
-      "sla": "red",
-      "area": "Genius Social"
     },
     {
       "visitor": "1255177",
@@ -10224,61 +9234,6 @@
       "area": "Social"
     },
     {
-      "visitor": "860670",
-      "email": "rrainey@carebuildersathome.com",
-      "name": "",
-      "account": "CareBuilders At Home",
-      "date": "2026-07-15",
-      "user_level": "Manager",
-      "age_days": 64,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "592134",
-      "email": "Erinmills.ON@sylvanlearning.com",
-      "name": "",
-      "account": "Sylvan Learning",
-      "date": "2026-07-15",
-      "user_level": "Manager",
-      "age_days": 64,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1205286",
-      "email": "lisa@pedegonaples.com",
-      "name": "",
-      "account": "Pedego Electric Bikes",
-      "date": "2026-07-15",
-      "user_level": "Manager",
-      "age_days": 64,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1232336",
-      "email": "northsantaclarita.ca@sylvanlearning.com",
-      "name": "",
-      "account": "Sylvan Learning",
-      "date": "2026-07-15",
-      "user_level": "Manager",
-      "age_days": 64,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1162401",
-      "email": "wgrasty@guildmortgage.net",
-      "name": "",
-      "account": "Guild Mortgage",
-      "date": "2026-07-15",
-      "user_level": "Administrator",
-      "age_days": 64,
-      "sla": "red",
-      "area": "Genius Search"
-    },
-    {
       "visitor": "670541",
       "email": "pm.capitolheights@avenue5apt.com",
       "name": "",
@@ -10631,50 +9586,6 @@
       "area": "Social"
     },
     {
-      "visitor": "1146425",
-      "email": "nicolette.jaime@livebryten.com",
-      "name": "",
-      "account": "Bryten Management",
-      "date": "2026-07-14",
-      "user_level": "Manager",
-      "age_days": 65,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "471549",
-      "email": "manager.atx@fortispm.com",
-      "name": "",
-      "account": "Fortis Property Management",
-      "date": "2026-07-14",
-      "user_level": "Manager",
-      "age_days": 65,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1024564",
-      "email": "kanetta.denk@cruiseplanners.com",
-      "name": "",
-      "account": "Cruise Planners | CP Elite",
-      "date": "2026-07-14",
-      "user_level": "Manager",
-      "age_days": 65,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1053356",
-      "email": "tony.davis@cruiseplanners.com",
-      "name": "",
-      "account": "Cruise Planners | CP Elite",
-      "date": "2026-07-14",
-      "user_level": "Manager",
-      "age_days": 65,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
       "visitor": "541337",
       "email": "upperwestside@colormemine.com",
       "name": "",
@@ -10766,7 +9677,7 @@
       "visitor": "1267666",
       "email": "adam.clark@cadence-education.com",
       "name": "",
-      "account": "Cadence Education",
+      "account": "3791",
       "date": "2026-07-14",
       "user_level": "Administrator",
       "age_days": 65,
@@ -11038,50 +9949,6 @@
       "area": "Social"
     },
     {
-      "visitor": "69735",
-      "email": "carol.tricoche@carolsescapes.com",
-      "name": "",
-      "account": "Cruise Planners | CP Pro",
-      "date": "2026-07-13",
-      "user_level": "Manager",
-      "age_days": 66,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "25058",
-      "email": "sberry@caseusa.com",
-      "name": "",
-      "account": "Case and Associates Properties, Inc.",
-      "date": "2026-07-13",
-      "user_level": "Administrator",
-      "age_days": 66,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1196501",
-      "email": "nonna.kofman@signarama.com",
-      "name": "",
-      "account": "Signarama",
-      "date": "2026-07-13",
-      "user_level": "Manager",
-      "age_days": 66,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1210066",
-      "email": "Kate.q@otterlearning.com",
-      "name": "",
-      "account": "Otter Learning",
-      "date": "2026-07-13",
-      "user_level": "Administrator",
-      "age_days": 66,
-      "sla": "red",
-      "area": "Genius Search"
-    },
-    {
       "visitor": "1179092",
       "email": "spatry@orangetheoryfitness.ca",
       "name": "",
@@ -11247,17 +10114,6 @@
       "area": "Social"
     },
     {
-      "visitor": "759360",
-      "email": "amy.karpinski@cruiseplanners.com",
-      "name": "",
-      "account": "Cruise Planners | CP Pro",
-      "date": "2026-07-12",
-      "user_level": "Manager",
-      "age_days": 67,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
       "visitor": "667769",
       "email": "gm@urbanairkennesaw.com",
       "name": "",
@@ -11388,39 +10244,6 @@
       "age_days": 68,
       "sla": "red",
       "area": "Social"
-    },
-    {
-      "visitor": "943712",
-      "email": "brendanstapleton@fitnesstogether.com",
-      "name": "",
-      "account": "Fitness Together",
-      "date": "2026-07-11",
-      "user_level": "Manager",
-      "age_days": 68,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1032294",
-      "email": "latrice.coleman@cruiseplanners.com",
-      "name": "",
-      "account": "Cruise Planners | CP Pro",
-      "date": "2026-07-11",
-      "user_level": "Manager",
-      "age_days": 68,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "874477",
-      "email": "Westmont_Jump@SkyZone.com",
-      "name": "",
-      "account": "Sky Zone",
-      "date": "2026-07-11",
-      "user_level": "Manager",
-      "age_days": 68,
-      "sla": "red",
-      "area": "Genius Social"
     },
     {
       "visitor": "1045283",
@@ -11641,50 +10464,6 @@
       "age_days": 69,
       "sla": "red",
       "area": "Social"
-    },
-    {
-      "visitor": "415626",
-      "email": "sharley@hoganre.com",
-      "name": "",
-      "account": "HomeSpring Residential Services",
-      "date": "2026-07-10",
-      "user_level": "Administrator",
-      "age_days": 69,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "69810",
-      "email": "jodi.campbell@cruiseplanners.com",
-      "name": "",
-      "account": "Cruise Planners | CP Elite",
-      "date": "2026-07-10",
-      "user_level": "Manager",
-      "age_days": 69,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1145674",
-      "email": "fabiolars@ufgcorp.com",
-      "name": "",
-      "account": "Signarama",
-      "date": "2026-07-10",
-      "user_level": "Administrator",
-      "age_days": 69,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "83647",
-      "email": "dennis.livingston@cruiseplanners.com",
-      "name": "",
-      "account": "Cruise Planners | CP Elite",
-      "date": "2026-07-10",
-      "user_level": "Manager",
-      "age_days": 69,
-      "sla": "red",
-      "area": "Genius Social"
     },
     {
       "visitor": "1203723",
@@ -11962,50 +10741,6 @@
       "area": "Social"
     },
     {
-      "visitor": "864812",
-      "email": "Emily.Holt@janmangroup.com",
-      "name": "",
-      "account": "Nothing Bundt Cakes",
-      "date": "2026-07-09",
-      "user_level": "Manager",
-      "age_days": 70,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "877962",
-      "email": "susan@thedalesgroup.com",
-      "name": "",
-      "account": "REMM Group",
-      "date": "2026-07-09",
-      "user_level": "Administrator",
-      "age_days": 70,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1186035",
-      "email": "mike.mulvey@cruiseplanners.com",
-      "name": "",
-      "account": "Cruise Planners | CP Pro",
-      "date": "2026-07-09",
-      "user_level": "Manager",
-      "age_days": 70,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1233345",
-      "email": "fresno-clovis@nothingbundtcakes.com",
-      "name": "",
-      "account": "Nothing Bundt Cakes",
-      "date": "2026-07-09",
-      "user_level": "Manager",
-      "age_days": 70,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
       "visitor": "684951",
       "email": "lindseysmokoff@veg.com",
       "name": "",
@@ -12130,7 +10865,7 @@
       "visitor": "1162401",
       "email": "wgrasty@guildmortgage.net",
       "name": "",
-      "account": "Guild Mortgage",
+      "account": "52362",
       "date": "2026-07-09",
       "user_level": "Administrator",
       "age_days": 70,
@@ -12853,149 +11588,6 @@
       "area": "Social"
     },
     {
-      "visitor": "1070383",
-      "email": "store1010@americanfreight.us",
-      "name": "",
-      "account": "American Freight NewCo",
-      "date": "2026-07-08",
-      "user_level": "Manager",
-      "age_days": 71,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "69897",
-      "email": "todd.kumro@cruiseplanners.com",
-      "name": "",
-      "account": "Cruise Planners | CP Elite",
-      "date": "2026-07-08",
-      "user_level": "Manager",
-      "age_days": 71,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1205311",
-      "email": "spike@pedegogp.com",
-      "name": "",
-      "account": "Pedego Electric Bikes",
-      "date": "2026-07-08",
-      "user_level": "Manager",
-      "age_days": 71,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1050654",
-      "email": "val@af.furniture",
-      "name": "",
-      "account": "American Freight (MAFGA)",
-      "date": "2026-07-08",
-      "user_level": "Administrator",
-      "age_days": 71,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1209182",
-      "email": "brittany.morrow@axiares.com",
-      "name": "",
-      "account": "Axia Residential",
-      "date": "2026-07-08",
-      "user_level": "Administrator",
-      "age_days": 71,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1069280",
-      "email": "Store0081@af.furniture",
-      "name": "",
-      "account": "American Freight (MAFGA)",
-      "date": "2026-07-08",
-      "user_level": "Manager",
-      "age_days": 71,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1246381",
-      "email": "lhattenbach@clothesmentor.com",
-      "name": "",
-      "account": "Clothes Mentor",
-      "date": "2026-07-08",
-      "user_level": "Manager",
-      "age_days": 71,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1145844",
-      "email": "zern@signarama-springfieldmo.com",
-      "name": "",
-      "account": "Signarama",
-      "date": "2026-07-08",
-      "user_level": "Manager",
-      "age_days": 71,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1115864",
-      "email": "Marlene.Fleck@ampexbrands.com",
-      "name": "",
-      "account": "Nothing Bundt Cakes",
-      "date": "2026-07-08",
-      "user_level": "Manager",
-      "age_days": 71,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1015261",
-      "email": "odigirolamo@authoritybrandsllc.com",
-      "name": "",
-      "account": "Benjamin Franklin Plumbing",
-      "date": "2026-07-08",
-      "user_level": "Administrator",
-      "age_days": 71,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1221462",
-      "email": "doug.firestone@cruiseplanners.com",
-      "name": "",
-      "account": "Cruise Planners | CP Elite",
-      "date": "2026-07-08",
-      "user_level": "Manager",
-      "age_days": 71,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "935220",
-      "email": "alyssal@rentcip.com",
-      "name": "",
-      "account": "CIP Communities",
-      "date": "2026-07-08",
-      "user_level": "Administrator",
-      "age_days": 71,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "1147773",
-      "email": "kenilworthnj.sales@signarama.com",
-      "name": "",
-      "account": "Signarama",
-      "date": "2026-07-08",
-      "user_level": "Manager",
-      "age_days": 71,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
       "visitor": "48426",
       "email": "vandrade@umich.edu",
       "name": "",
@@ -13120,7 +11712,7 @@
       "visitor": "1186766",
       "email": "writewenndy@gmail.com",
       "name": "",
-      "account": "Novellus Digital Marketing",
+      "account": "53245",
       "date": "2026-07-08",
       "user_level": "Administrator",
       "age_days": 71,
@@ -14360,28 +12952,6 @@
       "area": "Social"
     },
     {
-      "visitor": "1199166",
-      "email": "ccardenas@legacyresidential.com",
-      "name": "",
-      "account": "Legacy Residential Group",
-      "date": "2026-07-07",
-      "user_level": "Manager",
-      "age_days": 72,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
-      "visitor": "874423",
-      "email": "karla.boyles@skyzone.com",
-      "name": "",
-      "account": "Sky Zone",
-      "date": "2026-07-07",
-      "user_level": "Manager",
-      "age_days": 72,
-      "sla": "red",
-      "area": "Genius Social"
-    },
-    {
       "visitor": "964360",
       "email": "GrandForks.ND@SylvanLearning.com",
       "name": "",
@@ -15483,19 +14053,19 @@
     }
   ],
   "level_counts": {
-    "Administrator": 149,
-    "Manager": 1245,
+    "Administrator": 125,
+    "Manager": 1139,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 2
   },
   "sla_counts": {
-    "green": 49,
-    "amber": 287,
-    "red": 1060
+    "green": 42,
+    "amber": 263,
+    "red": 961
   },
-  "total_interested": 1396,
+  "total_interested": 1266,
   "oldest_age": 365,
   "repeat_accounts": [
     [
@@ -15523,27 +14093,15 @@
       30
     ],
     [
-      "Cruise Planners | CP Elite",
-      27
-    ],
-    [
-      "Liberty Tax",
-      25
-    ],
-    [
       "Berkshire Hathaway HomeServices",
       24
     ],
     [
-      "Sky Zone",
-      22
+      "Liberty Tax",
+      21
     ],
     [
       "Anytime Fitness NA ",
-      20
-    ],
-    [
-      "Cruise Planners | CP Pro",
       20
     ],
     [
@@ -15559,24 +14117,24 @@
       16
     ],
     [
-      "Signarama",
-      16
-    ],
-    [
-      "Sylvan Learning",
-      16
-    ],
-    [
-      "Nothing Bundt Cakes",
-      15
-    ],
-    [
       "Texas Roadhouse Holdings LLC",
       15
     ],
     [
+      "Cruise Planners | CP Elite",
+      14
+    ],
+    [
       "The Goddard School",
       13
+    ],
+    [
+      "Sky Zone",
+      13
+    ],
+    [
+      "Nothing Bundt Cakes",
+      12
     ],
     [
       "The Learning Experience",
@@ -15584,10 +14142,6 @@
     ],
     [
       "Stretch Zone Franchising, LLC ",
-      12
-    ],
-    [
-      "Adara Communities ",
       12
     ],
     [
@@ -15603,6 +14157,10 @@
       11
     ],
     [
+      "Adara Communities ",
+      11
+    ],
+    [
       "Holiday Inn",
       11
     ],
@@ -15611,12 +14169,8 @@
       11
     ],
     [
-      "Bryten Management",
+      "Sylvan Learning",
       11
-    ],
-    [
-      "Teriyaki Madness",
-      10
     ],
     [
       "Discovery Marketing Group, LLC dba STAT Marketing",
@@ -15635,15 +14189,11 @@
       9
     ],
     [
-      "Weidner",
+      "Teriyaki Madness",
       9
     ],
     [
       "Pointe Grand",
-      9
-    ],
-    [
-      "Elements Massage",
       9
     ],
     [
@@ -15655,7 +14205,7 @@
       9
     ],
     [
-      "Dill Dinkers",
+      "Weidner",
       8
     ],
     [
@@ -15667,24 +14217,12 @@
       8
     ],
     [
-      "Grocery Outlet",
-      8
-    ],
-    [
-      "Monarch Investment and Management Group",
-      8
-    ],
-    [
       "Forty Winks | The Pistol",
       8
     ],
     [
-      "Pedego Electric Bikes",
-      8
-    ],
-    [
-      "American Freight (MAFGA)",
-      8
+      "Dill Dinkers",
+      7
     ],
     [
       "Lightbridge Academy",
@@ -15699,11 +14237,19 @@
       7
     ],
     [
-      "Decorating Den Interiors",
+      "Bryten Management",
+      7
+    ],
+    [
+      "Elements Massage",
       7
     ],
     [
       "HomeWell Care Services",
+      7
+    ],
+    [
+      "Monarch Investment and Management Group",
       7
     ],
     [
@@ -15723,19 +14269,11 @@
       6
     ],
     [
-      "Sport Clips",
-      6
-    ],
-    [
       "Urban Air - Unleashed Brands",
       6
     ],
     [
       "Travel Leaders Group Canada",
-      6
-    ],
-    [
-      "American Freight NewCo",
       6
     ],
     [
@@ -15759,10 +14297,6 @@
       6
     ],
     [
-      "Lynd",
-      6
-    ],
-    [
       "Merry Maids",
       6
     ],
@@ -15771,11 +14305,19 @@
       6
     ],
     [
-      "Burn Boot Camp",
-      5
+      "Pedego Electric Bikes",
+      6
     ],
     [
-      "Otter Learning",
+      "American Freight (MAFGA)",
+      6
+    ],
+    [
+      "Signarama",
+      6
+    ],
+    [
+      "Burn Boot Camp",
       5
     ],
     [
@@ -15787,7 +14329,15 @@
       5
     ],
     [
+      "Cruise Planners | CP Pro",
+      5
+    ],
+    [
       "Garner",
+      5
+    ],
+    [
+      "Grocery Outlet",
       5
     ],
     [
@@ -15795,11 +14345,11 @@
       5
     ],
     [
-      "Fortis Property Management",
+      "Decorating Den Interiors",
       5
     ],
     [
-      "Guild Mortgage",
+      "Sport Clips",
       5
     ],
     [
@@ -15807,27 +14357,11 @@
       5
     ],
     [
-      "Transworld Business Advisors ",
-      4
-    ],
-    [
-      "EverLine",
-      4
-    ],
-    [
-      "Venterra Living",
-      4
-    ],
-    [
       "Soccer Shots",
       4
     ],
     [
       "Freeman Webb",
-      4
-    ],
-    [
-      "Amazing Lash",
       4
     ],
     [
@@ -15867,15 +14401,15 @@
       4
     ],
     [
+      "American Freight NewCo",
+      4
+    ],
+    [
       "Color Me Mine LLC",
       4
     ],
     [
       "Oak Hill Management",
-      4
-    ],
-    [
-      "Ovation Property Management",
       4
     ],
     [
@@ -15891,11 +14425,15 @@
       4
     ],
     [
-      "Trilogy Health Services",
+      "Metro Diner Management",
       3
     ],
     [
-      "Metro Diner Management",
+      "Otter Learning",
+      3
+    ],
+    [
+      "Venterra Living",
       3
     ],
     [
@@ -15951,10 +14489,6 @@
       3
     ],
     [
-      "Fitness Together",
-      3
-    ],
-    [
       "Brain Balance Centers ",
       3
     ],
@@ -15967,11 +14501,11 @@
       3
     ],
     [
-      "KidsUnited USA",
+      "Legend Asset Management ",
       3
     ],
     [
-      "Legend Asset Management ",
+      "Amazing Lash",
       3
     ],
     [
@@ -15987,11 +14521,19 @@
       3
     ],
     [
+      "Lynd",
+      3
+    ],
+    [
       "Village Green Companies",
       3
     ],
     [
       "GO Car Wash",
+      3
+    ],
+    [
+      "Ovation Property Management",
       3
     ],
     [
@@ -16011,23 +14553,15 @@
       3
     ],
     [
-      "Balfour Beatty Communities ",
-      3
-    ],
-    [
       "Eggs Up Grill",
       3
     ],
     [
-      "Radiant Waxing",
+      "Fortis Property Management",
       3
     ],
     [
       "TWO MEN AND A TRUCK",
-      3
-    ],
-    [
-      "CIP Communities",
       3
     ],
     [
@@ -16036,10 +14570,6 @@
     ],
     [
       "MountainCreek Properties",
-      2
-    ],
-    [
-      "Primrose Retirement Communities",
       2
     ],
     [
@@ -16063,19 +14593,11 @@
       2
     ],
     [
-      "ATC Healthcare Services",
-      2
-    ],
-    [
       "Ag-Pro Companies",
       2
     ],
     [
       "Allegro Senior Living",
-      2
-    ],
-    [
-      "USA Camping",
       2
     ],
     [
@@ -16088,10 +14610,6 @@
     ],
     [
       "Byrider",
-      2
-    ],
-    [
-      "Chicken Salad Chick",
       2
     ],
     [
@@ -16139,14 +14657,6 @@
       2
     ],
     [
-      "Griffis Blessing",
-      2
-    ],
-    [
-      "Shoot 360",
-      2
-    ],
-    [
       "Sunroad Enterprises",
       2
     ],
@@ -16163,19 +14673,11 @@
       2
     ],
     [
-      "Case and Associates Properties, Inc.",
-      2
-    ],
-    [
       "Snapology",
       2
     ],
     [
       "Wag N Wash",
-      2
-    ],
-    [
-      "Sam The Concrete Man",
       2
     ],
     [
@@ -16195,7 +14697,7 @@
       2
     ],
     [
-      "Celebree School",
+      "Guild Mortgage",
       2
     ],
     [
@@ -16207,19 +14709,15 @@
       2
     ],
     [
-      "Quinn Residences",
-      2
-    ],
-    [
-      "Western Union - USA",
-      2
-    ],
-    [
       "Firehouse Subs",
       2
     ],
     [
-      "Advance America",
+      "Trilogy Health Services",
+      2
+    ],
+    [
+      "Radiant Waxing",
       2
     ],
     [
@@ -16231,11 +14729,11 @@
       2
     ],
     [
-      "Houchens Food Group",
+      "Balfour Beatty Communities ",
       2
     ],
     [
-      "CareBuilders At Home",
+      "Houchens Food Group",
       2
     ],
     [
@@ -16263,15 +14761,7 @@
       2
     ],
     [
-      "Clothes Mentor",
-      2
-    ],
-    [
-      "Benjamin Franklin Plumbing",
-      2
-    ],
-    [
-      "Legacy Residential Group",
+      "CIP Communities",
       2
     ]
   ],
