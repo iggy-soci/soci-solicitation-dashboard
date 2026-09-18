@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18 05:40 UTC",
+  "generated_at": "2026-09-18 10:52 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 181,
-      "interested": 181
+      "responses_12mo": 183,
+      "interested": 183
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -72,38 +72,38 @@
     "Surveys": {
       "guide_id": "RLz8F0jmIzDqIwzo7WOPNNHQr4M",
       "views_12mo": 0,
-      "responses_12mo": 4,
-      "interested": 4
+      "responses_12mo": 6,
+      "interested": 6
     },
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 388,
-      "interested": 388
+      "responses_12mo": 389,
+      "interested": 389
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 125,
-      "interested": 125
+      "responses_12mo": 126,
+      "interested": 126
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
       "views_12mo": 0,
-      "responses_12mo": 5,
-      "interested": 5
+      "responses_12mo": 6,
+      "interested": 6
     },
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 283,
-      "interested": 283
+      "responses_12mo": 285,
+      "interested": 285
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
       "views_12mo": 0,
-      "responses_12mo": 11,
-      "interested": 11
+      "responses_12mo": 12,
+      "interested": 12
     },
     "Data Management": {
       "guide_id": "YESnj4QI3Np_fsQ1W6_e_jBlJis",
@@ -120,11 +120,44 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 165,
-      "interested": 165
+      "responses_12mo": 168,
+      "interested": 168
     }
   },
   "contacts": [
+    {
+      "visitor": "715268",
+      "email": "cinnaholicqc@gmail.com",
+      "name": "",
+      "account": "Cinnaholic ",
+      "date": "2026-09-18",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "273221",
+      "email": "psp7017@petsuppliesplus.com",
+      "name": "",
+      "account": "Pet Supplies Plus",
+      "date": "2026-09-18",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1036686",
+      "email": "Info@choreographgainesville.com",
+      "name": "",
+      "account": "Discovery Marketing Group, LLC dba STAT Marketing",
+      "date": "2026-09-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reporting Suite"
+    },
     {
       "visitor": "1263320",
       "email": "maria@expresssfo.com",
@@ -137,6 +170,17 @@
       "area": "Reporting Suite"
     },
     {
+      "visitor": "964662",
+      "email": "arcadiapark@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-09-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
       "visitor": "1290069",
       "email": "gm@brasstapverde.com",
       "name": "",
@@ -146,6 +190,116 @@
       "age_days": 1,
       "sla": "green",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1292073",
+      "email": "jennifer.camela@amadarestaurant.com",
+      "name": "",
+      "account": "Amada",
+      "date": "2026-09-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Surveys"
+    },
+    {
+      "visitor": "1284715",
+      "email": "Leasing@LiveRunningBrookApartments.com",
+      "name": "",
+      "account": "Fairfield Residential",
+      "date": "2026-09-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Surveys"
+    },
+    {
+      "visitor": "1284715",
+      "email": "Leasing@LiveRunningBrookApartments.com",
+      "name": "",
+      "account": "Fairfield Residential",
+      "date": "2026-09-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "296899",
+      "email": "monique.macfarlane@gb85.com",
+      "name": "",
+      "account": "Griffis Blessing",
+      "date": "2026-09-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1247633",
+      "email": "jeanne@usdermpartners.com",
+      "name": "",
+      "account": "U.S. Dermatology Partners",
+      "date": "2026-09-17",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Search"
+    },
+    {
+      "visitor": "1277948",
+      "email": "tmad414@teriyakimadness.com",
+      "name": "",
+      "account": "Teriyaki Madness",
+      "date": "2026-09-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "419474",
+      "email": "sanantonio2@anylabtestnow.com",
+      "name": "",
+      "account": "Any Lab Test Now",
+      "date": "2026-09-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Listings"
+    },
+    {
+      "visitor": "713028",
+      "email": "skyehunterscreek@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-09-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1289337",
+      "email": "jen@wanderingsisterstravel.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-09-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1123892",
+      "email": "thelafayette@prgrealestate.com",
+      "name": "",
+      "account": "PRG Real Estate Management",
+      "date": "2026-09-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "1214238",
@@ -15612,38 +15766,27 @@
       "age_days": 360,
       "sla": "red",
       "area": "Reporting Suite"
-    },
-    {
-      "visitor": "983062",
-      "email": "mirzaali2619@gmail.com",
-      "name": "",
-      "account": "Garner",
-      "date": "2025-09-17",
-      "user_level": "Manager",
-      "age_days": 366,
-      "sla": "red",
-      "area": "Reporting Suite"
     }
   ],
   "level_counts": {
-    "Administrator": 149,
-    "Manager": 1257,
+    "Administrator": 150,
+    "Manager": 1269,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 3
   },
   "sla_counts": {
-    "green": 55,
+    "green": 69,
     "amber": 273,
-    "red": 1081
+    "red": 1080
   },
-  "total_interested": 1409,
-  "oldest_age": 366,
+  "total_interested": 1422,
+  "oldest_age": 360,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
-      55
+      56
     ],
     [
       "Willow Bridge Property Company ",
@@ -15658,12 +15801,12 @@
       37
     ],
     [
-      "RPM Living",
-      31
+      "Avenue5 Residential",
+      32
     ],
     [
-      "Avenue5 Residential",
-      31
+      "RPM Living",
+      32
     ],
     [
       "Cruise Planners | CP Elite",
@@ -15718,6 +15861,10 @@
       15
     ],
     [
+      "Pet Supplies Plus",
+      13
+    ],
+    [
       "Vetcor",
       13
     ],
@@ -15742,8 +15889,12 @@
       12
     ],
     [
-      "Pet Supplies Plus",
-      12
+      "Discovery Marketing Group, LLC dba STAT Marketing",
+      11
+    ],
+    [
+      "Teriyaki Madness",
+      11
     ],
     [
       "VEG ER for Pets",
@@ -15756,14 +15907,6 @@
     [
       "Bryten Management",
       11
-    ],
-    [
-      "Teriyaki Madness",
-      10
-    ],
-    [
-      "Discovery Marketing Group, LLC dba STAT Marketing",
-      10
     ],
     [
       "FSC Franchise Brands",
@@ -15858,6 +16001,10 @@
       7
     ],
     [
+      "Fairfield Residential",
+      6
+    ],
+    [
       "Comparion",
       6
     ],
@@ -15914,6 +16061,10 @@
       6
     ],
     [
+      "Any Lab Test Now",
+      5
+    ],
+    [
       "Venterra Living",
       5
     ],
@@ -15931,10 +16082,6 @@
     ],
     [
       "ServiceMaster Restore",
-      5
-    ],
-    [
-      "Garner",
       5
     ],
     [
@@ -15986,15 +16133,15 @@
       4
     ],
     [
-      "Fairfield Residential",
-      4
-    ],
-    [
       "Arlington Properties",
       4
     ],
     [
       "RimTyme",
+      4
+    ],
+    [
+      "Garner",
       4
     ],
     [
@@ -16030,12 +16177,16 @@
       4
     ],
     [
-      "Any Lab Test Now",
+      "Pacifica Residential",
       4
     ],
     [
-      "Pacifica Residential",
-      4
+      "Griffis Blessing",
+      3
+    ],
+    [
+      "PRG Real Estate Management",
+      3
     ],
     [
       "Luma Residential",
@@ -16178,6 +16329,10 @@
       3
     ],
     [
+      "Cinnaholic ",
+      2
+    ],
+    [
       "LKQ Corporation",
       2
     ],
@@ -16286,10 +16441,6 @@
       2
     ],
     [
-      "Griffis Blessing",
-      2
-    ],
-    [
       "Shoot 360",
       2
     ],
@@ -16299,10 +16450,6 @@
     ],
     [
       "Guardian Real Estate Services LLC",
-      2
-    ],
-    [
-      "PRG Real Estate Management",
       2
     ],
     [
