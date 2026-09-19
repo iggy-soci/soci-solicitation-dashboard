@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19 03:56 UTC",
+  "generated_at": "2026-09-19 08:43 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,14 +54,14 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 85,
-      "interested": 85
+      "responses_12mo": 86,
+      "interested": 86
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 183,
-      "interested": 183
+      "responses_12mo": 184,
+      "interested": 184
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,8 +78,8 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 389,
-      "interested": 389
+      "responses_12mo": 395,
+      "interested": 395
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 285,
-      "interested": 285
+      "responses_12mo": 288,
+      "interested": 288
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,50 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 145,
-      "interested": 145
+      "responses_12mo": 146,
+      "interested": 146
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 168,
-      "interested": 168
+      "responses_12mo": 172,
+      "interested": 172
     }
   },
   "contacts": [
+    {
+      "visitor": "188276",
+      "email": "jesbordelon+3041878@gmail.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-09-19",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1223603",
+      "email": "anil.madithati@urbanairgilroy.com",
+      "name": "",
+      "account": "Urban Air - Unleashed Brands",
+      "date": "2026-09-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reporting Suite"
+    },
+    {
+      "visitor": "1174392",
+      "email": "kkarp@orangetheoryfitness.com",
+      "name": "",
+      "account": "Orangetheory Fitness",
+      "date": "2026-09-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
     {
       "visitor": "715268",
       "email": "cinnaholicqc@gmail.com",
@@ -137,6 +170,94 @@
       "area": "Reviews (Reputation)"
     },
     {
+      "visitor": "1173780",
+      "email": "napa@groceryoutlet.com",
+      "name": "",
+      "account": "Grocery Outlet",
+      "date": "2026-09-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "712905",
+      "email": "reunion@tlechildcare.com",
+      "name": "",
+      "account": "The Learning Experience",
+      "date": "2026-09-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1215715",
+      "email": "crjohnson@hillpointe.com",
+      "name": "",
+      "account": "Pointe Grand",
+      "date": "2026-09-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "969769",
+      "email": "Brian.Wagner@monarchinvestment.com",
+      "name": "",
+      "account": "Monarch Investment and Management Group",
+      "date": "2026-09-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1268815",
+      "email": "tpurnell@homewellcares.com",
+      "name": "",
+      "account": "HomeWell Care Services",
+      "date": "2026-09-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "304047",
+      "email": "lm307f@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-09-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1296873",
+      "email": "Loai.Awawdeh@ihg.com",
+      "name": "",
+      "account": "Holiday Inn",
+      "date": "2026-09-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1285776",
+      "email": "CB690V@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-09-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
       "visitor": "273221",
       "email": "psp7017@petsuppliesplus.com",
       "name": "",
@@ -146,6 +267,61 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1229637",
+      "email": "s.shibu@capreit.net",
+      "name": "",
+      "account": "Capreit Management",
+      "date": "2026-09-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "450239",
+      "email": "thebrickandmortar@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-09-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1051663",
+      "email": "bouldermanager@sunridgeapts.net",
+      "name": "",
+      "account": "Sunridge Management ",
+      "date": "2026-09-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1298060",
+      "email": "andrewsplaceleasing@royalamerican.com",
+      "name": "",
+      "account": "Royal American Management",
+      "date": "2026-09-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "162631_mobile",
+      "email": "edonoho@thefarmersbank.net",
+      "name": "",
+      "account": "Beavercreek Marketing",
+      "date": "2026-09-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "1036686",
@@ -15770,18 +15946,18 @@
   ],
   "level_counts": {
     "Administrator": 150,
-    "Manager": 1269,
+    "Manager": 1285,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 3
   },
   "sla_counts": {
-    "green": 62,
+    "green": 78,
     "amber": 261,
     "red": 1099
   },
-  "total_interested": 1422,
+  "total_interested": 1438,
   "oldest_age": 361,
   "repeat_accounts": [
     [
@@ -15790,7 +15966,7 @@
     ],
     [
       "Willow Bridge Property Company ",
-      49
+      50
     ],
     [
       "Subway - North America",
@@ -15798,7 +15974,7 @@
     ],
     [
       "AT&T",
-      37
+      39
     ],
     [
       "Avenue5 Residential",
@@ -15813,12 +15989,12 @@
       27
     ],
     [
-      "Liberty Tax",
+      "Berkshire Hathaway HomeServices",
       25
     ],
     [
-      "Berkshire Hathaway HomeServices",
-      24
+      "Liberty Tax",
+      25
     ],
     [
       "Sky Zone",
@@ -15861,6 +16037,14 @@
       15
     ],
     [
+      "The Learning Experience",
+      13
+    ],
+    [
+      "Holiday Inn",
+      13
+    ],
+    [
       "Pet Supplies Plus",
       13
     ],
@@ -15871,14 +16055,6 @@
     [
       "The Goddard School",
       13
-    ],
-    [
-      "Holiday Inn",
-      12
-    ],
-    [
-      "The Learning Experience",
-      12
     ],
     [
       "Stretch Zone Franchising, LLC ",
@@ -15909,6 +16085,22 @@
       11
     ],
     [
+      "Orangetheory Fitness",
+      10
+    ],
+    [
+      "Pointe Grand",
+      10
+    ],
+    [
+      "Grocery Outlet",
+      9
+    ],
+    [
+      "Monarch Investment and Management Group",
+      9
+    ],
+    [
       "FSC Franchise Brands",
       9
     ],
@@ -15929,10 +16121,6 @@
       9
     ],
     [
-      "Pointe Grand",
-      9
-    ],
-    [
       "Elements Massage",
       9
     ],
@@ -15941,8 +16129,8 @@
       9
     ],
     [
-      "Orangetheory Fitness",
-      9
+      "HomeWell Care Services",
+      8
     ],
     [
       "Dill Dinkers",
@@ -15950,14 +16138,6 @@
     ],
     [
       "Capital Square Living",
-      8
-    ],
-    [
-      "Grocery Outlet",
-      8
-    ],
-    [
-      "Monarch Investment and Management Group",
       8
     ],
     [
@@ -15973,6 +16153,10 @@
       8
     ],
     [
+      "Urban Air - Unleashed Brands",
+      7
+    ],
+    [
       "Lightbridge Academy",
       7
     ],
@@ -15986,10 +16170,6 @@
     ],
     [
       "Decorating Den Interiors",
-      7
-    ],
-    [
-      "HomeWell Care Services",
       7
     ],
     [
@@ -16014,10 +16194,6 @@
     ],
     [
       "Sport Clips",
-      6
-    ],
-    [
-      "Urban Air - Unleashed Brands",
       6
     ],
     [
@@ -16059,6 +16235,10 @@
     [
       "BrightStar Care ",
       6
+    ],
+    [
+      "Sunridge Management ",
+      5
     ],
     [
       "Any Lab Test Now",
@@ -16125,10 +16305,6 @@
       4
     ],
     [
-      "Sunridge Management ",
-      4
-    ],
-    [
       "Kiddie Academy",
       4
     ],
@@ -16179,6 +16355,10 @@
     [
       "Pacifica Residential",
       4
+    ],
+    [
+      "Beavercreek Marketing",
+      3
     ],
     [
       "Griffis Blessing",
@@ -16518,10 +16698,6 @@
     ],
     [
       "Marco's Pizza",
-      2
-    ],
-    [
-      "Beavercreek Marketing",
       2
     ],
     [
