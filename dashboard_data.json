@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20 06:53 UTC",
+  "generated_at": "2026-09-20 12:08 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -78,8 +78,8 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 395,
-      "interested": 395
+      "responses_12mo": 397,
+      "interested": 397
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 288,
-      "interested": 288
+      "responses_12mo": 289,
+      "interested": 289
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -126,6 +126,28 @@
   },
   "contacts": [
     {
+      "visitor": "1167662",
+      "email": "trips@vacationwhisperer.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-09-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "741675",
+      "email": "julia.hebert@vetcor.com",
+      "name": "",
+      "account": "Vetcor",
+      "date": "2026-09-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
       "visitor": "188276",
       "email": "jesbordelon+3041878@gmail.com",
       "name": "",
@@ -135,6 +157,17 @@
       "age_days": 1,
       "sla": "green",
       "area": "Social"
+    },
+    {
+      "visitor": "870105",
+      "email": "asolano@dilldinkers.com",
+      "name": "",
+      "account": "Dill Dinkers",
+      "date": "2026-09-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
     },
     {
       "visitor": "1223603",
@@ -15946,23 +15979,23 @@
   ],
   "level_counts": {
     "Administrator": 150,
-    "Manager": 1285,
+    "Manager": 1288,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 3
   },
   "sla_counts": {
-    "green": 75,
+    "green": 78,
     "amber": 250,
     "red": 1113
   },
-  "total_interested": 1438,
+  "total_interested": 1441,
   "oldest_age": 362,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
-      56
+      57
     ],
     [
       "Willow Bridge Property Company ",
@@ -16037,6 +16070,10 @@
       15
     ],
     [
+      "Vetcor",
+      14
+    ],
+    [
       "The Learning Experience",
       13
     ],
@@ -16046,10 +16083,6 @@
     ],
     [
       "Pet Supplies Plus",
-      13
-    ],
-    [
-      "Vetcor",
       13
     ],
     [
@@ -16093,6 +16126,10 @@
       10
     ],
     [
+      "Dill Dinkers",
+      9
+    ],
+    [
       "Grocery Outlet",
       9
     ],
@@ -16130,10 +16167,6 @@
     ],
     [
       "HomeWell Care Services",
-      8
-    ],
-    [
-      "Dill Dinkers",
       8
     ],
     [
