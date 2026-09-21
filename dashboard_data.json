@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21 01:27 UTC",
+  "generated_at": "2026-09-21 06:59 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -120,11 +120,22 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 172,
-      "interested": 172
+      "responses_12mo": 173,
+      "interested": 173
     }
   },
   "contacts": [
+    {
+      "visitor": "634755",
+      "email": "jii3012@jeremiahsice.com",
+      "name": "",
+      "account": "Jeremiah's Italian Ice",
+      "date": "2026-09-21",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Engagements"
+    },
     {
       "visitor": "1167662",
       "email": "trips@vacationwhisperer.com",
@@ -15979,18 +15990,18 @@
   ],
   "level_counts": {
     "Administrator": 150,
-    "Manager": 1288,
+    "Manager": 1289,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 3
   },
   "sla_counts": {
-    "green": 73,
+    "green": 74,
     "amber": 246,
     "red": 1122
   },
-  "total_interested": 1441,
+  "total_interested": 1442,
   "oldest_age": 363,
   "repeat_accounts": [
     [
@@ -16214,6 +16225,10 @@
       7
     ],
     [
+      "Jeremiah's Italian Ice",
+      6
+    ],
+    [
       "Fairfield Residential",
       6
     ],
@@ -16307,10 +16322,6 @@
     ],
     [
       "Guild Mortgage",
-      5
-    ],
-    [
-      "Jeremiah's Italian Ice",
       5
     ],
     [
