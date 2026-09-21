@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21 06:59 UTC",
+  "generated_at": "2026-09-21 13:57 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,8 +54,8 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 86,
-      "interested": 86
+      "responses_12mo": 87,
+      "interested": 87
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
@@ -135,6 +135,17 @@
       "age_days": 0,
       "sla": "green",
       "area": "Engagements"
+    },
+    {
+      "visitor": "1296873",
+      "email": "Loai.Awawdeh@ihg.com",
+      "name": "",
+      "account": "Holiday Inn",
+      "date": "2026-09-20",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reporting Suite"
     },
     {
       "visitor": "1167662",
@@ -15990,18 +16001,18 @@
   ],
   "level_counts": {
     "Administrator": 150,
-    "Manager": 1289,
+    "Manager": 1290,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 3
   },
   "sla_counts": {
-    "green": 74,
+    "green": 75,
     "amber": 246,
     "red": 1122
   },
-  "total_interested": 1442,
+  "total_interested": 1443,
   "oldest_age": 363,
   "repeat_accounts": [
     [
@@ -16081,15 +16092,15 @@
       15
     ],
     [
+      "Holiday Inn",
+      14
+    ],
+    [
       "Vetcor",
       14
     ],
     [
       "The Learning Experience",
-      13
-    ],
-    [
-      "Holiday Inn",
       13
     ],
     [
