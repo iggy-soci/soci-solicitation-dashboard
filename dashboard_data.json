@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22 01:30 UTC",
+  "generated_at": "2026-09-22 07:30 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,14 +54,14 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 87,
-      "interested": 87
+      "responses_12mo": 89,
+      "interested": 89
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 184,
-      "interested": 184
+      "responses_12mo": 186,
+      "interested": 186
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,8 +78,8 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 397,
-      "interested": 397
+      "responses_12mo": 399,
+      "interested": 399
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 289,
-      "interested": 289
+      "responses_12mo": 292,
+      "interested": 292
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,8 +114,8 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 146,
-      "interested": 146
+      "responses_12mo": 147,
+      "interested": 147
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
@@ -125,6 +125,116 @@
     }
   },
   "contacts": [
+    {
+      "visitor": "653171",
+      "email": "clara.cortez@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-09-22",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Reporting Suite"
+    },
+    {
+      "visitor": "1036282",
+      "email": "Ashley.Stacy@monarchinvestment.com",
+      "name": "",
+      "account": "Monarch Investment and Management Group",
+      "date": "2026-09-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reporting Suite"
+    },
+    {
+      "visitor": "1289519",
+      "email": "gmelendez@venterraliving.com",
+      "name": "",
+      "account": "Venterra Living",
+      "date": "2026-09-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1253993",
+      "email": "crunyon@enmarket.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-09-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "712953",
+      "email": "torrance@tlechildcare.com",
+      "name": "",
+      "account": "The Learning Experience",
+      "date": "2026-09-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1213838",
+      "email": "recasella12@gmail.com",
+      "name": "",
+      "account": "Neighborly",
+      "date": "2026-09-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1012583",
+      "email": "canterberrya@hlcmail.com",
+      "name": "",
+      "account": "Huntington Learning Centers ",
+      "date": "2026-09-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1264765",
+      "email": "newcityny@stretchzone.com",
+      "name": "",
+      "account": "Stretch Zone Franchising, LLC ",
+      "date": "2026-09-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1292631",
+      "email": "lucy.mwananshiku@ihg.com",
+      "name": "",
+      "account": "voco",
+      "date": "2026-09-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1296535",
+      "email": "darrin@liftrfftx.com",
+      "name": "",
+      "account": "Retro Fitness",
+      "date": "2026-09-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
     {
       "visitor": "634755",
       "email": "jii3012@jeremiahsice.com",
@@ -16001,18 +16111,18 @@
   ],
   "level_counts": {
     "Administrator": 149,
-    "Manager": 1291,
+    "Manager": 1301,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 3
   },
   "sla_counts": {
-    "green": 61,
+    "green": 71,
     "amber": 255,
     "red": 1127
   },
-  "total_interested": 1443,
+  "total_interested": 1453,
   "oldest_age": 364,
   "repeat_accounts": [
     [
@@ -16025,7 +16135,7 @@
     ],
     [
       "Subway - North America",
-      42
+      43
     ],
     [
       "AT&T",
@@ -16041,7 +16151,7 @@
     ],
     [
       "Cruise Planners | CP Elite",
-      27
+      28
     ],
     [
       "Berkshire Hathaway HomeServices",
@@ -16065,7 +16175,7 @@
     ],
     [
       "Neighborly",
-      18
+      19
     ],
     [
       "Holiday Inn Express",
@@ -16092,6 +16202,10 @@
       15
     ],
     [
+      "The Learning Experience",
+      14
+    ],
+    [
       "Holiday Inn",
       14
     ],
@@ -16100,7 +16214,7 @@
       14
     ],
     [
-      "The Learning Experience",
+      "Stretch Zone Franchising, LLC ",
       13
     ],
     [
@@ -16110,10 +16224,6 @@
     [
       "The Goddard School",
       13
-    ],
-    [
-      "Stretch Zone Franchising, LLC ",
-      12
     ],
     [
       "Adara Communities ",
@@ -16140,6 +16250,14 @@
       11
     ],
     [
+      "Monarch Investment and Management Group",
+      10
+    ],
+    [
+      "voco",
+      10
+    ],
+    [
       "Orangetheory Fitness",
       10
     ],
@@ -16156,19 +16274,11 @@
       9
     ],
     [
-      "Monarch Investment and Management Group",
-      9
-    ],
-    [
       "FSC Franchise Brands",
       9
     ],
     [
       "Sheng Raamco Management Inc",
-      9
-    ],
-    [
-      "voco",
       9
     ],
     [
@@ -16208,6 +16318,10 @@
       8
     ],
     [
+      "Huntington Learning Centers ",
+      7
+    ],
+    [
       "Urban Air - Unleashed Brands",
       7
     ],
@@ -16234,6 +16348,10 @@
     [
       "Bruster's Real Ice Cream",
       7
+    ],
+    [
+      "Venterra Living",
+      6
     ],
     [
       "Jeremiah's Italian Ice",
@@ -16272,10 +16390,6 @@
       6
     ],
     [
-      "Huntington Learning Centers ",
-      6
-    ],
-    [
       "Chamberlin Associates",
       6
     ],
@@ -16301,10 +16415,6 @@
     ],
     [
       "Any Lab Test Now",
-      5
-    ],
-    [
-      "Venterra Living",
       5
     ],
     [
