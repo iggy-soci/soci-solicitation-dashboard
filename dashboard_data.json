@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23 04:04 UTC",
+  "generated_at": "2026-09-23 09:26 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 186,
-      "interested": 186
+      "responses_12mo": 188,
+      "interested": 188
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -72,14 +72,14 @@
     "Surveys": {
       "guide_id": "RLz8F0jmIzDqIwzo7WOPNNHQr4M",
       "views_12mo": 0,
-      "responses_12mo": 6,
-      "interested": 6
+      "responses_12mo": 7,
+      "interested": 7
     },
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 399,
-      "interested": 399
+      "responses_12mo": 404,
+      "interested": 404
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 292,
-      "interested": 292
+      "responses_12mo": 295,
+      "interested": 295
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,14 +114,14 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 147,
-      "interested": 147
+      "responses_12mo": 148,
+      "interested": 148
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 173,
-      "interested": 173
+      "responses_12mo": 174,
+      "interested": 174
     }
   },
   "contacts": [
@@ -135,6 +135,149 @@
       "age_days": 1,
       "sla": "green",
       "area": "Reporting Suite"
+    },
+    {
+      "visitor": "1285100",
+      "email": "leasing@landaraapartments.com",
+      "name": "",
+      "account": "Fairfield Residential",
+      "date": "2026-09-22",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "639747",
+      "email": "studio311@paintingwithatwist.com",
+      "name": "",
+      "account": "Painting with a Twist, LLC",
+      "date": "2026-09-22",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "506632",
+      "email": "habbertonmgr@blockmultifamily.com",
+      "name": "",
+      "account": "Block Multifamily Group",
+      "date": "2026-09-22",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Surveys"
+    },
+    {
+      "visitor": "1051426",
+      "email": "agaveridge@29SCLiving.com",
+      "name": "",
+      "account": "29th Street Living",
+      "date": "2026-09-22",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "852011",
+      "email": "jade.howard@monarchinvestment.com",
+      "name": "",
+      "account": "Monarch Investment and Management Group",
+      "date": "2026-09-22",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1224860",
+      "email": "vintageattheoverlook@alliedresidential.com",
+      "name": "",
+      "account": "Allied Residential ",
+      "date": "2026-09-22",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "426144",
+      "email": "bungalowsonbowlin@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-09-22",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "69559",
+      "email": "lmattern@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-09-22",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "653171",
+      "email": "clara.cortez@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-09-22",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "147552",
+      "email": "grandreserveaptmgr@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-09-22",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "633030",
+      "email": "HWHITT@ARLINGTONPROPERTIES.NET",
+      "name": "",
+      "account": "Arlington Properties",
+      "date": "2026-09-22",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1077736",
+      "email": "bell_j@subway.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-09-22",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1284703",
+      "email": "leasing@thepenstoneapartmentsandtownhomes.com",
+      "name": "",
+      "account": "Fairfield Residential",
+      "date": "2026-09-22",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "1036282",
@@ -16111,18 +16254,18 @@
   ],
   "level_counts": {
     "Administrator": 149,
-    "Manager": 1301,
+    "Manager": 1314,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 3
   },
   "sla_counts": {
-    "green": 59,
+    "green": 72,
     "amber": 263,
     "red": 1131
   },
-  "total_interested": 1453,
+  "total_interested": 1466,
   "oldest_age": 365,
   "repeat_accounts": [
     [
@@ -16131,27 +16274,27 @@
     ],
     [
       "Willow Bridge Property Company ",
-      50
+      51
     ],
     [
       "Subway - North America",
-      43
+      44
     ],
     [
       "AT&T",
       39
     ],
     [
+      "RPM Living",
+      33
+    ],
+    [
       "Avenue5 Residential",
       32
     ],
     [
-      "RPM Living",
-      32
-    ],
-    [
       "Cruise Planners | CP Elite",
-      28
+      30
     ],
     [
       "Berkshire Hathaway HomeServices",
@@ -16230,6 +16373,10 @@
       12
     ],
     [
+      "Monarch Investment and Management Group",
+      11
+    ],
+    [
       "Discovery Marketing Group, LLC dba STAT Marketing",
       11
     ],
@@ -16248,10 +16395,6 @@
     [
       "Bryten Management",
       11
-    ],
-    [
-      "Monarch Investment and Management Group",
-      10
     ],
     [
       "voco",
@@ -16298,6 +16441,10 @@
       9
     ],
     [
+      "Fairfield Residential",
+      8
+    ],
+    [
       "HomeWell Care Services",
       8
     ],
@@ -16316,6 +16463,10 @@
     [
       "American Freight (MAFGA)",
       8
+    ],
+    [
+      "Painting with a Twist, LLC",
+      7
     ],
     [
       "Huntington Learning Centers ",
@@ -16350,15 +16501,15 @@
       7
     ],
     [
+      "29th Street Living",
+      6
+    ],
+    [
       "Venterra Living",
       6
     ],
     [
       "Jeremiah's Italian Ice",
-      6
-    ],
-    [
-      "Fairfield Residential",
       6
     ],
     [
@@ -16394,10 +16545,6 @@
       6
     ],
     [
-      "Painting with a Twist, LLC",
-      6
-    ],
-    [
       "Lynd",
       6
     ],
@@ -16408,6 +16555,10 @@
     [
       "BrightStar Care ",
       6
+    ],
+    [
+      "Arlington Properties",
+      5
     ],
     [
       "Sunridge Management ",
@@ -16431,10 +16582,6 @@
     ],
     [
       "ServiceMaster Restore",
-      5
-    ],
-    [
-      "29th Street Living",
       5
     ],
     [
@@ -16471,10 +16618,6 @@
     ],
     [
       "Kiddie Academy",
-      4
-    ],
-    [
-      "Arlington Properties",
       4
     ],
     [
@@ -16672,6 +16815,14 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "Block Multifamily Group",
+      2
+    ],
+    [
+      "Allied Residential ",
+      2
     ],
     [
       "Cinnaholic ",
