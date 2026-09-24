@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24 05:56 UTC",
+  "generated_at": "2026-09-24 11:34 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,20 +54,20 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 89,
-      "interested": 89
+      "responses_12mo": 88,
+      "interested": 88
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 188,
-      "interested": 188
+      "responses_12mo": 190,
+      "interested": 190
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
       "views_12mo": 0,
-      "responses_12mo": 16,
-      "interested": 16
+      "responses_12mo": 18,
+      "interested": 18
     },
     "Surveys": {
       "guide_id": "RLz8F0jmIzDqIwzo7WOPNNHQr4M",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 404,
-      "interested": 404
+      "responses_12mo": 413,
+      "interested": 413
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 126,
-      "interested": 126
+      "responses_12mo": 128,
+      "interested": 128
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,14 +96,14 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 295,
-      "interested": 295
+      "responses_12mo": 297,
+      "interested": 297
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
       "views_12mo": 0,
-      "responses_12mo": 12,
-      "interested": 12
+      "responses_12mo": 13,
+      "interested": 13
     },
     "Data Management": {
       "guide_id": "YESnj4QI3Np_fsQ1W6_e_jBlJis",
@@ -114,17 +114,259 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 148,
-      "interested": 148
+      "responses_12mo": 149,
+      "interested": 149
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 174,
-      "interested": 174
+      "responses_12mo": 177,
+      "interested": 177
     }
   },
   "contacts": [
+    {
+      "visitor": "1298622",
+      "email": "dwoods4776@aol.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-09-24",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1297288",
+      "email": "gerard.mcEneaney@windowhero.com",
+      "name": "",
+      "account": "Window Hero",
+      "date": "2026-09-24",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1295814",
+      "email": "paolo@offthegridgetaways.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-09-24",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1298158",
+      "email": "tom@wingslpa.com",
+      "name": "",
+      "account": "Wings Etc.",
+      "date": "2026-09-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "796847",
+      "email": "parksidetx@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-09-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "840900",
+      "email": "kb6233@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-09-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Pages"
+    },
+    {
+      "visitor": "103007",
+      "email": "justin.beatty@chebahut.com",
+      "name": "",
+      "account": "Cheba Hut Franchising Inc.",
+      "date": "2026-09-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Pages"
+    },
+    {
+      "visitor": "712646",
+      "email": "bocaraton@tlechildcare.com",
+      "name": "",
+      "account": "The Learning Experience",
+      "date": "2026-09-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1024564",
+      "email": "kanetta.denk@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-09-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "690012",
+      "email": "lesli@servicemasterofthedesert.com",
+      "name": "",
+      "account": "ServiceMaster Clean",
+      "date": "2026-09-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1210946",
+      "email": "susana@sonrisacx.com",
+      "name": "",
+      "account": "Neighborly",
+      "date": "2026-09-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1062474",
+      "email": "retana.r+3075158@ewm.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-09-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "649375",
+      "email": "1108-williamsburg@anotherbrokenegg.com",
+      "name": "",
+      "account": "Another Broken Egg",
+      "date": "2026-09-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "762596",
+      "email": "cheras@littlekickers.com.my",
+      "name": "",
+      "account": "Little Kickers",
+      "date": "2026-09-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1294341",
+      "email": "randerson@thelittlegym.com",
+      "name": "",
+      "account": "The Little Gym",
+      "date": "2026-09-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1298900",
+      "email": "tyler.vanzandt@toprailfence.com",
+      "name": "",
+      "account": "Top Rail Fence",
+      "date": "2026-09-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "409644",
+      "email": "ven@4wp.com",
+      "name": "",
+      "account": "4 Wheel Parts",
+      "date": "2026-09-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1182007",
+      "email": "rrabraham@vetcor.com",
+      "name": "",
+      "account": "Vetcor",
+      "date": "2026-09-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "288174",
+      "email": "DM@arborprop.com",
+      "name": "",
+      "account": "Arbor Property Management",
+      "date": "2026-09-23",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Listings"
+    },
+    {
+      "visitor": "988558",
+      "email": "genelle@atlastravelelite.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-09-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1294341",
+      "email": "randerson@thelittlegym.com",
+      "name": "",
+      "account": "The Little Gym",
+      "date": "2026-09-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1296382",
+      "email": "artisan39@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-09-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
     {
       "visitor": "653171",
       "email": "clara.cortez@cruiseplanners.com",
@@ -16239,38 +16481,27 @@
       "age_days": 365,
       "sla": "red",
       "area": "Reporting Suite"
-    },
-    {
-      "visitor": "58052",
-      "email": "deborah.poole@mrrootervb.com",
-      "name": "",
-      "account": "Neighborly",
-      "date": "2025-09-23",
-      "user_level": "Manager",
-      "age_days": 366,
-      "sla": "red",
-      "area": "Reporting Suite"
     }
   ],
   "level_counts": {
-    "Administrator": 149,
-    "Manager": 1314,
+    "Administrator": 150,
+    "Manager": 1334,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 3
   },
   "sla_counts": {
-    "green": 60,
+    "green": 82,
     "amber": 260,
-    "red": 1146
+    "red": 1145
   },
-  "total_interested": 1466,
-  "oldest_age": 366,
+  "total_interested": 1487,
+  "oldest_age": 365,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
-      57
+      60
     ],
     [
       "Willow Bridge Property Company ",
@@ -16282,23 +16513,23 @@
     ],
     [
       "AT&T",
-      39
+      40
+    ],
+    [
+      "Avenue5 Residential",
+      34
     ],
     [
       "RPM Living",
       33
     ],
     [
-      "Avenue5 Residential",
-      32
-    ],
-    [
       "Cruise Planners | CP Elite",
-      30
+      31
     ],
     [
       "Berkshire Hathaway HomeServices",
-      25
+      26
     ],
     [
       "Liberty Tax",
@@ -16337,6 +16568,14 @@
       16
     ],
     [
+      "The Learning Experience",
+      15
+    ],
+    [
+      "Vetcor",
+      15
+    ],
+    [
       "Nothing Bundt Cakes",
       15
     ],
@@ -16345,15 +16584,7 @@
       15
     ],
     [
-      "The Learning Experience",
-      14
-    ],
-    [
       "Holiday Inn",
-      14
-    ],
-    [
-      "Vetcor",
       14
     ],
     [
@@ -16557,6 +16788,10 @@
       6
     ],
     [
+      "The Little Gym",
+      5
+    ],
+    [
       "Arlington Properties",
       5
     ],
@@ -16591,6 +16826,14 @@
     [
       "Guild Mortgage",
       5
+    ],
+    [
+      "ServiceMaster Clean",
+      4
+    ],
+    [
+      "Little Kickers",
+      4
     ],
     [
       "WinnResidential",
@@ -16701,14 +16944,6 @@
       3
     ],
     [
-      "ServiceMaster Clean",
-      3
-    ],
-    [
-      "Little Kickers",
-      3
-    ],
-    [
       "HSL Asset Management LLC ",
       3
     ],
@@ -16762,10 +16997,6 @@
     ],
     [
       "Legend Asset Management ",
-      3
-    ],
-    [
-      "The Little Gym",
       3
     ],
     [
