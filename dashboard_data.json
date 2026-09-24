@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24 16:49 UTC",
+  "generated_at": "2026-09-24 20:18 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -2265,7 +2265,7 @@
       "name": "",
       "account": "Liberty Tax",
       "date": "2026-09-04",
-      "user_level": "Manager",
+      "user_level": "Unknown",
       "age_days": 20,
       "sla": "amber",
       "area": "Genius Social"
@@ -16485,11 +16485,11 @@
   ],
   "level_counts": {
     "Administrator": 150,
-    "Manager": 1334,
+    "Manager": 1333,
     "User": 0
   },
   "level_counts_extra": {
-    "Unknown": 3
+    "Unknown": 4
   },
   "sla_counts": {
     "green": 82,
