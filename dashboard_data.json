@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25 01:46 UTC",
+  "generated_at": "2026-09-25 07:23 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,14 +54,14 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 88,
-      "interested": 88
+      "responses_12mo": 86,
+      "interested": 86
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 190,
-      "interested": 190
+      "responses_12mo": 193,
+      "interested": 193
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,8 +78,8 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 413,
-      "interested": 413
+      "responses_12mo": 419,
+      "interested": 419
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 297,
-      "interested": 297
+      "responses_12mo": 299,
+      "interested": 299
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,8 +114,8 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 149,
-      "interested": 149
+      "responses_12mo": 150,
+      "interested": 150
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
@@ -125,6 +125,105 @@
     }
   },
   "contacts": [
+    {
+      "visitor": "811189",
+      "email": "center16@bbmacademy.com",
+      "name": "",
+      "account": "Big Blue Marble Academy",
+      "date": "2026-09-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "409644",
+      "email": "ven@4wp.com",
+      "name": "",
+      "account": "4 Wheel Parts",
+      "date": "2026-09-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "590831",
+      "email": "watersedgeaptsasst@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-09-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "834253",
+      "email": "connie.eaton@gmail.com",
+      "name": "",
+      "account": "Nothing Bundt Cakes",
+      "date": "2026-09-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "700901",
+      "email": "brittany.carrseely@britishswimschool.com",
+      "name": "",
+      "account": "British Swim School ",
+      "date": "2026-09-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "35743",
+      "email": "kilcommonsm@hlcmail.com",
+      "name": "",
+      "account": "Huntington Learning Centers ",
+      "date": "2026-09-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "69642",
+      "email": "dsoto@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-09-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "945884",
+      "email": "buckingham@galmangroup.com",
+      "name": "",
+      "account": "The Galman Group",
+      "date": "2026-09-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "712813",
+      "email": "macungie@tlechildcare.com",
+      "name": "",
+      "account": "The Learning Experience",
+      "date": "2026-09-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
     {
       "visitor": "1298622",
       "email": "dwoods4776@aol.com",
@@ -146,6 +245,39 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Social"
+    },
+    {
+      "visitor": "1289867",
+      "email": "aymartinez@venterraliving.com",
+      "name": "",
+      "account": "Venterra Living",
+      "date": "2026-09-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "705424",
+      "email": "jsweet@4wp.com",
+      "name": "",
+      "account": "4 Wheel Parts",
+      "date": "2026-09-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1296846",
+      "email": "lmontalvo@venterraliving.com",
+      "name": "",
+      "account": "Venterra Living",
+      "date": "2026-09-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
     },
     {
       "visitor": "1295814",
@@ -16459,53 +16591,31 @@
       "age_days": 359,
       "sla": "red",
       "area": "Reporting Suite"
-    },
-    {
-      "visitor": "995199",
-      "email": "shorebird.manager@livebryten.com",
-      "name": "",
-      "account": "Bryten Management",
-      "date": "2025-09-24",
-      "user_level": "Manager",
-      "age_days": 366,
-      "sla": "red",
-      "area": "Reporting Suite"
-    },
-    {
-      "visitor": "742752",
-      "email": "Alice.Hensley@apassion2travel.com",
-      "name": "",
-      "account": "Travel Leaders Group",
-      "date": "2025-09-24",
-      "user_level": "Manager",
-      "age_days": 366,
-      "sla": "red",
-      "area": "Reporting Suite"
     }
   ],
   "level_counts": {
     "Administrator": 150,
-    "Manager": 1333,
+    "Manager": 1343,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 4
   },
   "sla_counts": {
-    "green": 68,
+    "green": 80,
     "amber": 252,
-    "red": 1167
+    "red": 1165
   },
-  "total_interested": 1487,
-  "oldest_age": 366,
+  "total_interested": 1497,
+  "oldest_age": 359,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
-      60
+      59
     ],
     [
       "Willow Bridge Property Company ",
-      51
+      52
     ],
     [
       "Subway - North America",
@@ -16525,7 +16635,7 @@
     ],
     [
       "Cruise Planners | CP Elite",
-      31
+      32
     ],
     [
       "Berkshire Hathaway HomeServices",
@@ -16560,6 +16670,14 @@
       17
     ],
     [
+      "Nothing Bundt Cakes",
+      16
+    ],
+    [
+      "The Learning Experience",
+      16
+    ],
+    [
       "Signarama",
       16
     ],
@@ -16568,15 +16686,7 @@
       16
     ],
     [
-      "The Learning Experience",
-      15
-    ],
-    [
       "Vetcor",
-      15
-    ],
-    [
-      "Nothing Bundt Cakes",
       15
     ],
     [
@@ -16624,10 +16734,6 @@
       11
     ],
     [
-      "Bryten Management",
-      11
-    ],
-    [
       "voco",
       10
     ],
@@ -16637,6 +16743,10 @@
     ],
     [
       "Pointe Grand",
+      10
+    ],
+    [
+      "Bryten Management",
       10
     ],
     [
@@ -16672,6 +16782,14 @@
       9
     ],
     [
+      "Huntington Learning Centers ",
+      8
+    ],
+    [
+      "Venterra Living",
+      8
+    ],
+    [
       "Fairfield Residential",
       8
     ],
@@ -16697,10 +16815,6 @@
     ],
     [
       "Painting with a Twist, LLC",
-      7
-    ],
-    [
-      "Huntington Learning Centers ",
       7
     ],
     [
@@ -16733,10 +16847,6 @@
     ],
     [
       "29th Street Living",
-      6
-    ],
-    [
-      "Venterra Living",
       6
     ],
     [
@@ -16908,6 +17018,10 @@
       4
     ],
     [
+      "4 Wheel Parts",
+      3
+    ],
+    [
       "Beavercreek Marketing",
       3
     ],
@@ -17046,6 +17160,14 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "Big Blue Marble Academy",
+      2
+    ],
+    [
+      "British Swim School ",
+      2
     ],
     [
       "Block Multifamily Group",
