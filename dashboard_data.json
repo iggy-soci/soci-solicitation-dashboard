@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26 05:19 UTC",
+  "generated_at": "2026-09-26 10:06 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 193,
-      "interested": 193
+      "responses_12mo": 195,
+      "interested": 195
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 419,
-      "interested": 419
+      "responses_12mo": 423,
+      "interested": 423
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 128,
-      "interested": 128
+      "responses_12mo": 129,
+      "interested": 129
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 299,
-      "interested": 299
+      "responses_12mo": 302,
+      "interested": 302
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,160 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 150,
-      "interested": 150
+      "responses_12mo": 151,
+      "interested": 151
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 177,
-      "interested": 177
+      "responses_12mo": 179,
+      "interested": 179
     }
   },
   "contacts": [
+    {
+      "visitor": "81316",
+      "email": "inglesidemgr@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-09-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1261798",
+      "email": "gm.milton.on@kidstrong.com",
+      "name": "",
+      "account": "KidStrong",
+      "date": "2026-09-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "588312",
+      "email": "jim.allen@grazecraze.com",
+      "name": "",
+      "account": "Graze Craze Advertising Fund, Inc.",
+      "date": "2026-09-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "168977",
+      "email": "kurtistraughber+3032141@bhhscal.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-09-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1224357",
+      "email": "hayspark@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-09-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "824842",
+      "email": "nplumer@vetcor.com",
+      "name": "",
+      "account": "Vetcor",
+      "date": "2026-09-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "838141",
+      "email": "czarza@anterra.com",
+      "name": "",
+      "account": "Anterra",
+      "date": "2026-09-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1277471",
+      "email": "studioca031@orangetheoryfitness.ca",
+      "name": "",
+      "account": "Orangetheory Fitness Canada",
+      "date": "2026-09-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1298037",
+      "email": "adam@urbanaircolumbia.com",
+      "name": "",
+      "account": "Urban Air - Unleashed Brands",
+      "date": "2026-09-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "701471",
+      "email": "highlands@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-09-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1256836",
+      "email": "2959619@sso.subway.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-09-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "887733",
+      "email": "manager@waterleighatleland.com",
+      "name": "",
+      "account": "Bryten Management",
+      "date": "2026-09-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1261030",
+      "email": "GMWestMadison@teriyakimadness.com",
+      "name": "",
+      "account": "Teriyaki Madness",
+      "date": "2026-09-25",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
     {
       "visitor": "811189",
       "email": "center16@bbmacademy.com",
@@ -16595,18 +16738,18 @@
   ],
   "level_counts": {
     "Administrator": 150,
-    "Manager": 1343,
+    "Manager": 1356,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 4
   },
   "sla_counts": {
-    "green": 63,
+    "green": 76,
     "amber": 261,
     "red": 1173
   },
-  "total_interested": 1497,
+  "total_interested": 1510,
   "oldest_age": 360,
   "repeat_accounts": [
     [
@@ -16615,11 +16758,11 @@
     ],
     [
       "Willow Bridge Property Company ",
-      52
+      53
     ],
     [
       "Subway - North America",
-      44
+      45
     ],
     [
       "AT&T",
@@ -16627,7 +16770,7 @@
     ],
     [
       "Avenue5 Residential",
-      34
+      36
     ],
     [
       "RPM Living",
@@ -16639,7 +16782,7 @@
     ],
     [
       "Berkshire Hathaway HomeServices",
-      26
+      27
     ],
     [
       "Liberty Tax",
@@ -16670,6 +16813,10 @@
       17
     ],
     [
+      "Vetcor",
+      16
+    ],
+    [
       "Nothing Bundt Cakes",
       16
     ],
@@ -16684,10 +16831,6 @@
     [
       "Sylvan Learning",
       16
-    ],
-    [
-      "Vetcor",
-      15
     ],
     [
       "Texas Roadhouse Holdings LLC",
@@ -16710,8 +16853,16 @@
       13
     ],
     [
+      "Teriyaki Madness",
+      12
+    ],
+    [
       "Adara Communities ",
       12
+    ],
+    [
+      "Bryten Management",
+      11
     ],
     [
       "Monarch Investment and Management Group",
@@ -16719,10 +16870,6 @@
     ],
     [
       "Discovery Marketing Group, LLC dba STAT Marketing",
-      11
-    ],
-    [
-      "Teriyaki Madness",
       11
     ],
     [
@@ -16743,10 +16890,6 @@
     ],
     [
       "Pointe Grand",
-      10
-    ],
-    [
-      "Bryten Management",
       10
     ],
     [
@@ -16780,6 +16923,14 @@
     [
       "Mill Creek Residential ",
       9
+    ],
+    [
+      "Orangetheory Fitness Canada",
+      8
+    ],
+    [
+      "Urban Air - Unleashed Brands",
+      8
     ],
     [
       "Huntington Learning Centers ",
@@ -16818,10 +16969,6 @@
       7
     ],
     [
-      "Urban Air - Unleashed Brands",
-      7
-    ],
-    [
       "Lightbridge Academy",
       7
     ],
@@ -16835,10 +16982,6 @@
     ],
     [
       "Decorating Den Interiors",
-      7
-    ],
-    [
-      "Orangetheory Fitness Canada",
       7
     ],
     [
@@ -16896,6 +17039,10 @@
     [
       "BrightStar Care ",
       6
+    ],
+    [
+      "Anterra",
+      5
     ],
     [
       "The Little Gym",
@@ -16987,10 +17134,6 @@
     ],
     [
       "Crowne Plaza",
-      4
-    ],
-    [
-      "Anterra",
       4
     ],
     [
@@ -17160,6 +17303,14 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "KidStrong",
+      2
+    ],
+    [
+      "Graze Craze Advertising Fund, Inc.",
+      2
     ],
     [
       "Big Blue Marble Academy",
