@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27 04:34 UTC",
+  "generated_at": "2026-09-27 10:25 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 195,
-      "interested": 195
+      "responses_12mo": 196,
+      "interested": 196
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -120,11 +120,33 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 179,
-      "interested": 179
+      "responses_12mo": 180,
+      "interested": 180
     }
   },
   "contacts": [
+    {
+      "visitor": "1248425",
+      "email": "pinakin.patel74@yahoo.ca",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-09-27",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "966035",
+      "email": "shey.taiwo@anytimefitness.com",
+      "name": "",
+      "account": "Anytime Fitness NA ",
+      "date": "2026-09-26",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
     {
       "visitor": "81316",
       "email": "inglesidemgr@willowbridgepc.com",
@@ -2540,7 +2562,7 @@
       "name": "",
       "account": "Liberty Tax",
       "date": "2026-09-04",
-      "user_level": "Unknown",
+      "user_level": "Manager",
       "age_days": 23,
       "sla": "amber",
       "area": "Genius Social"
@@ -16738,18 +16760,18 @@
   ],
   "level_counts": {
     "Administrator": 150,
-    "Manager": 1356,
+    "Manager": 1359,
     "User": 0
   },
   "level_counts_extra": {
-    "Unknown": 4
+    "Unknown": 3
   },
   "sla_counts": {
-    "green": 72,
+    "green": 74,
     "amber": 244,
     "red": 1194
   },
-  "total_interested": 1510,
+  "total_interested": 1512,
   "oldest_age": 361,
   "repeat_accounts": [
     [
@@ -16762,7 +16784,7 @@
     ],
     [
       "Subway - North America",
-      45
+      46
     ],
     [
       "AT&T",
@@ -16794,7 +16816,7 @@
     ],
     [
       "Anytime Fitness NA ",
-      20
+      21
     ],
     [
       "Cruise Planners | CP Pro",
