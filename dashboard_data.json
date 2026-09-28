@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28 01:06 UTC",
+  "generated_at": "2026-09-28 07:26 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -84,8 +84,8 @@
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 129,
-      "interested": 129
+      "responses_12mo": 130,
+      "interested": 130
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -120,8 +120,8 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 180,
-      "interested": 180
+      "responses_12mo": 181,
+      "interested": 181
     }
   },
   "contacts": [
@@ -135,6 +135,28 @@
       "age_days": 1,
       "sla": "green",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "865018",
+      "email": "bcormier@atchealthcare.com",
+      "name": "",
+      "account": "ATC Healthcare Services",
+      "date": "2026-09-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1297217",
+      "email": "cody.maxwell@toprailfence.com",
+      "name": "",
+      "account": "Top Rail Fence",
+      "date": "2026-09-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "966035",
@@ -16760,18 +16782,18 @@
   ],
   "level_counts": {
     "Administrator": 150,
-    "Manager": 1359,
+    "Manager": 1361,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 3
   },
   "sla_counts": {
-    "green": 73,
+    "green": 75,
     "amber": 234,
     "red": 1205
   },
-  "total_interested": 1512,
+  "total_interested": 1514,
   "oldest_age": 362,
   "repeat_accounts": [
     [
@@ -17183,6 +17205,10 @@
       4
     ],
     [
+      "ATC Healthcare Services",
+      3
+    ],
+    [
       "4 Wheel Parts",
       3
     ],
@@ -17327,6 +17353,10 @@
       3
     ],
     [
+      "Top Rail Fence",
+      2
+    ],
+    [
       "KidStrong",
       2
     ],
@@ -17384,10 +17414,6 @@
     ],
     [
       "Affordable Care",
-      2
-    ],
-    [
-      "ATC Healthcare Services",
       2
     ],
     [
