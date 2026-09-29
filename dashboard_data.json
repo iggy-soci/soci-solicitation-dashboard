@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29 01:37 UTC",
+  "generated_at": "2026-09-29 08:07 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,14 +60,14 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 196,
-      "interested": 196
+      "responses_12mo": 197,
+      "interested": 197
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
       "views_12mo": 0,
-      "responses_12mo": 18,
-      "interested": 18
+      "responses_12mo": 19,
+      "interested": 19
     },
     "Surveys": {
       "guide_id": "RLz8F0jmIzDqIwzo7WOPNNHQr4M",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 423,
-      "interested": 423
+      "responses_12mo": 427,
+      "interested": 427
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 130,
-      "interested": 130
+      "responses_12mo": 132,
+      "interested": 132
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 302,
-      "interested": 302
+      "responses_12mo": 305,
+      "interested": 305
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,171 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 151,
-      "interested": 151
+      "responses_12mo": 152,
+      "interested": 152
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 181,
-      "interested": 181
+      "responses_12mo": 183,
+      "interested": 183
     }
   },
   "contacts": [
+    {
+      "visitor": "713551",
+      "email": "store_pearlandtx@texasroadhouse.com",
+      "name": "",
+      "account": "Texas Roadhouse Holdings LLC",
+      "date": "2026-09-29",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1268752",
+      "email": "laurelgolik@chilln.com",
+      "name": "",
+      "account": "Chill N Ice Cream",
+      "date": "2026-09-29",
+      "user_level": "Administrator",
+      "age_days": 0,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "878827",
+      "email": "Baton_Rouge_Jump@skyzone.com",
+      "name": "",
+      "account": "Sky Zone",
+      "date": "2026-09-28",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "302164",
+      "email": "tp5785@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-09-28",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Pages"
+    },
+    {
+      "visitor": "1194948",
+      "email": "LMendoza@millcreekplaces.com",
+      "name": "",
+      "account": "Mill Creek Residential ",
+      "date": "2026-09-28",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "71900",
+      "email": "cbeckman@tworld.com",
+      "name": "",
+      "account": "Transworld Business Advisors ",
+      "date": "2026-09-28",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1294908",
+      "email": "sharonda@azuresandstravel.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-09-28",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1213590",
+      "email": "jvillarreal@nepropertymanagement.com",
+      "name": "",
+      "account": "NE Property Management",
+      "date": "2026-09-28",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "69895",
+      "email": "kendra.konitzer@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-09-28",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1297753",
+      "email": "3963782@sso.subway.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-09-28",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "297129",
+      "email": "tcarver@fishwindowcleaning.com",
+      "name": "",
+      "account": "Fish Window Cleaning Services, Inc.",
+      "date": "2026-09-28",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "592420",
+      "email": "amurraydieselbarbershop@gmail.com",
+      "name": "",
+      "account": "Diesel Barbershop ",
+      "date": "2026-09-28",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1286758",
+      "email": "eastmarcommons@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-09-28",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "421373",
+      "email": "Pradhanspets@pspfranchise.com",
+      "name": "",
+      "account": "Pet Supplies Plus",
+      "date": "2026-09-28",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
     {
       "visitor": "1248425",
       "email": "pinakin.patel74@yahoo.ca",
@@ -16781,48 +16935,48 @@
     }
   ],
   "level_counts": {
-    "Administrator": 150,
-    "Manager": 1361,
+    "Administrator": 151,
+    "Manager": 1374,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 3
   },
   "sla_counts": {
-    "green": 65,
+    "green": 79,
     "amber": 241,
     "red": 1208
   },
-  "total_interested": 1514,
+  "total_interested": 1528,
   "oldest_age": 363,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
-      59
+      60
     ],
     [
       "Willow Bridge Property Company ",
-      53
+      54
     ],
     [
       "Subway - North America",
-      46
+      47
     ],
     [
       "AT&T",
-      40
+      41
     ],
     [
       "Avenue5 Residential",
       36
     ],
     [
-      "RPM Living",
+      "Cruise Planners | CP Elite",
       33
     ],
     [
-      "Cruise Planners | CP Elite",
-      32
+      "RPM Living",
+      33
     ],
     [
       "Berkshire Hathaway HomeServices",
@@ -16834,7 +16988,7 @@
     ],
     [
       "Sky Zone",
-      22
+      23
     ],
     [
       "Anytime Fitness NA ",
@@ -16857,6 +17011,10 @@
       17
     ],
     [
+      "Texas Roadhouse Holdings LLC",
+      16
+    ],
+    [
       "Vetcor",
       16
     ],
@@ -16877,8 +17035,8 @@
       16
     ],
     [
-      "Texas Roadhouse Holdings LLC",
-      15
+      "Pet Supplies Plus",
+      14
     ],
     [
       "Holiday Inn",
@@ -16886,10 +17044,6 @@
     ],
     [
       "Stretch Zone Franchising, LLC ",
-      13
-    ],
-    [
-      "Pet Supplies Plus",
       13
     ],
     [
@@ -16923,6 +17077,10 @@
     [
       "Ford",
       11
+    ],
+    [
+      "Mill Creek Residential ",
+      10
     ],
     [
       "voco",
@@ -16962,10 +17120,6 @@
     ],
     [
       "Elements Massage",
-      9
-    ],
-    [
-      "Mill Creek Residential ",
       9
     ],
     [
@@ -17085,6 +17239,10 @@
       6
     ],
     [
+      "Transworld Business Advisors ",
+      5
+    ],
+    [
       "Anterra",
       5
     ],
@@ -17138,10 +17296,6 @@
     ],
     [
       "WinnResidential",
-      4
-    ],
-    [
-      "Transworld Business Advisors ",
       4
     ],
     [
@@ -17351,6 +17505,14 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "Fish Window Cleaning Services, Inc.",
+      2
+    ],
+    [
+      "Diesel Barbershop ",
+      2
     ],
     [
       "Top Rail Fence",
