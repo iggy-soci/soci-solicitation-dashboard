@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30 04:51 UTC",
+  "generated_at": "2026-09-30 11:00 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 427,
-      "interested": 427
+      "responses_12mo": 436,
+      "interested": 436
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 132,
-      "interested": 132
+      "responses_12mo": 133,
+      "interested": 133
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 305,
-      "interested": 305
+      "responses_12mo": 309,
+      "interested": 309
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,116 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 152,
-      "interested": 152
+      "responses_12mo": 153,
+      "interested": 153
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 183,
-      "interested": 183
+      "responses_12mo": 186,
+      "interested": 186
     }
   },
   "contacts": [
+    {
+      "visitor": "1299876",
+      "email": "jessicap@weidner.com",
+      "name": "",
+      "account": "Weidner",
+      "date": "2026-09-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "278246",
+      "email": "Cali.Arenson@twomen.com",
+      "name": "",
+      "account": "TWO MEN AND A TRUCK",
+      "date": "2026-09-29",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "186814",
+      "email": "dwilder+355963@bhhsin.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-09-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "199277",
+      "email": "claudelle.johnson+1049524@bhhsaz.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-09-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "527575",
+      "email": "susie.hunt@britishswimschool.com",
+      "name": "",
+      "account": "British Swim School ",
+      "date": "2026-09-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "106976",
+      "email": "store.01158@rentacenter.com",
+      "name": "",
+      "account": "Rent-A-Center",
+      "date": "2026-09-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1263706",
+      "email": "store494@hteao.com",
+      "name": "",
+      "account": "HTeaO",
+      "date": "2026-09-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1173722",
+      "email": "ceres@groceryoutlet.com",
+      "name": "",
+      "account": "Grocery Outlet",
+      "date": "2026-09-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "218288",
+      "email": "carrie.carver+1127614@penfedrealty.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-09-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
     {
       "visitor": "713551",
       "email": "store_pearlandtx@texasroadhouse.com",
@@ -137,6 +236,72 @@
       "area": "Social"
     },
     {
+      "visitor": "1301930",
+      "email": "canoancm@laramar.com",
+      "name": "",
+      "account": "The Laramar Group",
+      "date": "2026-09-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1263320",
+      "email": "maria@expresssfo.com",
+      "name": "",
+      "account": "Holiday Inn Express",
+      "date": "2026-09-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "149724",
+      "email": "info@prospecthillstopeka.com",
+      "name": "",
+      "account": "Eucalyptus Real Estate",
+      "date": "2026-09-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1284713",
+      "email": "Leasing@GreensofPineGlenApartments.com",
+      "name": "",
+      "account": "Fairfield Residential",
+      "date": "2026-09-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1117814",
+      "email": "va407.gm@gocarwash.com",
+      "name": "",
+      "account": "GO Car Wash",
+      "date": "2026-09-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1260994",
+      "email": "themodern@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-09-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
       "visitor": "1268752",
       "email": "laurelgolik@chilln.com",
       "name": "",
@@ -146,6 +311,39 @@
       "age_days": 1,
       "sla": "green",
       "area": "AskGenius"
+    },
+    {
+      "visitor": "293221",
+      "email": "psp4146@petsuppliesplus.com",
+      "name": "",
+      "account": "Pet Supplies Plus",
+      "date": "2026-09-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "712726",
+      "email": "farmersbranch@tlechildcare.com",
+      "name": "",
+      "account": "The Learning Experience",
+      "date": "2026-09-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1298917",
+      "email": "psp4723@petsuppliesplus.com",
+      "name": "",
+      "account": "Pet Supplies Plus",
+      "date": "2026-09-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "878827",
@@ -16935,19 +17133,19 @@
     }
   ],
   "level_counts": {
-    "Administrator": 151,
-    "Manager": 1374,
+    "Administrator": 152,
+    "Manager": 1391,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 3
   },
   "sla_counts": {
-    "green": 65,
+    "green": 83,
     "amber": 253,
     "red": 1210
   },
-  "total_interested": 1528,
+  "total_interested": 1546,
   "oldest_age": 364,
   "repeat_accounts": [
     [
@@ -16968,7 +17166,7 @@
     ],
     [
       "Avenue5 Residential",
-      36
+      37
     ],
     [
       "Cruise Planners | CP Elite",
@@ -16980,7 +17178,7 @@
     ],
     [
       "Berkshire Hathaway HomeServices",
-      27
+      30
     ],
     [
       "Liberty Tax",
@@ -17004,6 +17202,10 @@
     ],
     [
       "Holiday Inn Express",
+      18
+    ],
+    [
+      "The Learning Experience",
       17
     ],
     [
@@ -17015,15 +17217,15 @@
       16
     ],
     [
+      "Pet Supplies Plus",
+      16
+    ],
+    [
       "Vetcor",
       16
     ],
     [
       "Nothing Bundt Cakes",
-      16
-    ],
-    [
-      "The Learning Experience",
       16
     ],
     [
@@ -17033,10 +17235,6 @@
     [
       "Sylvan Learning",
       16
-    ],
-    [
-      "Pet Supplies Plus",
-      14
     ],
     [
       "Holiday Inn",
@@ -17079,6 +17277,14 @@
       11
     ],
     [
+      "Weidner",
+      10
+    ],
+    [
+      "Grocery Outlet",
+      10
+    ],
+    [
       "Mill Creek Residential ",
       10
     ],
@@ -17095,11 +17301,11 @@
       10
     ],
     [
-      "Dill Dinkers",
+      "Fairfield Residential",
       9
     ],
     [
-      "Grocery Outlet",
+      "Dill Dinkers",
       9
     ],
     [
@@ -17112,10 +17318,6 @@
     ],
     [
       "InterContinental",
-      9
-    ],
-    [
-      "Weidner",
       9
     ],
     [
@@ -17136,10 +17338,6 @@
     ],
     [
       "Venterra Living",
-      8
-    ],
-    [
-      "Fairfield Residential",
       8
     ],
     [
@@ -17185,6 +17383,10 @@
     [
       "Bruster's Real Ice Cream",
       7
+    ],
+    [
+      "Rent-A-Center",
+      6
     ],
     [
       "29th Street Living",
@@ -17271,10 +17473,6 @@
       5
     ],
     [
-      "Rent-A-Center",
-      5
-    ],
-    [
       "ServiceMaster Restore",
       5
     ],
@@ -17285,6 +17483,18 @@
     [
       "Guild Mortgage",
       5
+    ],
+    [
+      "TWO MEN AND A TRUCK",
+      4
+    ],
+    [
+      "HTeaO",
+      4
+    ],
+    [
+      "GO Car Wash",
+      4
     ],
     [
       "ServiceMaster Clean",
@@ -17359,6 +17569,14 @@
       4
     ],
     [
+      "British Swim School ",
+      3
+    ],
+    [
+      "Eucalyptus Real Estate",
+      3
+    ],
+    [
       "ATC Healthcare Services",
       3
     ],
@@ -17404,10 +17622,6 @@
     ],
     [
       "HSL Asset Management LLC ",
-      3
-    ],
-    [
-      "HTeaO",
       3
     ],
     [
@@ -17471,10 +17685,6 @@
       3
     ],
     [
-      "GO Car Wash",
-      3
-    ],
-    [
       "Aqua-Tots Swim Schools ",
       3
     ],
@@ -17499,12 +17709,12 @@
       3
     ],
     [
-      "TWO MEN AND A TRUCK",
+      "CIP Communities",
       3
     ],
     [
-      "CIP Communities",
-      3
+      "The Laramar Group",
+      2
     ],
     [
       "Fish Window Cleaning Services, Inc.",
@@ -17528,10 +17738,6 @@
     ],
     [
       "Big Blue Marble Academy",
-      2
-    ],
-    [
-      "British Swim School ",
       2
     ],
     [
@@ -17616,10 +17822,6 @@
     ],
     [
       "Embrey Management Service",
-      2
-    ],
-    [
-      "Eucalyptus Real Estate",
       2
     ],
     [
