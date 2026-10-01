@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01 00:44 UTC",
+  "generated_at": "2026-10-01 07:00 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -72,20 +72,20 @@
     "Surveys": {
       "guide_id": "RLz8F0jmIzDqIwzo7WOPNNHQr4M",
       "views_12mo": 0,
-      "responses_12mo": 7,
-      "interested": 7
+      "responses_12mo": 8,
+      "interested": 8
     },
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 436,
-      "interested": 436
+      "responses_12mo": 442,
+      "interested": 442
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 133,
-      "interested": 133
+      "responses_12mo": 134,
+      "interested": 134
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,14 +96,14 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 309,
-      "interested": 309
+      "responses_12mo": 311,
+      "interested": 311
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
       "views_12mo": 0,
-      "responses_12mo": 13,
-      "interested": 13
+      "responses_12mo": 14,
+      "interested": 14
     },
     "Data Management": {
       "guide_id": "YESnj4QI3Np_fsQ1W6_e_jBlJis",
@@ -120,11 +120,165 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 186,
-      "interested": 186
+      "responses_12mo": 189,
+      "interested": 189
     }
   },
   "contacts": [
+    {
+      "visitor": "1291702",
+      "email": "jad.germanous@ihg.com",
+      "name": "",
+      "account": "Crowne Plaza",
+      "date": "2026-10-01",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "736888",
+      "email": "folksong@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-09-30",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Surveys"
+    },
+    {
+      "visitor": "433258",
+      "email": "kimberleyjmeade@gmail.com",
+      "name": "",
+      "account": "Forty Winks | The Pistol",
+      "date": "2026-09-30",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1202353",
+      "email": "Store.03952@rentacenter.com",
+      "name": "",
+      "account": "Rent-A-Center",
+      "date": "2026-09-30",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "874347",
+      "email": "mwissman@centerspacehomes.com",
+      "name": "",
+      "account": "Centerspace",
+      "date": "2026-09-30",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "425476",
+      "email": "slantto@travelleaders.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-09-30",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "63649",
+      "email": "InletView@gre-m.com",
+      "name": "",
+      "account": "GRE Management LLC ",
+      "date": "2026-09-30",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1300628",
+      "email": "jenter@thetravelagentnextdoor.com",
+      "name": "",
+      "account": "Travel Leaders Group Canada",
+      "date": "2026-09-30",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "823879",
+      "email": "amccabe@massageaddict.ca",
+      "name": "",
+      "account": "Massage Addict",
+      "date": "2026-09-30",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1300597",
+      "email": "info@cpistanbulwest.com",
+      "name": "",
+      "account": "Crowne Plaza",
+      "date": "2026-09-30",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "28284",
+      "email": "Christyslabb@msn.com",
+      "name": "",
+      "account": "Sport Clips",
+      "date": "2026-09-30",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Listings"
+    },
+    {
+      "visitor": "84174",
+      "email": "essexmgr@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-09-30",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1008474",
+      "email": "va0003@pjscoffee.com",
+      "name": "",
+      "account": "PJ's Coffee",
+      "date": "2026-09-30",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1182487",
+      "email": "info@TheVillagesOfImperialPointeSL.com",
+      "name": "",
+      "account": "Discovery Marketing Group, LLC dba STAT Marketing",
+      "date": "2026-09-30",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
     {
       "visitor": "1299876",
       "email": "jessicap@weidner.com",
@@ -17133,28 +17287,28 @@
     }
   ],
   "level_counts": {
-    "Administrator": 152,
-    "Manager": 1390,
+    "Administrator": 154,
+    "Manager": 1402,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 4
   },
   "sla_counts": {
-    "green": 64,
+    "green": 78,
     "amber": 246,
     "red": 1236
   },
-  "total_interested": 1546,
+  "total_interested": 1560,
   "oldest_age": 365,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
-      60
+      61
     ],
     [
       "Willow Bridge Property Company ",
-      54
+      55
     ],
     [
       "Subway - North America",
@@ -17166,7 +17320,7 @@
     ],
     [
       "Avenue5 Residential",
-      37
+      38
     ],
     [
       "Cruise Planners | CP Elite",
@@ -17249,6 +17403,10 @@
       13
     ],
     [
+      "Discovery Marketing Group, LLC dba STAT Marketing",
+      12
+    ],
+    [
       "Teriyaki Madness",
       12
     ],
@@ -17262,10 +17420,6 @@
     ],
     [
       "Monarch Investment and Management Group",
-      11
-    ],
-    [
-      "Discovery Marketing Group, LLC dba STAT Marketing",
       11
     ],
     [
@@ -17299,6 +17453,10 @@
     [
       "Pointe Grand",
       10
+    ],
+    [
+      "Forty Winks | The Pistol",
+      9
     ],
     [
       "Fairfield Residential",
@@ -17349,16 +17507,24 @@
       8
     ],
     [
-      "Forty Winks | The Pistol",
-      8
-    ],
-    [
       "Pedego Electric Bikes",
       8
     ],
     [
       "American Freight (MAFGA)",
       8
+    ],
+    [
+      "Rent-A-Center",
+      7
+    ],
+    [
+      "Travel Leaders Group Canada",
+      7
+    ],
+    [
+      "Sport Clips",
+      7
     ],
     [
       "Painting with a Twist, LLC",
@@ -17385,7 +17551,7 @@
       7
     ],
     [
-      "Rent-A-Center",
+      "Crowne Plaza",
       6
     ],
     [
@@ -17402,14 +17568,6 @@
     ],
     [
       "Pinots",
-      6
-    ],
-    [
-      "Sport Clips",
-      6
-    ],
-    [
-      "Travel Leaders Group Canada",
       6
     ],
     [
@@ -17541,10 +17699,6 @@
       4
     ],
     [
-      "Crowne Plaza",
-      4
-    ],
-    [
       "Highmark Residential",
       4
     ],
@@ -17567,6 +17721,10 @@
     [
       "Pacifica Residential",
       4
+    ],
+    [
+      "PJ's Coffee",
+      3
     ],
     [
       "British Swim School ",
@@ -17711,6 +17869,14 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "Centerspace",
+      2
+    ],
+    [
+      "GRE Management LLC ",
+      2
     ],
     [
       "The Laramar Group",
@@ -17942,10 +18108,6 @@
     ],
     [
       "i9 Sports",
-      2
-    ],
-    [
-      "PJ's Coffee",
       2
     ],
     [
