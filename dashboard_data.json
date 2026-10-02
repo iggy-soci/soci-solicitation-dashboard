@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02 06:01 UTC",
+  "generated_at": "2026-10-02 13:01 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,8 +54,8 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 86,
-      "interested": 86
+      "responses_12mo": 84,
+      "interested": 84
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
@@ -66,8 +66,8 @@
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
       "views_12mo": 0,
-      "responses_12mo": 19,
-      "interested": 19
+      "responses_12mo": 20,
+      "interested": 20
     },
     "Surveys": {
       "guide_id": "RLz8F0jmIzDqIwzo7WOPNNHQr4M",
@@ -78,8 +78,8 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 442,
-      "interested": 442
+      "responses_12mo": 452,
+      "interested": 452
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 311,
-      "interested": 311
+      "responses_12mo": 316,
+      "interested": 316
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,8 +114,8 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 153,
-      "interested": 153
+      "responses_12mo": 159,
+      "interested": 159
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
@@ -126,6 +126,193 @@
   },
   "contacts": [
     {
+      "visitor": "1246707",
+      "email": "dev.kharva@signarama.com",
+      "name": "",
+      "account": "Signarama",
+      "date": "2026-10-02",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "818706",
+      "email": "store.01583@rentacenter.com",
+      "name": "",
+      "account": "Rent-A-Center",
+      "date": "2026-10-02",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "31346",
+      "email": "shaun@nortonbg.com",
+      "name": "",
+      "account": "Sport Clips",
+      "date": "2026-10-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Pages"
+    },
+    {
+      "visitor": "1182895",
+      "email": "Martin.Teasdale@mobilityworks.com",
+      "name": "",
+      "account": "MobilityWorks",
+      "date": "2026-10-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1233475",
+      "email": "adelano@hollandpartnergroup.com",
+      "name": "",
+      "account": "Holland Residential",
+      "date": "2026-10-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "948764",
+      "email": "info@ColonialVillageSL.com",
+      "name": "",
+      "account": "Discovery Marketing Group, LLC dba STAT Marketing",
+      "date": "2026-10-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "141154",
+      "email": "pm.mountainviewWA@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-10-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "502570",
+      "email": "stretchzoneusa@gmail.com",
+      "name": "",
+      "account": "Stretch Zone Franchising, LLC ",
+      "date": "2026-10-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1166213",
+      "email": "allison.shedden@merrymaids.pro",
+      "name": "",
+      "account": "Merry Maids",
+      "date": "2026-10-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1014651",
+      "email": "kim.kumar@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Basic",
+      "date": "2026-10-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1295609",
+      "email": "kelly.faller@ivyrehab.com",
+      "name": "",
+      "account": "Ivy Rehab Network",
+      "date": "2026-10-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1001040",
+      "email": "Dale.wilson@brightstarcare.com",
+      "name": "",
+      "account": "BrightStar Care ",
+      "date": "2026-10-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1296988",
+      "email": "leasing@muirlands-apts.com",
+      "name": "",
+      "account": "Fairfield Residential",
+      "date": "2026-10-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "979116",
+      "email": "justin.steiner@thedogstop.com",
+      "name": "",
+      "account": "The Dog Stop",
+      "date": "2026-10-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1298128",
+      "email": "kkimble@venterraliving.com",
+      "name": "",
+      "account": "Venterra Living",
+      "date": "2026-10-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1302804",
+      "email": "gm@vobilbao.com",
+      "name": "",
+      "account": "voco",
+      "date": "2026-10-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1279664",
+      "email": "subhrajit.bardhan@ihg.com",
+      "name": "",
+      "account": "Holiday Inn",
+      "date": "2026-10-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
       "visitor": "1291702",
       "email": "jad.germanous@ihg.com",
       "name": "",
@@ -135,6 +322,61 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1070387",
+      "email": "store1012@americanfreight.us",
+      "name": "",
+      "account": "American Freight NewCo",
+      "date": "2026-10-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1214181",
+      "email": "tayvin.remick@quinnmgmt.com",
+      "name": "",
+      "account": "Quinn Residences",
+      "date": "2026-10-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "81767",
+      "email": "jessa.hurty@nbly.com",
+      "name": "",
+      "account": "Neighborly",
+      "date": "2026-10-01",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1302718",
+      "email": "martijn.beekhuis@hiex.nl",
+      "name": "",
+      "account": "Holiday Inn Express",
+      "date": "2026-10-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1302774",
+      "email": "robert.anghel@rthservices.ro",
+      "name": "",
+      "account": "Holiday Inn",
+      "date": "2026-10-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
     },
     {
       "visitor": "736888",
@@ -17262,45 +17504,23 @@
       "age_days": 364,
       "sla": "red",
       "area": "Reporting Suite"
-    },
-    {
-      "visitor": "963986",
-      "email": "758marketing@texasroadhouse.com",
-      "name": "",
-      "account": "Texas Roadhouse Holdings LLC",
-      "date": "2025-10-01",
-      "user_level": "Manager",
-      "age_days": 366,
-      "sla": "red",
-      "area": "Reporting Suite"
-    },
-    {
-      "visitor": "787997",
-      "email": "realtoraruljoseph+3067300@gmail.com",
-      "name": "",
-      "account": "Berkshire Hathaway HomeServices",
-      "date": "2025-10-01",
-      "user_level": "Manager",
-      "age_days": 366,
-      "sla": "red",
-      "area": "Reporting Suite"
     }
   ],
   "level_counts": {
-    "Administrator": 154,
-    "Manager": 1403,
+    "Administrator": 155,
+    "Manager": 1422,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 3
   },
   "sla_counts": {
-    "green": 63,
+    "green": 85,
     "amber": 245,
-    "red": 1252
+    "red": 1250
   },
-  "total_interested": 1560,
-  "oldest_age": 366,
+  "total_interested": 1580,
+  "oldest_age": 364,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
@@ -17320,7 +17540,7 @@
     ],
     [
       "Avenue5 Residential",
-      38
+      39
     ],
     [
       "Cruise Planners | CP Elite",
@@ -17332,7 +17552,7 @@
     ],
     [
       "Berkshire Hathaway HomeServices",
-      30
+      29
     ],
     [
       "Liberty Tax",
@@ -17347,16 +17567,20 @@
       21
     ],
     [
+      "Neighborly",
+      20
+    ],
+    [
       "Cruise Planners | CP Pro",
       20
     ],
     [
-      "Neighborly",
+      "Holiday Inn Express",
       19
     ],
     [
-      "Holiday Inn Express",
-      18
+      "Signarama",
+      17
     ],
     [
       "The Learning Experience",
@@ -17367,7 +17591,7 @@
       17
     ],
     [
-      "Texas Roadhouse Holdings LLC",
+      "Holiday Inn",
       16
     ],
     [
@@ -17383,28 +17607,24 @@
       16
     ],
     [
-      "Signarama",
-      16
-    ],
-    [
       "Sylvan Learning",
       16
     ],
     [
-      "Holiday Inn",
-      14
+      "Texas Roadhouse Holdings LLC",
+      15
     ],
     [
       "Stretch Zone Franchising, LLC ",
+      14
+    ],
+    [
+      "Discovery Marketing Group, LLC dba STAT Marketing",
       13
     ],
     [
       "The Goddard School",
       13
-    ],
-    [
-      "Discovery Marketing Group, LLC dba STAT Marketing",
-      12
     ],
     [
       "Teriyaki Madness",
@@ -17413,6 +17633,10 @@
     [
       "Adara Communities ",
       12
+    ],
+    [
+      "voco",
+      11
     ],
     [
       "Bryten Management",
@@ -17431,6 +17655,10 @@
       11
     ],
     [
+      "Fairfield Residential",
+      10
+    ],
+    [
       "Weidner",
       10
     ],
@@ -17443,10 +17671,6 @@
       10
     ],
     [
-      "voco",
-      10
-    ],
-    [
       "Orangetheory Fitness",
       10
     ],
@@ -17455,11 +17679,11 @@
       10
     ],
     [
-      "Forty Winks | The Pistol",
+      "Venterra Living",
       9
     ],
     [
-      "Fairfield Residential",
+      "Forty Winks | The Pistol",
       9
     ],
     [
@@ -17483,6 +17707,14 @@
       9
     ],
     [
+      "Rent-A-Center",
+      8
+    ],
+    [
+      "Sport Clips",
+      8
+    ],
+    [
       "Orangetheory Fitness Canada",
       8
     ],
@@ -17492,10 +17724,6 @@
     ],
     [
       "Huntington Learning Centers ",
-      8
-    ],
-    [
-      "Venterra Living",
       8
     ],
     [
@@ -17515,15 +17743,19 @@
       8
     ],
     [
-      "Rent-A-Center",
+      "Merry Maids",
+      7
+    ],
+    [
+      "BrightStar Care ",
+      7
+    ],
+    [
+      "American Freight NewCo",
       7
     ],
     [
       "Travel Leaders Group Canada",
-      7
-    ],
-    [
-      "Sport Clips",
       7
     ],
     [
@@ -17571,10 +17803,6 @@
       6
     ],
     [
-      "American Freight NewCo",
-      6
-    ],
-    [
       "KOA",
       6
     ],
@@ -17588,14 +17816,6 @@
     ],
     [
       "Lynd",
-      6
-    ],
-    [
-      "Merry Maids",
-      6
-    ],
-    [
-      "BrightStar Care ",
       6
     ],
     [
@@ -17721,6 +17941,10 @@
     [
       "Pacifica Residential",
       4
+    ],
+    [
+      "Quinn Residences",
+      3
     ],
     [
       "PJ's Coffee",
@@ -17869,6 +18093,26 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "MobilityWorks",
+      2
+    ],
+    [
+      "Holland Residential",
+      2
+    ],
+    [
+      "Cruise Planners | CP Basic",
+      2
+    ],
+    [
+      "Ivy Rehab Network",
+      2
+    ],
+    [
+      "The Dog Stop",
+      2
     ],
     [
       "Centerspace",
@@ -18076,10 +18320,6 @@
     ],
     [
       "E.C. Barton",
-      2
-    ],
-    [
-      "Quinn Residences",
       2
     ],
     [
