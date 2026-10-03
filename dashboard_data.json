@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03 01:47 UTC",
+  "generated_at": "2026-10-03 07:48 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 197,
-      "interested": 197
+      "responses_12mo": 199,
+      "interested": 199
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -72,14 +72,14 @@
     "Surveys": {
       "guide_id": "RLz8F0jmIzDqIwzo7WOPNNHQr4M",
       "views_12mo": 0,
-      "responses_12mo": 8,
-      "interested": 8
+      "responses_12mo": 9,
+      "interested": 9
     },
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 452,
-      "interested": 452
+      "responses_12mo": 457,
+      "interested": 457
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 316,
-      "interested": 316
+      "responses_12mo": 319,
+      "interested": 319
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,8 +114,8 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 159,
-      "interested": 159
+      "responses_12mo": 160,
+      "interested": 160
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
@@ -126,6 +126,94 @@
   },
   "contacts": [
     {
+      "visitor": "979570",
+      "email": "ldaley@thedogstop.com",
+      "name": "",
+      "account": "The Dog Stop",
+      "date": "2026-10-03",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1266286",
+      "email": "element170@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-10-03",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "749091",
+      "email": "lwoasstmgr@raamco.com",
+      "name": "",
+      "account": "Sheng Raamco Management Inc",
+      "date": "2026-10-02",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1284664",
+      "email": "leasing@livemontgomeryapartments.com",
+      "name": "",
+      "account": "Fairfield Residential",
+      "date": "2026-10-02",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Surveys"
+    },
+    {
+      "visitor": "943556",
+      "email": "sallylapierre@elementsmassage.com",
+      "name": "",
+      "account": "Elements Massage",
+      "date": "2026-10-02",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "82131",
+      "email": "loftonplacemgr@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-10-02",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1153740",
+      "email": "projects@speedpro.com",
+      "name": "",
+      "account": "SpeedPro",
+      "date": "2026-10-02",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1296264",
+      "email": "sean@avalonfreelibrary.org",
+      "name": "",
+      "account": "Overdrive",
+      "date": "2026-10-02",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
       "visitor": "1246707",
       "email": "dev.kharva@signarama.com",
       "name": "",
@@ -135,6 +223,50 @@
       "age_days": 1,
       "sla": "green",
       "area": "Social"
+    },
+    {
+      "visitor": "1217162",
+      "email": "jessicaes@weidner.com",
+      "name": "",
+      "account": "Weidner",
+      "date": "2026-10-02",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "713124",
+      "email": "littleton@tlechildcare.com",
+      "name": "",
+      "account": "The Learning Experience",
+      "date": "2026-10-02",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1279663",
+      "email": "raphael.rodrigues1@ihg.com",
+      "name": "",
+      "account": "Holiday Inn Express",
+      "date": "2026-10-02",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1276701",
+      "email": "lexi@morvil.com",
+      "name": "",
+      "account": "EmergeOrtho Coastal",
+      "date": "2026-10-02",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
     },
     {
       "visitor": "818706",
@@ -17507,19 +17639,19 @@
     }
   ],
   "level_counts": {
-    "Administrator": 155,
-    "Manager": 1422,
+    "Administrator": 156,
+    "Manager": 1433,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 3
   },
   "sla_counts": {
-    "green": 72,
+    "green": 84,
     "amber": 245,
     "red": 1263
   },
-  "total_interested": 1580,
+  "total_interested": 1592,
   "oldest_age": 365,
   "repeat_accounts": [
     [
@@ -17528,7 +17660,7 @@
     ],
     [
       "Willow Bridge Property Company ",
-      55
+      56
     ],
     [
       "Subway - North America",
@@ -17540,7 +17672,7 @@
     ],
     [
       "Avenue5 Residential",
-      39
+      40
     ],
     [
       "Cruise Planners | CP Elite",
@@ -17567,6 +17699,10 @@
       21
     ],
     [
+      "Holiday Inn Express",
+      20
+    ],
+    [
       "Neighborly",
       20
     ],
@@ -17575,15 +17711,11 @@
       20
     ],
     [
-      "Holiday Inn Express",
-      19
+      "The Learning Experience",
+      18
     ],
     [
       "Signarama",
-      17
-    ],
-    [
-      "The Learning Experience",
       17
     ],
     [
@@ -17635,6 +17767,14 @@
       12
     ],
     [
+      "Fairfield Residential",
+      11
+    ],
+    [
+      "Weidner",
+      11
+    ],
+    [
       "voco",
       11
     ],
@@ -17655,11 +17795,11 @@
       11
     ],
     [
-      "Fairfield Residential",
+      "Sheng Raamco Management Inc",
       10
     ],
     [
-      "Weidner",
+      "Elements Massage",
       10
     ],
     [
@@ -17695,15 +17835,7 @@
       9
     ],
     [
-      "Sheng Raamco Management Inc",
-      9
-    ],
-    [
       "InterContinental",
-      9
-    ],
-    [
-      "Elements Massage",
       9
     ],
     [
@@ -17943,6 +18075,10 @@
       4
     ],
     [
+      "The Dog Stop",
+      3
+    ],
+    [
       "Quinn Residences",
       3
     ],
@@ -18108,10 +18244,6 @@
     ],
     [
       "Ivy Rehab Network",
-      2
-    ],
-    [
-      "The Dog Stop",
       2
     ],
     [
