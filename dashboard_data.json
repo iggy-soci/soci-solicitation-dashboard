@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03 07:48 UTC",
+  "generated_at": "2026-10-03 13:10 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 319,
-      "interested": 319
+      "responses_12mo": 320,
+      "interested": 320
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -146,6 +146,17 @@
       "age_days": 0,
       "sla": "green",
       "area": "Social"
+    },
+    {
+      "visitor": "1304076",
+      "email": "naomi.takita@ihg.com",
+      "name": "",
+      "account": "InterContinental",
+      "date": "2026-10-03",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Reviews"
     },
     {
       "visitor": "749091",
@@ -17640,18 +17651,18 @@
   ],
   "level_counts": {
     "Administrator": 156,
-    "Manager": 1433,
+    "Manager": 1434,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 3
   },
   "sla_counts": {
-    "green": 84,
+    "green": 85,
     "amber": 245,
     "red": 1263
   },
-  "total_interested": 1592,
+  "total_interested": 1593,
   "oldest_age": 365,
   "repeat_accounts": [
     [
@@ -17795,6 +17806,10 @@
       11
     ],
     [
+      "InterContinental",
+      10
+    ],
+    [
       "Sheng Raamco Management Inc",
       10
     ],
@@ -17832,10 +17847,6 @@
     ],
     [
       "FSC Franchise Brands",
-      9
-    ],
-    [
-      "InterContinental",
       9
     ],
     [
