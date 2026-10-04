@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04 05:08 UTC",
+  "generated_at": "2026-10-04 11:13 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,14 +54,14 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 84,
-      "interested": 84
+      "responses_12mo": 83,
+      "interested": 83
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 199,
-      "interested": 199
+      "responses_12mo": 201,
+      "interested": 201
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,8 +78,8 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 457,
-      "interested": 457
+      "responses_12mo": 458,
+      "interested": 458
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 320,
-      "interested": 320
+      "responses_12mo": 321,
+      "interested": 321
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,50 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 160,
-      "interested": 160
+      "responses_12mo": 161,
+      "interested": 161
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 189,
-      "interested": 189
+      "responses_12mo": 190,
+      "interested": 190
     }
   },
   "contacts": [
+    {
+      "visitor": "1286192",
+      "email": "jacksonville@kidtokid.com",
+      "name": "",
+      "account": "Kid to Kid",
+      "date": "2026-10-04",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "691992",
+      "email": "brustersvalrico+392@gmail.com",
+      "name": "",
+      "account": "Bruster's Real Ice Cream",
+      "date": "2026-10-03",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1304076",
+      "email": "naomi.takita@ihg.com",
+      "name": "",
+      "account": "InterContinental",
+      "date": "2026-10-03",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
     {
       "visitor": "979570",
       "email": "ldaley@thedogstop.com",
@@ -135,6 +168,17 @@
       "age_days": 1,
       "sla": "green",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1033624",
+      "email": "courtney@passporttoadventure.travel",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-10-03",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
     },
     {
       "visitor": "1266286",
@@ -148,6 +192,17 @@
       "area": "Social"
     },
     {
+      "visitor": "860722",
+      "email": "TheParkAtKatyTrailMgr@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-10-03",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
       "visitor": "1304076",
       "email": "naomi.takita@ihg.com",
       "name": "",
@@ -157,6 +212,17 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1297016",
+      "email": "leasing@atley-apts.com",
+      "name": "",
+      "account": "Fairfield Residential",
+      "date": "2026-10-03",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "749091",
@@ -17636,42 +17702,31 @@
       "age_days": 361,
       "sla": "red",
       "area": "Reporting Suite"
-    },
-    {
-      "visitor": "275555",
-      "email": "lgummelt@highmarkres.com",
-      "name": "",
-      "account": "Highmark Residential",
-      "date": "2025-10-03",
-      "user_level": "Administrator",
-      "age_days": 366,
-      "sla": "red",
-      "area": "Reporting Suite"
     }
   ],
   "level_counts": {
-    "Administrator": 156,
-    "Manager": 1434,
+    "Administrator": 155,
+    "Manager": 1440,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 3
   },
   "sla_counts": {
-    "green": 84,
+    "green": 90,
     "amber": 230,
-    "red": 1279
+    "red": 1278
   },
-  "total_interested": 1593,
-  "oldest_age": 366,
+  "total_interested": 1598,
+  "oldest_age": 361,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
-      61
+      62
     ],
     [
       "Willow Bridge Property Company ",
-      56
+      57
     ],
     [
       "Subway - North America",
@@ -17770,6 +17825,10 @@
       13
     ],
     [
+      "Fairfield Residential",
+      12
+    ],
+    [
       "Teriyaki Madness",
       12
     ],
@@ -17778,7 +17837,7 @@
       12
     ],
     [
-      "Fairfield Residential",
+      "InterContinental",
       11
     ],
     [
@@ -17804,10 +17863,6 @@
     [
       "Ford",
       11
-    ],
-    [
-      "InterContinental",
-      10
     ],
     [
       "Sheng Raamco Management Inc",
@@ -17848,6 +17903,10 @@
     [
       "FSC Franchise Brands",
       9
+    ],
+    [
+      "Bruster's Real Ice Cream",
+      8
     ],
     [
       "Rent-A-Center",
@@ -17919,10 +17978,6 @@
     ],
     [
       "Decorating Den Interiors",
-      7
-    ],
-    [
-      "Bruster's Real Ice Cream",
       7
     ],
     [
@@ -18062,10 +18117,6 @@
       4
     ],
     [
-      "Highmark Residential",
-      4
-    ],
-    [
       "Color Me Mine LLC",
       4
     ],
@@ -18190,6 +18241,10 @@
       3
     ],
     [
+      "Highmark Residential",
+      3
+    ],
+    [
       "Milkshake Factory",
       3
     ],
@@ -18240,6 +18295,10 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "Kid to Kid",
+      2
     ],
     [
       "MobilityWorks",
