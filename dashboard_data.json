@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05 01:09 UTC",
+  "generated_at": "2026-10-05 07:32 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 201,
-      "interested": 201
+      "responses_12mo": 202,
+      "interested": 202
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,8 +78,8 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 458,
-      "interested": 458
+      "responses_12mo": 459,
+      "interested": 459
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
@@ -125,6 +125,28 @@
     }
   },
   "contacts": [
+    {
+      "visitor": "943766",
+      "email": "cshyra@radiantwaxing.com",
+      "name": "",
+      "account": "Radiant Waxing",
+      "date": "2026-10-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "997893",
+      "email": "Christine.Gerritse@siennaliving.ca",
+      "name": "",
+      "account": "Sienna Senior Living",
+      "date": "2026-10-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
     {
       "visitor": "1286192",
       "email": "jacksonville@kidtokid.com",
@@ -17706,18 +17728,18 @@
   ],
   "level_counts": {
     "Administrator": 155,
-    "Manager": 1440,
+    "Manager": 1442,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 3
   },
   "sla_counts": {
-    "green": 87,
+    "green": 89,
     "amber": 216,
     "red": 1295
   },
-  "total_interested": 1598,
+  "total_interested": 1600,
   "oldest_age": 362,
   "repeat_accounts": [
     [
@@ -18061,6 +18083,10 @@
       5
     ],
     [
+      "Radiant Waxing",
+      4
+    ],
+    [
       "TWO MEN AND A TRUCK",
       4
     ],
@@ -18289,12 +18315,12 @@
       3
     ],
     [
-      "Radiant Waxing",
+      "CIP Communities",
       3
     ],
     [
-      "CIP Communities",
-      3
+      "Sienna Senior Living",
+      2
     ],
     [
       "Kid to Kid",
