@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06 03:14 UTC",
+  "generated_at": "2026-10-06 10:40 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 202,
-      "interested": 202
+      "responses_12mo": 206,
+      "interested": 206
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 459,
-      "interested": 459
+      "responses_12mo": 462,
+      "interested": 462
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 134,
-      "interested": 134
+      "responses_12mo": 135,
+      "interested": 135
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 321,
-      "interested": 321
+      "responses_12mo": 324,
+      "interested": 324
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,182 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 161,
-      "interested": 161
+      "responses_12mo": 162,
+      "interested": 162
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 190,
-      "interested": 190
+      "responses_12mo": 193,
+      "interested": 193
     }
   },
   "contacts": [
+    {
+      "visitor": "1253023",
+      "email": "roshni.patel143@gmail.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-10-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "732083",
+      "email": "woodbridge@oxfordlearning.com",
+      "name": "",
+      "account": "Oxford Learning",
+      "date": "2026-10-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "633030",
+      "email": "HWHITT@ARLINGTONPROPERTIES.NET",
+      "name": "",
+      "account": "Arlington Properties",
+      "date": "2026-10-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1286505",
+      "email": "Ahmed.ElNassag1@ihg.com",
+      "name": "",
+      "account": "voco",
+      "date": "2026-10-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "150255",
+      "email": "huntclub@adaracommunities.com",
+      "name": "",
+      "account": "Adara Communities ",
+      "date": "2026-10-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1303624",
+      "email": "dovecanyonsales@wedgewoodweddings.com",
+      "name": "",
+      "account": "Wedgewood Weddings & Events",
+      "date": "2026-10-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1227645",
+      "email": "gabi.jensen00@gmail.com",
+      "name": "",
+      "account": "KidStrong",
+      "date": "2026-10-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1294126",
+      "email": "dale.silva@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Pro",
+      "date": "2026-10-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1297033",
+      "email": "leasing@livethehuntingtonapartments.com",
+      "name": "",
+      "account": "Fairfield Residential",
+      "date": "2026-10-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "450159",
+      "email": "vueparkwest@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-10-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "402941",
+      "email": "DZazzera@lightbridgeacademy.com",
+      "name": "",
+      "account": "Lightbridge Academy",
+      "date": "2026-10-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1295700",
+      "email": "dana@directom.com",
+      "name": "",
+      "account": "PetVet365",
+      "date": "2026-10-05",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "833479",
+      "email": "dalexander@millcreekplaces.com",
+      "name": "",
+      "account": "Mill Creek Residential ",
+      "date": "2026-10-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "750686",
+      "email": "rbbc@raamco.com",
+      "name": "",
+      "account": "Sheng Raamco Management Inc",
+      "date": "2026-10-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1022294",
+      "email": "ambergirl1229+3073932@gmail.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-10-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
     {
       "visitor": "943766",
       "email": "cshyra@radiantwaxing.com",
@@ -17727,19 +17892,19 @@
     }
   ],
   "level_counts": {
-    "Administrator": 155,
-    "Manager": 1442,
+    "Administrator": 156,
+    "Manager": 1456,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 3
   },
   "sla_counts": {
-    "green": 77,
+    "green": 92,
     "amber": 224,
     "red": 1299
   },
-  "total_interested": 1600,
+  "total_interested": 1615,
   "oldest_age": 363,
   "repeat_accounts": [
     [
@@ -17748,11 +17913,11 @@
     ],
     [
       "Willow Bridge Property Company ",
-      57
+      58
     ],
     [
       "Subway - North America",
-      47
+      48
     ],
     [
       "AT&T",
@@ -17772,7 +17937,7 @@
     ],
     [
       "Berkshire Hathaway HomeServices",
-      29
+      30
     ],
     [
       "Liberty Tax",
@@ -17781,6 +17946,10 @@
     [
       "Sky Zone",
       23
+    ],
+    [
+      "Cruise Planners | CP Pro",
+      21
     ],
     [
       "Anytime Fitness NA ",
@@ -17792,10 +17961,6 @@
     ],
     [
       "Neighborly",
-      20
-    ],
-    [
-      "Cruise Planners | CP Pro",
       20
     ],
     [
@@ -17839,6 +18004,14 @@
       14
     ],
     [
+      "Adara Communities ",
+      13
+    ],
+    [
+      "Fairfield Residential",
+      13
+    ],
+    [
       "Discovery Marketing Group, LLC dba STAT Marketing",
       13
     ],
@@ -17847,7 +18020,7 @@
       13
     ],
     [
-      "Fairfield Residential",
+      "voco",
       12
     ],
     [
@@ -17855,8 +18028,12 @@
       12
     ],
     [
-      "Adara Communities ",
-      12
+      "Mill Creek Residential ",
+      11
+    ],
+    [
+      "Sheng Raamco Management Inc",
+      11
     ],
     [
       "InterContinental",
@@ -17864,10 +18041,6 @@
     ],
     [
       "Weidner",
-      11
-    ],
-    [
-      "voco",
       11
     ],
     [
@@ -17887,19 +18060,11 @@
       11
     ],
     [
-      "Sheng Raamco Management Inc",
-      10
-    ],
-    [
       "Elements Massage",
       10
     ],
     [
       "Grocery Outlet",
-      10
-    ],
-    [
-      "Mill Creek Residential ",
       10
     ],
     [
@@ -17925,6 +18090,10 @@
     [
       "FSC Franchise Brands",
       9
+    ],
+    [
+      "Lightbridge Academy",
+      8
     ],
     [
       "Bruster's Real Ice Cream",
@@ -17987,10 +18156,6 @@
       7
     ],
     [
-      "Lightbridge Academy",
-      7
-    ],
-    [
       "Jersey Mike's Subs",
       7
     ],
@@ -18001,6 +18166,10 @@
     [
       "Decorating Den Interiors",
       7
+    ],
+    [
+      "Arlington Properties",
+      6
     ],
     [
       "Crowne Plaza",
@@ -18051,10 +18220,6 @@
       5
     ],
     [
-      "Arlington Properties",
-      5
-    ],
-    [
       "Sunridge Management ",
       5
     ],
@@ -18081,6 +18246,10 @@
     [
       "Guild Mortgage",
       5
+    ],
+    [
+      "Oxford Learning",
+      4
     ],
     [
       "Radiant Waxing",
@@ -18163,6 +18332,10 @@
       4
     ],
     [
+      "KidStrong",
+      3
+    ],
+    [
       "The Dog Stop",
       3
     ],
@@ -18228,10 +18401,6 @@
     ],
     [
       "HSL Asset Management LLC ",
-      3
-    ],
-    [
-      "Oxford Learning",
       3
     ],
     [
@@ -18319,6 +18488,10 @@
       3
     ],
     [
+      "Wedgewood Weddings & Events",
+      2
+    ],
+    [
       "Sienna Senior Living",
       2
     ],
@@ -18364,10 +18537,6 @@
     ],
     [
       "Top Rail Fence",
-      2
-    ],
-    [
-      "KidStrong",
       2
     ],
     [
