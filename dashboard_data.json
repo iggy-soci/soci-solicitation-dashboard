@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08 00:50 UTC",
+  "generated_at": "2026-10-08 07:08 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,14 +54,14 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 84,
-      "interested": 84
+      "responses_12mo": 83,
+      "interested": 83
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 212,
-      "interested": 212
+      "responses_12mo": 213,
+      "interested": 213
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,8 +78,8 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 466,
-      "interested": 466
+      "responses_12mo": 472,
+      "interested": 472
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 327,
-      "interested": 327
+      "responses_12mo": 334,
+      "interested": 334
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -120,11 +120,165 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 195,
-      "interested": 195
+      "responses_12mo": 197,
+      "interested": 197
     }
   },
   "contacts": [
+    {
+      "visitor": "639773",
+      "email": "studio369@paintingwithatwist.com",
+      "name": "",
+      "account": "Painting with a Twist, LLC",
+      "date": "2026-10-08",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1250876",
+      "email": "hafele@midrivers.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-10-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "709347",
+      "email": "brenda.edmondson@cruiseplanner.com",
+      "name": "",
+      "account": "Cruise Planners | CP Pro",
+      "date": "2026-10-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1030989",
+      "email": "hsashburn@healthsourcechiro.com",
+      "name": "",
+      "account": "HealthSource Chiropractic",
+      "date": "2026-10-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1295735",
+      "email": "amanda.weston@villagepet.com",
+      "name": "",
+      "account": "Village Pet Care",
+      "date": "2026-10-07",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "753660",
+      "email": "tamara.sam@britishswimschool.com",
+      "name": "",
+      "account": "British Swim School ",
+      "date": "2026-10-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "293538",
+      "email": "psp4105@petsuppliesplus.com",
+      "name": "",
+      "account": "Pet Supplies Plus",
+      "date": "2026-10-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "141949",
+      "email": "10xharbourpines@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-10-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1266676",
+      "email": "ClaudiaG.G@legendmgmt.com",
+      "name": "",
+      "account": "Legend Asset Management ",
+      "date": "2026-10-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1062162",
+      "email": "skytop@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-10-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "884645",
+      "email": "iwashington@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-10-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1293869",
+      "email": "wrigley@floydsbarbershop.com",
+      "name": "",
+      "account": "Floyd's 99 Barbershop ",
+      "date": "2026-10-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1277923",
+      "email": "eden.harrison@anytimefitness.com",
+      "name": "",
+      "account": "Anytime Fitness NA ",
+      "date": "2026-10-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "79930_mobile",
+      "email": "Cumming2GA@goddardschools.com",
+      "name": "",
+      "account": "The Goddard School",
+      "date": "2026-10-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
     {
       "visitor": "69895",
       "email": "kendra.konitzer@cruiseplanners.com",
@@ -135,6 +289,28 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Reviews"
+    },
+    {
+      "visitor": "980255",
+      "email": "gsvoreny@vetcor.com",
+      "name": "",
+      "account": "Vetcor",
+      "date": "2026-10-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1295083",
+      "email": "poincianaparcasst@royalamerican.com",
+      "name": "",
+      "account": "Royal American Management",
+      "date": "2026-10-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "1066201",
@@ -18087,46 +18263,35 @@
       "age_days": 359,
       "sla": "red",
       "area": "Reporting Suite"
-    },
-    {
-      "visitor": "861912",
-      "email": "joe@JMCGetaways.com",
-      "name": "",
-      "account": "Travel Leaders Group",
-      "date": "2025-10-08",
-      "user_level": "Manager",
-      "age_days": 365,
-      "sla": "red",
-      "area": "Reporting Suite"
     }
   ],
   "level_counts": {
-    "Administrator": 158,
-    "Manager": 1473,
+    "Administrator": 159,
+    "Manager": 1487,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 3
   },
   "sla_counts": {
-    "green": 78,
+    "green": 94,
     "amber": 253,
-    "red": 1303
+    "red": 1302
   },
-  "total_interested": 1634,
-  "oldest_age": 365,
+  "total_interested": 1649,
+  "oldest_age": 359,
   "repeat_accounts": [
     [
-      "Travel Leaders Group",
+      "Willow Bridge Property Company ",
       62
     ],
     [
-      "Willow Bridge Property Company ",
+      "Travel Leaders Group",
       61
     ],
     [
       "Subway - North America",
-      48
+      49
     ],
     [
       "AT&T",
@@ -18137,11 +18302,11 @@
       40
     ],
     [
-      "Cruise Planners | CP Elite",
-      34
+      "RPM Living",
+      36
     ],
     [
-      "RPM Living",
+      "Cruise Planners | CP Elite",
       34
     ],
     [
@@ -18158,11 +18323,11 @@
     ],
     [
       "Cruise Planners | CP Pro",
-      21
+      22
     ],
     [
       "Anytime Fitness NA ",
-      21
+      22
     ],
     [
       "Holiday Inn Express",
@@ -18181,19 +18346,19 @@
       18
     ],
     [
+      "Pet Supplies Plus",
+      17
+    ],
+    [
+      "Vetcor",
+      17
+    ],
+    [
       "Woof Gang Bakery & Grooming",
       17
     ],
     [
       "Holiday Inn",
-      16
-    ],
-    [
-      "Pet Supplies Plus",
-      16
-    ],
-    [
-      "Vetcor",
       16
     ],
     [
@@ -18209,6 +18374,10 @@
       15
     ],
     [
+      "The Goddard School",
+      14
+    ],
+    [
       "Fairfield Residential",
       14
     ],
@@ -18222,10 +18391,6 @@
     ],
     [
       "Discovery Marketing Group, LLC dba STAT Marketing",
-      13
-    ],
-    [
-      "The Goddard School",
       13
     ],
     [
@@ -18301,6 +18466,10 @@
       9
     ],
     [
+      "Painting with a Twist, LLC",
+      8
+    ],
+    [
       "Scooter's Coffee, LLC",
       8
     ],
@@ -18373,10 +18542,6 @@
       7
     ],
     [
-      "Painting with a Twist, LLC",
-      7
-    ],
-    [
       "Jersey Mike's Subs",
       7
     ],
@@ -18415,6 +18580,10 @@
     [
       "Lynd",
       6
+    ],
+    [
+      "HealthSource Chiropractic",
+      5
     ],
     [
       "Pacifica Residential",
@@ -18461,7 +18630,11 @@
       5
     ],
     [
-      "HealthSource Chiropractic",
+      "British Swim School ",
+      4
+    ],
+    [
+      "Legend Asset Management ",
       4
     ],
     [
@@ -18569,10 +18742,6 @@
       3
     ],
     [
-      "British Swim School ",
-      3
-    ],
-    [
       "Eucalyptus Real Estate",
       3
     ],
@@ -18669,10 +18838,6 @@
       3
     ],
     [
-      "Legend Asset Management ",
-      3
-    ],
-    [
       "IMT Residential",
       3
     ],
@@ -18703,6 +18868,14 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "Floyd's 99 Barbershop ",
+      2
+    ],
+    [
+      "Royal American Management",
+      2
     ],
     [
       "HNN Communities",
