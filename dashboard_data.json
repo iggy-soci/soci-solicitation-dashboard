@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09 07:51 UTC",
+  "generated_at": "2026-10-09 15:06 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -16312,7 +16312,7 @@
       "name": "",
       "account": "Ivy Rehab Network",
       "date": "2026-07-08",
-      "user_level": "Administrator",
+      "user_level": "Unknown",
       "age_days": 93,
       "sla": "red",
       "area": "AskGenius"
@@ -18431,12 +18431,12 @@
     }
   ],
   "level_counts": {
-    "Administrator": 159,
+    "Administrator": 158,
     "Manager": 1502,
     "User": 0
   },
   "level_counts_extra": {
-    "Unknown": 3
+    "Unknown": 4
   },
   "sla_counts": {
     "green": 88,
