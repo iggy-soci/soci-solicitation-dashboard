@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09 15:06 UTC",
+  "generated_at": "2026-10-09 20:15 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -4617,7 +4617,7 @@
       "visitor": "1271607",
       "email": "mbrammer@sunholdings.net",
       "name": "",
-      "account": "Azul Restaurants, LLC (Freebirds)",
+      "account": "Freebirds",
       "date": "2026-09-02",
       "user_level": "Administrator",
       "age_days": 37,
@@ -16312,7 +16312,7 @@
       "name": "",
       "account": "Ivy Rehab Network",
       "date": "2026-07-08",
-      "user_level": "Unknown",
+      "user_level": "Administrator",
       "age_days": 93,
       "sla": "red",
       "area": "AskGenius"
@@ -18431,12 +18431,12 @@
     }
   ],
   "level_counts": {
-    "Administrator": 158,
+    "Administrator": 159,
     "Manager": 1502,
     "User": 0
   },
   "level_counts_extra": {
-    "Unknown": 4
+    "Unknown": 3
   },
   "sla_counts": {
     "green": 88,
