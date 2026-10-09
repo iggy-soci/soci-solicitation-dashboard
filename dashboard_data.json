@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09 01:03 UTC",
+  "generated_at": "2026-10-09 07:51 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,14 +54,14 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 83,
-      "interested": 83
+      "responses_12mo": 84,
+      "interested": 84
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 213,
-      "interested": 213
+      "responses_12mo": 215,
+      "interested": 215
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 472,
-      "interested": 472
+      "responses_12mo": 476,
+      "interested": 476
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 137,
-      "interested": 137
+      "responses_12mo": 138,
+      "interested": 138
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 334,
-      "interested": 334
+      "responses_12mo": 339,
+      "interested": 339
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -120,11 +120,154 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 197,
-      "interested": 197
+      "responses_12mo": 199,
+      "interested": 199
     }
   },
   "contacts": [
+    {
+      "visitor": "769339",
+      "email": "alana.oneal@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Basic",
+      "date": "2026-10-09",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1304659",
+      "email": "tae.koike@ihg.com",
+      "name": "",
+      "account": "Crowne Plaza",
+      "date": "2026-10-09",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1302648",
+      "email": "akira.shibayama@ihg.com",
+      "name": "",
+      "account": "Crowne Plaza",
+      "date": "2026-10-08",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reporting Suite"
+    },
+    {
+      "visitor": "1297016",
+      "email": "leasing@atley-apts.com",
+      "name": "",
+      "account": "Fairfield Residential",
+      "date": "2026-10-08",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "712868",
+      "email": "novi@tlechildcare.com",
+      "name": "",
+      "account": "The Learning Experience",
+      "date": "2026-10-08",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "659078",
+      "email": "manager@retreatateddins.com",
+      "name": "",
+      "account": "S&S Property Management",
+      "date": "2026-10-08",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "590747",
+      "email": "kshukla@thelashlounge.com",
+      "name": "",
+      "account": "The Lash Lounge",
+      "date": "2026-10-08",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1124454",
+      "email": "thesagefield@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-10-08",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1305362",
+      "email": "plumbing@northforgeglobal.com",
+      "name": "",
+      "account": "Benjamin Franklin Plumbing",
+      "date": "2026-10-08",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1205273",
+      "email": "greg@pedegojunction.com",
+      "name": "",
+      "account": "Pedego Electric Bikes",
+      "date": "2026-10-08",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "712983",
+      "email": "williamsburg@tlechildcare.com",
+      "name": "",
+      "account": "The Learning Experience",
+      "date": "2026-10-08",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "795484",
+      "email": "krishna.kikani@celebreeschool.com",
+      "name": "",
+      "account": "Celebree School",
+      "date": "2026-10-08",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "324847",
+      "email": "eb475m@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-10-08",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
     {
       "visitor": "639773",
       "email": "studio369@paintingwithatwist.com",
@@ -135,6 +278,28 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1167216",
+      "email": "winchesterrunleasing@morganproperties.com",
+      "name": "",
+      "account": "Morgan Properties",
+      "date": "2026-10-08",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "977725",
+      "email": "hailey.alink@anytimefitness.com",
+      "name": "",
+      "account": "Anytime Fitness NA ",
+      "date": "2026-10-08",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "1250876",
@@ -18267,18 +18432,18 @@
   ],
   "level_counts": {
     "Administrator": 159,
-    "Manager": 1487,
+    "Manager": 1502,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 3
   },
   "sla_counts": {
-    "green": 73,
+    "green": 88,
     "amber": 258,
     "red": 1318
   },
-  "total_interested": 1649,
+  "total_interested": 1664,
   "oldest_age": 360,
   "repeat_accounts": [
     [
@@ -18295,7 +18460,7 @@
     ],
     [
       "AT&T",
-      41
+      42
     ],
     [
       "Avenue5 Residential",
@@ -18303,7 +18468,7 @@
     ],
     [
       "RPM Living",
-      36
+      37
     ],
     [
       "Cruise Planners | CP Elite",
@@ -18318,6 +18483,10 @@
       25
     ],
     [
+      "Anytime Fitness NA ",
+      23
+    ],
+    [
       "Sky Zone",
       23
     ],
@@ -18326,8 +18495,8 @@
       22
     ],
     [
-      "Anytime Fitness NA ",
-      22
+      "The Learning Experience",
+      20
     ],
     [
       "Holiday Inn Express",
@@ -18339,10 +18508,6 @@
     ],
     [
       "Signarama",
-      18
-    ],
-    [
-      "The Learning Experience",
       18
     ],
     [
@@ -18370,15 +18535,15 @@
       16
     ],
     [
+      "Fairfield Residential",
+      15
+    ],
+    [
       "Texas Roadhouse Holdings LLC",
       15
     ],
     [
       "The Goddard School",
-      14
-    ],
-    [
-      "Fairfield Residential",
       14
     ],
     [
@@ -18450,6 +18615,10 @@
       10
     ],
     [
+      "Pedego Electric Bikes",
+      9
+    ],
+    [
       "Venterra Living",
       9
     ],
@@ -18464,6 +18633,10 @@
     [
       "FSC Franchise Brands",
       9
+    ],
+    [
+      "Crowne Plaza",
+      8
     ],
     [
       "Painting with a Twist, LLC",
@@ -18510,10 +18683,6 @@
       8
     ],
     [
-      "Pedego Electric Bikes",
-      8
-    ],
-    [
       "American Freight (MAFGA)",
       8
     ],
@@ -18551,10 +18720,6 @@
     ],
     [
       "Arlington Properties",
-      6
-    ],
-    [
-      "Crowne Plaza",
       6
     ],
     [
@@ -18718,6 +18883,22 @@
       4
     ],
     [
+      "Cruise Planners | CP Basic",
+      3
+    ],
+    [
+      "The Lash Lounge",
+      3
+    ],
+    [
+      "Benjamin Franklin Plumbing",
+      3
+    ],
+    [
+      "Celebree School",
+      3
+    ],
+    [
       "Oasis Senior Advisors ",
       3
     ],
@@ -18870,6 +19051,10 @@
       3
     ],
     [
+      "Morgan Properties",
+      2
+    ],
+    [
       "Floyd's 99 Barbershop ",
       2
     ],
@@ -18903,10 +19088,6 @@
     ],
     [
       "Holland Residential",
-      2
-    ],
-    [
-      "Cruise Planners | CP Basic",
       2
     ],
     [
@@ -19030,10 +19211,6 @@
       2
     ],
     [
-      "The Lash Lounge",
-      2
-    ],
-    [
       "SocialSaiya",
       2
     ],
@@ -19102,10 +19279,6 @@
       2
     ],
     [
-      "Celebree School",
-      2
-    ],
-    [
       "Bell Partners",
       2
     ],
@@ -19155,10 +19328,6 @@
     ],
     [
       "Clothes Mentor",
-      2
-    ],
-    [
-      "Benjamin Franklin Plumbing",
       2
     ],
     [
