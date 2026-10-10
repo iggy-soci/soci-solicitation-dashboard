@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10 06:15 UTC",
+  "generated_at": "2026-10-10 12:55 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 215,
-      "interested": 215
+      "responses_12mo": 220,
+      "interested": 220
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,8 +78,8 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 476,
-      "interested": 476
+      "responses_12mo": 481,
+      "interested": 481
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 339,
-      "interested": 339
+      "responses_12mo": 340,
+      "interested": 340
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,149 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 162,
-      "interested": 162
+      "responses_12mo": 163,
+      "interested": 163
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 199,
-      "interested": 199
+      "responses_12mo": 200,
+      "interested": 200
     }
   },
   "contacts": [
+    {
+      "visitor": "1305093",
+      "email": "Mohammad.Darwiz@ihg.com",
+      "name": "",
+      "account": "Holiday Inn",
+      "date": "2026-10-10",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "634752",
+      "email": "jii3008@jeremiahsice.com",
+      "name": "",
+      "account": "Jeremiah's Italian Ice",
+      "date": "2026-10-10",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1183163",
+      "email": "ktarley@jonesstreet.com",
+      "name": "",
+      "account": "Jones Street Residential ",
+      "date": "2026-10-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1145078",
+      "email": "jeffersonridgleavillage@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-10-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1297044",
+      "email": "Leasing@MerrickonMidwayApartments.com",
+      "name": "",
+      "account": "Fairfield Residential",
+      "date": "2026-10-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1277923",
+      "email": "eden.harrison@anytimefitness.com",
+      "name": "",
+      "account": "Anytime Fitness NA ",
+      "date": "2026-10-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1288710",
+      "email": "Srahim@crowneplazajumeirah.com",
+      "name": "",
+      "account": "Crowne Plaza",
+      "date": "2026-10-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "857765",
+      "email": "KennedysLanding@29SCLiving.com",
+      "name": "",
+      "account": "29th Street Living",
+      "date": "2026-10-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "166755",
+      "email": "shannon.smith@anytimefitness.com",
+      "name": "",
+      "account": "Anytime Fitness NA ",
+      "date": "2026-10-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "150134",
+      "email": "westerly.mgr@adaracommunities.com",
+      "name": "",
+      "account": "Adara Communities ",
+      "date": "2026-10-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "419177",
+      "email": "Parker@ChildrensLighthouse.com",
+      "name": "",
+      "account": "Children's Lighthouse Franchise Company",
+      "date": "2026-10-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "854078",
+      "email": "lrodriguez1@anterra.com",
+      "name": "",
+      "account": "Anterra",
+      "date": "2026-10-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
     {
       "visitor": "769339",
       "email": "alana.oneal@cruiseplanners.com",
@@ -146,6 +278,17 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Reviews"
+    },
+    {
+      "visitor": "337969",
+      "email": "cp170q@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-10-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
     },
     {
       "visitor": "1302648",
@@ -18432,18 +18575,18 @@
   ],
   "level_counts": {
     "Administrator": 160,
-    "Manager": 1501,
+    "Manager": 1514,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 3
   },
   "sla_counts": {
-    "green": 76,
+    "green": 89,
     "amber": 249,
     "red": 1339
   },
-  "total_interested": 1664,
+  "total_interested": 1677,
   "oldest_age": 361,
   "repeat_accounts": [
     [
@@ -18460,7 +18603,7 @@
     ],
     [
       "AT&T",
-      42
+      43
     ],
     [
       "Avenue5 Residential",
@@ -18468,7 +18611,7 @@
     ],
     [
       "RPM Living",
-      37
+      38
     ],
     [
       "Cruise Planners | CP Elite",
@@ -18479,12 +18622,12 @@
       30
     ],
     [
-      "Liberty Tax",
+      "Anytime Fitness NA ",
       25
     ],
     [
-      "Anytime Fitness NA ",
-      23
+      "Liberty Tax",
+      25
     ],
     [
       "Sky Zone",
@@ -18511,6 +18654,10 @@
       18
     ],
     [
+      "Holiday Inn",
+      17
+    ],
+    [
       "Pet Supplies Plus",
       17
     ],
@@ -18523,7 +18670,7 @@
       17
     ],
     [
-      "Holiday Inn",
+      "Fairfield Residential",
       16
     ],
     [
@@ -18535,12 +18682,12 @@
       16
     ],
     [
-      "Fairfield Residential",
+      "Texas Roadhouse Holdings LLC",
       15
     ],
     [
-      "Texas Roadhouse Holdings LLC",
-      15
+      "Adara Communities ",
+      14
     ],
     [
       "The Goddard School",
@@ -18549,10 +18696,6 @@
     [
       "Stretch Zone Franchising, LLC ",
       14
-    ],
-    [
-      "Adara Communities ",
-      13
     ],
     [
       "Discovery Marketing Group, LLC dba STAT Marketing",
@@ -18615,6 +18758,10 @@
       10
     ],
     [
+      "Crowne Plaza",
+      9
+    ],
+    [
       "Pedego Electric Bikes",
       9
     ],
@@ -18633,10 +18780,6 @@
     [
       "FSC Franchise Brands",
       9
-    ],
-    [
-      "Crowne Plaza",
-      8
     ],
     [
       "Painting with a Twist, LLC",
@@ -18687,6 +18830,14 @@
       8
     ],
     [
+      "Jeremiah's Italian Ice",
+      7
+    ],
+    [
+      "29th Street Living",
+      7
+    ],
+    [
       "Comparion",
       7
     ],
@@ -18719,15 +18870,11 @@
       7
     ],
     [
+      "Anterra",
+      6
+    ],
+    [
       "Arlington Properties",
-      6
-    ],
-    [
-      "29th Street Living",
-      6
-    ],
-    [
-      "Jeremiah's Italian Ice",
       6
     ],
     [
@@ -18756,10 +18903,6 @@
     ],
     [
       "Transworld Business Advisors ",
-      5
-    ],
-    [
-      "Anterra",
       5
     ],
     [
@@ -18793,6 +18936,10 @@
     [
       "Guild Mortgage",
       5
+    ],
+    [
+      "Children's Lighthouse Franchise Company",
+      4
     ],
     [
       "British Swim School ",
@@ -18881,6 +19028,10 @@
     [
       "Lakefield Veterinary Group",
       4
+    ],
+    [
+      "Jones Street Residential ",
+      3
     ],
     [
       "Cruise Planners | CP Basic",
@@ -19020,10 +19171,6 @@
     ],
     [
       "IMT Residential",
-      3
-    ],
-    [
-      "Children's Lighthouse Franchise Company",
       3
     ],
     [
@@ -19224,10 +19371,6 @@
     ],
     [
       "Westwood Residential Company ",
-      2
-    ],
-    [
-      "Jones Street Residential ",
       2
     ],
     [
