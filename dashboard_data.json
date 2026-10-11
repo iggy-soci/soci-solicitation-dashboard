@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11 06:14 UTC",
+  "generated_at": "2026-10-11 13:19 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,8 +54,8 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 84,
-      "interested": 84
+      "responses_12mo": 85,
+      "interested": 85
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
@@ -72,20 +72,20 @@
     "Surveys": {
       "guide_id": "RLz8F0jmIzDqIwzo7WOPNNHQr4M",
       "views_12mo": 0,
-      "responses_12mo": 10,
-      "interested": 10
+      "responses_12mo": 11,
+      "interested": 11
     },
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 481,
-      "interested": 481
+      "responses_12mo": 483,
+      "interested": 483
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 138,
-      "interested": 138
+      "responses_12mo": 139,
+      "interested": 139
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -125,6 +125,61 @@
     }
   },
   "contacts": [
+    {
+      "visitor": "1300500",
+      "email": "daniel.gray@lightbridgeacademy.com",
+      "name": "",
+      "account": "Lightbridge Academy",
+      "date": "2026-10-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reporting Suite"
+    },
+    {
+      "visitor": "649375",
+      "email": "1108-williamsburg@anotherbrokenegg.com",
+      "name": "",
+      "account": "Another Broken Egg",
+      "date": "2026-10-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Surveys"
+    },
+    {
+      "visitor": "1303592",
+      "email": "cciavarelli@kttctravel.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-10-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "69722",
+      "email": "sandy.lombardo@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-10-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "69841",
+      "email": "stephanie.bennett@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-10-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
     {
       "visitor": "1305093",
       "email": "Mohammad.Darwiz@ihg.com",
@@ -18575,27 +18630,27 @@
   ],
   "level_counts": {
     "Administrator": 160,
-    "Manager": 1514,
+    "Manager": 1519,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 3
   },
   "sla_counts": {
-    "green": 81,
+    "green": 86,
     "amber": 250,
     "red": 1346
   },
-  "total_interested": 1677,
+  "total_interested": 1682,
   "oldest_age": 362,
   "repeat_accounts": [
     [
-      "Willow Bridge Property Company ",
+      "Travel Leaders Group",
       62
     ],
     [
-      "Travel Leaders Group",
-      61
+      "Willow Bridge Property Company ",
+      62
     ],
     [
       "Subway - North America",
@@ -18615,7 +18670,7 @@
     ],
     [
       "Cruise Planners | CP Elite",
-      34
+      36
     ],
     [
       "Berkshire Hathaway HomeServices",
@@ -18758,6 +18813,10 @@
       10
     ],
     [
+      "Lightbridge Academy",
+      9
+    ],
+    [
       "Crowne Plaza",
       9
     ],
@@ -18787,10 +18846,6 @@
     ],
     [
       "Scooter's Coffee, LLC",
-      8
-    ],
-    [
-      "Lightbridge Academy",
       8
     ],
     [
@@ -19196,6 +19251,10 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "Another Broken Egg",
+      2
     ],
     [
       "Morgan Properties",
