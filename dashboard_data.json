@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12 01:36 UTC",
+  "generated_at": "2026-10-12 08:52 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 340,
-      "interested": 340
+      "responses_12mo": 342,
+      "interested": 342
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -125,6 +125,28 @@
     }
   },
   "contacts": [
+    {
+      "visitor": "1304362",
+      "email": "Anggita.Sari@ihg.com",
+      "name": "",
+      "account": "Holiday Inn",
+      "date": "2026-10-12",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1149093",
+      "email": "coralgables.fl@sylvanlearning.com",
+      "name": "",
+      "account": "Sylvan Learning",
+      "date": "2026-10-12",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
     {
       "visitor": "1300500",
       "email": "daniel.gray@lightbridgeacademy.com",
@@ -18630,18 +18652,18 @@
   ],
   "level_counts": {
     "Administrator": 160,
-    "Manager": 1519,
+    "Manager": 1521,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 3
   },
   "sla_counts": {
-    "green": 83,
+    "green": 85,
     "amber": 246,
     "red": 1353
   },
-  "total_interested": 1682,
+  "total_interested": 1684,
   "oldest_age": 363,
   "repeat_accounts": [
     [
@@ -18705,11 +18727,15 @@
       20
     ],
     [
+      "Holiday Inn",
+      18
+    ],
+    [
       "Signarama",
       18
     ],
     [
-      "Holiday Inn",
+      "Sylvan Learning",
       17
     ],
     [
@@ -18730,10 +18756,6 @@
     ],
     [
       "Nothing Bundt Cakes",
-      16
-    ],
-    [
-      "Sylvan Learning",
       16
     ],
     [
