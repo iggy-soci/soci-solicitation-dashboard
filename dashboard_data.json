@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13 08:15 UTC",
+  "generated_at": "2026-10-13 16:17 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -15982,7 +15982,7 @@
       "name": "",
       "account": "Capital Square Living",
       "date": "2026-07-08",
-      "user_level": "Manager",
+      "user_level": "Unknown",
       "age_days": 97,
       "sla": "red",
       "area": "Social"
@@ -18850,11 +18850,11 @@
   ],
   "level_counts": {
     "Administrator": 161,
-    "Manager": 1538,
+    "Manager": 1537,
     "User": 0
   },
   "level_counts_extra": {
-    "Unknown": 3
+    "Unknown": 4
   },
   "sla_counts": {
     "green": 88,
