@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13 01:09 UTC",
+  "generated_at": "2026-10-13 08:15 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 220,
-      "interested": 220
+      "responses_12mo": 225,
+      "interested": 225
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 483,
-      "interested": 483
+      "responses_12mo": 489,
+      "interested": 489
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 139,
-      "interested": 139
+      "responses_12mo": 140,
+      "interested": 140
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 342,
-      "interested": 342
+      "responses_12mo": 345,
+      "interested": 345
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,182 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 163,
-      "interested": 163
+      "responses_12mo": 164,
+      "interested": 164
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 200,
-      "interested": 200
+      "responses_12mo": 202,
+      "interested": 202
     }
   },
   "contacts": [
+    {
+      "visitor": "1301981",
+      "email": "austell@uptowncheapskate.com",
+      "name": "",
+      "account": "Uptown Cheapskate",
+      "date": "2026-10-13",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "887427",
+      "email": "jennifer.richter@grazecraze.com",
+      "name": "",
+      "account": "Graze Craze Advertising Fund, Inc.",
+      "date": "2026-10-13",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1306269",
+      "email": "darsyne.kumar@ihg.com",
+      "name": "",
+      "account": "Kimpton",
+      "date": "2026-10-13",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "411608",
+      "email": "erik@amazingathletes.com",
+      "name": "",
+      "account": "Youth Athletes United",
+      "date": "2026-10-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "47949",
+      "email": "shonlake@yahoo.com",
+      "name": "",
+      "account": "Anytime Fitness NA ",
+      "date": "2026-10-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1205273",
+      "email": "greg@pedegojunction.com",
+      "name": "",
+      "account": "Pedego Electric Bikes",
+      "date": "2026-10-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1297055",
+      "email": "leasing@kaleidoscopeapartmenthomes.com",
+      "name": "",
+      "account": "Fairfield Residential",
+      "date": "2026-10-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "734737",
+      "email": "adisalvatore@vetcor.com",
+      "name": "",
+      "account": "Vetcor",
+      "date": "2026-10-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1197992",
+      "email": "radia@gre-m.com",
+      "name": "",
+      "account": "GRE Management LLC ",
+      "date": "2026-10-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1303466",
+      "email": "rainer.dahl@avoyanetwork.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-10-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "52827",
+      "email": "SouthportIN@anytimefitness.com",
+      "name": "",
+      "account": "Anytime Fitness NA ",
+      "date": "2026-10-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1193540",
+      "email": "272@thebrasstap.com",
+      "name": "",
+      "account": "FSC Franchise Brands",
+      "date": "2026-10-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "671601",
+      "email": "morgana@elmluxuryliving.com",
+      "name": "",
+      "account": "Embrey Management Service",
+      "date": "2026-10-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1296885",
+      "email": "bryanstoneast@kumon.org",
+      "name": "",
+      "account": "Kumon Europe & Africa",
+      "date": "2026-10-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1287201",
+      "email": "sk2492@smoothieking.com",
+      "name": "",
+      "account": "Smoothie King",
+      "date": "2026-10-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
     {
       "visitor": "1304362",
       "email": "Anggita.Sari@ihg.com",
@@ -146,6 +311,39 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1305029",
+      "email": "Tanya.Whichard@DestPet.com",
+      "name": "",
+      "account": "Destination Pet",
+      "date": "2026-10-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1305021",
+      "email": "oakinlotan@homewellcares.com",
+      "name": "",
+      "account": "HomeWell Care Services",
+      "date": "2026-10-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1298621",
+      "email": "taylore@quicknclean.net",
+      "name": "",
+      "account": "Quick N Clean",
+      "date": "2026-10-12",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "1300500",
@@ -18651,24 +18849,24 @@
     }
   ],
   "level_counts": {
-    "Administrator": 160,
-    "Manager": 1521,
+    "Administrator": 161,
+    "Manager": 1538,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 3
   },
   "sla_counts": {
-    "green": 70,
+    "green": 88,
     "amber": 258,
     "red": 1356
   },
-  "total_interested": 1684,
+  "total_interested": 1702,
   "oldest_age": 364,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
-      62
+      63
     ],
     [
       "Willow Bridge Property Company ",
@@ -18700,7 +18898,7 @@
     ],
     [
       "Anytime Fitness NA ",
-      25
+      27
     ],
     [
       "Liberty Tax",
@@ -18727,12 +18925,20 @@
       20
     ],
     [
+      "Vetcor",
+      18
+    ],
+    [
       "Holiday Inn",
       18
     ],
     [
       "Signarama",
       18
+    ],
+    [
+      "Fairfield Residential",
+      17
     ],
     [
       "Sylvan Learning",
@@ -18743,16 +18949,8 @@
       17
     ],
     [
-      "Vetcor",
-      17
-    ],
-    [
       "Woof Gang Bakery & Grooming",
       17
-    ],
-    [
-      "Fairfield Residential",
-      16
     ],
     [
       "Nothing Bundt Cakes",
@@ -18819,6 +19017,14 @@
       11
     ],
     [
+      "Pedego Electric Bikes",
+      10
+    ],
+    [
+      "FSC Franchise Brands",
+      10
+    ],
+    [
       "Elements Massage",
       10
     ],
@@ -18835,15 +19041,15 @@
       10
     ],
     [
+      "HomeWell Care Services",
+      9
+    ],
+    [
       "Lightbridge Academy",
       9
     ],
     [
       "Crowne Plaza",
-      9
-    ],
-    [
-      "Pedego Electric Bikes",
       9
     ],
     [
@@ -18856,10 +19062,6 @@
     ],
     [
       "Dill Dinkers",
-      9
-    ],
-    [
-      "FSC Franchise Brands",
       9
     ],
     [
@@ -18892,10 +19094,6 @@
     ],
     [
       "Huntington Learning Centers ",
-      8
-    ],
-    [
-      "HomeWell Care Services",
       8
     ],
     [
@@ -19107,6 +19305,22 @@
       4
     ],
     [
+      "Graze Craze Advertising Fund, Inc.",
+      3
+    ],
+    [
+      "GRE Management LLC ",
+      3
+    ],
+    [
+      "Embrey Management Service",
+      3
+    ],
+    [
+      "Kumon Europe & Africa",
+      3
+    ],
+    [
       "Jones Street Residential ",
       3
     ],
@@ -19275,6 +19489,18 @@
       3
     ],
     [
+      "Uptown Cheapskate",
+      2
+    ],
+    [
+      "Youth Athletes United",
+      2
+    ],
+    [
+      "Smoothie King",
+      2
+    ],
+    [
       "Another Broken Egg",
       2
     ],
@@ -19327,10 +19553,6 @@
       2
     ],
     [
-      "GRE Management LLC ",
-      2
-    ],
-    [
       "The Laramar Group",
       2
     ],
@@ -19344,10 +19566,6 @@
     ],
     [
       "Top Rail Fence",
-      2
-    ],
-    [
-      "Graze Craze Advertising Fund, Inc.",
       2
     ],
     [
@@ -19376,10 +19594,6 @@
     ],
     [
       "Primrose Retirement Communities",
-      2
-    ],
-    [
-      "Kumon Europe & Africa",
       2
     ],
     [
@@ -19428,10 +19642,6 @@
     ],
     [
       "Gallery Residential",
-      2
-    ],
-    [
-      "Embrey Management Service",
       2
     ],
     [
