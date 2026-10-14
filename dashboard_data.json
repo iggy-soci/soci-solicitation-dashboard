@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14 05:56 UTC",
+  "generated_at": "2026-10-14 11:37 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,20 +54,20 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 85,
-      "interested": 85
+      "responses_12mo": 83,
+      "interested": 83
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 225,
-      "interested": 225
+      "responses_12mo": 226,
+      "interested": 226
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
       "views_12mo": 0,
-      "responses_12mo": 20,
-      "interested": 20
+      "responses_12mo": 21,
+      "interested": 21
     },
     "Surveys": {
       "guide_id": "RLz8F0jmIzDqIwzo7WOPNNHQr4M",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 489,
-      "interested": 489
+      "responses_12mo": 492,
+      "interested": 492
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 140,
-      "interested": 140
+      "responses_12mo": 143,
+      "interested": 143
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 345,
-      "interested": 345
+      "responses_12mo": 350,
+      "interested": 350
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,8 +114,8 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 164,
-      "interested": 164
+      "responses_12mo": 166,
+      "interested": 166
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
@@ -126,6 +126,94 @@
   },
   "contacts": [
     {
+      "visitor": "1261030",
+      "email": "GMWestMadison@teriyakimadness.com",
+      "name": "",
+      "account": "Teriyaki Madness",
+      "date": "2026-10-14",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1287295",
+      "email": "F182-2@WaybackUSA.com",
+      "name": "",
+      "account": "Wayback Franchising",
+      "date": "2026-10-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "304277",
+      "email": "br0251@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-10-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Pages"
+    },
+    {
+      "visitor": "1173745",
+      "email": "tracy@groceryoutlet.com",
+      "name": "",
+      "account": "Grocery Outlet",
+      "date": "2026-10-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "431827",
+      "email": "david.blary@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Pro",
+      "date": "2026-10-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "74056",
+      "email": "sharon.manzy@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Pro",
+      "date": "2026-10-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1301894",
+      "email": "eleventhirtygm@laramar.com",
+      "name": "",
+      "account": "The Laramar Group",
+      "date": "2026-10-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "890045",
+      "email": "eric.myers@skyzone.com",
+      "name": "",
+      "account": "Sky Zone",
+      "date": "2026-10-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
       "visitor": "1301981",
       "email": "austell@uptowncheapskate.com",
       "name": "",
@@ -135,6 +223,61 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Social"
+    },
+    {
+      "visitor": "969184",
+      "email": "ashtonparkmgr@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-10-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "890039",
+      "email": "david.basan@skyzone.com",
+      "name": "",
+      "account": "Sky Zone",
+      "date": "2026-10-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "968463",
+      "email": "Robert.Gayden@brightstarcare.com",
+      "name": "",
+      "account": "BrightStar Care ",
+      "date": "2026-10-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "985530",
+      "email": "bainbridgemallardcreek@bainbridgere.com",
+      "name": "",
+      "account": "The Bainbridge Companies, LLC ",
+      "date": "2026-10-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "890032",
+      "email": "koty.brinson@skyzone.com",
+      "name": "",
+      "account": "Sky Zone",
+      "date": "2026-10-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
     },
     {
       "visitor": "887427",
@@ -157,6 +300,28 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1288866",
+      "email": "daguerra@venterraliving.com",
+      "name": "",
+      "account": "Venterra Living",
+      "date": "2026-10-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1300385",
+      "email": "mayfieldleasingmgr@Advenirliving.com",
+      "name": "",
+      "account": "Advenir Azora Living",
+      "date": "2026-10-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
     },
     {
       "visitor": "411608",
@@ -18824,53 +18989,31 @@
       "age_days": 362,
       "sla": "red",
       "area": "Reporting Suite"
-    },
-    {
-      "visitor": "997798",
-      "email": "sanketpansara@gmail.com",
-      "name": "",
-      "account": "Scooter's Coffee, LLC",
-      "date": "2025-10-14",
-      "user_level": "Manager",
-      "age_days": 365,
-      "sla": "red",
-      "area": "Reporting Suite"
-    },
-    {
-      "visitor": "1040044",
-      "email": "martha.jones@burnbootcamp.com",
-      "name": "",
-      "account": "Burn Boot Camp",
-      "date": "2025-10-14",
-      "user_level": "Manager",
-      "age_days": 365,
-      "sla": "red",
-      "area": "Reporting Suite"
     }
   ],
   "level_counts": {
     "Administrator": 161,
-    "Manager": 1537,
+    "Manager": 1550,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 4
   },
   "sla_counts": {
-    "green": 71,
+    "green": 86,
     "amber": 270,
-    "red": 1361
+    "red": 1359
   },
-  "total_interested": 1702,
-  "oldest_age": 365,
+  "total_interested": 1715,
+  "oldest_age": 362,
   "repeat_accounts": [
     [
-      "Travel Leaders Group",
+      "Willow Bridge Property Company ",
       63
     ],
     [
-      "Willow Bridge Property Company ",
-      62
+      "Travel Leaders Group",
+      63
     ],
     [
       "Subway - North America",
@@ -18878,7 +19021,7 @@
     ],
     [
       "AT&T",
-      43
+      44
     ],
     [
       "Avenue5 Residential",
@@ -18901,16 +19044,16 @@
       27
     ],
     [
+      "Sky Zone",
+      26
+    ],
+    [
       "Liberty Tax",
       25
     ],
     [
-      "Sky Zone",
-      23
-    ],
-    [
       "Cruise Planners | CP Pro",
-      22
+      24
     ],
     [
       "The Learning Experience",
@@ -18973,6 +19116,10 @@
       14
     ],
     [
+      "Teriyaki Madness",
+      13
+    ],
+    [
       "Discovery Marketing Group, LLC dba STAT Marketing",
       13
     ],
@@ -18985,8 +19132,8 @@
       12
     ],
     [
-      "Teriyaki Madness",
-      12
+      "Grocery Outlet",
+      11
     ],
     [
       "Sheng Raamco Management Inc",
@@ -19017,6 +19164,10 @@
       11
     ],
     [
+      "Venterra Living",
+      10
+    ],
+    [
       "Pedego Electric Bikes",
       10
     ],
@@ -19026,10 +19177,6 @@
     ],
     [
       "Elements Massage",
-      10
-    ],
-    [
-      "Grocery Outlet",
       10
     ],
     [
@@ -19053,10 +19200,6 @@
       9
     ],
     [
-      "Venterra Living",
-      9
-    ],
-    [
       "Forty Winks | The Pistol",
       9
     ],
@@ -19065,11 +19208,11 @@
       9
     ],
     [
-      "Painting with a Twist, LLC",
+      "BrightStar Care ",
       8
     ],
     [
-      "Scooter's Coffee, LLC",
+      "Painting with a Twist, LLC",
       8
     ],
     [
@@ -19121,11 +19264,11 @@
       7
     ],
     [
-      "Merry Maids",
+      "Scooter's Coffee, LLC",
       7
     ],
     [
-      "BrightStar Care ",
+      "Merry Maids",
       7
     ],
     [
@@ -19193,10 +19336,6 @@
       5
     ],
     [
-      "Burn Boot Camp",
-      5
-    ],
-    [
       "Otter Learning",
       5
     ],
@@ -19211,6 +19350,10 @@
     [
       "Guild Mortgage",
       5
+    ],
+    [
+      "The Bainbridge Companies, LLC ",
+      4
     ],
     [
       "Children's Lighthouse Franchise Company",
@@ -19254,6 +19397,10 @@
     ],
     [
       "WinnResidential",
+      4
+    ],
+    [
+      "Burn Boot Camp",
       4
     ],
     [
@@ -19303,6 +19450,10 @@
     [
       "Lakefield Veterinary Group",
       4
+    ],
+    [
+      "The Laramar Group",
+      3
     ],
     [
       "Graze Craze Advertising Fund, Inc.",
@@ -19409,10 +19560,6 @@
       3
     ],
     [
-      "The Bainbridge Companies, LLC ",
-      3
-    ],
-    [
       "HSL Asset Management LLC ",
       3
     ],
@@ -19489,7 +19636,15 @@
       3
     ],
     [
+      "Wayback Franchising",
+      2
+    ],
+    [
       "Uptown Cheapskate",
+      2
+    ],
+    [
+      "Advenir Azora Living",
       2
     ],
     [
@@ -19550,10 +19705,6 @@
     ],
     [
       "Centerspace",
-      2
-    ],
-    [
-      "The Laramar Group",
       2
     ],
     [
