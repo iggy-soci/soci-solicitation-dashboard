@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15 03:57 UTC",
+  "generated_at": "2026-10-15 09:04 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,14 +54,14 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 83,
-      "interested": 83
+      "responses_12mo": 84,
+      "interested": 84
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 226,
-      "interested": 226
+      "responses_12mo": 229,
+      "interested": 229
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 492,
-      "interested": 492
+      "responses_12mo": 496,
+      "interested": 496
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 143,
-      "interested": 143
+      "responses_12mo": 144,
+      "interested": 144
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 350,
-      "interested": 350
+      "responses_12mo": 351,
+      "interested": 351
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,116 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 166,
-      "interested": 166
+      "responses_12mo": 167,
+      "interested": 167
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 202,
-      "interested": 202
+      "responses_12mo": 205,
+      "interested": 205
     }
   },
   "contacts": [
+    {
+      "visitor": "1306322",
+      "email": "elizabethmartinek87sz@gmail.com",
+      "name": "",
+      "account": "Stretch Zone Franchising, LLC ",
+      "date": "2026-10-15",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1165584",
+      "email": "theleightonmgr@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-10-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reporting Suite"
+    },
+    {
+      "visitor": "1262221",
+      "email": "kelsey.swanger@baywoodhotels.com",
+      "name": "",
+      "account": "Holiday Inn Express",
+      "date": "2026-10-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1262293",
+      "email": "jpetersen@pacificahost.com",
+      "name": "",
+      "account": "Holiday Inn Express",
+      "date": "2026-10-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1151128",
+      "email": "gm@hieburleson.com",
+      "name": "",
+      "account": "Holiday Inn Express",
+      "date": "2026-10-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1066201",
+      "email": "nreyes@LiveAtJollyRoger.com",
+      "name": "",
+      "account": "Article Student Living",
+      "date": "2026-10-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "963787",
+      "email": "769marketing@texasroadhouse.com",
+      "name": "",
+      "account": "Texas Roadhouse Holdings LLC",
+      "date": "2026-10-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "211590",
+      "email": "wendydravis+3020723@tprsold.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-10-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "995224",
+      "email": "flintcrossing@Advenirliving.com",
+      "name": "",
+      "account": "Advenir Azora Living",
+      "date": "2026-10-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
     {
       "visitor": "1261030",
       "email": "GMWestMadison@teriyakimadness.com",
@@ -135,6 +234,61 @@
       "age_days": 1,
       "sla": "green",
       "area": "Social"
+    },
+    {
+      "visitor": "78820",
+      "email": "gulzar.boghani@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Pro",
+      "date": "2026-10-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1001575",
+      "email": "smouthaan@lightbridgeacademy.com",
+      "name": "",
+      "account": "Lightbridge Academy",
+      "date": "2026-10-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1298643",
+      "email": "genyvales100+jennie.vales@yahoo.com",
+      "name": "",
+      "account": "Liberty Tax",
+      "date": "2026-10-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "859512",
+      "email": "Jessie.Scherzer@kiscosl.com",
+      "name": "",
+      "account": "Kisco Senior Living",
+      "date": "2026-10-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "80383",
+      "email": "IndianTrailNC@goddardschools.com",
+      "name": "",
+      "account": "The Goddard School",
+      "date": "2026-10-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "1287295",
@@ -18993,23 +19147,23 @@
   ],
   "level_counts": {
     "Administrator": 161,
-    "Manager": 1550,
+    "Manager": 1564,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 4
   },
   "sla_counts": {
-    "green": 69,
+    "green": 83,
     "amber": 273,
     "red": 1373
   },
-  "total_interested": 1715,
+  "total_interested": 1729,
   "oldest_age": 363,
   "repeat_accounts": [
     [
       "Willow Bridge Property Company ",
-      63
+      64
     ],
     [
       "Travel Leaders Group",
@@ -19037,30 +19191,30 @@
     ],
     [
       "Berkshire Hathaway HomeServices",
-      30
+      31
     ],
     [
       "Anytime Fitness NA ",
       27
     ],
     [
+      "Liberty Tax",
+      26
+    ],
+    [
       "Sky Zone",
       26
     ],
     [
-      "Liberty Tax",
+      "Cruise Planners | CP Pro",
       25
     ],
     [
-      "Cruise Planners | CP Pro",
-      24
+      "Holiday Inn Express",
+      23
     ],
     [
       "The Learning Experience",
-      20
-    ],
-    [
-      "Holiday Inn Express",
       20
     ],
     [
@@ -19096,23 +19250,23 @@
       17
     ],
     [
+      "Texas Roadhouse Holdings LLC",
+      16
+    ],
+    [
       "Nothing Bundt Cakes",
       16
     ],
     [
-      "Texas Roadhouse Holdings LLC",
+      "Stretch Zone Franchising, LLC ",
+      15
+    ],
+    [
+      "The Goddard School",
       15
     ],
     [
       "Adara Communities ",
-      14
-    ],
-    [
-      "The Goddard School",
-      14
-    ],
-    [
-      "Stretch Zone Franchising, LLC ",
       14
     ],
     [
@@ -19164,6 +19318,10 @@
       11
     ],
     [
+      "Lightbridge Academy",
+      10
+    ],
+    [
       "Venterra Living",
       10
     ],
@@ -19189,10 +19347,6 @@
     ],
     [
       "HomeWell Care Services",
-      9
-    ],
-    [
-      "Lightbridge Academy",
       9
     ],
     [
@@ -19452,6 +19606,10 @@
       4
     ],
     [
+      "Advenir Azora Living",
+      3
+    ],
+    [
       "The Laramar Group",
       3
     ],
@@ -19636,15 +19794,19 @@
       3
     ],
     [
+      "Article Student Living",
+      2
+    ],
+    [
+      "Kisco Senior Living",
+      2
+    ],
+    [
       "Wayback Franchising",
       2
     ],
     [
       "Uptown Cheapskate",
-      2
-    ],
-    [
-      "Advenir Azora Living",
       2
     ],
     [
