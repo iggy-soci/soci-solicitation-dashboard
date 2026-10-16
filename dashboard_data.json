@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16 05:37 UTC",
+  "generated_at": "2026-10-16 11:01 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 229,
-      "interested": 229
+      "responses_12mo": 231,
+      "interested": 231
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 496,
-      "interested": 496
+      "responses_12mo": 503,
+      "interested": 503
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 144,
-      "interested": 144
+      "responses_12mo": 145,
+      "interested": 145
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 351,
-      "interested": 351
+      "responses_12mo": 352,
+      "interested": 352
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -120,11 +120,143 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 205,
-      "interested": 205
+      "responses_12mo": 206,
+      "interested": 206
     }
   },
   "contacts": [
+    {
+      "visitor": "1036054",
+      "email": "michael.sicilia@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-10-16",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1250664",
+      "email": "hemantkash@gmail.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-10-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "477038",
+      "email": "jkintz@anylabtestnow.com",
+      "name": "",
+      "account": "Any Lab Test Now",
+      "date": "2026-10-15",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "818706",
+      "email": "store.01583@rentacenter.com",
+      "name": "",
+      "account": "Rent-A-Center",
+      "date": "2026-10-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1306386",
+      "email": "easytravelwithjill@gmail.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-10-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "640644",
+      "email": "smarcotte@esourcecoach.com",
+      "name": "",
+      "account": "FSBI - Entrepreneur's Source ",
+      "date": "2026-10-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "953648",
+      "email": "hhay+3071279@bhhsflpg.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-10-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "782573",
+      "email": "dtraub@franchisesource.com",
+      "name": "",
+      "account": "FSBI - Entrepreneur's Source ",
+      "date": "2026-10-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "765615",
+      "email": "waxeast@gmail.com",
+      "name": "",
+      "account": "Waxing the City ",
+      "date": "2026-10-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "366792",
+      "email": "northpittsburgh@kiddieacademy.net",
+      "name": "",
+      "account": "Kiddie Academy",
+      "date": "2026-10-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1196462",
+      "email": "dogwoodsps@zoomingroomin.com",
+      "name": "",
+      "account": "Zoomin Groomin",
+      "date": "2026-10-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1302123",
+      "email": "dhegarty@nothingbundtcakes.com",
+      "name": "",
+      "account": "Nothing Bundt Cakes",
+      "date": "2026-10-15",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
     {
       "visitor": "1306322",
       "email": "elizabethmartinek87sz@gmail.com",
@@ -19146,32 +19278,32 @@
     }
   ],
   "level_counts": {
-    "Administrator": 161,
-    "Manager": 1564,
+    "Administrator": 162,
+    "Manager": 1575,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 4
   },
   "sla_counts": {
-    "green": 69,
+    "green": 81,
     "amber": 275,
     "red": 1385
   },
-  "total_interested": 1729,
+  "total_interested": 1741,
   "oldest_age": 364,
   "repeat_accounts": [
+    [
+      "Travel Leaders Group",
+      64
+    ],
     [
       "Willow Bridge Property Company ",
       64
     ],
     [
-      "Travel Leaders Group",
-      63
-    ],
-    [
       "Subway - North America",
-      49
+      50
     ],
     [
       "AT&T",
@@ -19187,11 +19319,11 @@
     ],
     [
       "Cruise Planners | CP Elite",
-      36
+      37
     ],
     [
       "Berkshire Hathaway HomeServices",
-      31
+      32
     ],
     [
       "Anytime Fitness NA ",
@@ -19234,6 +19366,10 @@
       18
     ],
     [
+      "Nothing Bundt Cakes",
+      17
+    ],
+    [
       "Fairfield Residential",
       17
     ],
@@ -19251,10 +19387,6 @@
     ],
     [
       "Texas Roadhouse Holdings LLC",
-      16
-    ],
-    [
-      "Nothing Bundt Cakes",
       16
     ],
     [
@@ -19346,6 +19478,10 @@
       10
     ],
     [
+      "Rent-A-Center",
+      9
+    ],
+    [
       "HomeWell Care Services",
       9
     ],
@@ -19371,10 +19507,6 @@
     ],
     [
       "Bruster's Real Ice Cream",
-      8
-    ],
-    [
-      "Rent-A-Center",
       8
     ],
     [
@@ -19442,6 +19574,10 @@
       7
     ],
     [
+      "Any Lab Test Now",
+      6
+    ],
+    [
       "Anterra",
       6
     ],
@@ -19466,6 +19602,18 @@
       6
     ],
     [
+      "FSBI - Entrepreneur's Source ",
+      5
+    ],
+    [
+      "Kiddie Academy",
+      5
+    ],
+    [
+      "Zoomin Groomin",
+      5
+    ],
+    [
       "HealthSource Chiropractic",
       5
     ],
@@ -19483,10 +19631,6 @@
     ],
     [
       "Sunridge Management ",
-      5
-    ],
-    [
-      "Any Lab Test Now",
       5
     ],
     [
@@ -19574,19 +19718,11 @@
       4
     ],
     [
-      "Kiddie Academy",
-      4
-    ],
-    [
       "RimTyme",
       4
     ],
     [
       "Garner",
-      4
-    ],
-    [
-      "Zoomin Groomin",
       4
     ],
     [
@@ -19714,10 +19850,6 @@
       3
     ],
     [
-      "FSBI - Entrepreneur's Source ",
-      3
-    ],
-    [
       "HSL Asset Management LLC ",
       3
     ],
@@ -19792,6 +19924,10 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "Waxing the City ",
+      2
     ],
     [
       "Article Student Living",
