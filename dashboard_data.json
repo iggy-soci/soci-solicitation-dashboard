@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17 04:52 UTC",
+  "generated_at": "2026-10-17 09:05 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,8 +54,8 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 84,
-      "interested": 84
+      "responses_12mo": 85,
+      "interested": 85
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
@@ -66,26 +66,26 @@
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
       "views_12mo": 0,
-      "responses_12mo": 21,
-      "interested": 21
+      "responses_12mo": 22,
+      "interested": 22
     },
     "Surveys": {
       "guide_id": "RLz8F0jmIzDqIwzo7WOPNNHQr4M",
       "views_12mo": 0,
-      "responses_12mo": 11,
-      "interested": 11
+      "responses_12mo": 13,
+      "interested": 13
     },
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 503,
-      "interested": 503
+      "responses_12mo": 504,
+      "interested": 504
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 145,
-      "interested": 145
+      "responses_12mo": 147,
+      "interested": 147
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -114,17 +114,94 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 167,
-      "interested": 167
+      "responses_12mo": 168,
+      "interested": 168
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 206,
-      "interested": 206
+      "responses_12mo": 208,
+      "interested": 208
     }
   },
   "contacts": [
+    {
+      "visitor": "1248425",
+      "email": "pinakin.patel74@yahoo.ca",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-10-17",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Reporting Suite"
+    },
+    {
+      "visitor": "865027",
+      "email": "atchcc6@gmail.com",
+      "name": "",
+      "account": "ATC Healthcare Services",
+      "date": "2026-10-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Pages"
+    },
+    {
+      "visitor": "1284672",
+      "email": "leasing@1810mainapartments.com",
+      "name": "",
+      "account": "Fairfield Residential",
+      "date": "2026-10-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Surveys"
+    },
+    {
+      "visitor": "1230015",
+      "email": "fonda.quan@kidstrong.com",
+      "name": "",
+      "account": "KidStrong",
+      "date": "2026-10-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Surveys"
+    },
+    {
+      "visitor": "1127149",
+      "email": "streamliner16th.manager@livebryten.com",
+      "name": "",
+      "account": "Bryten Management",
+      "date": "2026-10-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1264959",
+      "email": "mvargas@anterra.com",
+      "name": "",
+      "account": "Anterra",
+      "date": "2026-10-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1165144",
+      "email": "duncan.king@signarama.com",
+      "name": "",
+      "account": "Signarama",
+      "date": "2026-10-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
     {
       "visitor": "1036054",
       "email": "michael.sicilia@cruiseplanners.com",
@@ -135,6 +212,39 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Social"
+    },
+    {
+      "visitor": "1242642",
+      "email": "bharat.limbachia@gmail.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-10-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "74056",
+      "email": "sharon.manzy@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Pro",
+      "date": "2026-10-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "967914",
+      "email": "clubatcoldwatersprings.manager@livebryten.com",
+      "name": "",
+      "account": "Bryten Management",
+      "date": "2026-10-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "1250664",
@@ -19279,18 +19389,18 @@
   ],
   "level_counts": {
     "Administrator": 162,
-    "Manager": 1575,
+    "Manager": 1585,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 4
   },
   "sla_counts": {
-    "green": 68,
+    "green": 78,
     "amber": 276,
     "red": 1397
   },
-  "total_interested": 1741,
+  "total_interested": 1751,
   "oldest_age": 365,
   "repeat_accounts": [
     [
@@ -19303,7 +19413,7 @@
     ],
     [
       "Subway - North America",
-      50
+      52
     ],
     [
       "AT&T",
@@ -19330,16 +19440,16 @@
       27
     ],
     [
+      "Cruise Planners | CP Pro",
+      26
+    ],
+    [
       "Liberty Tax",
       26
     ],
     [
       "Sky Zone",
       26
-    ],
-    [
-      "Cruise Planners | CP Pro",
-      25
     ],
     [
       "Holiday Inn Express",
@@ -19354,6 +19464,14 @@
       20
     ],
     [
+      "Signarama",
+      19
+    ],
+    [
+      "Fairfield Residential",
+      18
+    ],
+    [
       "Vetcor",
       18
     ],
@@ -19362,15 +19480,7 @@
       18
     ],
     [
-      "Signarama",
-      18
-    ],
-    [
       "Nothing Bundt Cakes",
-      17
-    ],
-    [
-      "Fairfield Residential",
       17
     ],
     [
@@ -19402,6 +19512,10 @@
       14
     ],
     [
+      "Bryten Management",
+      13
+    ],
+    [
       "Teriyaki Madness",
       13
     ],
@@ -19431,10 +19545,6 @@
     ],
     [
       "Weidner",
-      11
-    ],
-    [
-      "Bryten Management",
       11
     ],
     [
@@ -19534,6 +19644,10 @@
       8
     ],
     [
+      "Anterra",
+      7
+    ],
+    [
       "Jeremiah's Italian Ice",
       7
     ],
@@ -19575,10 +19689,6 @@
     ],
     [
       "Any Lab Test Now",
-      6
-    ],
-    [
-      "Anterra",
       6
     ],
     [
@@ -19648,6 +19758,14 @@
     [
       "Guild Mortgage",
       5
+    ],
+    [
+      "ATC Healthcare Services",
+      4
+    ],
+    [
+      "KidStrong",
+      4
     ],
     [
       "The Bainbridge Companies, LLC ",
@@ -19794,10 +19912,6 @@
       3
     ],
     [
-      "KidStrong",
-      3
-    ],
-    [
       "The Dog Stop",
       3
     ],
@@ -19811,10 +19925,6 @@
     ],
     [
       "Eucalyptus Real Estate",
-      3
-    ],
-    [
-      "ATC Healthcare Services",
       3
     ],
     [
