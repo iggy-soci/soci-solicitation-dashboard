@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18 03:49 UTC",
+  "generated_at": "2026-10-18 08:43 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,14 +54,14 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 85,
-      "interested": 85
+      "responses_12mo": 84,
+      "interested": 84
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 231,
-      "interested": 231
+      "responses_12mo": 232,
+      "interested": 232
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,8 +78,8 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 504,
-      "interested": 504
+      "responses_12mo": 505,
+      "interested": 505
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 352,
-      "interested": 352
+      "responses_12mo": 353,
+      "interested": 353
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,8 +114,8 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 168,
-      "interested": 168
+      "responses_12mo": 169,
+      "interested": 169
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
@@ -135,6 +135,50 @@
       "age_days": 1,
       "sla": "green",
       "area": "Reporting Suite"
+    },
+    {
+      "visitor": "287208",
+      "email": "matcarrio@hotmail.com",
+      "name": "",
+      "account": "Premier Martial Arts",
+      "date": "2026-10-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1305971",
+      "email": "Vikki.Rodriguez@AvoyaNetwork.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-10-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "340130",
+      "email": "dg201y@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-10-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "317538",
+      "email": "ri102h@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-10-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
     },
     {
       "visitor": "865027",
@@ -19374,38 +19418,27 @@
       "age_days": 362,
       "sla": "red",
       "area": "Reporting Suite"
-    },
-    {
-      "visitor": "982226",
-      "email": "ali@aviam-design.com",
-      "name": "",
-      "account": "Elegance Senior Living",
-      "date": "2025-10-17",
-      "user_level": "Administrator",
-      "age_days": 366,
-      "sla": "red",
-      "area": "Reporting Suite"
     }
   ],
   "level_counts": {
-    "Administrator": 162,
-    "Manager": 1585,
+    "Administrator": 161,
+    "Manager": 1589,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 4
   },
   "sla_counts": {
-    "green": 71,
+    "green": 75,
     "amber": 269,
-    "red": 1411
+    "red": 1410
   },
-  "total_interested": 1751,
-  "oldest_age": 366,
+  "total_interested": 1754,
+  "oldest_age": 362,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
-      64
+      65
     ],
     [
       "Willow Bridge Property Company ",
@@ -19417,7 +19450,7 @@
     ],
     [
       "AT&T",
-      44
+      46
     ],
     [
       "Avenue5 Residential",
