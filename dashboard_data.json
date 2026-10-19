@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19 17:06 UTC",
+  "generated_at": "2026-10-19 21:41 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -802,7 +802,7 @@
       "name": "",
       "account": "Advenir Azora Living",
       "date": "2026-10-13",
-      "user_level": "Unknown",
+      "user_level": "Manager",
       "age_days": 6,
       "sla": "green",
       "area": "AskGenius"
@@ -10339,7 +10339,7 @@
       "name": "",
       "account": "Life Time",
       "date": "2026-08-03",
-      "user_level": "Administrator",
+      "user_level": "Manager",
       "age_days": 77,
       "sla": "red",
       "area": "AskGenius"
@@ -19465,12 +19465,12 @@
     }
   ],
   "level_counts": {
-    "Administrator": 161,
-    "Manager": 1592,
+    "Administrator": 160,
+    "Manager": 1594,
     "User": 0
   },
   "level_counts_extra": {
-    "Unknown": 5
+    "Unknown": 4
   },
   "sla_counts": {
     "green": 79,
