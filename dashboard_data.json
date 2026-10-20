@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20 19:55 UTC",
+  "generated_at": "2026-10-20 23:02 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -9173,7 +9173,7 @@
       "name": "",
       "account": "Venterra Living",
       "date": "2026-08-10",
-      "user_level": "Unknown",
+      "user_level": "Administrator",
       "age_days": 71,
       "sla": "red",
       "area": "Genius Social"
@@ -19564,12 +19564,12 @@
     }
   ],
   "level_counts": {
-    "Administrator": 160,
+    "Administrator": 161,
     "Manager": 1602,
     "User": 0
   },
   "level_counts_extra": {
-    "Unknown": 5
+    "Unknown": 4
   },
   "sla_counts": {
     "green": 71,
