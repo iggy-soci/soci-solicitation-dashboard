@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20 05:53 UTC",
+  "generated_at": "2026-10-20 11:10 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 232,
-      "interested": 232
+      "responses_12mo": 235,
+      "interested": 235
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,8 +78,8 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 506,
-      "interested": 506
+      "responses_12mo": 510,
+      "interested": 510
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 355,
-      "interested": 355
+      "responses_12mo": 356,
+      "interested": 356
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -120,11 +120,99 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 209,
-      "interested": 209
+      "responses_12mo": 210,
+      "interested": 210
     }
   },
   "contacts": [
+    {
+      "visitor": "1060369",
+      "email": "HuntsvilleMidcityAL@anytimefitness.com",
+      "name": "",
+      "account": "Anytime Fitness NA ",
+      "date": "2026-10-20",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "67848",
+      "email": "mark.soloff@brightstarcare.com",
+      "name": "",
+      "account": "BrightStar Care ",
+      "date": "2026-10-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "787065",
+      "email": "fairfax@saladworks.com",
+      "name": "",
+      "account": "Saladworks",
+      "date": "2026-10-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1301894",
+      "email": "eleventhirtygm@laramar.com",
+      "name": "",
+      "account": "The Laramar Group",
+      "date": "2026-10-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "159169",
+      "email": "StClairAveWTorontoON@9round.com",
+      "name": "",
+      "account": "9Round",
+      "date": "2026-10-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1282105",
+      "email": "Maaz.Khan@skyzone.com",
+      "name": "",
+      "account": "Sky Zone",
+      "date": "2026-10-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1025021",
+      "email": "tanavia.saintkitts@vetcor.com",
+      "name": "",
+      "account": "Vetcor",
+      "date": "2026-10-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1209764",
+      "email": "kdiaz@orangetheoryfitness.com",
+      "name": "",
+      "account": "Orangetheory Fitness",
+      "date": "2026-10-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
     {
       "visitor": "1252057",
       "email": "bhargav3583@yahoo.com",
@@ -146,6 +234,17 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1270801",
+      "email": "sonia.aliu@comparioninsurance.com",
+      "name": "",
+      "account": "Comparion",
+      "date": "2026-10-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "1302430",
@@ -19466,18 +19565,18 @@
   ],
   "level_counts": {
     "Administrator": 161,
-    "Manager": 1593,
+    "Manager": 1602,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 4
   },
   "sla_counts": {
-    "green": 62,
+    "green": 71,
     "amber": 265,
     "red": 1431
   },
-  "total_interested": 1758,
+  "total_interested": 1767,
   "oldest_age": 364,
   "repeat_accounts": [
     [
@@ -19514,6 +19613,10 @@
     ],
     [
       "Anytime Fitness NA ",
+      28
+    ],
+    [
+      "Sky Zone",
       27
     ],
     [
@@ -19522,10 +19625,6 @@
     ],
     [
       "Liberty Tax",
-      26
-    ],
-    [
-      "Sky Zone",
       26
     ],
     [
@@ -19541,15 +19640,15 @@
       20
     ],
     [
+      "Vetcor",
+      19
+    ],
+    [
       "Signarama",
       19
     ],
     [
       "Fairfield Residential",
-      18
-    ],
-    [
-      "Vetcor",
       18
     ],
     [
@@ -19609,6 +19708,10 @@
       12
     ],
     [
+      "Orangetheory Fitness",
+      11
+    ],
+    [
       "Grocery Outlet",
       11
     ],
@@ -19657,12 +19760,12 @@
       10
     ],
     [
-      "Orangetheory Fitness",
+      "Pointe Grand",
       10
     ],
     [
-      "Pointe Grand",
-      10
+      "BrightStar Care ",
+      9
     ],
     [
       "Rent-A-Center",
@@ -19685,7 +19788,7 @@
       9
     ],
     [
-      "BrightStar Care ",
+      "Comparion",
       8
     ],
     [
@@ -19730,10 +19833,6 @@
     ],
     [
       "29th Street Living",
-      7
-    ],
-    [
-      "Comparion",
       7
     ],
     [
@@ -19835,6 +19934,10 @@
     [
       "Guild Mortgage",
       5
+    ],
+    [
+      "The Laramar Group",
+      4
     ],
     [
       "Milkshake Factory",
@@ -19942,10 +20045,6 @@
     ],
     [
       "Advenir Azora Living",
-      3
-    ],
-    [
-      "The Laramar Group",
       3
     ],
     [
@@ -20111,6 +20210,14 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "Saladworks",
+      2
+    ],
+    [
+      "9Round",
+      2
     ],
     [
       "Destination Pet",
