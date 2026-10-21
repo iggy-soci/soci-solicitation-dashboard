@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21 01:52 UTC",
+  "generated_at": "2026-10-21 07:18 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 235,
-      "interested": 235
+      "responses_12mo": 236,
+      "interested": 236
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,8 +78,8 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 510,
-      "interested": 510
+      "responses_12mo": 511,
+      "interested": 511
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 356,
-      "interested": 356
+      "responses_12mo": 361,
+      "interested": 361
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -120,11 +120,33 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 210,
-      "interested": 210
+      "responses_12mo": 212,
+      "interested": 212
     }
   },
   "contacts": [
+    {
+      "visitor": "296884",
+      "email": "veronica.barela@gb85.com",
+      "name": "",
+      "account": "Griffis Blessing",
+      "date": "2026-10-20",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1207168",
+      "email": "wendygirl30@yahoo.com",
+      "name": "",
+      "account": "Scooter's Coffee, LLC",
+      "date": "2026-10-20",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
     {
       "visitor": "1060369",
       "email": "HuntsvilleMidcityAL@anytimefitness.com",
@@ -135,6 +157,83 @@
       "age_days": 1,
       "sla": "green",
       "area": "Social"
+    },
+    {
+      "visitor": "1036736",
+      "email": "sharbeson@homewellcares.com",
+      "name": "",
+      "account": "HomeWell Care Services",
+      "date": "2026-10-20",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1303134",
+      "email": "sarah.sloan@destpet.com",
+      "name": "",
+      "account": "Destination Pet",
+      "date": "2026-10-20",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "724037",
+      "email": "slebron@vetcor.com",
+      "name": "",
+      "account": "Vetcor",
+      "date": "2026-10-20",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1226872",
+      "email": "oalexis@winnco.com",
+      "name": "",
+      "account": "WinnResidential",
+      "date": "2026-10-20",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1286274",
+      "email": "christiansburg@uptowncheapskate.com",
+      "name": "",
+      "account": "Uptown Cheapskate",
+      "date": "2026-10-20",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "986496",
+      "email": "clarissa.carrasquillo@grazecraze.com",
+      "name": "",
+      "account": "Graze Craze Advertising Fund, Inc.",
+      "date": "2026-10-20",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "910293",
+      "email": "peak@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-10-20",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "67848",
@@ -19565,18 +19664,18 @@
   ],
   "level_counts": {
     "Administrator": 161,
-    "Manager": 1602,
+    "Manager": 1611,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 4
   },
   "sla_counts": {
-    "green": 54,
+    "green": 63,
     "amber": 281,
     "red": 1432
   },
-  "total_interested": 1767,
+  "total_interested": 1776,
   "oldest_age": 365,
   "repeat_accounts": [
     [
@@ -19597,7 +19696,7 @@
     ],
     [
       "Avenue5 Residential",
-      40
+      41
     ],
     [
       "RPM Living",
@@ -19632,16 +19731,16 @@
       23
     ],
     [
+      "Vetcor",
+      20
+    ],
+    [
       "The Learning Experience",
       20
     ],
     [
       "Neighborly",
       20
-    ],
-    [
-      "Vetcor",
-      19
     ],
     [
       "Signarama",
@@ -19740,6 +19839,10 @@
       11
     ],
     [
+      "HomeWell Care Services",
+      10
+    ],
+    [
       "Lightbridge Academy",
       10
     ],
@@ -19772,10 +19875,6 @@
       9
     ],
     [
-      "HomeWell Care Services",
-      9
-    ],
-    [
       "Crowne Plaza",
       9
     ],
@@ -19786,6 +19885,10 @@
     [
       "Dill Dinkers",
       9
+    ],
+    [
+      "Scooter's Coffee, LLC",
+      8
     ],
     [
       "Comparion",
@@ -19840,10 +19943,6 @@
       7
     ],
     [
-      "Scooter's Coffee, LLC",
-      7
-    ],
-    [
       "Merry Maids",
       7
     ],
@@ -19886,6 +19985,10 @@
     [
       "Lynd",
       6
+    ],
+    [
+      "WinnResidential",
+      5
     ],
     [
       "FSBI - Entrepreneur's Source ",
@@ -19934,6 +20037,14 @@
     [
       "Guild Mortgage",
       5
+    ],
+    [
+      "Griffis Blessing",
+      4
+    ],
+    [
+      "Graze Craze Advertising Fund, Inc.",
+      4
     ],
     [
       "The Laramar Group",
@@ -19996,10 +20107,6 @@
       4
     ],
     [
-      "WinnResidential",
-      4
-    ],
-    [
       "Burn Boot Camp",
       4
     ],
@@ -20044,11 +20151,15 @@
       4
     ],
     [
-      "Advenir Azora Living",
+      "Destination Pet",
       3
     ],
     [
-      "Graze Craze Advertising Fund, Inc.",
+      "Uptown Cheapskate",
+      3
+    ],
+    [
+      "Advenir Azora Living",
       3
     ],
     [
@@ -20113,10 +20224,6 @@
     ],
     [
       "Beavercreek Marketing",
-      3
-    ],
-    [
-      "Griffis Blessing",
       3
     ],
     [
@@ -20220,10 +20327,6 @@
       2
     ],
     [
-      "Destination Pet",
-      2
-    ],
-    [
       "Waxing the City ",
       2
     ],
@@ -20237,10 +20340,6 @@
     ],
     [
       "Wayback Franchising",
-      2
-    ],
-    [
-      "Uptown Cheapskate",
       2
     ],
     [
