@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22 05:17 UTC",
+  "generated_at": "2026-10-22 10:29 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,14 +54,14 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 84,
-      "interested": 84
+      "responses_12mo": 83,
+      "interested": 83
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 236,
-      "interested": 236
+      "responses_12mo": 238,
+      "interested": 238
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,8 +78,8 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 511,
-      "interested": 511
+      "responses_12mo": 515,
+      "interested": 515
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 361,
-      "interested": 361
+      "responses_12mo": 366,
+      "interested": 366
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,193 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 169,
-      "interested": 169
+      "responses_12mo": 172,
+      "interested": 172
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 212,
-      "interested": 212
+      "responses_12mo": 214,
+      "interested": 214
     }
   },
   "contacts": [
+    {
+      "visitor": "1306269",
+      "email": "darsyne.kumar@ihg.com",
+      "name": "",
+      "account": "Kimpton",
+      "date": "2026-10-22",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1306982",
+      "email": "themeparkcruising@gmail.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-10-22",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "84117",
+      "email": "alvistametrowest@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-10-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "934029",
+      "email": "atwoodatrivulon@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-10-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "276924",
+      "email": "macboysmom+leeann.mccullough@comcast.net",
+      "name": "",
+      "account": "Liberty Tax",
+      "date": "2026-10-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "142582",
+      "email": "pm.strata99@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-10-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1204452",
+      "email": "mike@petrillotravel.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-10-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1189455",
+      "email": "imxsoci_catchall+f3c3539a_2517_4bfa_a127_4c12c8489899_3550@imatrix.com",
+      "name": "",
+      "account": "TherapySites ",
+      "date": "2026-10-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1129192",
+      "email": "singvoldstad@orangetheoryfitness.com",
+      "name": "",
+      "account": "Orangetheory Fitness",
+      "date": "2026-10-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "141112",
+      "email": "farnicia.trotter@waxingthecity.com",
+      "name": "",
+      "account": "Waxing the City ",
+      "date": "2026-10-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "829003",
+      "email": "scott@usacampingcompany.com",
+      "name": "",
+      "account": "KOA",
+      "date": "2026-10-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1306967",
+      "email": "Jessica.Rubey@spartannash.com",
+      "name": "",
+      "account": "SpartanNash",
+      "date": "2026-10-21",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1290334",
+      "email": "jayden.aberle@monarchinvestment.com",
+      "name": "",
+      "account": "Monarch Investment and Management Group",
+      "date": "2026-10-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "53530",
+      "email": "RochelleIL@anytimefitness.com",
+      "name": "",
+      "account": "Anytime Fitness NA ",
+      "date": "2026-10-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "470333",
+      "email": "etierney@metrodiner.com",
+      "name": "",
+      "account": "Metro Diner Management",
+      "date": "2026-10-21",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1304379",
+      "email": "willie.davis@mobilityworks.com",
+      "name": "",
+      "account": "MobilityWorks",
+      "date": "2026-10-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
     {
       "visitor": "296884",
       "email": "veronica.barela@gb85.com",
@@ -19649,42 +19825,31 @@
       "age_days": 365,
       "sla": "red",
       "area": "Reporting Suite"
-    },
-    {
-      "visitor": "1056827",
-      "email": "regina@sakelaris.com",
-      "name": "",
-      "account": "Ford",
-      "date": "2025-10-21",
-      "user_level": "Manager",
-      "age_days": 366,
-      "sla": "red",
-      "area": "Reporting Suite"
     }
   ],
   "level_counts": {
-    "Administrator": 161,
-    "Manager": 1612,
+    "Administrator": 163,
+    "Manager": 1625,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 3
   },
   "sla_counts": {
-    "green": 49,
+    "green": 65,
     "amber": 285,
-    "red": 1442
+    "red": 1441
   },
-  "total_interested": 1776,
-  "oldest_age": 366,
+  "total_interested": 1791,
+  "oldest_age": 365,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
-      66
+      68
     ],
     [
       "Willow Bridge Property Company ",
-      64
+      65
     ],
     [
       "Subway - North America",
@@ -19696,11 +19861,11 @@
     ],
     [
       "Avenue5 Residential",
-      41
+      42
     ],
     [
       "RPM Living",
-      38
+      39
     ],
     [
       "Cruise Planners | CP Elite",
@@ -19712,7 +19877,11 @@
     ],
     [
       "Anytime Fitness NA ",
-      28
+      29
+    ],
+    [
+      "Liberty Tax",
+      27
     ],
     [
       "Sky Zone",
@@ -19720,10 +19889,6 @@
     ],
     [
       "Cruise Planners | CP Pro",
-      26
-    ],
-    [
-      "Liberty Tax",
       26
     ],
     [
@@ -19799,16 +19964,20 @@
       13
     ],
     [
+      "Orangetheory Fitness",
+      12
+    ],
+    [
+      "Monarch Investment and Management Group",
+      12
+    ],
+    [
       "Mill Creek Residential ",
       12
     ],
     [
       "voco",
       12
-    ],
-    [
-      "Orangetheory Fitness",
-      11
     ],
     [
       "Grocery Outlet",
@@ -19827,15 +19996,7 @@
       11
     ],
     [
-      "Monarch Investment and Management Group",
-      11
-    ],
-    [
       "VEG ER for Pets",
-      11
-    ],
-    [
-      "Ford",
       11
     ],
     [
@@ -19864,6 +20025,10 @@
     ],
     [
       "Pointe Grand",
+      10
+    ],
+    [
+      "Ford",
       10
     ],
     [
@@ -19927,6 +20092,10 @@
       8
     ],
     [
+      "KOA",
+      7
+    ],
+    [
       "Anterra",
       7
     ],
@@ -19972,10 +20141,6 @@
     ],
     [
       "Pinots",
-      6
-    ],
-    [
-      "KOA",
       6
     ],
     [
@@ -20037,6 +20202,14 @@
     [
       "Guild Mortgage",
       5
+    ],
+    [
+      "Metro Diner Management",
+      4
+    ],
+    [
+      "MobilityWorks",
+      4
     ],
     [
       "Griffis Blessing",
@@ -20151,6 +20324,10 @@
       4
     ],
     [
+      "Waxing the City ",
+      3
+    ],
+    [
       "Destination Pet",
       3
     ],
@@ -20199,10 +20376,6 @@
       3
     ],
     [
-      "MobilityWorks",
-      3
-    ],
-    [
       "The Dog Stop",
       3
     ],
@@ -20236,10 +20409,6 @@
     ],
     [
       "Trilogy Health Services",
-      3
-    ],
-    [
-      "Metro Diner Management",
       3
     ],
     [
@@ -20319,15 +20488,23 @@
       3
     ],
     [
+      "Kimpton",
+      2
+    ],
+    [
+      "TherapySites ",
+      2
+    ],
+    [
+      "SpartanNash",
+      2
+    ],
+    [
       "Saladworks",
       2
     ],
     [
       "9Round",
-      2
-    ],
-    [
-      "Waxing the City ",
       2
     ],
     [
