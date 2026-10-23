@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23 21:11 UTC",
+  "generated_at": "2026-10-23 23:56 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -10856,7 +10856,7 @@
       "name": "",
       "account": "Life Time",
       "date": "2026-08-03",
-      "user_level": "Administrator",
+      "user_level": "Manager",
       "age_days": 81,
       "sla": "red",
       "area": "AskGenius"
@@ -19949,8 +19949,8 @@
     }
   ],
   "level_counts": {
-    "Administrator": 163,
-    "Manager": 1635,
+    "Administrator": 162,
+    "Manager": 1636,
     "User": 0
   },
   "level_counts_extra": {
