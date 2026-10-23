@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23 01:47 UTC",
+  "generated_at": "2026-10-23 07:12 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,14 +54,14 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 83,
-      "interested": 83
+      "responses_12mo": 81,
+      "interested": 81
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 238,
-      "interested": 238
+      "responses_12mo": 240,
+      "interested": 240
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -72,20 +72,20 @@
     "Surveys": {
       "guide_id": "RLz8F0jmIzDqIwzo7WOPNNHQr4M",
       "views_12mo": 0,
-      "responses_12mo": 13,
-      "interested": 13
+      "responses_12mo": 15,
+      "interested": 15
     },
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 515,
-      "interested": 515
+      "responses_12mo": 518,
+      "interested": 518
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 147,
-      "interested": 147
+      "responses_12mo": 148,
+      "interested": 148
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,14 +96,14 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 366,
-      "interested": 366
+      "responses_12mo": 370,
+      "interested": 370
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
       "views_12mo": 0,
-      "responses_12mo": 14,
-      "interested": 14
+      "responses_12mo": 15,
+      "interested": 15
     },
     "Data Management": {
       "guide_id": "YESnj4QI3Np_fsQ1W6_e_jBlJis",
@@ -126,6 +126,50 @@
   },
   "contacts": [
     {
+      "visitor": "1309719",
+      "email": "IdaBagusGedeAry.Mahaputra@ihg.com",
+      "name": "",
+      "account": "voco",
+      "date": "2026-10-23",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1279446",
+      "email": "sunnyvaleca@anylabtestnow.com",
+      "name": "",
+      "account": "Any Lab Test Now",
+      "date": "2026-10-23",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1309717",
+      "email": "Wiguna.Adinata@ihg.com",
+      "name": "",
+      "account": "Holiday Inn Express",
+      "date": "2026-10-23",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "318630",
+      "email": "mw042q@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-10-22",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
       "visitor": "1306269",
       "email": "darsyne.kumar@ihg.com",
       "name": "",
@@ -135,6 +179,105 @@
       "age_days": 1,
       "sla": "green",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "143041",
+      "email": "12central@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-10-22",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Surveys"
+    },
+    {
+      "visitor": "1284713",
+      "email": "Leasing@GreensofPineGlenApartments.com",
+      "name": "",
+      "account": "Fairfield Residential",
+      "date": "2026-10-22",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Surveys"
+    },
+    {
+      "visitor": "1303631",
+      "email": "park17@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-10-22",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "54586",
+      "email": "AshlandKY@anytimefitness.com",
+      "name": "",
+      "account": "Anytime Fitness NA ",
+      "date": "2026-10-22",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1309188",
+      "email": "jmeyer@sunridgemanagement.com",
+      "name": "",
+      "account": "Sunridge Management ",
+      "date": "2026-10-22",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1101019",
+      "email": "ironwoodmgr@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-10-22",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1074427",
+      "email": "manager@bellavistaapts.com",
+      "name": "",
+      "account": "Bryten Management",
+      "date": "2026-10-22",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1309719",
+      "email": "IdaBagusGedeAry.Mahaputra@ihg.com",
+      "name": "",
+      "account": "voco",
+      "date": "2026-10-22",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1034049",
+      "email": "brian.poirier@merrymaids.pro",
+      "name": "",
+      "account": "Merry Maids",
+      "date": "2026-10-22",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Listings"
     },
     {
       "visitor": "1306982",
@@ -19803,45 +19946,23 @@
       "age_days": 359,
       "sla": "red",
       "area": "Reporting Suite"
-    },
-    {
-      "visitor": "986987",
-      "email": "klockett@bbcgrp.com",
-      "name": "",
-      "account": "Balfour Beatty Communities ",
-      "date": "2025-10-22",
-      "user_level": "Manager",
-      "age_days": 366,
-      "sla": "red",
-      "area": "Reporting Suite"
-    },
-    {
-      "visitor": "1039308",
-      "email": "jleek@liveatthelennox.com",
-      "name": "",
-      "account": "The Garrett Companies",
-      "date": "2025-10-22",
-      "user_level": "Manager",
-      "age_days": 366,
-      "sla": "red",
-      "area": "Reporting Suite"
     }
   ],
   "level_counts": {
     "Administrator": 163,
-    "Manager": 1624,
+    "Manager": 1635,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 4
   },
   "sla_counts": {
-    "green": 53,
+    "green": 66,
     "amber": 283,
-    "red": 1455
+    "red": 1453
   },
-  "total_interested": 1791,
-  "oldest_age": 366,
+  "total_interested": 1802,
+  "oldest_age": 359,
   "repeat_accounts": [
     [
       "Travel Leaders Group",
@@ -19849,7 +19970,7 @@
     ],
     [
       "Willow Bridge Property Company ",
-      65
+      66
     ],
     [
       "Subway - North America",
@@ -19857,15 +19978,15 @@
     ],
     [
       "AT&T",
-      46
+      47
     ],
     [
       "Avenue5 Residential",
-      42
+      43
     ],
     [
       "RPM Living",
-      39
+      40
     ],
     [
       "Cruise Planners | CP Elite",
@@ -19877,7 +19998,7 @@
     ],
     [
       "Anytime Fitness NA ",
-      29
+      30
     ],
     [
       "Liberty Tax",
@@ -19893,7 +20014,7 @@
     ],
     [
       "Holiday Inn Express",
-      23
+      24
     ],
     [
       "Vetcor",
@@ -19908,12 +20029,12 @@
       20
     ],
     [
-      "Signarama",
+      "Fairfield Residential",
       19
     ],
     [
-      "Fairfield Residential",
-      18
+      "Signarama",
+      19
     ],
     [
       "Holiday Inn",
@@ -19948,12 +20069,16 @@
       15
     ],
     [
-      "Adara Communities ",
+      "voco",
       14
     ],
     [
       "Bryten Management",
-      13
+      14
+    ],
+    [
+      "Adara Communities ",
+      14
     ],
     [
       "Teriyaki Madness",
@@ -19973,10 +20098,6 @@
     ],
     [
       "Mill Creek Residential ",
-      12
-    ],
-    [
-      "voco",
       12
     ],
     [
@@ -20052,6 +20173,10 @@
       9
     ],
     [
+      "Merry Maids",
+      8
+    ],
+    [
       "Scooter's Coffee, LLC",
       8
     ],
@@ -20092,6 +20217,10 @@
       8
     ],
     [
+      "Any Lab Test Now",
+      7
+    ],
+    [
       "KOA",
       7
     ],
@@ -20112,10 +20241,6 @@
       7
     ],
     [
-      "Merry Maids",
-      7
-    ],
-    [
       "American Freight NewCo",
       7
     ],
@@ -20132,7 +20257,7 @@
       7
     ],
     [
-      "Any Lab Test Now",
+      "Sunridge Management ",
       6
     ],
     [
@@ -20181,10 +20306,6 @@
     ],
     [
       "The Little Gym",
-      5
-    ],
-    [
-      "Sunridge Management ",
       5
     ],
     [
@@ -20476,10 +20597,6 @@
       3
     ],
     [
-      "Balfour Beatty Communities ",
-      3
-    ],
-    [
       "Eggs Up Grill",
       3
     ],
@@ -20733,6 +20850,10 @@
     ],
     [
       "The Dolben Company ",
+      2
+    ],
+    [
+      "Balfour Beatty Communities ",
       2
     ],
     [
