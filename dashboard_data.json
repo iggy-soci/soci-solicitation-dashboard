@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24 04:13 UTC",
+  "generated_at": "2026-10-24 09:01 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 240,
-      "interested": 240
+      "responses_12mo": 242,
+      "interested": 242
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,8 +78,8 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 518,
-      "interested": 518
+      "responses_12mo": 523,
+      "interested": 523
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 370,
-      "interested": 370
+      "responses_12mo": 373,
+      "interested": 373
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -120,11 +120,33 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 214,
-      "interested": 214
+      "responses_12mo": 216,
+      "interested": 216
     }
   },
   "contacts": [
+    {
+      "visitor": "1282615",
+      "email": "owner.173@bricksandminifigs.com",
+      "name": "",
+      "account": "Bricks and Minifigs",
+      "date": "2026-10-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "292466",
+      "email": "leads@visitlakecrossing.com",
+      "name": "",
+      "account": "S&S Property Management",
+      "date": "2026-10-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
     {
       "visitor": "1309719",
       "email": "IdaBagusGedeAry.Mahaputra@ihg.com",
@@ -135,6 +157,61 @@
       "age_days": 1,
       "sla": "green",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "749075",
+      "email": "canyonview@raamco.com",
+      "name": "",
+      "account": "Sheng Raamco Management Inc",
+      "date": "2026-10-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1284802",
+      "email": "PointDeerfield@AssetLiving.com",
+      "name": "",
+      "account": "Asset Living",
+      "date": "2026-10-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1164502",
+      "email": "tonya@burkelycommunities.com",
+      "name": "",
+      "account": "Burkely Communities",
+      "date": "2026-10-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "945141",
+      "email": "thebend@pmrcompanies.com",
+      "name": "",
+      "account": "PMR Companies",
+      "date": "2026-10-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1295622",
+      "email": "kanaecia.brown@timberlandpartners.com",
+      "name": "",
+      "account": "Timberland Partners",
+      "date": "2026-10-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
     },
     {
       "visitor": "1279446",
@@ -148,6 +225,39 @@
       "area": "Social"
     },
     {
+      "visitor": "1260586",
+      "email": "224080@sso.subway.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-10-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1293546",
+      "email": "hixdania@dphotelsgroup.com",
+      "name": "",
+      "account": "Holiday Inn Express",
+      "date": "2026-10-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "300054",
+      "email": "rcruz@atax.com",
+      "name": "",
+      "account": "ATAX ",
+      "date": "2026-10-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
       "visitor": "1309717",
       "email": "Wiguna.Adinata@ihg.com",
       "name": "",
@@ -157,6 +267,28 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Reviews"
+    },
+    {
+      "visitor": "451579",
+      "email": "reverb@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-10-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "712986",
+      "email": "windermere@tlechildcare.com",
+      "name": "",
+      "account": "The Learning Experience",
+      "date": "2026-10-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "318630",
@@ -19950,18 +20082,18 @@
   ],
   "level_counts": {
     "Administrator": 162,
-    "Manager": 1636,
+    "Manager": 1648,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 4
   },
   "sla_counts": {
-    "green": 56,
+    "green": 68,
     "amber": 274,
     "red": 1472
   },
-  "total_interested": 1802,
+  "total_interested": 1814,
   "oldest_age": 360,
   "repeat_accounts": [
     [
@@ -19974,7 +20106,7 @@
     ],
     [
       "Subway - North America",
-      53
+      54
     ],
     [
       "AT&T",
@@ -19982,7 +20114,7 @@
     ],
     [
       "Avenue5 Residential",
-      43
+      44
     ],
     [
       "RPM Living",
@@ -20014,14 +20146,14 @@
     ],
     [
       "Holiday Inn Express",
-      24
-    ],
-    [
-      "Vetcor",
-      20
+      25
     ],
     [
       "The Learning Experience",
+      21
+    ],
+    [
+      "Vetcor",
       20
     ],
     [
@@ -20089,6 +20221,10 @@
       13
     ],
     [
+      "Sheng Raamco Management Inc",
+      12
+    ],
+    [
       "Orangetheory Fitness",
       12
     ],
@@ -20102,10 +20238,6 @@
     ],
     [
       "Grocery Outlet",
-      11
-    ],
-    [
-      "Sheng Raamco Management Inc",
       11
     ],
     [
@@ -20325,6 +20457,10 @@
       5
     ],
     [
+      "Asset Living",
+      4
+    ],
+    [
       "Metro Diner Management",
       4
     ],
@@ -20445,6 +20581,14 @@
       4
     ],
     [
+      "PMR Companies",
+      3
+    ],
+    [
+      "Timberland Partners",
+      3
+    ],
+    [
       "Waxing the City ",
       3
     ],
@@ -20549,10 +20693,6 @@
       3
     ],
     [
-      "Asset Living",
-      3
-    ],
-    [
       "Roers Companies LLC",
       3
     ],
@@ -20603,6 +20743,10 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "S&S Property Management",
+      2
     ],
     [
       "Kimpton",
@@ -20662,10 +20806,6 @@
     ],
     [
       "HNN Communities",
-      2
-    ],
-    [
-      "PMR Companies",
       2
     ],
     [
@@ -20814,10 +20954,6 @@
     ],
     [
       "Guardian Real Estate Services LLC",
-      2
-    ],
-    [
-      "Timberland Partners",
       2
     ],
     [
