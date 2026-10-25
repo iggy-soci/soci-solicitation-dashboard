@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25 05:08 UTC",
+  "generated_at": "2026-10-25 10:02 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 242,
-      "interested": 242
+      "responses_12mo": 243,
+      "interested": 243
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -84,8 +84,8 @@
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 148,
-      "interested": 148
+      "responses_12mo": 149,
+      "interested": 149
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 373,
-      "interested": 373
+      "responses_12mo": 374,
+      "interested": 374
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -120,11 +120,66 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 216,
-      "interested": 216
+      "responses_12mo": 218,
+      "interested": 218
     }
   },
   "contacts": [
+    {
+      "visitor": "380815",
+      "email": "sunrise@bellpartnersinc.com",
+      "name": "",
+      "account": "Bell Partners",
+      "date": "2026-10-25",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "302821",
+      "email": "js146j@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-10-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1222381",
+      "email": "bo.ku.mt1@gmail.com",
+      "name": "",
+      "account": "KidsUnited USA",
+      "date": "2026-10-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "37597",
+      "email": "pm.mueller@syncre.com",
+      "name": "",
+      "account": "SYNC Residential ",
+      "date": "2026-10-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "165716",
+      "email": "Joseph.courville@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Pro",
+      "date": "2026-10-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
     {
       "visitor": "1282615",
       "email": "owner.173@bricksandminifigs.com",
@@ -20082,18 +20137,18 @@
   ],
   "level_counts": {
     "Administrator": 162,
-    "Manager": 1649,
+    "Manager": 1654,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 3
   },
   "sla_counts": {
-    "green": 63,
+    "green": 68,
     "amber": 264,
     "red": 1487
   },
-  "total_interested": 1814,
+  "total_interested": 1819,
   "oldest_age": 361,
   "repeat_accounts": [
     [
@@ -20110,7 +20165,7 @@
     ],
     [
       "AT&T",
-      47
+      48
     ],
     [
       "Avenue5 Residential",
@@ -20133,16 +20188,16 @@
       30
     ],
     [
+      "Cruise Planners | CP Pro",
+      27
+    ],
+    [
       "Liberty Tax",
       27
     ],
     [
       "Sky Zone",
       27
-    ],
-    [
-      "Cruise Planners | CP Pro",
-      26
     ],
     [
       "Holiday Inn Express",
@@ -20457,6 +20512,10 @@
       5
     ],
     [
+      "KidsUnited USA",
+      4
+    ],
+    [
       "Asset Living",
       4
     ],
@@ -20579,6 +20638,10 @@
     [
       "Lakefield Veterinary Group",
       4
+    ],
+    [
+      "Bell Partners",
+      3
     ],
     [
       "PMR Companies",
@@ -20714,10 +20777,6 @@
     ],
     [
       "Highmark Residential",
-      3
-    ],
-    [
-      "KidsUnited USA",
       3
     ],
     [
@@ -20990,10 +21049,6 @@
     ],
     [
       "Balfour Beatty Communities ",
-      2
-    ],
-    [
-      "Bell Partners",
       2
     ],
     [
