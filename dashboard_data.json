@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26 07:35 UTC",
+  "generated_at": "2026-10-26 14:59 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -13991,7 +13991,7 @@
       "name": "",
       "account": "Village Green Companies",
       "date": "2026-07-20",
-      "user_level": "Manager",
+      "user_level": "Unknown",
       "age_days": 98,
       "sla": "red",
       "area": "Social"
@@ -20203,11 +20203,11 @@
   ],
   "level_counts": {
     "Administrator": 162,
-    "Manager": 1660,
+    "Manager": 1659,
     "User": 0
   },
   "level_counts_extra": {
-    "Unknown": 3
+    "Unknown": 4
   },
   "sla_counts": {
     "green": 72,
