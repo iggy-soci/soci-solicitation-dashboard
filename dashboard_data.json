@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27 05:25 UTC",
+  "generated_at": "2026-10-27 10:49 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,20 +54,20 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 81,
-      "interested": 81
+      "responses_12mo": 82,
+      "interested": 82
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 244,
-      "interested": 244
+      "responses_12mo": 247,
+      "interested": 247
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
       "views_12mo": 0,
-      "responses_12mo": 22,
-      "interested": 22
+      "responses_12mo": 23,
+      "interested": 23
     },
     "Surveys": {
       "guide_id": "RLz8F0jmIzDqIwzo7WOPNNHQr4M",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 527,
-      "interested": 527
+      "responses_12mo": 535,
+      "interested": 535
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 149,
-      "interested": 149
+      "responses_12mo": 150,
+      "interested": 150
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 375,
-      "interested": 375
+      "responses_12mo": 377,
+      "interested": 377
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -120,11 +120,55 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 218,
-      "interested": 218
+      "responses_12mo": 220,
+      "interested": 220
     }
   },
   "contacts": [
+    {
+      "visitor": "1311057",
+      "email": "shollis@nxtmgt.com",
+      "name": "",
+      "account": "Nxt Property Management",
+      "date": "2026-10-26",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reporting Suite"
+    },
+    {
+      "visitor": "946233",
+      "email": "ajones@tarragon.com",
+      "name": "",
+      "account": "Tarragon Property Services",
+      "date": "2026-10-26",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1254081",
+      "email": "nisargatrivedi68@gmail.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-10-26",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "149732",
+      "email": "summerbreezetopeka@gmail.com",
+      "name": "",
+      "account": "Eucalyptus Real Estate",
+      "date": "2026-10-26",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
     {
       "visitor": "1309717",
       "email": "Wiguna.Adinata@ihg.com",
@@ -137,6 +181,105 @@
       "area": "Reviews (Reputation)"
     },
     {
+      "visitor": "1300073",
+      "email": "gilbertsoftserve@gmail.com",
+      "name": "",
+      "account": "16 Handles",
+      "date": "2026-10-26",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Pages"
+    },
+    {
+      "visitor": "1047970",
+      "email": "patelda@hlcmail.com",
+      "name": "",
+      "account": "Huntington Learning Centers ",
+      "date": "2026-10-26",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "152854",
+      "email": "mroley@homewellcares.com",
+      "name": "",
+      "account": "HomeWell Care Services",
+      "date": "2026-10-26",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "47260",
+      "email": "jeremiahii@comcast.net",
+      "name": "",
+      "account": "Anytime Fitness NA ",
+      "date": "2026-10-26",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1290841",
+      "email": "bserrano@venterraliving.com",
+      "name": "",
+      "account": "Venterra Living",
+      "date": "2026-10-26",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1272116",
+      "email": "Jeff.Johnson@signarama.com",
+      "name": "",
+      "account": "Signarama",
+      "date": "2026-10-26",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1293341",
+      "email": "ashley.shetley@employbridge.com",
+      "name": "",
+      "account": "Employbridge Holding Company",
+      "date": "2026-10-26",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1284676",
+      "email": "leasing@brentonatabbeyparkapartments.com",
+      "name": "",
+      "account": "Fairfield Residential",
+      "date": "2026-10-26",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1214710",
+      "email": "Jorge.Ruiz@Signarama.com",
+      "name": "",
+      "account": "Signarama",
+      "date": "2026-10-26",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
       "visitor": "782179",
       "email": "crystal.shui+3067047@commonmoves.com",
       "name": "",
@@ -146,6 +289,61 @@
       "age_days": 1,
       "sla": "green",
       "area": "Social"
+    },
+    {
+      "visitor": "664620",
+      "email": "Evanston-Calgary.AB@sylvanlearning.com",
+      "name": "",
+      "account": "Sylvan Learning",
+      "date": "2026-10-26",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1287939",
+      "email": "blythewoodsc@anytimefitness.com",
+      "name": "",
+      "account": "Anytime Fitness NA ",
+      "date": "2026-10-26",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "450290",
+      "email": "instrata@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-10-26",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "838164",
+      "email": "centurypark@anterra.com",
+      "name": "",
+      "account": "Anterra",
+      "date": "2026-10-26",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "106905",
+      "email": "store.00602@rentacenter.com",
+      "name": "",
+      "account": "Rent-A-Center",
+      "date": "2026-10-26",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "1233127",
@@ -20203,23 +20401,23 @@
   ],
   "level_counts": {
     "Administrator": 163,
-    "Manager": 1659,
+    "Manager": 1677,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 3
   },
   "sla_counts": {
-    "green": 62,
+    "green": 80,
     "amber": 262,
     "red": 1501
   },
-  "total_interested": 1825,
+  "total_interested": 1843,
   "oldest_age": 363,
   "repeat_accounts": [
     [
       "Willow Bridge Property Company ",
-      68
+      69
     ],
     [
       "Travel Leaders Group",
@@ -20227,7 +20425,7 @@
     ],
     [
       "Subway - North America",
-      54
+      55
     ],
     [
       "AT&T",
@@ -20251,7 +20449,7 @@
     ],
     [
       "Anytime Fitness NA ",
-      30
+      32
     ],
     [
       "Cruise Planners | CP Pro",
@@ -20270,8 +20468,16 @@
       25
     ],
     [
+      "Signarama",
+      21
+    ],
+    [
       "The Learning Experience",
       21
+    ],
+    [
+      "Fairfield Residential",
+      20
     ],
     [
       "Vetcor",
@@ -20286,19 +20492,11 @@
       19
     ],
     [
-      "Fairfield Residential",
-      19
-    ],
-    [
-      "Signarama",
-      19
+      "Sylvan Learning",
+      18
     ],
     [
       "Nothing Bundt Cakes",
-      17
-    ],
-    [
-      "Sylvan Learning",
       17
     ],
     [
@@ -20358,6 +20556,14 @@
       12
     ],
     [
+      "HomeWell Care Services",
+      11
+    ],
+    [
+      "Venterra Living",
+      11
+    ],
+    [
       "Elements Massage",
       11
     ],
@@ -20378,15 +20584,11 @@
       11
     ],
     [
-      "HomeWell Care Services",
+      "Rent-A-Center",
       10
     ],
     [
       "Lightbridge Academy",
-      10
-    ],
-    [
-      "Venterra Living",
       10
     ],
     [
@@ -20406,11 +20608,11 @@
       10
     ],
     [
-      "BrightStar Care ",
+      "Huntington Learning Centers ",
       9
     ],
     [
-      "Rent-A-Center",
+      "BrightStar Care ",
       9
     ],
     [
@@ -20424,6 +20626,10 @@
     [
       "Dill Dinkers",
       9
+    ],
+    [
+      "Anterra",
+      8
     ],
     [
       "Merry Maids",
@@ -20458,10 +20664,6 @@
       8
     ],
     [
-      "Huntington Learning Centers ",
-      8
-    ],
-    [
       "Capital Square Living",
       8
     ],
@@ -20475,10 +20677,6 @@
     ],
     [
       "KOA",
-      7
-    ],
-    [
-      "Anterra",
       7
     ],
     [
@@ -20576,6 +20774,10 @@
     [
       "Guild Mortgage",
       5
+    ],
+    [
+      "Eucalyptus Real Estate",
+      4
     ],
     [
       "KidsUnited USA",
@@ -20782,10 +20984,6 @@
       3
     ],
     [
-      "Eucalyptus Real Estate",
-      3
-    ],
-    [
       "4 Wheel Parts",
       3
     ],
@@ -20868,6 +21066,14 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "Nxt Property Management",
+      2
+    ],
+    [
+      "Employbridge Holding Company",
+      2
     ],
     [
       "S&S Property Management",
