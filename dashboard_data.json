@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28 06:06 UTC",
+  "generated_at": "2026-10-28 13:23 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 247,
-      "interested": 247
+      "responses_12mo": 248,
+      "interested": 248
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,8 +78,8 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 535,
-      "interested": 535
+      "responses_12mo": 537,
+      "interested": 537
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 377,
-      "interested": 377
+      "responses_12mo": 380,
+      "interested": 380
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -125,6 +125,72 @@
     }
   },
   "contacts": [
+    {
+      "visitor": "639689",
+      "email": "studio200@paintingwithatwist.com",
+      "name": "",
+      "account": "Painting with a Twist, LLC",
+      "date": "2026-10-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1307361",
+      "email": "KPickett@millcreekplaces.com",
+      "name": "",
+      "account": "Mill Creek Residential ",
+      "date": "2026-10-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1284712",
+      "email": "Leasing@SterlingGreenVillageSheldonRanch.com",
+      "name": "",
+      "account": "Fairfield Residential",
+      "date": "2026-10-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1296545",
+      "email": "khummel@centerspacehomes.com",
+      "name": "",
+      "account": "Centerspace",
+      "date": "2026-10-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "958724",
+      "email": "eschu@acehandymanservices.com",
+      "name": "",
+      "account": "Ace Handyman Services ",
+      "date": "2026-10-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "451797",
+      "email": "vue32@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-10-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
     {
       "visitor": "1311057",
       "email": "shollis@nxtmgt.com",
@@ -20401,23 +20467,23 @@
   ],
   "level_counts": {
     "Administrator": 163,
-    "Manager": 1678,
+    "Manager": 1684,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 2
   },
   "sla_counts": {
-    "green": 70,
+    "green": 76,
     "amber": 269,
     "red": 1504
   },
-  "total_interested": 1843,
+  "total_interested": 1849,
   "oldest_age": 364,
   "repeat_accounts": [
     [
       "Willow Bridge Property Company ",
-      69
+      70
     ],
     [
       "Travel Leaders Group",
@@ -20468,16 +20534,16 @@
       25
     ],
     [
+      "Fairfield Residential",
+      21
+    ],
+    [
       "Signarama",
       21
     ],
     [
       "The Learning Experience",
       21
-    ],
-    [
-      "Fairfield Residential",
-      20
     ],
     [
       "Vetcor",
@@ -20532,6 +20598,10 @@
       14
     ],
     [
+      "Mill Creek Residential ",
+      13
+    ],
+    [
       "Teriyaki Madness",
       13
     ],
@@ -20549,10 +20619,6 @@
     ],
     [
       "Monarch Investment and Management Group",
-      12
-    ],
-    [
-      "Mill Creek Residential ",
       12
     ],
     [
@@ -20608,6 +20674,10 @@
       10
     ],
     [
+      "Painting with a Twist, LLC",
+      9
+    ],
+    [
       "Huntington Learning Centers ",
       9
     ],
@@ -20641,10 +20711,6 @@
     ],
     [
       "Comparion",
-      8
-    ],
-    [
-      "Painting with a Twist, LLC",
       8
     ],
     [
@@ -20908,6 +20974,10 @@
       4
     ],
     [
+      "Centerspace",
+      3
+    ],
+    [
       "Bell Partners",
       3
     ],
@@ -21161,10 +21231,6 @@
     ],
     [
       "Ivy Rehab Network",
-      2
-    ],
-    [
-      "Centerspace",
       2
     ],
     [
