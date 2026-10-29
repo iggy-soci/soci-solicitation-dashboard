@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29 02:42 UTC",
+  "generated_at": "2026-10-29 09:39 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 537,
-      "interested": 537
+      "responses_12mo": 539,
+      "interested": 539
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 150,
-      "interested": 150
+      "responses_12mo": 153,
+      "interested": 153
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 380,
-      "interested": 380
+      "responses_12mo": 383,
+      "interested": 383
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,149 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 172,
-      "interested": 172
+      "responses_12mo": 174,
+      "interested": 174
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 220,
-      "interested": 220
+      "responses_12mo": 222,
+      "interested": 222
     }
   },
   "contacts": [
+    {
+      "visitor": "1165901",
+      "email": "kyoung@saladworks.com",
+      "name": "",
+      "account": "Saladworks",
+      "date": "2026-10-29",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1281169",
+      "email": "bethany.moore+3080005@floridanetworkrealty.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-10-28",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1306340",
+      "email": "sillyrrabbit@yahoo.com",
+      "name": "",
+      "account": "Neighborly",
+      "date": "2026-10-28",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1196285",
+      "email": "aeberwein@orangetheoryfitness.ca",
+      "name": "",
+      "account": "Orangetheory Fitness Canada",
+      "date": "2026-10-28",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1174147",
+      "email": "hemet@groceryoutlet.com",
+      "name": "",
+      "account": "Grocery Outlet",
+      "date": "2026-10-28",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "982917",
+      "email": "kingmanstation.manager@livebryten.com",
+      "name": "",
+      "account": "Bryten Management",
+      "date": "2026-10-28",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1233127",
+      "email": "ariosoaptsmgr@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-10-28",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "366785",
+      "email": "meghan.kular@kiddieacademy.net",
+      "name": "",
+      "account": "Kiddie Academy",
+      "date": "2026-10-28",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1248603",
+      "email": "umairhaque786@hotmail.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-10-28",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1298422",
+      "email": "valerie@jenningssocialmedia.com",
+      "name": "",
+      "account": "Ford",
+      "date": "2026-10-28",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1131117",
+      "email": "shernandez@americanveterinarygroup.com",
+      "name": "",
+      "account": "General Practice",
+      "date": "2026-10-28",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1192044",
+      "email": "cajohnson@vetcor.com",
+      "name": "",
+      "account": "Vetcor",
+      "date": "2026-10-28",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
     {
       "visitor": "639689",
       "email": "studio200@paintingwithatwist.com",
@@ -20466,24 +20598,24 @@
     }
   ],
   "level_counts": {
-    "Administrator": 163,
-    "Manager": 1684,
+    "Administrator": 164,
+    "Manager": 1695,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 2
   },
   "sla_counts": {
-    "green": 62,
+    "green": 74,
     "amber": 271,
     "red": 1516
   },
-  "total_interested": 1849,
+  "total_interested": 1861,
   "oldest_age": 365,
   "repeat_accounts": [
     [
       "Willow Bridge Property Company ",
-      70
+      71
     ],
     [
       "Travel Leaders Group",
@@ -20491,7 +20623,7 @@
     ],
     [
       "Subway - North America",
-      55
+      56
     ],
     [
       "AT&T",
@@ -20511,7 +20643,7 @@
     ],
     [
       "Berkshire Hathaway HomeServices",
-      33
+      34
     ],
     [
       "Anytime Fitness NA ",
@@ -20534,6 +20666,14 @@
       25
     ],
     [
+      "Neighborly",
+      21
+    ],
+    [
+      "Vetcor",
+      21
+    ],
+    [
       "Fairfield Residential",
       21
     ],
@@ -20544,14 +20684,6 @@
     [
       "The Learning Experience",
       21
-    ],
-    [
-      "Vetcor",
-      20
-    ],
-    [
-      "Neighborly",
-      20
     ],
     [
       "Holiday Inn",
@@ -20578,6 +20710,10 @@
       16
     ],
     [
+      "Bryten Management",
+      15
+    ],
+    [
       "Stretch Zone Franchising, LLC ",
       15
     ],
@@ -20587,10 +20723,6 @@
     ],
     [
       "voco",
-      14
-    ],
-    [
-      "Bryten Management",
       14
     ],
     [
@@ -20610,6 +20742,10 @@
       13
     ],
     [
+      "Grocery Outlet",
+      12
+    ],
+    [
       "Sheng Raamco Management Inc",
       12
     ],
@@ -20622,6 +20758,10 @@
       12
     ],
     [
+      "Ford",
+      11
+    ],
+    [
       "HomeWell Care Services",
       11
     ],
@@ -20631,10 +20771,6 @@
     ],
     [
       "Elements Massage",
-      11
-    ],
-    [
-      "Grocery Outlet",
       11
     ],
     [
@@ -20670,8 +20806,8 @@
       10
     ],
     [
-      "Ford",
-      10
+      "Orangetheory Fitness Canada",
+      9
     ],
     [
       "Painting with a Twist, LLC",
@@ -20719,10 +20855,6 @@
     ],
     [
       "Sport Clips",
-      8
-    ],
-    [
-      "Orangetheory Fitness Canada",
       8
     ],
     [
@@ -20774,6 +20906,10 @@
       7
     ],
     [
+      "Kiddie Academy",
+      6
+    ],
+    [
       "Sunridge Management ",
       6
     ],
@@ -20799,10 +20935,6 @@
     ],
     [
       "FSBI - Entrepreneur's Source ",
-      5
-    ],
-    [
-      "Kiddie Academy",
       5
     ],
     [
@@ -20972,6 +21104,10 @@
     [
       "Lakefield Veterinary Group",
       4
+    ],
+    [
+      "Saladworks",
+      3
     ],
     [
       "Centerspace",
@@ -21159,10 +21295,6 @@
     ],
     [
       "SpartanNash",
-      2
-    ],
-    [
-      "Saladworks",
       2
     ],
     [
