@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30 01:43 UTC",
+  "generated_at": "2026-10-30 08:20 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,14 +54,14 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 82,
-      "interested": 82
+      "responses_12mo": 81,
+      "interested": 81
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 248,
-      "interested": 248
+      "responses_12mo": 250,
+      "interested": 250
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 539,
-      "interested": 539
+      "responses_12mo": 542,
+      "interested": 542
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 153,
-      "interested": 153
+      "responses_12mo": 154,
+      "interested": 154
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 383,
-      "interested": 383
+      "responses_12mo": 384,
+      "interested": 384
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,94 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 174,
-      "interested": 174
+      "responses_12mo": 175,
+      "interested": 175
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 222,
-      "interested": 222
+      "responses_12mo": 223,
+      "interested": 223
     }
   },
   "contacts": [
+    {
+      "visitor": "712669",
+      "email": "cedarpark@tlechildcare.com",
+      "name": "",
+      "account": "The Learning Experience",
+      "date": "2026-10-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1165901",
+      "email": "kyoung@saladworks.com",
+      "name": "",
+      "account": "Saladworks",
+      "date": "2026-10-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "746044",
+      "email": "poornima.dhanaraj@kiddieacademy.net",
+      "name": "",
+      "account": "Kiddie Academy",
+      "date": "2026-10-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "824660",
+      "email": "dleesburgva2@goddardschools.com",
+      "name": "",
+      "account": "The Goddard School",
+      "date": "2026-10-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "983908",
+      "email": "marketing@baleo.us",
+      "name": "",
+      "account": "Anytime Fitness NA ",
+      "date": "2026-10-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1232735",
+      "email": "welldressedroom@decoratingden.com",
+      "name": "",
+      "account": "Decorating Den Interiors",
+      "date": "2026-10-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1117804",
+      "email": "VA412.gm@gocarwash.com",
+      "name": "",
+      "account": "GO Car Wash",
+      "date": "2026-10-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
     {
       "visitor": "1165901",
       "email": "kyoung@saladworks.com",
@@ -135,6 +212,28 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1145749",
+      "email": "Erika.Scherling@degreewellness.com",
+      "name": "",
+      "account": "Degree Wellness",
+      "date": "2026-10-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "969283",
+      "email": "theorchards@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-10-29",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "1281169",
@@ -20584,34 +20683,23 @@
       "age_days": 357,
       "sla": "red",
       "area": "Reporting Suite"
-    },
-    {
-      "visitor": "82113",
-      "email": "lasallemgr@willowbridgepc.com",
-      "name": "",
-      "account": "Willow Bridge Property Company ",
-      "date": "2025-10-29",
-      "user_level": "Manager",
-      "age_days": 366,
-      "sla": "red",
-      "area": "Reporting Suite"
     }
   ],
   "level_counts": {
     "Administrator": 164,
-    "Manager": 1695,
+    "Manager": 1703,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 2
   },
   "sla_counts": {
-    "green": 62,
+    "green": 71,
     "amber": 263,
-    "red": 1536
+    "red": 1535
   },
-  "total_interested": 1861,
-  "oldest_age": 366,
+  "total_interested": 1869,
+  "oldest_age": 357,
   "repeat_accounts": [
     [
       "Willow Bridge Property Company ",
@@ -20647,7 +20735,7 @@
     ],
     [
       "Anytime Fitness NA ",
-      32
+      33
     ],
     [
       "Cruise Planners | CP Pro",
@@ -20666,6 +20754,10 @@
       25
     ],
     [
+      "The Learning Experience",
+      22
+    ],
+    [
       "Neighborly",
       21
     ],
@@ -20679,10 +20771,6 @@
     ],
     [
       "Signarama",
-      21
-    ],
-    [
-      "The Learning Experience",
       21
     ],
     [
@@ -20706,6 +20794,10 @@
       17
     ],
     [
+      "The Goddard School",
+      16
+    ],
+    [
       "Texas Roadhouse Holdings LLC",
       16
     ],
@@ -20715,10 +20807,6 @@
     ],
     [
       "Stretch Zone Franchising, LLC ",
-      15
-    ],
-    [
-      "The Goddard School",
       15
     ],
     [
@@ -20834,6 +20922,10 @@
       9
     ],
     [
+      "Decorating Den Interiors",
+      8
+    ],
+    [
       "Anterra",
       8
     ],
@@ -20870,6 +20962,10 @@
       8
     ],
     [
+      "Kiddie Academy",
+      7
+    ],
+    [
       "Any Lab Test Now",
       7
     ],
@@ -20902,14 +20998,6 @@
       7
     ],
     [
-      "Decorating Den Interiors",
-      7
-    ],
-    [
-      "Kiddie Academy",
-      6
-    ],
-    [
       "Sunridge Management ",
       6
     ],
@@ -20928,6 +21016,10 @@
     [
       "Lynd",
       6
+    ],
+    [
+      "GO Car Wash",
+      5
     ],
     [
       "WinnResidential",
@@ -20972,6 +21064,10 @@
     [
       "Guild Mortgage",
       5
+    ],
+    [
+      "Saladworks",
+      4
     ],
     [
       "Eucalyptus Real Estate",
@@ -21050,10 +21146,6 @@
       4
     ],
     [
-      "GO Car Wash",
-      4
-    ],
-    [
       "ServiceMaster Clean",
       4
     ],
@@ -21106,7 +21198,7 @@
       4
     ],
     [
-      "Saladworks",
+      "Degree Wellness",
       3
     ],
     [
@@ -21499,10 +21591,6 @@
     ],
     [
       "Sam The Concrete Man",
-      2
-    ],
-    [
-      "Degree Wellness",
       2
     ],
     [
