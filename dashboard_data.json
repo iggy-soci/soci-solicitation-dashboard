@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02 01:22 UTC",
+  "generated_at": "2026-11-02 08:03 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 253,
-      "interested": 253
+      "responses_12mo": 254,
+      "interested": 254
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -84,8 +84,8 @@
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 156,
-      "interested": 156
+      "responses_12mo": 157,
+      "interested": 157
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -120,11 +120,44 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 223,
-      "interested": 223
+      "responses_12mo": 224,
+      "interested": 224
     }
   },
   "contacts": [
+    {
+      "visitor": "1246686",
+      "email": "glenview@zoomingroomin.com",
+      "name": "",
+      "account": "Zoomin Groomin",
+      "date": "2026-11-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1182290",
+      "email": "Sherae.Butler@skyzone.com",
+      "name": "",
+      "account": "Sky Zone",
+      "date": "2026-11-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1310643",
+      "email": "Nishita.Singh@westernunion.com",
+      "name": "",
+      "account": "Western Union - USA",
+      "date": "2026-11-01",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
     {
       "visitor": "1284687",
       "email": "leasing@callistahillcountryapartments.com",
@@ -1374,7 +1407,7 @@
       "name": "",
       "account": "Destination Pet",
       "date": "2026-10-20",
-      "user_level": "Manager",
+      "user_level": "Unknown",
       "age_days": 13,
       "sla": "amber",
       "area": "Genius Reviews"
@@ -1561,7 +1594,7 @@
       "name": "",
       "account": "Destination Pet",
       "date": "2026-10-18",
-      "user_level": "Manager",
+      "user_level": "Unknown",
       "age_days": 15,
       "sla": "amber",
       "area": "Engagements"
@@ -5099,7 +5132,7 @@
     },
     {
       "visitor": "634755",
-      "email": "jii3012@jeremiahsice.com",
+      "email": "jiibramlett@jeremiahsice.com",
       "name": "",
       "account": "Jeremiah's Italian Ice",
       "date": "2026-09-21",
@@ -20819,18 +20852,18 @@
   ],
   "level_counts": {
     "Administrator": 165,
-    "Manager": 1714,
+    "Manager": 1715,
     "User": 0
   },
   "level_counts_extra": {
-    "Unknown": 2
+    "Unknown": 4
   },
   "sla_counts": {
-    "green": 59,
+    "green": 62,
     "amber": 241,
     "red": 1581
   },
-  "total_interested": 1881,
+  "total_interested": 1884,
   "oldest_age": 360,
   "repeat_accounts": [
     [
@@ -20871,7 +20904,7 @@
     ],
     [
       "Sky Zone",
-      28
+      29
     ],
     [
       "Cruise Planners | CP Pro",
@@ -21130,6 +21163,10 @@
       7
     ],
     [
+      "Zoomin Groomin",
+      6
+    ],
+    [
       "Sunridge Management ",
       6
     ],
@@ -21159,10 +21196,6 @@
     ],
     [
       "FSBI - Entrepreneur's Source ",
-      5
-    ],
-    [
-      "Zoomin Groomin",
       5
     ],
     [
@@ -21328,6 +21361,10 @@
     [
       "Lakefield Veterinary Group",
       4
+    ],
+    [
+      "Western Union - USA",
+      3
     ],
     [
       "Degree Wellness",
@@ -21751,10 +21788,6 @@
     ],
     [
       "E.C. Barton",
-      2
-    ],
-    [
-      "Western Union - USA",
       2
     ],
     [
