@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03 01:28 UTC",
+  "generated_at": "2026-11-03 08:30 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 254,
-      "interested": 254
+      "responses_12mo": 255,
+      "interested": 255
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 544,
-      "interested": 544
+      "responses_12mo": 546,
+      "interested": 546
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 157,
-      "interested": 157
+      "responses_12mo": 158,
+      "interested": 158
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 386,
-      "interested": 386
+      "responses_12mo": 393,
+      "interested": 393
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -120,11 +120,165 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 224,
-      "interested": 224
+      "responses_12mo": 227,
+      "interested": 227
     }
   },
   "contacts": [
+    {
+      "visitor": "1118573",
+      "email": "CA605.gm@gocarwash.com",
+      "name": "",
+      "account": "GO Car Wash",
+      "date": "2026-11-03",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "276129",
+      "email": "Adelatorre4112+annette.delatorre02@yahoo.com",
+      "name": "",
+      "account": "Liberty Tax",
+      "date": "2026-11-03",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1294056",
+      "email": "t.bunch1800+taylor.bunch@gmail.com",
+      "name": "",
+      "account": "Liberty Tax",
+      "date": "2026-11-02",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1133101",
+      "email": "brieanna.goodwin@monarchinvestment.com",
+      "name": "",
+      "account": "Monarch Investment and Management Group",
+      "date": "2026-11-02",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1008151",
+      "email": "lnewman@anterra.com",
+      "name": "",
+      "account": "Anterra",
+      "date": "2026-11-02",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1262516",
+      "email": "shakir78604@aol.com",
+      "name": "",
+      "account": "Holiday Inn Express",
+      "date": "2026-11-02",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1118573",
+      "email": "CA605.gm@gocarwash.com",
+      "name": "",
+      "account": "GO Car Wash",
+      "date": "2026-11-02",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "303087",
+      "email": "es772t@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-11-02",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1260986",
+      "email": "tsoto@mynekter.com",
+      "name": "",
+      "account": "Nekter Juice Bar ",
+      "date": "2026-11-02",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1253770",
+      "email": "tiffanyhall@subwaysystemsinc.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-11-02",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1308246",
+      "email": "colleen.hargrave@villagepet.com",
+      "name": "",
+      "account": "Village Pet Care",
+      "date": "2026-11-02",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1199171",
+      "email": "rsantiago@carebuildersathome.com",
+      "name": "",
+      "account": "CareBuilders At Home",
+      "date": "2026-11-02",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1310641",
+      "email": "Anushka.Kamble@westernunion.com",
+      "name": "",
+      "account": "Western Union - USA",
+      "date": "2026-11-02",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "698636",
+      "email": "Mgr21@purple22s.com",
+      "name": "",
+      "account": "RimTyme",
+      "date": "2026-11-02",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
     {
       "visitor": "1246686",
       "email": "glenview@zoomingroomin.com",
@@ -20852,18 +21006,18 @@
   ],
   "level_counts": {
     "Administrator": 165,
-    "Manager": 1715,
+    "Manager": 1729,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 4
   },
   "sla_counts": {
-    "green": 42,
+    "green": 56,
     "amber": 253,
     "red": 1589
   },
-  "total_interested": 1884,
+  "total_interested": 1898,
   "oldest_age": 361,
   "repeat_accounts": [
     [
@@ -20876,11 +21030,11 @@
     ],
     [
       "Subway - North America",
-      56
+      57
     ],
     [
       "AT&T",
-      48
+      49
     ],
     [
       "Avenue5 Residential",
@@ -20903,20 +21057,20 @@
       34
     ],
     [
+      "Liberty Tax",
+      29
+    ],
+    [
       "Sky Zone",
       29
     ],
     [
+      "Holiday Inn Express",
+      27
+    ],
+    [
       "Cruise Planners | CP Pro",
       27
-    ],
-    [
-      "Liberty Tax",
-      27
-    ],
-    [
-      "Holiday Inn Express",
-      26
     ],
     [
       "Fairfield Residential",
@@ -20975,16 +21129,16 @@
       15
     ],
     [
+      "Monarch Investment and Management Group",
+      14
+    ],
+    [
       "voco",
       14
     ],
     [
       "Adara Communities ",
       14
-    ],
-    [
-      "Monarch Investment and Management Group",
-      13
     ],
     [
       "Mill Creek Residential ",
@@ -21059,6 +21213,10 @@
       10
     ],
     [
+      "Anterra",
+      9
+    ],
+    [
       "Urban Air - Unleashed Brands",
       9
     ],
@@ -21099,10 +21257,6 @@
       8
     ],
     [
-      "Anterra",
-      8
-    ],
-    [
       "Merry Maids",
       8
     ],
@@ -21125,6 +21279,10 @@
     [
       "American Freight (MAFGA)",
       8
+    ],
+    [
+      "GO Car Wash",
+      7
     ],
     [
       "Kiddie Academy",
@@ -21187,7 +21345,7 @@
       6
     ],
     [
-      "GO Car Wash",
+      "RimTyme",
       5
     ],
     [
@@ -21229,6 +21387,10 @@
     [
       "Guild Mortgage",
       5
+    ],
+    [
+      "Western Union - USA",
+      4
     ],
     [
       "Saladworks",
@@ -21339,10 +21501,6 @@
       4
     ],
     [
-      "RimTyme",
-      4
-    ],
-    [
       "Garner",
       4
     ],
@@ -21363,7 +21521,7 @@
       4
     ],
     [
-      "Western Union - USA",
+      "CareBuilders At Home",
       3
     ],
     [
@@ -21533,6 +21691,14 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "Nekter Juice Bar ",
+      2
+    ],
+    [
+      "Village Pet Care",
+      2
     ],
     [
       "CooperVision",
@@ -21804,10 +21970,6 @@
     ],
     [
       "Houchens Food Group",
-      2
-    ],
-    [
-      "CareBuilders At Home",
       2
     ],
     [
