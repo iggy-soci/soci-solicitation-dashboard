@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04 02:01 UTC",
+  "generated_at": "2026-11-04 09:42 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 255,
-      "interested": 255
+      "responses_12mo": 258,
+      "interested": 258
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 546,
-      "interested": 546
+      "responses_12mo": 548,
+      "interested": 548
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 158,
-      "interested": 158
+      "responses_12mo": 163,
+      "interested": 163
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 393,
-      "interested": 393
+      "responses_12mo": 394,
+      "interested": 394
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -126,6 +126,50 @@
   },
   "contacts": [
     {
+      "visitor": "1225217",
+      "email": "vincenta@weidner.com",
+      "name": "",
+      "account": "Weidner",
+      "date": "2026-11-04",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "281925",
+      "email": "maryrose@miloshamburgers.com",
+      "name": "",
+      "account": "Milo's Hamburgers",
+      "date": "2026-11-03",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "450074",
+      "email": "siouxfallssd3@anytimefitness.com",
+      "name": "",
+      "account": "Anytime Fitness NA ",
+      "date": "2026-11-03",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1042393",
+      "email": "MWeidner@agproco.com",
+      "name": "",
+      "account": "Ag-Pro Companies",
+      "date": "2026-11-03",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
       "visitor": "1118573",
       "email": "CA605.gm@gocarwash.com",
       "name": "",
@@ -135,6 +179,83 @@
       "age_days": 1,
       "sla": "green",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "373430",
+      "email": "independenceplaceep@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-11-03",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "785769",
+      "email": "allenclark+3067208@stoufferrealty.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-11-03",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1212633",
+      "email": "jackie.danielson@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Pro",
+      "date": "2026-11-03",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1306229",
+      "email": "nikkelt@weidner.com",
+      "name": "",
+      "account": "Weidner",
+      "date": "2026-11-03",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1229556",
+      "email": "Katherine.hebert@ivansmith.com",
+      "name": "",
+      "account": "Ivan Smith Furniture",
+      "date": "2026-11-03",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1169194",
+      "email": "vonnie.hartman@willowsattiffin.com",
+      "name": "",
+      "account": "Trilogy Health Services",
+      "date": "2026-11-03",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "639536",
+      "email": "sbirsan@graycoprop.com",
+      "name": "",
+      "account": "GrayCo, Inc. ",
+      "date": "2026-11-03",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
     },
     {
       "visitor": "276129",
@@ -21005,19 +21126,19 @@
     }
   ],
   "level_counts": {
-    "Administrator": 165,
-    "Manager": 1729,
+    "Administrator": 167,
+    "Manager": 1738,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 4
   },
   "sla_counts": {
-    "green": 50,
+    "green": 61,
     "amber": 256,
     "red": 1592
   },
-  "total_interested": 1898,
+  "total_interested": 1909,
   "oldest_age": 362,
   "repeat_accounts": [
     [
@@ -21042,7 +21163,7 @@
     ],
     [
       "RPM Living",
-      40
+      41
     ],
     [
       "Cruise Planners | CP Elite",
@@ -21050,11 +21171,11 @@
     ],
     [
       "Anytime Fitness NA ",
-      34
+      35
     ],
     [
       "Berkshire Hathaway HomeServices",
-      34
+      35
     ],
     [
       "Liberty Tax",
@@ -21065,11 +21186,11 @@
       29
     ],
     [
-      "Holiday Inn Express",
-      27
+      "Cruise Planners | CP Pro",
+      28
     ],
     [
-      "Cruise Planners | CP Pro",
+      "Holiday Inn Express",
       27
     ],
     [
@@ -21141,6 +21262,10 @@
       14
     ],
     [
+      "Weidner",
+      13
+    ],
+    [
       "Mill Creek Residential ",
       13
     ],
@@ -21182,10 +21307,6 @@
     ],
     [
       "InterContinental",
-      11
-    ],
-    [
-      "Weidner",
       11
     ],
     [
@@ -21389,6 +21510,10 @@
       5
     ],
     [
+      "Trilogy Health Services",
+      4
+    ],
+    [
       "Western Union - USA",
       4
     ],
@@ -21521,6 +21646,10 @@
       4
     ],
     [
+      "Ag-Pro Companies",
+      3
+    ],
+    [
       "CareBuilders At Home",
       3
     ],
@@ -21622,10 +21751,6 @@
     ],
     [
       "Luma Residential",
-      3
-    ],
-    [
-      "Trilogy Health Services",
       3
     ],
     [
@@ -21854,10 +21979,6 @@
     ],
     [
       "Affordable Care",
-      2
-    ],
-    [
-      "Ag-Pro Companies",
       2
     ],
     [
