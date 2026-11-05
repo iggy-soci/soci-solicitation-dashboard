@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05 03:39 UTC",
+  "generated_at": "2026-11-05 11:59 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 258,
-      "interested": 258
+      "responses_12mo": 259,
+      "interested": 259
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -84,8 +84,8 @@
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 163,
-      "interested": 163
+      "responses_12mo": 165,
+      "interested": 165
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -120,11 +120,55 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 227,
-      "interested": 227
+      "responses_12mo": 229,
+      "interested": 229
     }
   },
   "contacts": [
+    {
+      "visitor": "1255968",
+      "email": "gavinmcknight+3079361@tprsold.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-11-05",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "366785",
+      "email": "meghan.kular@kiddieacademy.net",
+      "name": "",
+      "account": "Kiddie Academy",
+      "date": "2026-11-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1302299",
+      "email": "Tarek@signaramaoakville.com",
+      "name": "",
+      "account": "Signarama Canada",
+      "date": "2026-11-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "839506",
+      "email": "leavenworthhausdir@weidner.com",
+      "name": "",
+      "account": "Weidner",
+      "date": "2026-11-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
     {
       "visitor": "1225217",
       "email": "vincenta@weidner.com",
@@ -135,6 +179,17 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Social"
+    },
+    {
+      "visitor": "143959",
+      "email": "manager.nottingham@freemanwebb.com",
+      "name": "",
+      "account": "Freeman Webb",
+      "date": "2026-11-04",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "281925",
@@ -21127,18 +21182,18 @@
   ],
   "level_counts": {
     "Administrator": 167,
-    "Manager": 1738,
+    "Manager": 1743,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 4
   },
   "sla_counts": {
-    "green": 50,
+    "green": 55,
     "amber": 252,
     "red": 1607
   },
-  "total_interested": 1909,
+  "total_interested": 1914,
   "oldest_age": 363,
   "repeat_accounts": [
     [
@@ -21170,11 +21225,11 @@
       38
     ],
     [
-      "Anytime Fitness NA ",
-      35
+      "Berkshire Hathaway HomeServices",
+      36
     ],
     [
-      "Berkshire Hathaway HomeServices",
+      "Anytime Fitness NA ",
       35
     ],
     [
@@ -21250,6 +21305,10 @@
       15
     ],
     [
+      "Weidner",
+      14
+    ],
+    [
       "Monarch Investment and Management Group",
       14
     ],
@@ -21260,10 +21319,6 @@
     [
       "Adara Communities ",
       14
-    ],
-    [
-      "Weidner",
-      13
     ],
     [
       "Mill Creek Residential ",
@@ -21374,6 +21429,10 @@
       9
     ],
     [
+      "Kiddie Academy",
+      8
+    ],
+    [
       "Decorating Den Interiors",
       8
     ],
@@ -21403,10 +21462,6 @@
     ],
     [
       "GO Car Wash",
-      7
-    ],
-    [
-      "Kiddie Academy",
       7
     ],
     [
@@ -21464,6 +21519,10 @@
     [
       "Lynd",
       6
+    ],
+    [
+      "Freeman Webb",
+      5
     ],
     [
       "RimTyme",
@@ -21615,10 +21674,6 @@
     ],
     [
       "Soccer Shots",
-      4
-    ],
-    [
-      "Freeman Webb",
       4
     ],
     [
