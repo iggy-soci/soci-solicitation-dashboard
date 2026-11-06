@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06 07:47 UTC",
+  "generated_at": "2026-11-06 15:47 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 259,
-      "interested": 259
+      "responses_12mo": 263,
+      "interested": 263
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 548,
-      "interested": 548
+      "responses_12mo": 553,
+      "interested": 553
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 165,
-      "interested": 165
+      "responses_12mo": 167,
+      "interested": 167
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 394,
-      "interested": 394
+      "responses_12mo": 397,
+      "interested": 397
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -120,11 +120,176 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 229,
-      "interested": 229
+      "responses_12mo": 230,
+      "interested": 230
     }
   },
   "contacts": [
+    {
+      "visitor": "1304210",
+      "email": "hany.nurhazira@ihg.com",
+      "name": "",
+      "account": "Holiday Inn",
+      "date": "2026-11-06",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "642172",
+      "email": "tmad189@teriyakimadness.com",
+      "name": "",
+      "account": "Teriyaki Madness",
+      "date": "2026-11-06",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1281710",
+      "email": "SDossal@lightbridgeacademy.com",
+      "name": "",
+      "account": "Lightbridge Academy",
+      "date": "2026-11-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1229762",
+      "email": "lucymachcinska@gmail.com",
+      "name": "",
+      "account": "KidStrong",
+      "date": "2026-11-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1182487",
+      "email": "info@TheVillagesOfImperialPointeSL.com",
+      "name": "",
+      "account": "Discovery Marketing Group, LLC dba STAT Marketing",
+      "date": "2026-11-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1223060",
+      "email": "ezequielm@weidner.com",
+      "name": "",
+      "account": "Weidner",
+      "date": "2026-11-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1283224",
+      "email": "asilguero@missionrockres.com",
+      "name": "",
+      "account": "Mission Rock Residential",
+      "date": "2026-11-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "992486",
+      "email": "jmangiameli@carebuildersathome.com",
+      "name": "",
+      "account": "CareBuilders At Home",
+      "date": "2026-11-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1166716",
+      "email": "alexis.workman@vetcor.com",
+      "name": "",
+      "account": "Vetcor",
+      "date": "2026-11-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1062166",
+      "email": "jen.gomez@shoot360cedarrapids.com",
+      "name": "",
+      "account": "Shoot 360",
+      "date": "2026-11-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1261002",
+      "email": "Kinjal.Patel@skyzone.com",
+      "name": "",
+      "account": "Sky Zone",
+      "date": "2026-11-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "291510",
+      "email": "mgodfroy@jonesstreet.com",
+      "name": "",
+      "account": "Jones Street Residential ",
+      "date": "2026-11-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1308892",
+      "email": "Josephine.Isaac@ihg.com",
+      "name": "",
+      "account": "Crowne Plaza",
+      "date": "2026-11-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "85611",
+      "email": "Maitri.Desai@goddardschools.com",
+      "name": "",
+      "account": "The Goddard School",
+      "date": "2026-11-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1027089",
+      "email": "fzermeno@hillpointe.com",
+      "name": "",
+      "account": "Pointe Grand",
+      "date": "2026-11-05",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
     {
       "visitor": "1255968",
       "email": "gavinmcknight+3079361@tprsold.com",
@@ -5389,7 +5554,7 @@
       "name": "",
       "account": "Subway - North America",
       "date": "2026-09-21",
-      "user_level": "Manager",
+      "user_level": "Unknown",
       "age_days": 46,
       "sla": "red",
       "area": "Reviews (Reputation)"
@@ -6247,7 +6412,7 @@
       "name": "",
       "account": "Subway - North America",
       "date": "2026-09-14",
-      "user_level": "Manager",
+      "user_level": "Unknown",
       "age_days": 53,
       "sla": "red",
       "area": "Genius Reviews"
@@ -21182,18 +21347,18 @@
   ],
   "level_counts": {
     "Administrator": 167,
-    "Manager": 1743,
+    "Manager": 1756,
     "User": 0
   },
   "level_counts_extra": {
-    "Unknown": 4
+    "Unknown": 6
   },
   "sla_counts": {
-    "green": 45,
+    "green": 60,
     "amber": 245,
     "red": 1624
   },
-  "total_interested": 1914,
+  "total_interested": 1929,
   "oldest_age": 364,
   "repeat_accounts": [
     [
@@ -21233,11 +21398,11 @@
       35
     ],
     [
-      "Liberty Tax",
-      29
+      "Sky Zone",
+      30
     ],
     [
-      "Sky Zone",
+      "Liberty Tax",
       29
     ],
     [
@@ -21249,11 +21414,11 @@
       27
     ],
     [
-      "Fairfield Residential",
-      22
+      "Vetcor",
+      23
     ],
     [
-      "Vetcor",
+      "Fairfield Residential",
       22
     ],
     [
@@ -21270,11 +21435,15 @@
     ],
     [
       "Holiday Inn",
-      19
+      20
     ],
     [
       "Sylvan Learning",
       18
+    ],
+    [
+      "The Goddard School",
+      17
     ],
     [
       "Nothing Bundt Cakes",
@@ -21289,12 +21458,12 @@
       17
     ],
     [
-      "The Goddard School",
+      "Texas Roadhouse Holdings LLC",
       16
     ],
     [
-      "Texas Roadhouse Holdings LLC",
-      16
+      "Weidner",
+      15
     ],
     [
       "Bryten Management",
@@ -21305,7 +21474,11 @@
       15
     ],
     [
-      "Weidner",
+      "Teriyaki Madness",
+      14
+    ],
+    [
+      "Discovery Marketing Group, LLC dba STAT Marketing",
       14
     ],
     [
@@ -21325,14 +21498,6 @@
       13
     ],
     [
-      "Teriyaki Madness",
-      13
-    ],
-    [
-      "Discovery Marketing Group, LLC dba STAT Marketing",
-      13
-    ],
-    [
       "Venterra Living",
       12
     ],
@@ -21347,6 +21512,14 @@
     [
       "Orangetheory Fitness",
       12
+    ],
+    [
+      "Lightbridge Academy",
+      11
+    ],
+    [
+      "Pointe Grand",
+      11
     ],
     [
       "Ford",
@@ -21369,11 +21542,11 @@
       11
     ],
     [
-      "Rent-A-Center",
+      "Crowne Plaza",
       10
     ],
     [
-      "Lightbridge Academy",
+      "Rent-A-Center",
       10
     ],
     [
@@ -21382,10 +21555,6 @@
     ],
     [
       "FSC Franchise Brands",
-      10
-    ],
-    [
-      "Pointe Grand",
       10
     ],
     [
@@ -21414,10 +21583,6 @@
     ],
     [
       "BrightStar Care ",
-      9
-    ],
-    [
-      "Crowne Plaza",
       9
     ],
     [
@@ -21521,6 +21686,10 @@
       6
     ],
     [
+      "KidStrong",
+      5
+    ],
+    [
       "Freeman Webb",
       5
     ],
@@ -21567,6 +21736,14 @@
     [
       "Guild Mortgage",
       5
+    ],
+    [
+      "CareBuilders At Home",
+      4
+    ],
+    [
+      "Jones Street Residential ",
+      4
     ],
     [
       "Trilogy Health Services",
@@ -21618,10 +21795,6 @@
     ],
     [
       "ATC Healthcare Services",
-      4
-    ],
-    [
-      "KidStrong",
       4
     ],
     [
@@ -21701,11 +21874,11 @@
       4
     ],
     [
-      "Ag-Pro Companies",
+      "Shoot 360",
       3
     ],
     [
-      "CareBuilders At Home",
+      "Ag-Pro Companies",
       3
     ],
     [
@@ -21754,10 +21927,6 @@
     ],
     [
       "Kumon Europe & Africa",
-      3
-    ],
-    [
-      "Jones Street Residential ",
       3
     ],
     [
@@ -22082,10 +22251,6 @@
     ],
     [
       "Westwood Residential Company ",
-      2
-    ],
-    [
-      "Shoot 360",
       2
     ],
     [
