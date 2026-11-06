@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06 15:47 UTC",
+  "generated_at": "2026-11-06 21:23 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -5554,7 +5554,7 @@
       "name": "",
       "account": "Subway - North America",
       "date": "2026-09-21",
-      "user_level": "Unknown",
+      "user_level": "Manager",
       "age_days": 46,
       "sla": "red",
       "area": "Reviews (Reputation)"
@@ -6412,7 +6412,7 @@
       "name": "",
       "account": "Subway - North America",
       "date": "2026-09-14",
-      "user_level": "Unknown",
+      "user_level": "Manager",
       "age_days": 53,
       "sla": "red",
       "area": "Genius Reviews"
@@ -21347,11 +21347,11 @@
   ],
   "level_counts": {
     "Administrator": 167,
-    "Manager": 1756,
+    "Manager": 1758,
     "User": 0
   },
   "level_counts_extra": {
-    "Unknown": 6
+    "Unknown": 4
   },
   "sla_counts": {
     "green": 60,
