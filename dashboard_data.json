@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07 07:39 UTC",
+  "generated_at": "2026-11-07 14:47 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 263,
-      "interested": 263
+      "responses_12mo": 265,
+      "interested": 265
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 553,
-      "interested": 553
+      "responses_12mo": 555,
+      "interested": 555
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 167,
-      "interested": 167
+      "responses_12mo": 169,
+      "interested": 169
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 397,
-      "interested": 397
+      "responses_12mo": 401,
+      "interested": 401
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,61 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 176,
-      "interested": 176
+      "responses_12mo": 177,
+      "interested": 177
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 230,
-      "interested": 230
+      "responses_12mo": 234,
+      "interested": 234
     }
   },
   "contacts": [
+    {
+      "visitor": "1311253",
+      "email": "salemnh@uptowncheapskate.com",
+      "name": "",
+      "account": "Uptown Cheapskate",
+      "date": "2026-11-07",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1297172",
+      "email": "john.schussler@toprailfence.com",
+      "name": "",
+      "account": "Top Rail Fence",
+      "date": "2026-11-07",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "852987",
+      "email": "ana.molina@brightstarcare.com",
+      "name": "",
+      "account": "BrightStar Care ",
+      "date": "2026-11-06",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "142582",
+      "email": "pm.strata99@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-11-06",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
     {
       "visitor": "1304210",
       "email": "hany.nurhazira@ihg.com",
@@ -137,6 +181,28 @@
       "area": "Reviews (Reputation)"
     },
     {
+      "visitor": "1196504",
+      "email": "nycxv-dos@sbcos.com",
+      "name": "",
+      "account": "voco",
+      "date": "2026-11-06",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "58103",
+      "email": "klyonsden2@gmail.com",
+      "name": "",
+      "account": "Liberty Tax",
+      "date": "2026-11-06",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
       "visitor": "642172",
       "email": "tmad189@teriyakimadness.com",
       "name": "",
@@ -146,6 +212,105 @@
       "age_days": 1,
       "sla": "green",
       "area": "Social"
+    },
+    {
+      "visitor": "1175086",
+      "email": "djamieson@orangetheoryfitness.ca",
+      "name": "",
+      "account": "Orangetheory Fitness Canada",
+      "date": "2026-11-06",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1289873",
+      "email": "milfordbostonpost@tlechildcare.com",
+      "name": "",
+      "account": "The Learning Experience",
+      "date": "2026-11-06",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "232338",
+      "email": "psp0067@petsuppliesplus.com",
+      "name": "",
+      "account": "Pet Supplies Plus",
+      "date": "2026-11-06",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1253097",
+      "email": "diana_egypt@hotmail.fr",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-11-06",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1109899",
+      "email": "nnewcomb@orangetheoryfitness.com",
+      "name": "",
+      "account": "Orangetheory Fitness",
+      "date": "2026-11-06",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1260563",
+      "email": "484627@sso.subway.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-11-06",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1033774",
+      "email": "broadstonegardenoaks@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-11-06",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "838193",
+      "email": "vine@anterra.com",
+      "name": "",
+      "account": "Anterra",
+      "date": "2026-11-06",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1311081",
+      "email": "mjudy@fcifloors.com",
+      "name": "",
+      "account": "Floor Coverings International",
+      "date": "2026-11-06",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "1281710",
@@ -21346,19 +21511,19 @@
     }
   ],
   "level_counts": {
-    "Administrator": 167,
-    "Manager": 1758,
+    "Administrator": 168,
+    "Manager": 1772,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 4
   },
   "sla_counts": {
-    "green": 48,
+    "green": 63,
     "amber": 240,
     "red": 1641
   },
-  "total_interested": 1929,
+  "total_interested": 1944,
   "oldest_age": 365,
   "repeat_accounts": [
     [
@@ -21371,7 +21536,7 @@
     ],
     [
       "Subway - North America",
-      57
+      59
     ],
     [
       "AT&T",
@@ -21379,11 +21544,11 @@
     ],
     [
       "Avenue5 Residential",
-      44
+      45
     ],
     [
       "RPM Living",
-      41
+      42
     ],
     [
       "Cruise Planners | CP Elite",
@@ -21398,12 +21563,12 @@
       35
     ],
     [
-      "Sky Zone",
+      "Liberty Tax",
       30
     ],
     [
-      "Liberty Tax",
-      29
+      "Sky Zone",
+      30
     ],
     [
       "Cruise Planners | CP Pro",
@@ -21414,15 +21579,15 @@
       27
     ],
     [
+      "The Learning Experience",
+      23
+    ],
+    [
       "Vetcor",
       23
     ],
     [
       "Fairfield Residential",
-      22
-    ],
-    [
-      "The Learning Experience",
       22
     ],
     [
@@ -21438,6 +21603,10 @@
       20
     ],
     [
+      "Pet Supplies Plus",
+      18
+    ],
+    [
       "Sylvan Learning",
       18
     ],
@@ -21450,16 +21619,16 @@
       17
     ],
     [
-      "Pet Supplies Plus",
-      17
-    ],
-    [
       "Woof Gang Bakery & Grooming",
       17
     ],
     [
       "Texas Roadhouse Holdings LLC",
       16
+    ],
+    [
+      "voco",
+      15
     ],
     [
       "Weidner",
@@ -21486,12 +21655,12 @@
       14
     ],
     [
-      "voco",
+      "Adara Communities ",
       14
     ],
     [
-      "Adara Communities ",
-      14
+      "Orangetheory Fitness",
+      13
     ],
     [
       "Mill Creek Residential ",
@@ -21507,10 +21676,6 @@
     ],
     [
       "Sheng Raamco Management Inc",
-      12
-    ],
-    [
-      "Orangetheory Fitness",
       12
     ],
     [
@@ -21542,6 +21707,18 @@
       11
     ],
     [
+      "BrightStar Care ",
+      10
+    ],
+    [
+      "Orangetheory Fitness Canada",
+      10
+    ],
+    [
+      "Anterra",
+      10
+    ],
+    [
       "Crowne Plaza",
       10
     ],
@@ -21558,10 +21735,6 @@
       10
     ],
     [
-      "Anterra",
-      9
-    ],
-    [
       "Urban Air - Unleashed Brands",
       9
     ],
@@ -21570,19 +21743,11 @@
       9
     ],
     [
-      "Orangetheory Fitness Canada",
-      9
-    ],
-    [
       "Painting with a Twist, LLC",
       9
     ],
     [
       "Huntington Learning Centers ",
-      9
-    ],
-    [
-      "BrightStar Care ",
       9
     ],
     [
@@ -21738,6 +21903,10 @@
       5
     ],
     [
+      "Uptown Cheapskate",
+      4
+    ],
+    [
       "CareBuilders At Home",
       4
     ],
@@ -21874,6 +22043,10 @@
       4
     ],
     [
+      "Top Rail Fence",
+      3
+    ],
+    [
       "Shoot 360",
       3
     ],
@@ -21907,10 +22080,6 @@
     ],
     [
       "Destination Pet",
-      3
-    ],
-    [
-      "Uptown Cheapskate",
       3
     ],
     [
@@ -22155,10 +22324,6 @@
     ],
     [
       "Diesel Barbershop ",
-      2
-    ],
-    [
-      "Top Rail Fence",
       2
     ],
     [
