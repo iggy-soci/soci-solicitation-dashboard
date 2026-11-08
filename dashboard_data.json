@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08 02:09 UTC",
+  "generated_at": "2026-11-08 09:23 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,14 +54,14 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 81,
-      "interested": 81
+      "responses_12mo": 80,
+      "interested": 80
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 265,
-      "interested": 265
+      "responses_12mo": 266,
+      "interested": 266
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -72,8 +72,8 @@
     "Surveys": {
       "guide_id": "RLz8F0jmIzDqIwzo7WOPNNHQr4M",
       "views_12mo": 0,
-      "responses_12mo": 15,
-      "interested": 15
+      "responses_12mo": 16,
+      "interested": 16
     },
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
@@ -84,8 +84,8 @@
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 169,
-      "interested": 169
+      "responses_12mo": 170,
+      "interested": 170
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 401,
-      "interested": 401
+      "responses_12mo": 402,
+      "interested": 402
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -126,6 +126,39 @@
   },
   "contacts": [
     {
+      "visitor": "1012583",
+      "email": "canterberrya@hlcmail.com",
+      "name": "",
+      "account": "Huntington Learning Centers ",
+      "date": "2026-11-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1286154",
+      "email": "Palmbeachgardens@kidtokid.com",
+      "name": "",
+      "account": "Kid to Kid",
+      "date": "2026-11-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Surveys"
+    },
+    {
+      "visitor": "69568",
+      "email": "dwozniak@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Pro",
+      "date": "2026-11-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
       "visitor": "1311253",
       "email": "salemnh@uptowncheapskate.com",
       "name": "",
@@ -135,6 +168,17 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Social"
+    },
+    {
+      "visitor": "840907",
+      "email": "ft7187@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-11-07",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
     },
     {
       "visitor": "1297172",
@@ -21497,34 +21541,23 @@
       "age_days": 354,
       "sla": "red",
       "area": "Reporting Suite"
-    },
-    {
-      "visitor": "751809",
-      "email": "gpurves@vetcor.com",
-      "name": "",
-      "account": "Vetcor",
-      "date": "2025-11-07",
-      "user_level": "Manager",
-      "age_days": 366,
-      "sla": "red",
-      "area": "Reporting Suite"
     }
   ],
   "level_counts": {
     "Administrator": 168,
-    "Manager": 1772,
+    "Manager": 1775,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 4
   },
   "sla_counts": {
-    "green": 63,
+    "green": 67,
     "amber": 226,
-    "red": 1655
+    "red": 1654
   },
-  "total_interested": 1944,
-  "oldest_age": 366,
+  "total_interested": 1947,
+  "oldest_age": 354,
   "repeat_accounts": [
     [
       "Willow Bridge Property Company ",
@@ -21540,7 +21573,7 @@
     ],
     [
       "AT&T",
-      49
+      50
     ],
     [
       "Avenue5 Residential",
@@ -21572,7 +21605,7 @@
     ],
     [
       "Cruise Planners | CP Pro",
-      28
+      29
     ],
     [
       "Holiday Inn Express",
@@ -21584,7 +21617,7 @@
     ],
     [
       "Vetcor",
-      23
+      22
     ],
     [
       "Fairfield Residential",
@@ -21707,6 +21740,10 @@
       11
     ],
     [
+      "Huntington Learning Centers ",
+      10
+    ],
+    [
       "BrightStar Care ",
       10
     ],
@@ -21744,10 +21781,6 @@
     ],
     [
       "Painting with a Twist, LLC",
-      9
-    ],
-    [
-      "Huntington Learning Centers ",
       9
     ],
     [
@@ -22043,6 +22076,10 @@
       4
     ],
     [
+      "Kid to Kid",
+      3
+    ],
+    [
       "Top Rail Fence",
       3
     ],
@@ -22304,10 +22341,6 @@
     ],
     [
       "Sienna Senior Living",
-      2
-    ],
-    [
-      "Kid to Kid",
       2
     ],
     [
