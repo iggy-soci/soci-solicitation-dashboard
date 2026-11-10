@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10 01:55 UTC",
+  "generated_at": "2026-11-10 09:30 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 267,
-      "interested": 267
+      "responses_12mo": 272,
+      "interested": 272
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 558,
-      "interested": 558
+      "responses_12mo": 561,
+      "interested": 561
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 171,
-      "interested": 171
+      "responses_12mo": 173,
+      "interested": 173
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 402,
-      "interested": 402
+      "responses_12mo": 405,
+      "interested": 405
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -120,11 +120,66 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 234,
-      "interested": 234
+      "responses_12mo": 235,
+      "interested": 235
     }
   },
   "contacts": [
+    {
+      "visitor": "1252057",
+      "email": "bhargav3583@yahoo.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-11-10",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1251012",
+      "email": "dhmalhi@hotmail.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-11-10",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "870105",
+      "email": "asolano@dilldinkers.com",
+      "name": "",
+      "account": "Dill Dinkers",
+      "date": "2026-11-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "54700",
+      "email": "CoronaCA@anytimefitness.com",
+      "name": "",
+      "account": "Anytime Fitness NA ",
+      "date": "2026-11-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "59157",
+      "email": "rgc@paradigmcos.com",
+      "name": "",
+      "account": "Paradigm Management ",
+      "date": "2026-11-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
     {
       "visitor": "1310894",
       "email": "Sutinan.Sirimahachaikul@ihg.com",
@@ -135,6 +190,105 @@
       "age_days": 1,
       "sla": "green",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "657150",
+      "email": "AstoriaLSG@allegiant-carter.com",
+      "name": "",
+      "account": "Allegiant-Carter Management",
+      "date": "2026-11-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "943294",
+      "email": "april.nickens@amazinglashstudio.com",
+      "name": "",
+      "account": "Amazing Lash",
+      "date": "2026-11-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1302299",
+      "email": "Tarek@signaramaoakville.com",
+      "name": "",
+      "account": "Signarama Canada",
+      "date": "2026-11-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1171993",
+      "email": "heidi@signarama-hhi.com",
+      "name": "",
+      "account": "Signarama",
+      "date": "2026-11-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "372268",
+      "email": "Solaire@BellPartnersInc.com",
+      "name": "",
+      "account": "Bell Partners",
+      "date": "2026-11-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "858795",
+      "email": "ashevillenc@anylabtestnow.com",
+      "name": "",
+      "account": "Any Lab Test Now",
+      "date": "2026-11-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "943576",
+      "email": "belmontmgr@elementsmassage.com",
+      "name": "",
+      "account": "Elements Massage",
+      "date": "2026-11-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1303189",
+      "email": "Jessica.Shackelford@destpet.com",
+      "name": "",
+      "account": "Destination Pet",
+      "date": "2026-11-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "372157",
+      "email": "RohnertPark@BellPartnersInc.com",
+      "name": "",
+      "account": "Bell Partners",
+      "date": "2026-11-09",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "1062352",
@@ -21600,18 +21754,18 @@
   ],
   "level_counts": {
     "Administrator": 168,
-    "Manager": 1780,
+    "Manager": 1794,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 4
   },
   "sla_counts": {
-    "green": 57,
+    "green": 71,
     "amber": 221,
     "red": 1674
   },
-  "total_interested": 1952,
+  "total_interested": 1966,
   "oldest_age": 356,
   "repeat_accounts": [
     [
@@ -21624,7 +21778,7 @@
     ],
     [
       "Subway - North America",
-      59
+      61
     ],
     [
       "AT&T",
@@ -21643,12 +21797,12 @@
       38
     ],
     [
-      "Berkshire Hathaway HomeServices",
+      "Anytime Fitness NA ",
       36
     ],
     [
-      "Anytime Fitness NA ",
-      35
+      "Berkshire Hathaway HomeServices",
+      36
     ],
     [
       "Cruise Planners | CP Pro",
@@ -21671,6 +21825,10 @@
       23
     ],
     [
+      "Signarama",
+      22
+    ],
+    [
       "Vetcor",
       22
     ],
@@ -21680,10 +21838,6 @@
     ],
     [
       "Neighborly",
-      21
-    ],
-    [
-      "Signarama",
       21
     ],
     [
@@ -21755,6 +21909,10 @@
       13
     ],
     [
+      "Elements Massage",
+      12
+    ],
+    [
       "Venterra Living",
       12
     ],
@@ -21783,16 +21941,16 @@
       11
     ],
     [
-      "Elements Massage",
-      11
-    ],
-    [
       "InterContinental",
       11
     ],
     [
       "VEG ER for Pets",
       11
+    ],
+    [
+      "Dill Dinkers",
+      10
     ],
     [
       "Huntington Learning Centers ",
@@ -21847,8 +22005,8 @@
       9
     ],
     [
-      "Dill Dinkers",
-      9
+      "Any Lab Test Now",
+      8
     ],
     [
       "Kiddie Academy",
@@ -21880,10 +22038,6 @@
     ],
     [
       "GO Car Wash",
-      7
-    ],
-    [
-      "Any Lab Test Now",
       7
     ],
     [
@@ -21939,6 +22093,14 @@
       6
     ],
     [
+      "Amazing Lash",
+      5
+    ],
+    [
+      "Bell Partners",
+      5
+    ],
+    [
       "KidStrong",
       5
     ],
@@ -21989,6 +22151,10 @@
     [
       "Guild Mortgage",
       5
+    ],
+    [
+      "Destination Pet",
+      4
     ],
     [
       "The Dog Stop",
@@ -22111,10 +22277,6 @@
       4
     ],
     [
-      "Amazing Lash",
-      4
-    ],
-    [
       "Garner",
       4
     ],
@@ -22163,10 +22325,6 @@
       3
     ],
     [
-      "Bell Partners",
-      3
-    ],
-    [
       "PMR Companies",
       3
     ],
@@ -22176,10 +22334,6 @@
     ],
     [
       "Waxing the City ",
-      3
-    ],
-    [
-      "Destination Pet",
       3
     ],
     [
@@ -22305,6 +22459,14 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "Allegiant-Carter Management",
+      2
+    ],
+    [
+      "Signarama Canada",
+      2
     ],
     [
       "Nekter Juice Bar ",
