@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11 02:43 UTC",
+  "generated_at": "2026-11-11 10:32 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,14 +60,14 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 272,
-      "interested": 272
+      "responses_12mo": 273,
+      "interested": 273
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
       "views_12mo": 0,
-      "responses_12mo": 24,
-      "interested": 24
+      "responses_12mo": 25,
+      "interested": 25
     },
     "Surveys": {
       "guide_id": "RLz8F0jmIzDqIwzo7WOPNNHQr4M",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 561,
-      "interested": 561
+      "responses_12mo": 566,
+      "interested": 566
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 173,
-      "interested": 173
+      "responses_12mo": 174,
+      "interested": 174
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,14 +96,14 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 405,
-      "interested": 405
+      "responses_12mo": 407,
+      "interested": 407
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
       "views_12mo": 0,
-      "responses_12mo": 15,
-      "interested": 15
+      "responses_12mo": 16,
+      "interested": 16
     },
     "Data Management": {
       "guide_id": "YESnj4QI3Np_fsQ1W6_e_jBlJis",
@@ -114,17 +114,50 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 177,
-      "interested": 177
+      "responses_12mo": 179,
+      "interested": 179
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 235,
-      "interested": 235
+      "responses_12mo": 236,
+      "interested": 236
     }
   },
   "contacts": [
+    {
+      "visitor": "1174514",
+      "email": "tmad377@teriyakimadness.com",
+      "name": "",
+      "account": "Teriyaki Madness",
+      "date": "2026-11-11",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1187872",
+      "email": "m.nottingham@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Basic",
+      "date": "2026-11-11",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "253886",
+      "email": "waterside@havenresidential.com",
+      "name": "",
+      "account": "29th Street Living",
+      "date": "2026-11-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
     {
       "visitor": "1252057",
       "email": "bhargav3583@yahoo.com",
@@ -146,6 +179,127 @@
       "age_days": 1,
       "sla": "green",
       "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "325485",
+      "email": "jn612u@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-11-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Pages"
+    },
+    {
+      "visitor": "450168",
+      "email": "discoverypalms@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-11-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "160282",
+      "email": "MDesai@lightbridgeacademy.com",
+      "name": "",
+      "account": "Lightbridge Academy",
+      "date": "2026-11-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "659127",
+      "email": "blynch@enchantedmem.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-11-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1298621",
+      "email": "taylore@quicknclean.net",
+      "name": "",
+      "account": "Quick N Clean",
+      "date": "2026-11-10",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1315239",
+      "email": "boguslaw.wypych@ihg.com",
+      "name": "",
+      "account": "Holiday Inn",
+      "date": "2026-11-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1311096",
+      "email": "jsaxton@scullycompany.com",
+      "name": "",
+      "account": "Scully Company ",
+      "date": "2026-11-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1314910",
+      "email": "jessicam@heartwoodatvermillion.com",
+      "name": "",
+      "account": "Embrey Management Service",
+      "date": "2026-11-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Listings"
+    },
+    {
+      "visitor": "23921",
+      "email": "exchange@graycoprop.com",
+      "name": "",
+      "account": "GrayCo, Inc. ",
+      "date": "2026-11-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1280982",
+      "email": "afischer@wimmercommunities.com",
+      "name": "",
+      "account": "Wimmer Communities",
+      "date": "2026-11-10",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1286154",
+      "email": "Palmbeachgardens@kidtokid.com",
+      "name": "",
+      "account": "Kid to Kid",
+      "date": "2026-11-10",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "870105",
@@ -21753,28 +21907,28 @@
     }
   ],
   "level_counts": {
-    "Administrator": 168,
-    "Manager": 1794,
+    "Administrator": 170,
+    "Manager": 1806,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 4
   },
   "sla_counts": {
-    "green": 59,
+    "green": 73,
     "amber": 233,
     "red": 1674
   },
-  "total_interested": 1966,
+  "total_interested": 1980,
   "oldest_age": 357,
   "repeat_accounts": [
     [
       "Willow Bridge Property Company ",
-      71
+      72
     ],
     [
       "Travel Leaders Group",
-      68
+      69
     ],
     [
       "Subway - North America",
@@ -21782,7 +21936,7 @@
     ],
     [
       "AT&T",
-      50
+      51
     ],
     [
       "Avenue5 Residential",
@@ -21837,12 +21991,12 @@
       22
     ],
     [
-      "Neighborly",
+      "Holiday Inn",
       21
     ],
     [
-      "Holiday Inn",
-      20
+      "Neighborly",
+      21
     ],
     [
       "Pet Supplies Plus",
@@ -21869,6 +22023,10 @@
       16
     ],
     [
+      "Teriyaki Madness",
+      15
+    ],
+    [
       "voco",
       15
     ],
@@ -21883,10 +22041,6 @@
     [
       "Stretch Zone Franchising, LLC ",
       15
-    ],
-    [
-      "Teriyaki Madness",
-      14
     ],
     [
       "Discovery Marketing Group, LLC dba STAT Marketing",
@@ -21909,6 +22063,10 @@
       13
     ],
     [
+      "Lightbridge Academy",
+      12
+    ],
+    [
       "Elements Massage",
       12
     ],
@@ -21923,10 +22081,6 @@
     [
       "Sheng Raamco Management Inc",
       12
-    ],
-    [
-      "Lightbridge Academy",
-      11
     ],
     [
       "Pointe Grand",
@@ -22005,6 +22159,10 @@
       9
     ],
     [
+      "29th Street Living",
+      8
+    ],
+    [
       "Any Lab Test Now",
       8
     ],
@@ -22046,10 +22204,6 @@
     ],
     [
       "Jeremiah's Italian Ice",
-      7
-    ],
-    [
-      "29th Street Living",
       7
     ],
     [
@@ -22151,6 +22305,18 @@
     [
       "Guild Mortgage",
       5
+    ],
+    [
+      "Cruise Planners | CP Basic",
+      4
+    ],
+    [
+      "Embrey Management Service",
+      4
+    ],
+    [
+      "Kid to Kid",
+      4
     ],
     [
       "Destination Pet",
@@ -22301,10 +22467,6 @@
       3
     ],
     [
-      "Kid to Kid",
-      3
-    ],
-    [
       "Top Rail Fence",
       3
     ],
@@ -22345,15 +22507,7 @@
       3
     ],
     [
-      "Embrey Management Service",
-      3
-    ],
-    [
       "Kumon Europe & Africa",
-      3
-    ],
-    [
-      "Cruise Planners | CP Basic",
       3
     ],
     [
@@ -22459,6 +22613,14 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "Quick N Clean",
+      2
+    ],
+    [
+      "GrayCo, Inc. ",
+      2
     ],
     [
       "Allegiant-Carter Management",
