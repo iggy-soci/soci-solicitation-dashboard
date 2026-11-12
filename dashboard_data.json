@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12 00:57 UTC",
+  "generated_at": "2026-11-12 08:10 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 273,
-      "interested": 273
+      "responses_12mo": 275,
+      "interested": 275
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 566,
-      "interested": 566
+      "responses_12mo": 568,
+      "interested": 568
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 174,
-      "interested": 174
+      "responses_12mo": 176,
+      "interested": 176
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 407,
-      "interested": 407
+      "responses_12mo": 409,
+      "interested": 409
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -120,11 +120,66 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 236,
-      "interested": 236
+      "responses_12mo": 237,
+      "interested": 237
     }
   },
   "contacts": [
+    {
+      "visitor": "1206564",
+      "email": "kschield@carebuildersathome.com",
+      "name": "",
+      "account": "CareBuilders At Home",
+      "date": "2026-11-12",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1069273",
+      "email": "Store0091@af.furniture",
+      "name": "",
+      "account": "American Freight (MAFGA)",
+      "date": "2026-11-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1251326",
+      "email": "hitesh1gp@yahoo.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-11-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1027071",
+      "email": "alyssa.cloutier@vetcor.com",
+      "name": "",
+      "account": "Vetcor",
+      "date": "2026-11-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1310938",
+      "email": "shawn@ourdestinations.com",
+      "name": "",
+      "account": "Travel Leaders Group Canada",
+      "date": "2026-11-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
     {
       "visitor": "1174514",
       "email": "tmad377@teriyakimadness.com",
@@ -146,6 +201,50 @@
       "age_days": 1,
       "sla": "green",
       "area": "Social"
+    },
+    {
+      "visitor": "1068080",
+      "email": "les.hutchins@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-11-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "396787",
+      "email": "woodsofeaglecreek@glickco.com",
+      "name": "",
+      "account": "Gene B. Glick Company, Inc. ",
+      "date": "2026-11-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1253951",
+      "email": "km.patel9302@gmail.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-11-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "874667",
+      "email": "mcac@americanveterinarygroup.com",
+      "name": "",
+      "account": "General Practice",
+      "date": "2026-11-11",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "253886",
@@ -21908,18 +22007,18 @@
   ],
   "level_counts": {
     "Administrator": 169,
-    "Manager": 1807,
+    "Manager": 1816,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 4
   },
   "sla_counts": {
-    "green": 68,
+    "green": 77,
     "amber": 221,
     "red": 1691
   },
-  "total_interested": 1980,
+  "total_interested": 1989,
   "oldest_age": 358,
   "repeat_accounts": [
     [
@@ -21932,7 +22031,7 @@
     ],
     [
       "Subway - North America",
-      61
+      63
     ],
     [
       "AT&T",
@@ -21948,7 +22047,7 @@
     ],
     [
       "Cruise Planners | CP Elite",
-      38
+      39
     ],
     [
       "Anytime Fitness NA ",
@@ -21975,15 +22074,15 @@
       28
     ],
     [
+      "Vetcor",
+      23
+    ],
+    [
       "The Learning Experience",
       23
     ],
     [
       "Signarama",
-      22
-    ],
-    [
-      "Vetcor",
       22
     ],
     [
@@ -22139,6 +22238,10 @@
       10
     ],
     [
+      "American Freight (MAFGA)",
+      9
+    ],
+    [
       "Comparion",
       9
     ],
@@ -22157,6 +22260,10 @@
     [
       "Forty Winks | The Pistol",
       9
+    ],
+    [
+      "Travel Leaders Group Canada",
+      8
     ],
     [
       "29th Street Living",
@@ -22191,10 +22298,6 @@
       8
     ],
     [
-      "American Freight (MAFGA)",
-      8
-    ],
-    [
       "GO Car Wash",
       7
     ],
@@ -22212,10 +22315,6 @@
     ],
     [
       "American Freight NewCo",
-      7
-    ],
-    [
-      "Travel Leaders Group Canada",
       7
     ],
     [
@@ -22245,6 +22344,10 @@
     [
       "Lynd",
       6
+    ],
+    [
+      "CareBuilders At Home",
+      5
     ],
     [
       "Amazing Lash",
@@ -22328,10 +22431,6 @@
     ],
     [
       "Uptown Cheapskate",
-      4
-    ],
-    [
-      "CareBuilders At Home",
       4
     ],
     [
@@ -22613,6 +22712,10 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "General Practice",
+      2
     ],
     [
       "Quick N Clean",
