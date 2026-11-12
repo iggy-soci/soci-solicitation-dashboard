@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12 08:10 UTC",
+  "generated_at": "2026-11-12 16:59 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -84,8 +84,8 @@
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 176,
-      "interested": 176
+      "responses_12mo": 177,
+      "interested": 177
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -125,6 +125,17 @@
     }
   },
   "contacts": [
+    {
+      "visitor": "1271663",
+      "email": "sandiego@jeilearning.com",
+      "name": "",
+      "account": "JEI Learning Center",
+      "date": "2026-11-12",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Social"
+    },
     {
       "visitor": "1206564",
       "email": "kschield@carebuildersathome.com",
@@ -22007,18 +22018,18 @@
   ],
   "level_counts": {
     "Administrator": 169,
-    "Manager": 1816,
+    "Manager": 1817,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 4
   },
   "sla_counts": {
-    "green": 77,
+    "green": 78,
     "amber": 221,
     "red": 1691
   },
-  "total_interested": 1989,
+  "total_interested": 1990,
   "oldest_age": 358,
   "repeat_accounts": [
     [
@@ -22712,6 +22723,10 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "JEI Learning Center",
+      2
     ],
     [
       "General Practice",
