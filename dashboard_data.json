@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13 03:17 UTC",
+  "generated_at": "2026-11-13 11:25 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,8 +54,8 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 80,
-      "interested": 80
+      "responses_12mo": 81,
+      "interested": 81
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 409,
-      "interested": 409
+      "responses_12mo": 411,
+      "interested": 411
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,28 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 179,
-      "interested": 179
+      "responses_12mo": 181,
+      "interested": 181
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 237,
-      "interested": 237
+      "responses_12mo": 238,
+      "interested": 238
     }
   },
   "contacts": [
+    {
+      "visitor": "1294033",
+      "email": "franklin.foster@comparioninsurance.com",
+      "name": "",
+      "account": "Comparion",
+      "date": "2026-11-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reporting Suite"
+    },
     {
       "visitor": "1271663",
       "email": "sandiego@jeilearning.com",
@@ -146,6 +157,61 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Social"
+    },
+    {
+      "visitor": "1248835",
+      "email": "rzahedi@sympatico.ca",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-11-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "450202",
+      "email": "vesi@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-11-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1314359",
+      "email": "Chelsea.wiseman@twomen.com",
+      "name": "",
+      "account": "TWO MEN AND A JUNK TRUCK",
+      "date": "2026-11-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "590800",
+      "email": "gina.pinto+ginap.williams@libertytax.com",
+      "name": "",
+      "account": "Liberty Tax",
+      "date": "2026-11-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "1287206",
+      "email": "lukeyciav@gmail.com",
+      "name": "",
+      "account": "Kumon Europe & Africa",
+      "date": "2026-11-12",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "1069273",
@@ -2584,7 +2650,7 @@
       "name": "",
       "account": "Destination Pet",
       "date": "2026-10-20",
-      "user_level": "Unknown",
+      "user_level": "Manager",
       "age_days": 24,
       "sla": "amber",
       "area": "Genius Reviews"
@@ -2771,7 +2837,7 @@
       "name": "",
       "account": "Destination Pet",
       "date": "2026-10-18",
-      "user_level": "Unknown",
+      "user_level": "Manager",
       "age_days": 26,
       "sla": "amber",
       "area": "Engagements"
@@ -22018,23 +22084,23 @@
   ],
   "level_counts": {
     "Administrator": 169,
-    "Manager": 1817,
+    "Manager": 1825,
     "User": 0
   },
   "level_counts_extra": {
-    "Unknown": 4
+    "Unknown": 2
   },
   "sla_counts": {
-    "green": 64,
+    "green": 70,
     "amber": 218,
     "red": 1708
   },
-  "total_interested": 1990,
+  "total_interested": 1996,
   "oldest_age": 359,
   "repeat_accounts": [
     [
       "Willow Bridge Property Company ",
-      72
+      73
     ],
     [
       "Travel Leaders Group",
@@ -22042,7 +22108,7 @@
     ],
     [
       "Subway - North America",
-      63
+      64
     ],
     [
       "AT&T",
@@ -22069,11 +22135,11 @@
       36
     ],
     [
-      "Cruise Planners | CP Pro",
-      30
+      "Liberty Tax",
+      31
     ],
     [
-      "Liberty Tax",
+      "Cruise Planners | CP Pro",
       30
     ],
     [
@@ -22213,6 +22279,10 @@
       11
     ],
     [
+      "Comparion",
+      10
+    ],
+    [
       "Dill Dinkers",
       10
     ],
@@ -22250,10 +22320,6 @@
     ],
     [
       "American Freight (MAFGA)",
-      9
-    ],
-    [
-      "Comparion",
       9
     ],
     [
@@ -22419,6 +22485,10 @@
     [
       "Guild Mortgage",
       5
+    ],
+    [
+      "Kumon Europe & Africa",
+      4
     ],
     [
       "Cruise Planners | CP Basic",
@@ -22614,10 +22684,6 @@
     ],
     [
       "GRE Management LLC ",
-      3
-    ],
-    [
-      "Kumon Europe & Africa",
       3
     ],
     [
