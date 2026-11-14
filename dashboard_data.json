@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14 06:54 UTC",
+  "generated_at": "2026-11-14 13:59 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 275,
-      "interested": 275
+      "responses_12mo": 277,
+      "interested": 277
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 568,
-      "interested": 568
+      "responses_12mo": 570,
+      "interested": 570
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 177,
-      "interested": 177
+      "responses_12mo": 178,
+      "interested": 178
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 411,
-      "interested": 411
+      "responses_12mo": 413,
+      "interested": 413
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,127 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 181,
-      "interested": 181
+      "responses_12mo": 182,
+      "interested": 182
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 238,
-      "interested": 238
+      "responses_12mo": 240,
+      "interested": 240
     }
   },
   "contacts": [
+    {
+      "visitor": "993668",
+      "email": "laura.bernal@burnbootcamp.com",
+      "name": "",
+      "account": "Burn Boot Camp",
+      "date": "2026-11-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "839694",
+      "email": "stoneleighdir@weidner.com",
+      "name": "",
+      "account": "Weidner",
+      "date": "2026-11-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "440395",
+      "email": "AFerentinos@lightbridgeacademy.com",
+      "name": "",
+      "account": "Lightbridge Academy",
+      "date": "2026-11-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1193541",
+      "email": "tiffany.kline@comparioninsurance.com",
+      "name": "",
+      "account": "Comparion",
+      "date": "2026-11-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "949722",
+      "email": "streamlineraldea.manager@livebryten.com",
+      "name": "",
+      "account": "Bryten Management",
+      "date": "2026-11-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1313683",
+      "email": "lainie.becker@floorcoveringsinternational.com",
+      "name": "",
+      "account": "Floor Coverings International",
+      "date": "2026-11-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1248879",
+      "email": "subwaykeys@bellsouth.net",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-11-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1263772",
+      "email": "Jonathan.Stanley@steaknshake.com",
+      "name": "",
+      "account": "Steak 'n Shake",
+      "date": "2026-11-13",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "713275",
+      "email": "cherryhill1@tlechildcare.com",
+      "name": "",
+      "account": "The Learning Experience",
+      "date": "2026-11-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1263629",
+      "email": "store313@hteao.com",
+      "name": "",
+      "account": "HTeaO",
+      "date": "2026-11-13",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
     {
       "visitor": "1294033",
       "email": "franklin.foster@comparioninsurance.com",
@@ -22083,19 +22193,19 @@
     }
   ],
   "level_counts": {
-    "Administrator": 169,
-    "Manager": 1825,
+    "Administrator": 170,
+    "Manager": 1834,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 2
   },
   "sla_counts": {
-    "green": 55,
+    "green": 65,
     "amber": 219,
     "red": 1722
   },
-  "total_interested": 1996,
+  "total_interested": 2006,
   "oldest_age": 360,
   "repeat_accounts": [
     [
@@ -22108,7 +22218,7 @@
     ],
     [
       "Subway - North America",
-      64
+      65
     ],
     [
       "AT&T",
@@ -22151,11 +22261,11 @@
       28
     ],
     [
-      "Vetcor",
-      23
+      "The Learning Experience",
+      24
     ],
     [
-      "The Learning Experience",
+      "Vetcor",
       23
     ],
     [
@@ -22195,6 +22305,14 @@
       17
     ],
     [
+      "Weidner",
+      16
+    ],
+    [
+      "Bryten Management",
+      16
+    ],
+    [
       "Texas Roadhouse Holdings LLC",
       16
     ],
@@ -22204,14 +22322,6 @@
     ],
     [
       "voco",
-      15
-    ],
-    [
-      "Weidner",
-      15
-    ],
-    [
-      "Bryten Management",
       15
     ],
     [
@@ -22231,16 +22341,16 @@
       14
     ],
     [
+      "Lightbridge Academy",
+      13
+    ],
+    [
       "Orangetheory Fitness",
       13
     ],
     [
       "Mill Creek Residential ",
       13
-    ],
-    [
-      "Lightbridge Academy",
-      12
     ],
     [
       "Elements Massage",
@@ -22257,6 +22367,10 @@
     [
       "Sheng Raamco Management Inc",
       12
+    ],
+    [
+      "Comparion",
+      11
     ],
     [
       "Pointe Grand",
@@ -22277,10 +22391,6 @@
     [
       "VEG ER for Pets",
       11
-    ],
-    [
-      "Comparion",
-      10
     ],
     [
       "Dill Dinkers",
@@ -22421,6 +22531,14 @@
     [
       "Lynd",
       6
+    ],
+    [
+      "Burn Boot Camp",
+      5
+    ],
+    [
+      "HTeaO",
+      5
     ],
     [
       "CareBuilders At Home",
@@ -22599,19 +22717,11 @@
       4
     ],
     [
-      "HTeaO",
-      4
-    ],
-    [
       "ServiceMaster Clean",
       4
     ],
     [
       "Little Kickers",
-      4
-    ],
-    [
-      "Burn Boot Camp",
       4
     ],
     [
@@ -22789,6 +22899,10 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "Floor Coverings International",
+      2
     ],
     [
       "JEI Learning Center",
