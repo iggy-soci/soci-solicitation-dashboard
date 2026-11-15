@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15 02:58 UTC",
+  "generated_at": "2026-11-15 10:40 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,8 +54,8 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 81,
-      "interested": 81
+      "responses_12mo": 82,
+      "interested": 82
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 570,
-      "interested": 570
+      "responses_12mo": 572,
+      "interested": 572
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 178,
-      "interested": 178
+      "responses_12mo": 179,
+      "interested": 179
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 413,
-      "interested": 413
+      "responses_12mo": 415,
+      "interested": 415
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -125,6 +125,72 @@
     }
   },
   "contacts": [
+    {
+      "visitor": "1315239",
+      "email": "boguslaw.wypych@ihg.com",
+      "name": "",
+      "account": "Holiday Inn",
+      "date": "2026-11-15",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Reporting Suite"
+    },
+    {
+      "visitor": "1312402",
+      "email": "laura.page@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Basic",
+      "date": "2026-11-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1308659",
+      "email": "bwhitta@tworld.com",
+      "name": "",
+      "account": "Transworld Business Advisors ",
+      "date": "2026-11-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "70017",
+      "email": "lisa.mcilhaney@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-11-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1295086_mobile",
+      "email": "tyler@hashkitchen.com",
+      "name": "",
+      "account": "Hash Kitchen",
+      "date": "2026-11-14",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "141846",
+      "email": "kanataregalnails@gmail.com",
+      "name": "",
+      "account": "Regal Nails Salon & Spa ",
+      "date": "2026-11-14",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
     {
       "visitor": "993668",
       "email": "laura.bernal@burnbootcamp.com",
@@ -22193,19 +22259,19 @@
     }
   ],
   "level_counts": {
-    "Administrator": 170,
-    "Manager": 1834,
+    "Administrator": 171,
+    "Manager": 1839,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 2
   },
   "sla_counts": {
-    "green": 59,
+    "green": 65,
     "amber": 213,
     "red": 1734
   },
-  "total_interested": 2006,
+  "total_interested": 2012,
   "oldest_age": 361,
   "repeat_accounts": [
     [
@@ -22234,7 +22300,7 @@
     ],
     [
       "Cruise Planners | CP Elite",
-      39
+      40
     ],
     [
       "Anytime Fitness NA ",
@@ -22269,16 +22335,16 @@
       23
     ],
     [
+      "Holiday Inn",
+      22
+    ],
+    [
       "Signarama",
       22
     ],
     [
       "Fairfield Residential",
       22
-    ],
-    [
-      "Holiday Inn",
-      21
     ],
     [
       "Neighborly",
@@ -22509,6 +22575,10 @@
       7
     ],
     [
+      "Transworld Business Advisors ",
+      6
+    ],
+    [
       "Zoomin Groomin",
       6
     ],
@@ -22531,6 +22601,10 @@
     [
       "Lynd",
       6
+    ],
+    [
+      "Cruise Planners | CP Basic",
+      5
     ],
     [
       "Burn Boot Camp",
@@ -22581,10 +22655,6 @@
       5
     ],
     [
-      "Transworld Business Advisors ",
-      5
-    ],
-    [
       "The Little Gym",
       5
     ],
@@ -22606,10 +22676,6 @@
     ],
     [
       "Kumon Europe & Africa",
-      4
-    ],
-    [
-      "Cruise Planners | CP Basic",
       4
     ],
     [
