@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16 02:37 UTC",
+  "generated_at": "2026-11-16 10:49 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,8 +54,8 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 82,
-      "interested": 82
+      "responses_12mo": 83,
+      "interested": 83
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
@@ -84,8 +84,8 @@
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 179,
-      "interested": 179
+      "responses_12mo": 180,
+      "interested": 180
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -125,6 +125,28 @@
     }
   },
   "contacts": [
+    {
+      "visitor": "145401",
+      "email": "jnpark@famoso.ca",
+      "name": "",
+      "account": "Famoso Neapolitan",
+      "date": "2026-11-16",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Reporting Suite"
+    },
+    {
+      "visitor": "71797",
+      "email": "cjohnson@tworld.com",
+      "name": "",
+      "account": "Transworld Business Advisors ",
+      "date": "2026-11-16",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Social"
+    },
     {
       "visitor": "1315239",
       "email": "boguslaw.wypych@ihg.com",
@@ -22260,18 +22282,18 @@
   ],
   "level_counts": {
     "Administrator": 171,
-    "Manager": 1839,
+    "Manager": 1841,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 2
   },
   "sla_counts": {
-    "green": 61,
+    "green": 63,
     "amber": 207,
     "red": 1744
   },
-  "total_interested": 2012,
+  "total_interested": 2014,
   "oldest_age": 362,
   "repeat_accounts": [
     [
@@ -22551,6 +22573,10 @@
       8
     ],
     [
+      "Transworld Business Advisors ",
+      7
+    ],
+    [
       "GO Car Wash",
       7
     ],
@@ -22573,10 +22599,6 @@
     [
       "Jersey Mike's Subs",
       7
-    ],
-    [
-      "Transworld Business Advisors ",
-      6
     ],
     [
       "Zoomin Groomin",
