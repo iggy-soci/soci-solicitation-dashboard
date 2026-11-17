@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17 03:31 UTC",
+  "generated_at": "2026-11-17 12:54 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 277,
-      "interested": 277
+      "responses_12mo": 278,
+      "interested": 278
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 572,
-      "interested": 572
+      "responses_12mo": 573,
+      "interested": 573
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 180,
-      "interested": 180
+      "responses_12mo": 181,
+      "interested": 181
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 415,
-      "interested": 415
+      "responses_12mo": 417,
+      "interested": 417
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -120,11 +120,22 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 240,
-      "interested": 240
+      "responses_12mo": 244,
+      "interested": 244
     }
   },
   "contacts": [
+    {
+      "visitor": "1315735",
+      "email": "terry.iverson@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Pro",
+      "date": "2026-11-17",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Genius Social"
+    },
     {
       "visitor": "145401",
       "email": "jnpark@famoso.ca",
@@ -137,6 +148,28 @@
       "area": "Reporting Suite"
     },
     {
+      "visitor": "1315239",
+      "email": "boguslaw.wypych@ihg.com",
+      "name": "",
+      "account": "Holiday Inn",
+      "date": "2026-11-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1266697",
+      "email": "saba.mengesha@thegreatgreek.com",
+      "name": "",
+      "account": "The Great Greek Grill",
+      "date": "2026-11-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
       "visitor": "71797",
       "email": "cjohnson@tworld.com",
       "name": "",
@@ -146,6 +179,72 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Social"
+    },
+    {
+      "visitor": "805993",
+      "email": "info@alleghenyplace.com",
+      "name": "",
+      "account": "Discovery Marketing Group, LLC dba STAT Marketing",
+      "date": "2026-11-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "946071",
+      "email": "keith.oakparkraised@gmail.com",
+      "name": "",
+      "account": "Jersey Mike's Subs",
+      "date": "2026-11-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1306556",
+      "email": "gbondcastelli@orangetheoryfitness.ca",
+      "name": "",
+      "account": "Orangetheory Fitness Canada",
+      "date": "2026-11-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1284706",
+      "email": "Leasing@AlmedaParkApartments.com",
+      "name": "",
+      "account": "Fairfield Residential",
+      "date": "2026-11-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1183591",
+      "email": "leasing@loftsofwilmington.com",
+      "name": "",
+      "account": "Priderock Capital Management",
+      "date": "2026-11-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "840857",
+      "email": "wingpointeapts@peakliving.com",
+      "name": "",
+      "account": "Peak Living LLC",
+      "date": "2026-11-16",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "1315239",
@@ -22282,18 +22381,18 @@
   ],
   "level_counts": {
     "Administrator": 170,
-    "Manager": 1842,
+    "Manager": 1851,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 2
   },
   "sla_counts": {
-    "green": 50,
+    "green": 59,
     "amber": 215,
     "red": 1749
   },
-  "total_interested": 2014,
+  "total_interested": 2023,
   "oldest_age": 363,
   "repeat_accounts": [
     [
@@ -22333,12 +22432,12 @@
       36
     ],
     [
-      "Liberty Tax",
+      "Cruise Planners | CP Pro",
       31
     ],
     [
-      "Cruise Planners | CP Pro",
-      30
+      "Liberty Tax",
+      31
     ],
     [
       "Sky Zone",
@@ -22353,19 +22452,19 @@
       24
     ],
     [
+      "Holiday Inn",
+      23
+    ],
+    [
+      "Fairfield Residential",
+      23
+    ],
+    [
       "Vetcor",
       23
     ],
     [
-      "Holiday Inn",
-      22
-    ],
-    [
       "Signarama",
-      22
-    ],
-    [
-      "Fairfield Residential",
       22
     ],
     [
@@ -22405,6 +22504,10 @@
       16
     ],
     [
+      "Discovery Marketing Group, LLC dba STAT Marketing",
+      15
+    ],
+    [
       "Teriyaki Madness",
       15
     ],
@@ -22415,10 +22518,6 @@
     [
       "Stretch Zone Franchising, LLC ",
       15
-    ],
-    [
-      "Discovery Marketing Group, LLC dba STAT Marketing",
-      14
     ],
     [
       "Monarch Investment and Management Group",
@@ -22457,6 +22556,10 @@
       12
     ],
     [
+      "Orangetheory Fitness Canada",
+      11
+    ],
+    [
       "Comparion",
       11
     ],
@@ -22490,10 +22593,6 @@
     ],
     [
       "BrightStar Care ",
-      10
-    ],
-    [
-      "Orangetheory Fitness Canada",
       10
     ],
     [
@@ -22537,6 +22636,10 @@
       9
     ],
     [
+      "Jersey Mike's Subs",
+      8
+    ],
+    [
       "Travel Leaders Group Canada",
       8
     ],
@@ -22577,6 +22680,10 @@
       7
     ],
     [
+      "Peak Living LLC",
+      7
+    ],
+    [
       "GO Car Wash",
       7
     ],
@@ -22597,10 +22704,6 @@
       7
     ],
     [
-      "Jersey Mike's Subs",
-      7
-    ],
-    [
       "Zoomin Groomin",
       6
     ],
@@ -22614,10 +22717,6 @@
     ],
     [
       "Pinots",
-      6
-    ],
-    [
-      "Peak Living LLC",
       6
     ],
     [
@@ -22987,6 +23086,10 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "The Great Greek Grill",
+      2
     ],
     [
       "Floor Coverings International",
