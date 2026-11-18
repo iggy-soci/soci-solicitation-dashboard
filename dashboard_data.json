@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18 03:27 UTC",
+  "generated_at": "2026-11-18 12:08 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 278,
-      "interested": 278
+      "responses_12mo": 279,
+      "interested": 279
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,8 +78,8 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 573,
-      "interested": 573
+      "responses_12mo": 577,
+      "interested": 577
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 417,
-      "interested": 417
+      "responses_12mo": 418,
+      "interested": 418
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,72 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 182,
-      "interested": 182
+      "responses_12mo": 183,
+      "interested": 183
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 244,
-      "interested": 244
+      "responses_12mo": 246,
+      "interested": 246
     }
   },
   "contacts": [
+    {
+      "visitor": "1297753",
+      "email": "3963782@sso.subway.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-11-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "858795",
+      "email": "ashevillenc@anylabtestnow.com",
+      "name": "",
+      "account": "Any Lab Test Now",
+      "date": "2026-11-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "963042",
+      "email": "erica@4timeholdings.com",
+      "name": "",
+      "account": "KOA",
+      "date": "2026-11-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "870096",
+      "email": "mherger@rndhouse.com",
+      "name": "",
+      "account": "Roundhouse Group",
+      "date": "2026-11-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "720827",
+      "email": "pm.southbrook@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-11-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
     {
       "visitor": "1315735",
       "email": "terry.iverson@cruiseplanners.com",
@@ -135,6 +190,50 @@
       "age_days": 1,
       "sla": "green",
       "area": "Genius Social"
+    },
+    {
+      "visitor": "669679",
+      "email": "pawatson@graycoprop.com",
+      "name": "",
+      "account": "GrayCo, Inc. ",
+      "date": "2026-11-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1044719",
+      "email": "carly.reps@rpmliving.com",
+      "name": "",
+      "account": "RPM Living",
+      "date": "2026-11-17",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "949107",
+      "email": "studio.opscoordinators@r-brands.com",
+      "name": "",
+      "account": "Waxing the City ",
+      "date": "2026-11-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1304074",
+      "email": "cvsecs@gmail.com",
+      "name": "",
+      "account": "KidsUnited USA",
+      "date": "2026-11-17",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
     },
     {
       "visitor": "145401",
@@ -22380,19 +22479,19 @@
     }
   ],
   "level_counts": {
-    "Administrator": 171,
-    "Manager": 1850,
+    "Administrator": 172,
+    "Manager": 1858,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 2
   },
   "sla_counts": {
-    "green": 45,
+    "green": 54,
     "amber": 227,
     "red": 1751
   },
-  "total_interested": 2023,
+  "total_interested": 2032,
   "oldest_age": 364,
   "repeat_accounts": [
     [
@@ -22405,7 +22504,7 @@
     ],
     [
       "Subway - North America",
-      65
+      66
     ],
     [
       "AT&T",
@@ -22413,11 +22512,11 @@
     ],
     [
       "Avenue5 Residential",
-      45
+      46
     ],
     [
       "RPM Living",
-      42
+      43
     ],
     [
       "Cruise Planners | CP Elite",
@@ -22616,6 +22715,10 @@
       10
     ],
     [
+      "Any Lab Test Now",
+      9
+    ],
+    [
       "American Freight (MAFGA)",
       9
     ],
@@ -22636,6 +22739,10 @@
       9
     ],
     [
+      "KOA",
+      8
+    ],
+    [
       "Jersey Mike's Subs",
       8
     ],
@@ -22645,10 +22752,6 @@
     ],
     [
       "29th Street Living",
-      8
-    ],
-    [
-      "Any Lab Test Now",
       8
     ],
     [
@@ -22688,10 +22791,6 @@
       7
     ],
     [
-      "KOA",
-      7
-    ],
-    [
       "Jeremiah's Italian Ice",
       7
     ],
@@ -22722,6 +22821,10 @@
     [
       "Lynd",
       6
+    ],
+    [
+      "KidsUnited USA",
+      5
     ],
     [
       "Cruise Planners | CP Basic",
@@ -22796,6 +22899,10 @@
       5
     ],
     [
+      "Waxing the City ",
+      4
+    ],
+    [
       "Kumon Europe & Africa",
       4
     ],
@@ -22837,10 +22944,6 @@
     ],
     [
       "Eucalyptus Real Estate",
-      4
-    ],
-    [
-      "KidsUnited USA",
       4
     ],
     [
@@ -22940,6 +23043,10 @@
       4
     ],
     [
+      "GrayCo, Inc. ",
+      3
+    ],
+    [
       "Marco's Pizza",
       3
     ],
@@ -22969,10 +23076,6 @@
     ],
     [
       "Timberland Partners",
-      3
-    ],
-    [
-      "Waxing the City ",
       3
     ],
     [
@@ -23088,6 +23191,10 @@
       3
     ],
     [
+      "Roundhouse Group",
+      2
+    ],
+    [
       "The Great Greek Grill",
       2
     ],
@@ -23105,10 +23212,6 @@
     ],
     [
       "Quick N Clean",
-      2
-    ],
-    [
-      "GrayCo, Inc. ",
       2
     ],
     [
