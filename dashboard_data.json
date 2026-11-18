@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18 12:08 UTC",
+  "generated_at": "2026-11-18 20:49 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -15641,7 +15641,7 @@
       "name": "",
       "account": "Mill Creek Residential ",
       "date": "2026-07-22",
-      "user_level": "Manager",
+      "user_level": "Unknown",
       "age_days": 119,
       "sla": "red",
       "area": "Social"
@@ -22480,11 +22480,11 @@
   ],
   "level_counts": {
     "Administrator": 172,
-    "Manager": 1858,
+    "Manager": 1857,
     "User": 0
   },
   "level_counts_extra": {
-    "Unknown": 2
+    "Unknown": 3
   },
   "sla_counts": {
     "green": 54,
