@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19 02:23 UTC",
+  "generated_at": "2026-11-19 10:39 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,14 +54,14 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 83,
-      "interested": 83
+      "responses_12mo": 85,
+      "interested": 85
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 279,
-      "interested": 279
+      "responses_12mo": 280,
+      "interested": 280
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,8 +78,8 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 577,
-      "interested": 577
+      "responses_12mo": 580,
+      "interested": 580
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
@@ -90,14 +90,14 @@
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
       "views_12mo": 0,
-      "responses_12mo": 6,
-      "interested": 6
+      "responses_12mo": 7,
+      "interested": 7
     },
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 418,
-      "interested": 418
+      "responses_12mo": 423,
+      "interested": 423
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -120,11 +120,165 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 246,
-      "interested": 246
+      "responses_12mo": 248,
+      "interested": 248
     }
   },
   "contacts": [
+    {
+      "visitor": "431764",
+      "email": "andjudtry@gmail.com",
+      "name": "",
+      "account": "The Little Gym",
+      "date": "2026-11-19",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "1251326",
+      "email": "hitesh1gp@yahoo.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-11-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reporting Suite"
+    },
+    {
+      "visitor": "969540",
+      "email": "ShakopeeMN@anytimefitness.com",
+      "name": "",
+      "account": "Anytime Fitness NA ",
+      "date": "2026-11-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reporting Suite"
+    },
+    {
+      "visitor": "1008511",
+      "email": "polanco.manager@livebryten.com",
+      "name": "",
+      "account": "Bryten Management",
+      "date": "2026-11-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1282558",
+      "email": "morningsidepark@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-11-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "366608",
+      "email": "joann.johnson@kiddieacademy.net",
+      "name": "",
+      "account": "Kiddie Academy",
+      "date": "2026-11-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "297317",
+      "email": "tchesney@fishwindowcleaning.com",
+      "name": "",
+      "account": "Fish Window Cleaning Services, Inc.",
+      "date": "2026-11-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1315353",
+      "email": "mspangler@mckinneyproperties.com",
+      "name": "",
+      "account": "McKinney Properties",
+      "date": "2026-11-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Search"
+    },
+    {
+      "visitor": "1010507",
+      "email": "pullmanfrisco@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-11-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1310733",
+      "email": "magnoliaranch@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-11-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1284659",
+      "email": "leasing@parklane-apts.com",
+      "name": "",
+      "account": "Fairfield Residential",
+      "date": "2026-11-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "783462",
+      "email": "tiffany.coven@burnbootcamp.com",
+      "name": "",
+      "account": "Burn Boot Camp",
+      "date": "2026-11-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "857780",
+      "email": "gatewaysquare@weidner.com",
+      "name": "",
+      "account": "Weidner",
+      "date": "2026-11-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1289914",
+      "email": "ecabrera@venterraliving.com",
+      "name": "",
+      "account": "Venterra Living",
+      "date": "2026-11-18",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
     {
       "visitor": "1297753",
       "email": "3963782@sso.subway.com",
@@ -22480,23 +22634,23 @@
   ],
   "level_counts": {
     "Administrator": 172,
-    "Manager": 1857,
+    "Manager": 1871,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 3
   },
   "sla_counts": {
-    "green": 44,
+    "green": 58,
     "amber": 227,
     "red": 1761
   },
-  "total_interested": 2032,
+  "total_interested": 2046,
   "oldest_age": 365,
   "repeat_accounts": [
     [
       "Willow Bridge Property Company ",
-      73
+      75
     ],
     [
       "Travel Leaders Group",
@@ -22504,7 +22658,7 @@
     ],
     [
       "Subway - North America",
-      66
+      67
     ],
     [
       "AT&T",
@@ -22512,7 +22666,7 @@
     ],
     [
       "Avenue5 Residential",
-      46
+      47
     ],
     [
       "RPM Living",
@@ -22524,7 +22678,7 @@
     ],
     [
       "Anytime Fitness NA ",
-      36
+      37
     ],
     [
       "Berkshire Hathaway HomeServices",
@@ -22547,15 +22701,15 @@
       28
     ],
     [
+      "Fairfield Residential",
+      24
+    ],
+    [
       "The Learning Experience",
       24
     ],
     [
       "Holiday Inn",
-      23
-    ],
-    [
-      "Fairfield Residential",
       23
     ],
     [
@@ -22579,6 +22733,14 @@
       18
     ],
     [
+      "Bryten Management",
+      17
+    ],
+    [
+      "Weidner",
+      17
+    ],
+    [
       "The Goddard School",
       17
     ],
@@ -22589,14 +22751,6 @@
     [
       "Woof Gang Bakery & Grooming",
       17
-    ],
-    [
-      "Weidner",
-      16
-    ],
-    [
-      "Bryten Management",
-      16
     ],
     [
       "Texas Roadhouse Holdings LLC",
@@ -22627,6 +22781,10 @@
       14
     ],
     [
+      "Venterra Living",
+      13
+    ],
+    [
       "Lightbridge Academy",
       13
     ],
@@ -22640,10 +22798,6 @@
     ],
     [
       "Elements Massage",
-      12
-    ],
-    [
-      "Venterra Living",
       12
     ],
     [
@@ -22715,6 +22869,10 @@
       10
     ],
     [
+      "Kiddie Academy",
+      9
+    ],
+    [
       "Any Lab Test Now",
       9
     ],
@@ -22752,10 +22910,6 @@
     ],
     [
       "29th Street Living",
-      8
-    ],
-    [
-      "Kiddie Academy",
       8
     ],
     [
@@ -22803,6 +22957,14 @@
       7
     ],
     [
+      "The Little Gym",
+      6
+    ],
+    [
+      "Burn Boot Camp",
+      6
+    ],
+    [
       "Zoomin Groomin",
       6
     ],
@@ -22828,10 +22990,6 @@
     ],
     [
       "Cruise Planners | CP Basic",
-      5
-    ],
-    [
-      "Burn Boot Camp",
       5
     ],
     [
@@ -22876,10 +23034,6 @@
     ],
     [
       "Pacifica Residential",
-      5
-    ],
-    [
-      "The Little Gym",
       5
     ],
     [
@@ -23041,6 +23195,10 @@
     [
       "Lakefield Veterinary Group",
       4
+    ],
+    [
+      "Fish Window Cleaning Services, Inc.",
+      3
     ],
     [
       "GrayCo, Inc. ",
@@ -23324,10 +23482,6 @@
     ],
     [
       "Ivy Rehab Network",
-      2
-    ],
-    [
-      "Fish Window Cleaning Services, Inc.",
       2
     ],
     [
