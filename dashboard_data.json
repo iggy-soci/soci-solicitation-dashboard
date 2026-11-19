@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19 10:39 UTC",
+  "generated_at": "2026-11-19 19:24 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -208,7 +208,7 @@
       "name": "",
       "account": "McKinney Properties",
       "date": "2026-11-18",
-      "user_level": "Manager",
+      "user_level": "Administrator",
       "age_days": 1,
       "sla": "green",
       "area": "Genius Search"
@@ -15795,7 +15795,7 @@
       "name": "",
       "account": "Mill Creek Residential ",
       "date": "2026-07-22",
-      "user_level": "Unknown",
+      "user_level": "Manager",
       "age_days": 120,
       "sla": "red",
       "area": "Social"
@@ -22633,12 +22633,12 @@
     }
   ],
   "level_counts": {
-    "Administrator": 172,
+    "Administrator": 173,
     "Manager": 1871,
     "User": 0
   },
   "level_counts_extra": {
-    "Unknown": 3
+    "Unknown": 2
   },
   "sla_counts": {
     "green": 58,
