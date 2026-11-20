@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20 01:24 UTC",
+  "generated_at": "2026-11-20 08:58 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,14 +54,14 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 85,
-      "interested": 85
+      "responses_12mo": 83,
+      "interested": 83
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 280,
-      "interested": 280
+      "responses_12mo": 282,
+      "interested": 282
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,8 +78,8 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 580,
-      "interested": 580
+      "responses_12mo": 585,
+      "interested": 585
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
@@ -90,20 +90,20 @@
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
       "views_12mo": 0,
-      "responses_12mo": 7,
-      "interested": 7
+      "responses_12mo": 8,
+      "interested": 8
     },
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 423,
-      "interested": 423
+      "responses_12mo": 424,
+      "interested": 424
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
       "views_12mo": 0,
-      "responses_12mo": 16,
-      "interested": 16
+      "responses_12mo": 17,
+      "interested": 17
     },
     "Data Management": {
       "guide_id": "YESnj4QI3Np_fsQ1W6_e_jBlJis",
@@ -120,11 +120,132 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 248,
-      "interested": 248
+      "responses_12mo": 249,
+      "interested": 249
     }
   },
   "contacts": [
+    {
+      "visitor": "675925",
+      "email": "chris.stout@grazecraze.com",
+      "name": "",
+      "account": "Graze Craze Advertising Fund, Inc.",
+      "date": "2026-11-20",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "797173",
+      "email": "tjohnson@fishwindowcleaning.com",
+      "name": "",
+      "account": "Fish Window Cleaning Services, Inc.",
+      "date": "2026-11-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1223546",
+      "email": "frontdeskwebstergroves@gmail.com",
+      "name": "",
+      "account": "The Only Facial",
+      "date": "2026-11-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "94809",
+      "email": "breakwater@dolben.com",
+      "name": "",
+      "account": "The Dolben Company ",
+      "date": "2026-11-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "16054",
+      "email": "parkstation@dolben.com",
+      "name": "",
+      "account": "The Dolben Company ",
+      "date": "2026-11-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1266361",
+      "email": "lindsaybowden@employbridge.com",
+      "name": "",
+      "account": "Employbridge Holding Company",
+      "date": "2026-11-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1214176",
+      "email": "emely.duckworth@quinnmgmt.com",
+      "name": "",
+      "account": "Quinn Residences",
+      "date": "2026-11-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1298621",
+      "email": "taylore@quicknclean.net",
+      "name": "",
+      "account": "Quick N Clean",
+      "date": "2026-11-19",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Search"
+    },
+    {
+      "visitor": "290146",
+      "email": "madeira@arborprop.com",
+      "name": "",
+      "account": "Arbor Property Management",
+      "date": "2026-11-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1316691",
+      "email": "bey.strong@liquorsplit.com",
+      "name": "",
+      "account": "Novellus Digital Marketing",
+      "date": "2026-11-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Listings"
+    },
+    {
+      "visitor": "964348",
+      "email": "555@avenue5apt.com",
+      "name": "",
+      "account": "Avenue5 Residential",
+      "date": "2026-11-19",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
     {
       "visitor": "431764",
       "email": "andjudtry@gmail.com",
@@ -22608,45 +22729,23 @@
       "age_days": 353,
       "sla": "red",
       "area": "Reporting Suite"
-    },
-    {
-      "visitor": "1069264",
-      "email": "Store0082@af.furniture",
-      "name": "",
-      "account": "American Freight (MAFGA)",
-      "date": "2025-11-19",
-      "user_level": "Manager",
-      "age_days": 366,
-      "sla": "red",
-      "area": "Reporting Suite"
-    },
-    {
-      "visitor": "967333",
-      "email": "Pratik@hirelinkscorp.com",
-      "name": "",
-      "account": "Garner",
-      "date": "2025-11-19",
-      "user_level": "Manager",
-      "age_days": 366,
-      "sla": "red",
-      "area": "Reporting Suite"
     }
   ],
   "level_counts": {
-    "Administrator": 173,
-    "Manager": 1871,
+    "Administrator": 174,
+    "Manager": 1879,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 2
   },
   "sla_counts": {
-    "green": 50,
+    "green": 61,
     "amber": 225,
-    "red": 1771
+    "red": 1769
   },
-  "total_interested": 2046,
-  "oldest_age": 366,
+  "total_interested": 2055,
+  "oldest_age": 353,
   "repeat_accounts": [
     [
       "Willow Bridge Property Company ",
@@ -22666,7 +22765,7 @@
     ],
     [
       "Avenue5 Residential",
-      47
+      48
     ],
     [
       "RPM Living",
@@ -22877,10 +22976,6 @@
       9
     ],
     [
-      "American Freight (MAFGA)",
-      9
-    ],
-    [
       "Urban Air - Unleashed Brands",
       9
     ],
@@ -22902,6 +22997,10 @@
     ],
     [
       "Jersey Mike's Subs",
+      8
+    ],
+    [
+      "American Freight (MAFGA)",
       8
     ],
     [
@@ -22985,6 +23084,10 @@
       6
     ],
     [
+      "Graze Craze Advertising Fund, Inc.",
+      5
+    ],
+    [
       "KidsUnited USA",
       5
     ],
@@ -23053,6 +23156,18 @@
       5
     ],
     [
+      "Fish Window Cleaning Services, Inc.",
+      4
+    ],
+    [
+      "The Dolben Company ",
+      4
+    ],
+    [
+      "Quinn Residences",
+      4
+    ],
+    [
       "Waxing the City ",
       4
     ],
@@ -23117,10 +23232,6 @@
       4
     ],
     [
-      "Graze Craze Advertising Fund, Inc.",
-      4
-    ],
-    [
       "The Laramar Group",
       4
     ],
@@ -23177,10 +23288,6 @@
       4
     ],
     [
-      "Garner",
-      4
-    ],
-    [
       "Color Me Mine LLC",
       4
     ],
@@ -23197,7 +23304,11 @@
       4
     ],
     [
-      "Fish Window Cleaning Services, Inc.",
+      "Employbridge Holding Company",
+      3
+    ],
+    [
+      "Quick N Clean",
       3
     ],
     [
@@ -23261,10 +23372,6 @@
       3
     ],
     [
-      "Quinn Residences",
-      3
-    ],
-    [
       "PJ's Coffee",
       3
     ],
@@ -23313,6 +23420,10 @@
       3
     ],
     [
+      "Garner",
+      3
+    ],
+    [
       "Brain Balance Centers ",
       3
     ],
@@ -23349,6 +23460,18 @@
       3
     ],
     [
+      "The Only Facial",
+      2
+    ],
+    [
+      "Arbor Property Management",
+      2
+    ],
+    [
+      "Novellus Digital Marketing",
+      2
+    ],
+    [
       "Roundhouse Group",
       2
     ],
@@ -23366,10 +23489,6 @@
     ],
     [
       "General Practice",
-      2
-    ],
-    [
-      "Quick N Clean",
       2
     ],
     [
@@ -23398,10 +23517,6 @@
     ],
     [
       "Nxt Property Management",
-      2
-    ],
-    [
-      "Employbridge Holding Company",
       2
     ],
     [
@@ -23610,10 +23725,6 @@
     ],
     [
       "Culvers",
-      2
-    ],
-    [
-      "The Dolben Company ",
       2
     ],
     [
