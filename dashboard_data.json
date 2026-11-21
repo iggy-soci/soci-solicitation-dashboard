@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21 06:23 UTC",
+  "generated_at": "2026-11-21 14:52 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 282,
-      "interested": 282
+      "responses_12mo": 286,
+      "interested": 286
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,8 +78,8 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 585,
-      "interested": 585
+      "responses_12mo": 586,
+      "interested": 586
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
@@ -96,14 +96,14 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 424,
-      "interested": 424
+      "responses_12mo": 429,
+      "interested": 429
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
       "views_12mo": 0,
-      "responses_12mo": 17,
-      "interested": 17
+      "responses_12mo": 18,
+      "interested": 18
     },
     "Data Management": {
       "guide_id": "YESnj4QI3Np_fsQ1W6_e_jBlJis",
@@ -126,6 +126,61 @@
   },
   "contacts": [
     {
+      "visitor": "833701",
+      "email": "secondhometravelplanning@gmail.com",
+      "name": "",
+      "account": "Travel Leaders Group",
+      "date": "2026-11-21",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1284709",
+      "email": "Leasing@FountainsTidwellApartmentsTheEnclave.com",
+      "name": "",
+      "account": "Fairfield Residential",
+      "date": "2026-11-20",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "759406",
+      "email": "arcadiaplaceed@islllc.com",
+      "name": "",
+      "account": "Discovery Marketing Group, LLC dba STAT Marketing",
+      "date": "2026-11-20",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1303180",
+      "email": "Jess.Collins@destpet.com",
+      "name": "",
+      "account": "Destination Pet",
+      "date": "2026-11-20",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
+      "visitor": "1020664",
+      "email": "vineyardcommonsmgr@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-11-20",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
+    {
       "visitor": "675925",
       "email": "chris.stout@grazecraze.com",
       "name": "",
@@ -135,6 +190,72 @@
       "age_days": 1,
       "sla": "green",
       "area": "Social"
+    },
+    {
+      "visitor": "277805",
+      "email": "lts70857+amir.tabrizi@libertytax.com",
+      "name": "",
+      "account": "Liberty Tax",
+      "date": "2026-11-20",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1311042",
+      "email": "jbooth@venterraliving.com",
+      "name": "",
+      "account": "Venterra Living",
+      "date": "2026-11-20",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1310923",
+      "email": "jakeller@willowbridgepc.com",
+      "name": "",
+      "account": "Willow Bridge Property Company ",
+      "date": "2026-11-20",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "747576",
+      "email": "bmosher@vetcor.com",
+      "name": "",
+      "account": "Vetcor",
+      "date": "2026-11-20",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "143953",
+      "email": "manager.longwoodsouthernhills@freemanwebb.com",
+      "name": "",
+      "account": "Freeman Webb",
+      "date": "2026-11-20",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1298621",
+      "email": "taylore@quicknclean.net",
+      "name": "",
+      "account": "Quick N Clean",
+      "date": "2026-11-20",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Listings"
     },
     {
       "visitor": "797173",
@@ -22732,28 +22853,28 @@
     }
   ],
   "level_counts": {
-    "Administrator": 174,
-    "Manager": 1879,
+    "Administrator": 175,
+    "Manager": 1889,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 2
   },
   "sla_counts": {
-    "green": 51,
+    "green": 62,
     "amber": 221,
     "red": 1783
   },
-  "total_interested": 2055,
+  "total_interested": 2066,
   "oldest_age": 354,
   "repeat_accounts": [
     [
       "Willow Bridge Property Company ",
-      75
+      77
     ],
     [
       "Travel Leaders Group",
-      69
+      70
     ],
     [
       "Subway - North America",
@@ -22784,11 +22905,11 @@
       36
     ],
     [
-      "Cruise Planners | CP Pro",
-      31
+      "Liberty Tax",
+      32
     ],
     [
-      "Liberty Tax",
+      "Cruise Planners | CP Pro",
       31
     ],
     [
@@ -22801,6 +22922,10 @@
     ],
     [
       "Fairfield Residential",
+      25
+    ],
+    [
+      "Vetcor",
       24
     ],
     [
@@ -22809,10 +22934,6 @@
     ],
     [
       "Holiday Inn",
-      23
-    ],
-    [
-      "Vetcor",
       23
     ],
     [
@@ -22852,12 +22973,12 @@
       17
     ],
     [
-      "Texas Roadhouse Holdings LLC",
+      "Discovery Marketing Group, LLC dba STAT Marketing",
       16
     ],
     [
-      "Discovery Marketing Group, LLC dba STAT Marketing",
-      15
+      "Texas Roadhouse Holdings LLC",
+      16
     ],
     [
       "Teriyaki Madness",
@@ -22872,16 +22993,16 @@
       15
     ],
     [
+      "Venterra Living",
+      14
+    ],
+    [
       "Monarch Investment and Management Group",
       14
     ],
     [
       "Adara Communities ",
       14
-    ],
-    [
-      "Venterra Living",
-      13
     ],
     [
       "Lightbridge Academy",
@@ -23056,6 +23177,10 @@
       7
     ],
     [
+      "Freeman Webb",
+      6
+    ],
+    [
       "The Little Gym",
       6
     ],
@@ -23082,6 +23207,10 @@
     [
       "Lynd",
       6
+    ],
+    [
+      "Destination Pet",
+      5
     ],
     [
       "Graze Craze Advertising Fund, Inc.",
@@ -23113,10 +23242,6 @@
     ],
     [
       "KidStrong",
-      5
-    ],
-    [
-      "Freeman Webb",
       5
     ],
     [
@@ -23156,6 +23281,10 @@
       5
     ],
     [
+      "Quick N Clean",
+      4
+    ],
+    [
       "Fish Window Cleaning Services, Inc.",
       4
     ],
@@ -23181,10 +23310,6 @@
     ],
     [
       "Kid to Kid",
-      4
-    ],
-    [
-      "Destination Pet",
       4
     ],
     [
@@ -23305,10 +23430,6 @@
     ],
     [
       "Employbridge Holding Company",
-      3
-    ],
-    [
-      "Quick N Clean",
       3
     ],
     [
