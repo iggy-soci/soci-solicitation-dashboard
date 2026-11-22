@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22 01:03 UTC",
+  "generated_at": "2026-11-22 08:38 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -60,8 +60,8 @@
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
       "views_12mo": 0,
-      "responses_12mo": 286,
-      "interested": 286
+      "responses_12mo": 287,
+      "interested": 287
     },
     "Pages": {
       "guide_id": "YVLt4_RhtGetk67ELpMgfSCKUw0",
@@ -78,8 +78,8 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 586,
-      "interested": 586
+      "responses_12mo": 587,
+      "interested": 587
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
@@ -125,6 +125,28 @@
     }
   },
   "contacts": [
+    {
+      "visitor": "1316692_mobile",
+      "email": "emaildawudwilson@gmail.com",
+      "name": "",
+      "account": "FSC Franchise Brands",
+      "date": "2026-11-22",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1036356",
+      "email": "csc-365_AppleValley@chickensaladchick.com",
+      "name": "",
+      "account": "Chicken Salad Chick",
+      "date": "2026-11-21",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Reviews (Reputation)"
+    },
     {
       "visitor": "833701",
       "email": "secondhometravelplanning@gmail.com",
@@ -22854,18 +22876,18 @@
   ],
   "level_counts": {
     "Administrator": 175,
-    "Manager": 1889,
+    "Manager": 1891,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 2
   },
   "sla_counts": {
-    "green": 57,
+    "green": 59,
     "amber": 214,
     "red": 1795
   },
-  "total_interested": 2066,
+  "total_interested": 2068,
   "oldest_age": 355,
   "repeat_accounts": [
     [
@@ -23029,6 +23051,10 @@
       12
     ],
     [
+      "FSC Franchise Brands",
+      11
+    ],
+    [
       "Orangetheory Fitness Canada",
       11
     ],
@@ -23082,10 +23108,6 @@
     ],
     [
       "Pedego Electric Bikes",
-      10
-    ],
-    [
-      "FSC Franchise Brands",
       10
     ],
     [
@@ -23427,6 +23449,10 @@
     [
       "Lakefield Veterinary Group",
       4
+    ],
+    [
+      "Chicken Salad Chick",
+      3
     ],
     [
       "Employbridge Holding Company",
@@ -23782,10 +23808,6 @@
     ],
     [
       "Byrider",
-      2
-    ],
-    [
-      "Chicken Salad Chick",
       2
     ],
     [
