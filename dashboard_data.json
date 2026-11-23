@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23 02:59 UTC",
+  "generated_at": "2026-11-23 12:14 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -78,8 +78,8 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 587,
-      "interested": 587
+      "responses_12mo": 588,
+      "interested": 588
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 429,
-      "interested": 429
+      "responses_12mo": 430,
+      "interested": 430
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -126,6 +126,17 @@
   },
   "contacts": [
     {
+      "visitor": "548705",
+      "email": "D'Anna.McNamara@ComparionInsurance.com",
+      "name": "",
+      "account": "Comparion",
+      "date": "2026-11-22",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
       "visitor": "1316692_mobile",
       "email": "emaildawudwilson@gmail.com",
       "name": "",
@@ -135,6 +146,17 @@
       "age_days": 1,
       "sla": "green",
       "area": "Social"
+    },
+    {
+      "visitor": "1316559",
+      "email": "a.sabirhusain@gmail.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-11-22",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
     },
     {
       "visitor": "1036356",
@@ -22876,18 +22898,18 @@
   ],
   "level_counts": {
     "Administrator": 175,
-    "Manager": 1891,
+    "Manager": 1893,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 2
   },
   "sla_counts": {
-    "green": 58,
+    "green": 60,
     "amber": 200,
     "red": 1810
   },
-  "total_interested": 2068,
+  "total_interested": 2070,
   "oldest_age": 356,
   "repeat_accounts": [
     [
@@ -22900,7 +22922,7 @@
     ],
     [
       "Subway - North America",
-      67
+      68
     ],
     [
       "AT&T",
@@ -23039,6 +23061,10 @@
       13
     ],
     [
+      "Comparion",
+      12
+    ],
+    [
       "Elements Massage",
       12
     ],
@@ -23056,10 +23082,6 @@
     ],
     [
       "Orangetheory Fitness Canada",
-      11
-    ],
-    [
-      "Comparion",
       11
     ],
     [
