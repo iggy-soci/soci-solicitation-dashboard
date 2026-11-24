@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24 00:13 UTC",
+  "generated_at": "2026-11-24 10:17 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 588,
-      "interested": 588
+      "responses_12mo": 591,
+      "interested": 591
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 181,
-      "interested": 181
+      "responses_12mo": 182,
+      "interested": 182
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 430,
-      "interested": 430
+      "responses_12mo": 432,
+      "interested": 432
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -120,11 +120,99 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 249,
-      "interested": 249
+      "responses_12mo": 251,
+      "interested": 251
     }
   },
   "contacts": [
+    {
+      "visitor": "1291110",
+      "email": "jeff.reynoljm@gmail.com",
+      "name": "",
+      "account": "Sport Clips",
+      "date": "2026-11-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1315735",
+      "email": "terry.iverson@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Pro",
+      "date": "2026-11-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1174903",
+      "email": "BAHAA@SARND.COM",
+      "name": "",
+      "account": "Signarama",
+      "date": "2026-11-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1318414",
+      "email": "compass@kettler.com",
+      "name": "",
+      "account": "Kettler Management",
+      "date": "2026-11-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1294668",
+      "email": "BI2049@att.com",
+      "name": "",
+      "account": "AT&T",
+      "date": "2026-11-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1318071",
+      "email": "Kateryna.Oleinikova@ickyiv.com",
+      "name": "",
+      "account": "InterContinental",
+      "date": "2026-11-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1308502",
+      "email": "peiting.kuang+3081209@foxroach.com",
+      "name": "",
+      "account": "Berkshire Hathaway HomeServices",
+      "date": "2026-11-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
+    {
+      "visitor": "419553",
+      "email": "wilmingtondelaware@anylabtestnow.com",
+      "name": "",
+      "account": "Any Lab Test Now",
+      "date": "2026-11-23",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
     {
       "visitor": "548705",
       "email": "D'Anna.McNamara@ComparionInsurance.com",
@@ -22898,18 +22986,18 @@
   ],
   "level_counts": {
     "Administrator": 174,
-    "Manager": 1894,
+    "Manager": 1902,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 2
   },
   "sla_counts": {
-    "green": 50,
+    "green": 58,
     "amber": 206,
     "red": 1814
   },
-  "total_interested": 2070,
+  "total_interested": 2078,
   "oldest_age": 357,
   "repeat_accounts": [
     [
@@ -22926,7 +23014,7 @@
     ],
     [
       "AT&T",
-      51
+      52
     ],
     [
       "Avenue5 Residential",
@@ -22941,20 +23029,20 @@
       40
     ],
     [
+      "Berkshire Hathaway HomeServices",
+      37
+    ],
+    [
       "Anytime Fitness NA ",
       37
     ],
     [
-      "Berkshire Hathaway HomeServices",
-      36
+      "Cruise Planners | CP Pro",
+      32
     ],
     [
       "Liberty Tax",
       32
-    ],
-    [
-      "Cruise Planners | CP Pro",
-      31
     ],
     [
       "Sky Zone",
@@ -22977,12 +23065,12 @@
       24
     ],
     [
-      "Holiday Inn",
+      "Signarama",
       23
     ],
     [
-      "Signarama",
-      22
+      "Holiday Inn",
+      23
     ],
     [
       "Neighborly",
@@ -23061,6 +23149,10 @@
       13
     ],
     [
+      "InterContinental",
+      12
+    ],
+    [
       "Comparion",
       12
     ],
@@ -23097,12 +23189,12 @@
       11
     ],
     [
-      "InterContinental",
+      "VEG ER for Pets",
       11
     ],
     [
-      "VEG ER for Pets",
-      11
+      "Any Lab Test Now",
+      10
     ],
     [
       "Dill Dinkers",
@@ -23133,11 +23225,11 @@
       10
     ],
     [
-      "Kiddie Academy",
+      "Sport Clips",
       9
     ],
     [
-      "Any Lab Test Now",
+      "Kiddie Academy",
       9
     ],
     [
@@ -23186,10 +23278,6 @@
     ],
     [
       "Bruster's Real Ice Cream",
-      8
-    ],
-    [
-      "Sport Clips",
       8
     ],
     [
