@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25 04:00 UTC",
+  "generated_at": "2026-11-25 14:10 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -78,14 +78,14 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 591,
-      "interested": 591
+      "responses_12mo": 593,
+      "interested": 593
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
       "views_12mo": 0,
-      "responses_12mo": 182,
-      "interested": 182
+      "responses_12mo": 183,
+      "interested": 183
     },
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 432,
-      "interested": 432
+      "responses_12mo": 433,
+      "interested": 433
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -114,17 +114,83 @@
     "AskGenius": {
       "guide_id": "l-ZJYMIkDkhjpkwtywaE2SJFraU",
       "views_12mo": 0,
-      "responses_12mo": 183,
-      "interested": 183
+      "responses_12mo": 184,
+      "interested": 184
     },
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 251,
-      "interested": 251
+      "responses_12mo": 252,
+      "interested": 252
     }
   },
   "contacts": [
+    {
+      "visitor": "292463",
+      "email": "leads@gibsoncreekmadison.com",
+      "name": "",
+      "account": "S&S Property Management",
+      "date": "2026-11-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "167389",
+      "email": "aortega@officite.com",
+      "name": "",
+      "account": "iMatrix Chiropractic ",
+      "date": "2026-11-24",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1316176",
+      "email": "mtyler@linkapm.com",
+      "name": "",
+      "account": "LINK Real Estate Group",
+      "date": "2026-11-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Social"
+    },
+    {
+      "visitor": "1279497",
+      "email": "t.greisberger@novum-hospitality.com",
+      "name": "",
+      "account": "Garner",
+      "date": "2026-11-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "1295274",
+      "email": "Abhishek.Singh@westernunion.com",
+      "name": "",
+      "account": "Western Union - USA",
+      "date": "2026-11-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "AskGenius"
+    },
+    {
+      "visitor": "106978",
+      "email": "store.01615@rentacenter.com",
+      "name": "",
+      "account": "Rent-A-Center",
+      "date": "2026-11-24",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
     {
       "visitor": "1291110",
       "email": "jeff.reynoljm@gmail.com",
@@ -22985,19 +23051,19 @@
     }
   ],
   "level_counts": {
-    "Administrator": 174,
-    "Manager": 1902,
+    "Administrator": 175,
+    "Manager": 1907,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 2
   },
   "sla_counts": {
-    "green": 48,
+    "green": 54,
     "amber": 211,
     "red": 1819
   },
-  "total_interested": 2078,
+  "total_interested": 2084,
   "oldest_age": 358,
   "repeat_accounts": [
     [
@@ -23169,6 +23235,10 @@
       12
     ],
     [
+      "Rent-A-Center",
+      11
+    ],
+    [
       "FSC Franchise Brands",
       11
     ],
@@ -23214,10 +23284,6 @@
     ],
     [
       "Crowne Plaza",
-      10
-    ],
-    [
-      "Rent-A-Center",
       10
     ],
     [
@@ -23341,6 +23407,10 @@
       6
     ],
     [
+      "Western Union - USA",
+      5
+    ],
+    [
       "Destination Pet",
       5
     ],
@@ -23413,6 +23483,10 @@
       5
     ],
     [
+      "Garner",
+      4
+    ],
+    [
       "Quick N Clean",
       4
     ],
@@ -23458,10 +23532,6 @@
     ],
     [
       "Trilogy Health Services",
-      4
-    ],
-    [
-      "Western Union - USA",
       4
     ],
     [
@@ -23559,6 +23629,10 @@
     [
       "Lakefield Veterinary Group",
       4
+    ],
+    [
+      "S&S Property Management",
+      3
     ],
     [
       "Chicken Salad Chick",
@@ -23677,10 +23751,6 @@
       3
     ],
     [
-      "Garner",
-      3
-    ],
-    [
       "Brain Balance Centers ",
       3
     ],
@@ -23715,6 +23785,14 @@
     [
       "CIP Communities",
       3
+    ],
+    [
+      "iMatrix Chiropractic ",
+      2
+    ],
+    [
+      "LINK Real Estate Group",
+      2
     ],
     [
       "The Only Facial",
@@ -23774,10 +23852,6 @@
     ],
     [
       "Nxt Property Management",
-      2
-    ],
-    [
-      "S&S Property Management",
       2
     ],
     [
