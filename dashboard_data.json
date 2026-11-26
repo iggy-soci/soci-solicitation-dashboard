@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26 05:20 UTC",
+  "generated_at": "2026-11-26 15:38 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -90,8 +90,8 @@
     "Genius Search": {
       "guide_id": "XCCXd_JVbuW1pkRKIHqF7fd6GEo",
       "views_12mo": 0,
-      "responses_12mo": 8,
-      "interested": 8
+      "responses_12mo": 9,
+      "interested": 9
     },
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
@@ -125,6 +125,17 @@
     }
   },
   "contacts": [
+    {
+      "visitor": "92433",
+      "email": "liz@teriyakimadness.com",
+      "name": "",
+      "account": "Teriyaki Madness",
+      "date": "2026-11-25",
+      "user_level": "Administrator",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Search"
+    },
     {
       "visitor": "292463",
       "email": "leads@gibsoncreekmadison.com",
@@ -23051,7 +23062,7 @@
     }
   ],
   "level_counts": {
-    "Administrator": 175,
+    "Administrator": 176,
     "Manager": 1907,
     "User": 0
   },
@@ -23059,11 +23070,11 @@
     "Unknown": 2
   },
   "sla_counts": {
-    "green": 41,
+    "green": 42,
     "amber": 204,
     "red": 1839
   },
-  "total_interested": 2084,
+  "total_interested": 2085,
   "oldest_age": 359,
   "repeat_accounts": [
     [
@@ -23171,16 +23182,16 @@
       17
     ],
     [
+      "Teriyaki Madness",
+      16
+    ],
+    [
       "Discovery Marketing Group, LLC dba STAT Marketing",
       16
     ],
     [
       "Texas Roadhouse Holdings LLC",
       16
-    ],
-    [
-      "Teriyaki Madness",
-      15
     ],
     [
       "voco",
