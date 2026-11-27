@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27 08:57 UTC",
+  "generated_at": "2026-11-27 18:49 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -20514,7 +20514,7 @@
       "name": "",
       "account": "Oasis Senior Advisors ",
       "date": "2026-07-08",
-      "user_level": "Manager",
+      "user_level": "Unknown",
       "age_days": 142,
       "sla": "red",
       "area": "Social"
@@ -23063,11 +23063,11 @@
   ],
   "level_counts": {
     "Administrator": 176,
-    "Manager": 1907,
+    "Manager": 1906,
     "User": 0
   },
   "level_counts_extra": {
-    "Unknown": 2
+    "Unknown": 3
   },
   "sla_counts": {
     "green": 31,
