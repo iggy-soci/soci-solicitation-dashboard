@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28 01:48 UTC",
+  "generated_at": "2026-11-28 09:58 UTC",
   "areas": [
     {
       "name": "Reporting Suite",
@@ -54,8 +54,8 @@
     "Reporting Suite": {
       "guide_id": "rILFx33CEJlliM0_2euuyYzqhFY",
       "views_12mo": 0,
-      "responses_12mo": 83,
-      "interested": 83
+      "responses_12mo": 84,
+      "interested": 84
     },
     "Reviews (Reputation)": {
       "guide_id": "rWD9ymPqN237cB2qoFYy_xlxzes",
@@ -78,8 +78,8 @@
     "Social": {
       "guide_id": "9rXIUYUOHKuy43Tu_rCLut1I9Zg",
       "views_12mo": 0,
-      "responses_12mo": 593,
-      "interested": 593
+      "responses_12mo": 595,
+      "interested": 595
     },
     "Genius Social": {
       "guide_id": "zu1Vo9RS6s9O0bDjJWZ9UjgUyQk",
@@ -96,8 +96,8 @@
     "Genius Reviews": {
       "guide_id": "F11OvjUGYBIYfaucPWxJ887o804",
       "views_12mo": 0,
-      "responses_12mo": 433,
-      "interested": 433
+      "responses_12mo": 434,
+      "interested": 434
     },
     "Listings": {
       "guide_id": "jbgxmMUtN9G_4alojMhPxt254Pw",
@@ -120,11 +120,66 @@
     "Engagements": {
       "guide_id": "_7D7DtErXXUl_I2oBeIxoDvSDk8",
       "views_12mo": 0,
-      "responses_12mo": 252,
-      "interested": 252
+      "responses_12mo": 253,
+      "interested": 253
     }
   },
   "contacts": [
+    {
+      "visitor": "1252164",
+      "email": "keeratinc@gmail.com",
+      "name": "",
+      "account": "Subway - North America",
+      "date": "2026-11-28",
+      "user_level": "Manager",
+      "age_days": 0,
+      "sla": "green",
+      "area": "Reporting Suite"
+    },
+    {
+      "visitor": "1308768",
+      "email": "thekarenlargent@gmail.com",
+      "name": "",
+      "account": "KidStrong",
+      "date": "2026-11-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "1310976",
+      "email": "akhoyani@phoenixvoyages.ca",
+      "name": "",
+      "account": "Travel Leaders Group Canada",
+      "date": "2026-11-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Social"
+    },
+    {
+      "visitor": "138372",
+      "email": "Avelazquez@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-11-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Genius Reviews"
+    },
+    {
+      "visitor": "138372",
+      "email": "Avelazquez@cruiseplanners.com",
+      "name": "",
+      "account": "Cruise Planners | CP Elite",
+      "date": "2026-11-27",
+      "user_level": "Manager",
+      "age_days": 1,
+      "sla": "green",
+      "area": "Engagements"
+    },
     {
       "visitor": "92433",
       "email": "liz@teriyakimadness.com",
@@ -23063,18 +23118,18 @@
   ],
   "level_counts": {
     "Administrator": 176,
-    "Manager": 1906,
+    "Manager": 1911,
     "User": 0
   },
   "level_counts_extra": {
     "Unknown": 3
   },
   "sla_counts": {
-    "green": 20,
+    "green": 25,
     "amber": 209,
     "red": 1856
   },
-  "total_interested": 2085,
+  "total_interested": 2090,
   "oldest_age": 361,
   "repeat_accounts": [
     [
@@ -23087,7 +23142,7 @@
     ],
     [
       "Subway - North America",
-      68
+      69
     ],
     [
       "AT&T",
@@ -23103,7 +23158,7 @@
     ],
     [
       "Cruise Planners | CP Elite",
-      40
+      42
     ],
     [
       "Berkshire Hathaway HomeServices",
@@ -23302,6 +23357,10 @@
       10
     ],
     [
+      "Travel Leaders Group Canada",
+      9
+    ],
+    [
       "Sport Clips",
       9
     ],
@@ -23335,10 +23394,6 @@
     ],
     [
       "American Freight (MAFGA)",
-      8
-    ],
-    [
-      "Travel Leaders Group Canada",
       8
     ],
     [
@@ -23384,6 +23439,10 @@
     [
       "American Freight NewCo",
       7
+    ],
+    [
+      "KidStrong",
+      6
     ],
     [
       "Freeman Webb",
@@ -23451,10 +23510,6 @@
     ],
     [
       "Bell Partners",
-      5
-    ],
-    [
-      "KidStrong",
       5
     ],
     [
